@@ -1,0 +1,43 @@
+name: Update deleted repos
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch source repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python fetch_source_repos.py "${{ github.repository_owner }}" -o source_repos.json --org-counts-output org_repo_counts.json
+
+      - name: Generate report
+        run: python generate_repo_report.py source_repos.json --org-counts org_repo_counts.json -o README.md
+
+      - name: Generate recently-deleted report
+        run: python generate_recent_report.py source_repos.json -o RECENTLY_DELETED.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add source_repos.json org_repo_counts.json README.md RECENTLY_DELETED.md
+          git commit -m "Update deleted repos"
+          git push
