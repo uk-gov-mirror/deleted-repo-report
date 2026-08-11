@@ -2,9 +2,7 @@
 import sys
 import json
 import argparse
-import datetime
 
-TODAY = datetime.date.today().isoformat()
 LIMIT = 1000
 
 
@@ -19,22 +17,23 @@ def org_label(org):
     return "[%s](https://github.com/%s)" % (org, org)
 
 
-def deleted_on_label(deleted_on):
-    if not deleted_on or deleted_on == TODAY:
-        return None
-
-    deleted_date = datetime.date.fromisoformat(deleted_on) - datetime.timedelta(days=1)
-    return deleted_date.isoformat()
+def deleted_on_display(r):
+    deleted_on = r.get("deleted_on") or ""
+    if deleted_on and r.get("approximate_date_source"):
+        return deleted_on + "*"
+    return deleted_on
 
 
 def build_report(repos):
-    dated = [r for r in repos if r.get("deleted_on") and r.get("deleted_on") != TODAY]
+    dated = [r for r in repos if r.get("deleted_on")]
     recent = sorted(dated, key=lambda r: r.get("deleted_on"), reverse=True)[:LIMIT]
 
     lines = []
     lines.append("# Most recently deleted repositories")
     lines.append("")
     lines.append("Showing the %s most recently deleted repositories." % len(recent))
+    lines.append("")
+    lines.append("Deleted dates with a \\* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.")
     lines.append("")
     lines.append("| Organisation | Repository | Description | Deleted On |")
     lines.append("| --- | --- | --- | --- |")
@@ -45,7 +44,7 @@ def build_report(repos):
         description = r.get("description") or ""
 
         repo_label = "[`%s`](%s)" % (name, url) if url else "`%s`" % name
-        deleted_on = deleted_on_label(r.get("deleted_on")) or ""
+        deleted_on = deleted_on_display(r)
 
         lines.append("| %s | %s | %s | %s |" % (org_label(org), repo_label, description, deleted_on))
     lines.append("")

@@ -42,7 +42,13 @@ def load_previously_deleted(path):
     with open(path) as f:
         previous = json.load(f)
 
-    return {entry["mirror_name"]: entry.get("deleted_on") for entry in previous}
+    return {
+        entry["mirror_name"]: {
+            "deleted_on": entry.get("deleted_on"),
+            "approximate_date_source": entry.get("approximate_date_source"),
+        }
+        for entry in previous
+    }
 
 
 def fetch_org_totals(g, org_names):
@@ -86,6 +92,12 @@ def fetch_source_repos(token, org_name, previously_deleted):
             continue
 
         org_part, name = repo.name.split(".", 1)
+        if repo.name in previously_deleted:
+            deleted_on = previously_deleted[repo.name]["deleted_on"]
+            approximate_date_source = previously_deleted[repo.name]["approximate_date_source"]
+        else:
+            deleted_on = today
+            approximate_date_source = None
 
         entry = {
             "mirror_name": repo.name,
@@ -95,8 +107,10 @@ def fetch_source_repos(token, org_name, previously_deleted):
             "description": repo.description,
             "mirror_url": repo.html_url,
             "original_url": "https://github.com/%s/%s" % (org_part, name),
-            "deleted_on": previously_deleted.get(repo.name, today),
+            "deleted_on": deleted_on,
         }
+        if approximate_date_source:
+            entry["approximate_date_source"] = approximate_date_source
         results.append(entry)
         print("* %s" % repo.full_name, file=sys.stderr)
 

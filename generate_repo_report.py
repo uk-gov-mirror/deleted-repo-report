@@ -2,11 +2,8 @@
 import sys
 import json
 import argparse
-import datetime
 import urllib.parse
 from collections import defaultdict
-
-TODAY = datetime.date.today().isoformat()
 
 
 def load_repos(path):
@@ -44,12 +41,11 @@ def percent_deleted_label(org, org_repos, org_totals):
     return "%.1f%%" % (deleted_count / total * 100)
 
 
-def deleted_on_label(deleted_on):
-    if not deleted_on or deleted_on == TODAY:
-        return None
-
-    deleted_date = datetime.date.fromisoformat(deleted_on) - datetime.timedelta(days=1)
-    return deleted_date.isoformat()
+def deleted_on_display(r):
+    deleted_on = r.get("deleted_on") or ""
+    if deleted_on and r.get("approximate_date_source"):
+        return deleted_on + "*"
+    return deleted_on
 
 
 def build_report(repos, org_totals):
@@ -67,6 +63,8 @@ def build_report(repos, org_totals):
     lines.append("Organisations affected: **%s**" % len(sorted_orgs))
     lines.append("")
     lines.append("See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.")
+    lines.append("")
+    lines.append("Deleted dates with a \\* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.")
     lines.append("")
     lines.append("| Organisation | Deleted Repos | % Deleted |")
     lines.append("| --- | ---: | ---: |")
@@ -88,7 +86,7 @@ def build_report(repos, org_totals):
             description = r.get("description") or ""
 
             repo_label = "[`%s`](%s)" % (name, url) if url else "`%s`" % name
-            deleted_on = deleted_on_label(r.get("deleted_on")) or ""
+            deleted_on = deleted_on_display(r)
 
             lines.append("| %s | %s | %s |" % (repo_label, description, deleted_on))
         lines.append("")
