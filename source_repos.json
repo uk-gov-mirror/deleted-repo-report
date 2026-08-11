@@ -11662,6 +11662,36 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-assess-risks-and-needs-oastub-ui"
   },
   {
+    "deleted_on": "2026-08-11",
+    "description": "A POC backend application for testing audit strategies",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-audit-poc-api",
+    "mirror_name": "ministryofjustice.hmpps-audit-poc-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-api",
+    "name": "hmpps-audit-poc-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-audit-poc-api"
+  },
+  {
+    "deleted_on": "2026-08-11",
+    "description": "A POC frontend application for testing audit strategies",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-audit-poc-ui",
+    "mirror_name": "ministryofjustice.hmpps-audit-poc-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-ui",
+    "name": "hmpps-audit-poc-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-audit-poc-ui"
+  },
+  {
+    "deleted_on": "2026-08-11",
+    "description": "HMPPS Authorization Server UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-authorization",
+    "mirror_name": "ministryofjustice.hmpps-authorization",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-authorization",
+    "name": "hmpps-authorization",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-authorization"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2022-02-03",
     "description": "allow court users to book video link session with prison",
@@ -11974,6 +12004,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-visits-prison-config-service"
   },
   {
+    "deleted_on": "2026-08-11",
+    "description": "A suite of Selenium/Cucumber tests to validate end-to-end user journeys",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-vsip-ui-tests",
+    "mirror_name": "ministryofjustice.hmpps-vsip-ui-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-vsip-ui-tests",
+    "name": "hmpps-vsip-ui-tests",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-vsip-ui-tests"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-07-09",
     "description": "Prototyping for workforce management and case allocation in the community",
@@ -12158,6 +12198,16 @@
     "name": "october-friendly-cherry-tree",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/october-friendly-cherry-tree"
+  },
+  {
+    "deleted_on": "2026-08-11",
+    "description": "API for Providing Risk Profile Information on Offenders",
+    "full_name": "uk-gov-mirror/ministryofjustice.offender-risk-profiler",
+    "mirror_name": "ministryofjustice.offender-risk-profiler",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.offender-risk-profiler",
+    "name": "offender-risk-profiler",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/offender-risk-profiler"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
