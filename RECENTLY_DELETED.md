@@ -6,11 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
-| [CDU-data-science-team](https://github.com/CDU-data-science-team) | [`assets`](https://github.com/uk-gov-mirror/CDU-data-science-team.assets) | UK Intellectual Property Office Assets | 2026-08-11 |
+| [GSS-Cogs](https://github.com/GSS-Cogs) | [`prototypes`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes) |  | 2026-08-12 |
+| [Public-Health-Scotland](https://github.com/Public-Health-Scotland) | [`.github`](https://github.com/uk-gov-mirror/Public-Health-Scotland..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-12 |
+| [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
+| [department-for-transport-BODS](https://github.com/department-for-transport-BODS) | [`reference-data-service`](https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service) |  | 2026-08-12 |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [`prototype`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype) |  | 2026-08-11 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`Test1`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1) | just testting | 2026-08-11 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`acrs`](https://github.com/uk-gov-mirror/UKHomeOffice.acrs) | An form for the Afghan Citizens Resettlement Scheme (ACRS ) | 2026-08-11 |
-| [defencedigital](https://github.com/defencedigital) | [`.github`](https://github.com/uk-gov-mirror/defencedigital..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-11 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-accommodation-data-domain-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api) | A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10) | 2026-08-11 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-approved-premises-manage-a-resident-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-ui) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-11 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-assess-risks-and-needs-oastub-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-risks-and-needs-oastub-ui) | Stub output of the OASys journey to trigger flow through ARNS Handover Service into ARNS apps | 2026-08-11 |
@@ -229,7 +231,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`docs-uec-waittimes`](https://github.com/uk-gov-mirror/nhsd-a2si.docs-uec-waittimes) | Wait times documentation | 2026-05-02* |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`logmunger`](https://github.com/uk-gov-mirror/nhsd-a2si.logmunger) | Bespoke data merging utility, designed to combine data from Service Finder and DoS | 2026-05-02* |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`nhs-dos-py`](https://github.com/uk-gov-mirror/nhsd-a2si.nhs-dos-py) | A Python client library for using NHS Directory of Services APIs | 2026-05-02* |
-| [nhsd-a2si](https://github.com/nhsd-a2si) | [`prototypes`](https://github.com/uk-gov-mirror/nhsd-a2si.prototypes) |  | 2026-05-02* |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`styled-dos-result`](https://github.com/uk-gov-mirror/nhsd-a2si.styled-dos-result) | Revised to be built on the proper nhs prototyping kit | 2026-05-02* |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`uec-appointments-implementation-site`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appointments-implementation-site) |  | 2026-05-02* |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [`uec-appts-swagger`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appts-swagger) | Swagger Files for UEC Booking API (CareConnect) | 2026-05-02* |
@@ -851,7 +852,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [hmrc](https://github.com/hmrc) | [`national-duty-repayment-center-stubs`](https://github.com/uk-gov-mirror/hmrc.national-duty-repayment-center-stubs) |  | 2021-04-07* |
 | [hmrc](https://github.com/hmrc) | [`nonrep-generate-pdf`](https://github.com/uk-gov-mirror/hmrc.nonrep-generate-pdf) |  | 2021-04-07* |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`formio-gds-template`](https://github.com/uk-gov-mirror/UKHomeOffice.formio-gds-template) | Formio template for GDS | 2021-04-01* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`reference-data-service`](https://github.com/uk-gov-mirror/UKHomeOffice.reference-data-service) |  | 2021-04-01* |
 | [hmrc](https://github.com/hmrc) | [`declare-transit-movement-unloading-frontend`](https://github.com/uk-gov-mirror/hmrc.declare-transit-movement-unloading-frontend) |  | 2021-04-01* |
 | [companieshouse](https://github.com/companieshouse) | [`ocr-api-consumer`](https://github.com/uk-gov-mirror/companieshouse.ocr-api-consumer) | Service to consume requests for extraction of text from images and manage the requests to the OCR API | 2021-03-31* |
 | [dvsa](https://github.com/dvsa) | [`cvs-svc-defects`](https://github.com/uk-gov-mirror/dvsa.cvs-svc-defects) |  | 2021-03-30* |

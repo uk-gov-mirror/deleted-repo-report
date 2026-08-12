@@ -143,16 +143,6 @@
     "original_url": "https://github.com/Birmingham-and-Solihull-ICS/Unsupervised-Clustering-Practices"
   },
   {
-    "deleted_on": "2026-08-11",
-    "description": "UK Intellectual Property Office Assets",
-    "full_name": "uk-gov-mirror/CDU-data-science-team.assets",
-    "mirror_name": "CDU-data-science-team.assets",
-    "mirror_url": "https://github.com/uk-gov-mirror/CDU-data-science-team.assets",
-    "name": "assets",
-    "org": "CDU-data-science-team",
-    "original_url": "https://github.com/CDU-data-science-team/assets"
-  },
-  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2023-01-27",
     "description": null,
@@ -689,6 +679,16 @@
     "name": "NHS_Business_Intelligence_Platform_Shiny",
     "org": "Digital-Intelligence-Unit",
     "original_url": "https://github.com/Digital-Intelligence-Unit/NHS_Business_Intelligence_Platform_Shiny"
+  },
+  {
+    "deleted_on": "2026-08-12",
+    "description": null,
+    "full_name": "uk-gov-mirror/GSS-Cogs.prototypes",
+    "mirror_name": "GSS-Cogs.prototypes",
+    "mirror_url": "https://github.com/uk-gov-mirror/GSS-Cogs.prototypes",
+    "name": "prototypes",
+    "org": "GSS-Cogs",
+    "original_url": "https://github.com/GSS-Cogs/prototypes"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1633,6 +1633,16 @@
     "name": "specialists-v2",
     "org": "OfqualGovUK",
     "original_url": "https://github.com/OfqualGovUK/specialists-v2"
+  },
+  {
+    "deleted_on": "2026-08-12",
+    "description": "Ministry of Justice Analytical Services GitHub workflow templates",
+    "full_name": "uk-gov-mirror/Public-Health-Scotland..github",
+    "mirror_name": "Public-Health-Scotland..github",
+    "mirror_url": "https://github.com/uk-gov-mirror/Public-Health-Scotland..github",
+    "name": ".github",
+    "org": "Public-Health-Scotland",
+    "original_url": "https://github.com/Public-Health-Scotland/.github"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -3315,6 +3325,16 @@
     "original_url": "https://github.com/SkillsFundingAgency/tl-marketing-and-communication-prototype"
   },
   {
+    "deleted_on": "2026-08-12",
+    "description": "UK Intellectual Property Office Assets",
+    "full_name": "uk-gov-mirror/The-Strategy-Unit.assets",
+    "mirror_name": "The-Strategy-Unit.assets",
+    "mirror_url": "https://github.com/uk-gov-mirror/The-Strategy-Unit.assets",
+    "name": "assets",
+    "org": "The-Strategy-Unit",
+    "original_url": "https://github.com/The-Strategy-Unit/assets"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-10",
     "description": null,
@@ -4861,17 +4881,6 @@
     "original_url": "https://github.com/UKHomeOffice/reference-data-governance-tool-prototype"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-01",
-    "description": null,
-    "full_name": "uk-gov-mirror/UKHomeOffice.reference-data-service",
-    "mirror_name": "UKHomeOffice.reference-data-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.reference-data-service",
-    "name": "reference-data-service",
-    "org": "UKHomeOffice",
-    "original_url": "https://github.com/UKHomeOffice/reference-data-service"
-  },
-  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-30",
     "description": "Swagger Docker",
@@ -5674,16 +5683,6 @@
     "original_url": "https://github.com/datasciencecampus/trendyr"
   },
   {
-    "deleted_on": "2026-08-11",
-    "description": "Ministry of Justice Analytical Services GitHub workflow templates",
-    "full_name": "uk-gov-mirror/defencedigital..github",
-    "mirror_name": "defencedigital..github",
-    "mirror_url": "https://github.com/uk-gov-mirror/defencedigital..github",
-    "name": ".github",
-    "org": "defencedigital",
-    "original_url": "https://github.com/defencedigital/.github"
-  },
-  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-05-28",
     "description": null,
@@ -5902,6 +5901,16 @@
     "name": "water-abstraction-reporting",
     "org": "defra",
     "original_url": "https://github.com/defra/water-abstraction-reporting"
+  },
+  {
+    "deleted_on": "2026-08-12",
+    "description": null,
+    "full_name": "uk-gov-mirror/department-for-transport-BODS.reference-data-service",
+    "mirror_name": "department-for-transport-BODS.reference-data-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service",
+    "name": "reference-data-service",
+    "org": "department-for-transport-BODS",
+    "original_url": "https://github.com/department-for-transport-BODS/reference-data-service"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -13897,17 +13906,6 @@
     "name": "nhs-dos-py",
     "org": "nhsd-a2si",
     "original_url": "https://github.com/nhsd-a2si/nhs-dos-py"
-  },
-  {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-05-02",
-    "description": null,
-    "full_name": "uk-gov-mirror/nhsd-a2si.prototypes",
-    "mirror_name": "nhsd-a2si.prototypes",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsd-a2si.prototypes",
-    "name": "prototypes",
-    "org": "nhsd-a2si",
-    "original_url": "https://github.com/nhsd-a2si/prototypes"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

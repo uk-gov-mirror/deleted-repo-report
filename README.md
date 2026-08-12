@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
 Total deleted repositories: **1558**
-Organisations affected: **58**
+Organisations affected: **60**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -14,7 +14,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**104**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 3.9% |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [**102**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.6% |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [**101**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.5% |
 | [ONSdigital](https://github.com/ONSdigital) | [**66**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
@@ -22,8 +22,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.4% |
 | [companieshouse](https://github.com/companieshouse) | [**42**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.0% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**39**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.5% |
-| [nhsd-a2si](https://github.com/nhsd-a2si) | [**31**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.9% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
+| [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 62.2% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 36.2% |
@@ -51,16 +51,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 4.8% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
-| [CDU-data-science-team](https://github.com/CDU-data-science-team) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CDU-data-science-team.%22) | 3.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
+| [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
 | [NHSLeadership](https://github.com/NHSLeadership) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 3.7% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
+| [Public-Health-Scotland](https://github.com/Public-Health-Scotland) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Public-Health-Scotland.%22) | 0.5% |
+| [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
 | [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOfficeForms.%22) | 2.3% |
 | [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.9% |
 | [co-cddo](https://github.com/co-cddo) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22co-cddo.%22) | 0.7% |
-| [defencedigital](https://github.com/defencedigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defencedigital.%22) | 1.5% |
+| [department-for-transport-BODS](https://github.com/department-for-transport-BODS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22department-for-transport-BODS.%22) | 6.2% |
 | [dfid](https://github.com/dfid) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dfid.%22) | 6.2% |
 | [govuk-one-login](https://github.com/govuk-one-login) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-one-login.%22) | 0.5% |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 0.5% |
@@ -870,7 +872,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [UKHomeOffice](https://github.com/UKHomeOffice) (102)
+## [UKHomeOffice](https://github.com/UKHomeOffice) (101)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
@@ -899,7 +901,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`kube-hocs-case-creator`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-hocs-case-creator) | Kubernetes configuration of the case creator project | 2021-04-08* |
 | [`kube-hocs-management-ui`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-hocs-management-ui) |  | 2021-04-07* |
 | [`formio-gds-template`](https://github.com/uk-gov-mirror/UKHomeOffice.formio-gds-template) | Formio template for GDS | 2021-04-01* |
-| [`reference-data-service`](https://github.com/uk-gov-mirror/UKHomeOffice.reference-data-service) |  | 2021-04-01* |
 | [`ccoe-prototype-4`](https://github.com/uk-gov-mirror/UKHomeOffice.ccoe-prototype-4) | This prototype is based on the layout of the GOV.UK Design System pages and using the Design System components. This version of our prototype has a masthead for every first page of each section. | 2021-03-26* |
 | [`cop-test-reports`](https://github.com/uk-gov-mirror/UKHomeOffice.cop-test-reports) |  | 2021-03-25* |
 | [`cop-secrets`](https://github.com/uk-gov-mirror/UKHomeOffice.cop-secrets) |  | 2021-03-24* |
@@ -1359,42 +1360,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`login.dfe.uptime-test`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.uptime-test) |  | 2020-09-10* |
 | [`school-jobs-offline`](https://github.com/uk-gov-mirror/DFE-Digital.school-jobs-offline) | Static error page for Teaching Jobs served by https://github.com/DFE-Digital/teacher-vacancy-service | 2020-09-08* |
 
-## [nhsd-a2si](https://github.com/nhsd-a2si) (31)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`a2si-capacity-dos-proxy`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-dos-proxy) |  | 2026-05-02* |
-| [`a2si-capacity-dos-wiremock`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-dos-wiremock) |  | 2026-05-02* |
-| [`a2si-capacity-idt-case-data`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-case-data) |  | 2026-05-02* |
-| [`a2si-capacity-idt-case-data-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-case-data-api) |  | 2026-05-02* |
-| [`a2si-capacity-idt-graph`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-graph) |  | 2026-05-02* |
-| [`a2si-capacity-idt-service-data`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-service-data) |  | 2026-05-02* |
-| [`a2si-capacity-idt-service-data-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-service-data-api) |  | 2026-05-02* |
-| [`a2si-capacity-info-reader`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-info-reader) |  | 2026-05-02* |
-| [`a2si-capacity-information`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-information) |  | 2026-05-02* |
-| [`a2si-capacity-infrastructure`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-infrastructure) | Infrastructure configuration files for the A2SI Capacity Service | 2026-05-02* |
-| [`a2si-capacity-reporting-service`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-reporting-service) | The long term storage and retrieval API for Capacity Wait Times   | 2026-05-02* |
-| [`a2si-capacity-reporting-service-client`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-reporting-service-client) | Java REST API wrapper to simplify sending and receiving data to and from the A2SI Capacity Reporting Service.  | 2026-05-02* |
-| [`a2si-capacity-service`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service) | Rest API for caching and serving capacity information for services e.g. waiting times | 2026-05-02* |
-| [`a2si-capacity-service-client`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-client) |  | 2026-05-02* |
-| [`a2si-capacity-service-metrics`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-metrics) | Repository to store Jasper Reporting service and reports for service use analysis | 2026-05-02* |
-| [`a2si-capacity-service-user-authentication-util`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-user-authentication-util) | Tool for creating authenticated users of the A2SI Capacity Service  | 2026-05-02* |
-| [`a2si-services-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-services-api) | Framework and helpers to expose a Services API and onboarding / test facilities to the public internet. Prototype / alpha. | 2026-05-02* |
-| [`a2si-services-api-infrastructure`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-services-api-infrastructure) | Infrastructure code for the a2si-services-api project - Prototype / alpha. | 2026-05-02* |
-| [`a2si-uec-appointment-poc`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-uec-appointment-poc) |  | 2026-05-02* |
-| [`access-prototypes`](https://github.com/uk-gov-mirror/nhsd-a2si.access-prototypes) | DoS Service Finder Prototypes | 2026-05-02* |
-| [`docs-uec-waittimes`](https://github.com/uk-gov-mirror/nhsd-a2si.docs-uec-waittimes) | Wait times documentation | 2026-05-02* |
-| [`logmunger`](https://github.com/uk-gov-mirror/nhsd-a2si.logmunger) | Bespoke data merging utility, designed to combine data from Service Finder and DoS | 2026-05-02* |
-| [`nhs-dos-py`](https://github.com/uk-gov-mirror/nhsd-a2si.nhs-dos-py) | A Python client library for using NHS Directory of Services APIs | 2026-05-02* |
-| [`prototypes`](https://github.com/uk-gov-mirror/nhsd-a2si.prototypes) |  | 2026-05-02* |
-| [`styled-dos-result`](https://github.com/uk-gov-mirror/nhsd-a2si.styled-dos-result) | Revised to be built on the proper nhs prototyping kit | 2026-05-02* |
-| [`uec-appointments-implementation-site`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appointments-implementation-site) |  | 2026-05-02* |
-| [`uec-appts-swagger`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appts-swagger) | Swagger Files for UEC Booking API (CareConnect) | 2026-05-02* |
-| [`uec-roadmap`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-roadmap) | A single page roadmap, html+css no js - clone, edit, deploy | 2026-05-02* |
-| [`a2si-appointments-poc`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-appointments-poc) |  | 2026-05-01* |
-| [`dos-api-idt-data`](https://github.com/uk-gov-mirror/nhsd-a2si.dos-api-idt-data) |  | 2026-05-01* |
-| [`servicefinder-proto`](https://github.com/uk-gov-mirror/nhsd-a2si.servicefinder-proto) | Service Finder designs and prototype, rework to fit new NHSD frontend and prototype kits | 2026-05-01* |
-
 ## [dvla](https://github.com/dvla) (30)
 
 | Repository | Description | Deleted On |
@@ -1429,6 +1394,41 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`vdr-data-migration`](https://github.com/uk-gov-mirror/dvla.vdr-data-migration) |  | 2020-09-14* |
 | [`vehicles-presentation-common`](https://github.com/uk-gov-mirror/dvla.vehicles-presentation-common) | Common components for DVLA web front ends | 2020-09-07* |
 | [`vvr`](https://github.com/uk-gov-mirror/dvla.vvr) |  | 2020-09-06* |
+
+## [nhsd-a2si](https://github.com/nhsd-a2si) (30)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`a2si-capacity-dos-proxy`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-dos-proxy) |  | 2026-05-02* |
+| [`a2si-capacity-dos-wiremock`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-dos-wiremock) |  | 2026-05-02* |
+| [`a2si-capacity-idt-case-data`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-case-data) |  | 2026-05-02* |
+| [`a2si-capacity-idt-case-data-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-case-data-api) |  | 2026-05-02* |
+| [`a2si-capacity-idt-graph`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-graph) |  | 2026-05-02* |
+| [`a2si-capacity-idt-service-data`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-service-data) |  | 2026-05-02* |
+| [`a2si-capacity-idt-service-data-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-idt-service-data-api) |  | 2026-05-02* |
+| [`a2si-capacity-info-reader`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-info-reader) |  | 2026-05-02* |
+| [`a2si-capacity-information`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-information) |  | 2026-05-02* |
+| [`a2si-capacity-infrastructure`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-infrastructure) | Infrastructure configuration files for the A2SI Capacity Service | 2026-05-02* |
+| [`a2si-capacity-reporting-service`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-reporting-service) | The long term storage and retrieval API for Capacity Wait Times   | 2026-05-02* |
+| [`a2si-capacity-reporting-service-client`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-reporting-service-client) | Java REST API wrapper to simplify sending and receiving data to and from the A2SI Capacity Reporting Service.  | 2026-05-02* |
+| [`a2si-capacity-service`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service) | Rest API for caching and serving capacity information for services e.g. waiting times | 2026-05-02* |
+| [`a2si-capacity-service-client`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-client) |  | 2026-05-02* |
+| [`a2si-capacity-service-metrics`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-metrics) | Repository to store Jasper Reporting service and reports for service use analysis | 2026-05-02* |
+| [`a2si-capacity-service-user-authentication-util`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-capacity-service-user-authentication-util) | Tool for creating authenticated users of the A2SI Capacity Service  | 2026-05-02* |
+| [`a2si-services-api`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-services-api) | Framework and helpers to expose a Services API and onboarding / test facilities to the public internet. Prototype / alpha. | 2026-05-02* |
+| [`a2si-services-api-infrastructure`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-services-api-infrastructure) | Infrastructure code for the a2si-services-api project - Prototype / alpha. | 2026-05-02* |
+| [`a2si-uec-appointment-poc`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-uec-appointment-poc) |  | 2026-05-02* |
+| [`access-prototypes`](https://github.com/uk-gov-mirror/nhsd-a2si.access-prototypes) | DoS Service Finder Prototypes | 2026-05-02* |
+| [`docs-uec-waittimes`](https://github.com/uk-gov-mirror/nhsd-a2si.docs-uec-waittimes) | Wait times documentation | 2026-05-02* |
+| [`logmunger`](https://github.com/uk-gov-mirror/nhsd-a2si.logmunger) | Bespoke data merging utility, designed to combine data from Service Finder and DoS | 2026-05-02* |
+| [`nhs-dos-py`](https://github.com/uk-gov-mirror/nhsd-a2si.nhs-dos-py) | A Python client library for using NHS Directory of Services APIs | 2026-05-02* |
+| [`styled-dos-result`](https://github.com/uk-gov-mirror/nhsd-a2si.styled-dos-result) | Revised to be built on the proper nhs prototyping kit | 2026-05-02* |
+| [`uec-appointments-implementation-site`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appointments-implementation-site) |  | 2026-05-02* |
+| [`uec-appts-swagger`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-appts-swagger) | Swagger Files for UEC Booking API (CareConnect) | 2026-05-02* |
+| [`uec-roadmap`](https://github.com/uk-gov-mirror/nhsd-a2si.uec-roadmap) | A single page roadmap, html+css no js - clone, edit, deploy | 2026-05-02* |
+| [`a2si-appointments-poc`](https://github.com/uk-gov-mirror/nhsd-a2si.a2si-appointments-poc) |  | 2026-05-01* |
+| [`dos-api-idt-data`](https://github.com/uk-gov-mirror/nhsd-a2si.dos-api-idt-data) |  | 2026-05-01* |
+| [`servicefinder-proto`](https://github.com/uk-gov-mirror/nhsd-a2si.servicefinder-proto) | Service Finder designs and prototype, rework to fit new NHSD frontend and prototype kits | 2026-05-01* |
 
 ## [hmcts](https://github.com/hmcts) (25)
 
@@ -1820,17 +1820,17 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`Unsupervised-Clustering-Practices`](https://github.com/uk-gov-mirror/Birmingham-and-Solihull-ICS.Unsupervised-Clustering-Practices) | K-means and hierarchical clustering of GP practices based on QOF performance measures | 2026-05-02* |
 
-## [CDU-data-science-team](https://github.com/CDU-data-science-team) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`assets`](https://github.com/uk-gov-mirror/CDU-data-science-team.assets) | UK Intellectual Property Office Assets | 2026-08-11 |
-
 ## [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) (1)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`prototype`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype) |  | 2026-08-11 |
+
+## [GSS-Cogs](https://github.com/GSS-Cogs) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`prototypes`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes) |  | 2026-08-12 |
 
 ## [LocalGovDigital](https://github.com/LocalGovDigital) (1)
 
@@ -1856,6 +1856,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`Test1`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1) | just testting | 2026-08-11 |
 
+## [Public-Health-Scotland](https://github.com/Public-Health-Scotland) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`.github`](https://github.com/uk-gov-mirror/Public-Health-Scotland..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-12 |
+
+## [The-Strategy-Unit](https://github.com/The-Strategy-Unit) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
+
 ## [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) (1)
 
 | Repository | Description | Deleted On |
@@ -1874,11 +1886,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`domains-data-share-client`](https://github.com/uk-gov-mirror/co-cddo.domains-data-share-client) |  | 2025-07-07* |
 
-## [defencedigital](https://github.com/defencedigital) (1)
+## [department-for-transport-BODS](https://github.com/department-for-transport-BODS) (1)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`.github`](https://github.com/uk-gov-mirror/defencedigital..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-11 |
+| [`reference-data-service`](https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service) |  | 2026-08-12 |
 
 ## [dfid](https://github.com/dfid) (1)
 
