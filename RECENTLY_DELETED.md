@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [`prototypes`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes) |  | 2026-08-12 |
 | [Public-Health-Scotland](https://github.com/Public-Health-Scotland) | [`.github`](https://github.com/uk-gov-mirror/Public-Health-Scotland..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-12 |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [defra](https://github.com/defra) | [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
 | [hmrc](https://github.com/hmrc) | [`enrolments-orchestrator-performance-tests`](https://github.com/uk-gov-mirror/hmrc.enrolments-orchestrator-performance-tests) |  | 2021-01-04* |
 | [hmrc](https://github.com/hmrc) | [`irr-reporting-company-frontend`](https://github.com/uk-gov-mirror/hmrc.irr-reporting-company-frontend) |  | 2021-01-04* |
-| [informatics-lab](https://github.com/informatics-lab) | [`iris_cube_merge_notbook`](https://github.com/uk-gov-mirror/informatics-lab.iris_cube_merge_notbook) | Working on some tools for merging non orthogonal cubes in Iris | 2021-01-04* |

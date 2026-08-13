@@ -11334,6 +11334,16 @@
     "original_url": "https://github.com/intellectual-property-office/ctc-company"
   },
   {
+    "deleted_on": "2026-08-13",
+    "description": "IPO open-sourced code for the ctc-helloworld service",
+    "full_name": "uk-gov-mirror/intellectual-property-office.ctc-helloworld",
+    "mirror_name": "intellectual-property-office.ctc-helloworld",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld",
+    "name": "ctc-helloworld",
+    "org": "intellectual-property-office",
+    "original_url": "https://github.com/intellectual-property-office/ctc-helloworld"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-12-05",
     "description": "Ansible based scripts for the set-up of the eo stack",

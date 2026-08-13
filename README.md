@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1558**
+Total deleted repositories: **1559**
 Organisations affected: **60**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -34,7 +34,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 34.8% |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [**9**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 37.5% |
 | [nhsconnect](https://github.com/nhsconnect) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 4.0% |
 | [nhsengland](https://github.com/nhsengland) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 3.4% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
@@ -1657,10 +1657,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`uec-sf-sfrunner`](https://github.com/uk-gov-mirror/nhsd-exeter.uec-sf-sfrunner) | This is a docker image that contains everything needed to build, run, and test Direct Search (Service Finder) | 2026-05-02* |
 | [`service-finder-api-auth`](https://github.com/uk-gov-mirror/nhsd-exeter.service-finder-api-auth) | Repository for the service finder API authentication capability | 2026-05-01* |
 
-## [intellectual-property-office](https://github.com/intellectual-property-office) (8)
+## [intellectual-property-office](https://github.com/intellectual-property-office) (9)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
 | [`ctc-address`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address) |  | 2026-04-21* |
 | [`ctc-company`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company) | Open sourced code for IPO's CTC Company microservice | 2025-07-17* |
 | [`Frontend-Build-Tool`](https://github.com/uk-gov-mirror/intellectual-property-office.Frontend-Build-Tool) | UK Intellectual Property Office Frontend Build Tool | 2023-01-27* |
