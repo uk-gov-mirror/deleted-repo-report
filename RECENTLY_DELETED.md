@@ -6,9 +6,17 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [`common`](https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common) | The IPO's common reusable components. | 2026-08-14 |
+| [companieshouse](https://github.com/companieshouse) | [`innovation-accounts-statistics-tool`](https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool) | A statistics tool for the company-accounts project | 2026-08-14 |
+| [forestresearch](https://github.com/forestresearch) | [`.github`](https://github.com/uk-gov-mirror/forestresearch..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`example-azdo-integration`](https://github.com/uk-gov-mirror/homesengland.example-azdo-integration) |  | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`github-docs`](https://github.com/uk-gov-mirror/homesengland.github-docs) | Learn how to interact with Homes England's GitHub | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`he-aho-find-and-register`](https://github.com/uk-gov-mirror/homesengland.he-aho-find-and-register) | Affordable Homes Ownership - Find and Register | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`he-cladding-safety-scheme`](https://github.com/uk-gov-mirror/homesengland.he-cladding-safety-scheme) |  | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`he-fms`](https://github.com/uk-gov-mirror/homesengland.he-fms) | Finance Management System | 2026-08-14 |
+| [homesengland](https://github.com/homesengland) | [`he-github-copilot`](https://github.com/uk-gov-mirror/homesengland.he-github-copilot) | Repository for storing bespoke prompts, instructions, scripts, etc for GitHub Copilot | 2026-08-14 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [`prototypes`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes) |  | 2026-08-12 |
-| [Public-Health-Scotland](https://github.com/Public-Health-Scotland) | [`.github`](https://github.com/uk-gov-mirror/Public-Health-Scotland..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-12 |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
 | [department-for-transport-BODS](https://github.com/department-for-transport-BODS) | [`reference-data-service`](https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service) |  | 2026-08-12 |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [`prototype`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype) |  | 2026-08-11 |
@@ -998,11 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dvsa](https://github.com/dvsa) | [`cvs-poc-hybrid-data-sync`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-hybrid-data-sync) | This repository contains a proof-of-concept to verify the CVS offline solution will meet the user and service needs. | 2021-01-08* |
 | [dvsa](https://github.com/dvsa) | [`cvs-poc-offline-hybrid-appsync`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-offline-hybrid-appsync) | This repository contains a proof of concept implementation of an ionic hybrid application integrated with AWS AppSync | 2021-01-08* |
 | [informatics-lab](https://github.com/informatics-lab) | [`weather-bot-terraform`](https://github.com/uk-gov-mirror/informatics-lab.weather-bot-terraform) | IaaC for the weather-bot | 2021-01-08* |
-| [jncc](https://github.com/jncc) | [`eo-innovation-templates`](https://github.com/uk-gov-mirror/jncc.eo-innovation-templates) | Ansible based scripts for the set-up of workbenches in AWS | 2021-01-08* |
-| [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [`rifs-web`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.rifs-web) | The web application for RIFS | 2021-01-07* |
-| [dwp](https://github.com/dwp) | [`docker-ruby-rspec-aws-sdk`](https://github.com/uk-gov-mirror/dwp.docker-ruby-rspec-aws-sdk) | Official Ruby container with rspec and aws-sdk installed | 2021-01-07* |
-| [ukwa](https://github.com/ukwa) | [`ukwa_dint`](https://github.com/uk-gov-mirror/ukwa.ukwa_dint) |  | 2021-01-07* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`android-ci`](https://github.com/uk-gov-mirror/UKHomeOffice.android-ci) |  | 2021-01-05* |
-| [defra](https://github.com/defra) | [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
-| [hmrc](https://github.com/hmrc) | [`enrolments-orchestrator-performance-tests`](https://github.com/uk-gov-mirror/hmrc.enrolments-orchestrator-performance-tests) |  | 2021-01-04* |
-| [hmrc](https://github.com/hmrc) | [`irr-reporting-company-frontend`](https://github.com/uk-gov-mirror/hmrc.irr-reporting-company-frontend) |  | 2021-01-04* |

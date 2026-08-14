@@ -845,6 +845,16 @@
     "original_url": "https://github.com/NHSX/Synthetic-Data-Exploration-VAE"
   },
   {
+    "deleted_on": "2026-08-14",
+    "description": "The IPO's common reusable components.",
+    "full_name": "uk-gov-mirror/Network-Rail-Business-Systems.common",
+    "mirror_name": "Network-Rail-Business-Systems.common",
+    "mirror_url": "https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common",
+    "name": "common",
+    "org": "Network-Rail-Business-Systems",
+    "original_url": "https://github.com/Network-Rail-Business-Systems/common"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "just testting",
     "full_name": "uk-gov-mirror/ONS-Innovation.Test1",
@@ -1633,16 +1643,6 @@
     "name": "specialists-v2",
     "org": "OfqualGovUK",
     "original_url": "https://github.com/OfqualGovUK/specialists-v2"
-  },
-  {
-    "deleted_on": "2026-08-12",
-    "description": "Ministry of Justice Analytical Services GitHub workflow templates",
-    "full_name": "uk-gov-mirror/Public-Health-Scotland..github",
-    "mirror_name": "Public-Health-Scotland..github",
-    "mirror_url": "https://github.com/uk-gov-mirror/Public-Health-Scotland..github",
-    "name": ".github",
-    "org": "Public-Health-Scotland",
-    "original_url": "https://github.com/Public-Health-Scotland/.github"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -5233,6 +5233,16 @@
     "original_url": "https://github.com/companieshouse/ewf-terraform"
   },
   {
+    "deleted_on": "2026-08-14",
+    "description": "A statistics tool for the company-accounts project",
+    "full_name": "uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool",
+    "mirror_name": "companieshouse.innovation-accounts-statistics-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool",
+    "name": "innovation-accounts-statistics-tool",
+    "org": "companieshouse",
+    "original_url": "https://github.com/companieshouse/innovation-accounts-statistics-tool"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-04-28",
     "description": "CHS API using Java Springboot to enable scan upon demand requests to be ordered.",
@@ -6276,16 +6286,6 @@
     "original_url": "https://github.com/dvla/vvr"
   },
   {
-    "deleted_on": null,
-    "description": "The IPO's common reusable components.",
-    "full_name": "uk-gov-mirror/dvsa.common",
-    "mirror_name": "dvsa.common",
-    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.common",
-    "name": "common",
-    "org": "dvsa",
-    "original_url": "https://github.com/dvsa/common"
-  },
-  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-21",
     "description": null,
@@ -6943,6 +6943,16 @@
     "name": "ux-form-validation-prototype",
     "org": "dwp",
     "original_url": "https://github.com/dwp/ux-form-validation-prototype"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": "Ministry of Justice Analytical Services GitHub workflow templates",
+    "full_name": "uk-gov-mirror/forestresearch..github",
+    "mirror_name": "forestresearch..github",
+    "mirror_url": "https://github.com/uk-gov-mirror/forestresearch..github",
+    "name": ".github",
+    "org": "forestresearch",
+    "original_url": "https://github.com/forestresearch/.github"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -9368,6 +9378,66 @@
     "name": "voa-contact-data-transfer-stub",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/voa-contact-data-transfer-stub"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": null,
+    "full_name": "uk-gov-mirror/homesengland.example-azdo-integration",
+    "mirror_name": "homesengland.example-azdo-integration",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.example-azdo-integration",
+    "name": "example-azdo-integration",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/example-azdo-integration"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": "Learn how to interact with Homes England's GitHub",
+    "full_name": "uk-gov-mirror/homesengland.github-docs",
+    "mirror_name": "homesengland.github-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.github-docs",
+    "name": "github-docs",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/github-docs"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": "Affordable Homes Ownership - Find and Register",
+    "full_name": "uk-gov-mirror/homesengland.he-aho-find-and-register",
+    "mirror_name": "homesengland.he-aho-find-and-register",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.he-aho-find-and-register",
+    "name": "he-aho-find-and-register",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/he-aho-find-and-register"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": null,
+    "full_name": "uk-gov-mirror/homesengland.he-cladding-safety-scheme",
+    "mirror_name": "homesengland.he-cladding-safety-scheme",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.he-cladding-safety-scheme",
+    "name": "he-cladding-safety-scheme",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/he-cladding-safety-scheme"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": "Finance Management System",
+    "full_name": "uk-gov-mirror/homesengland.he-fms",
+    "mirror_name": "homesengland.he-fms",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.he-fms",
+    "name": "he-fms",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/he-fms"
+  },
+  {
+    "deleted_on": "2026-08-14",
+    "description": "Repository for storing bespoke prompts, instructions, scripts, etc for GitHub Copilot",
+    "full_name": "uk-gov-mirror/homesengland.he-github-copilot",
+    "mirror_name": "homesengland.he-github-copilot",
+    "mirror_url": "https://github.com/uk-gov-mirror/homesengland.he-github-copilot",
+    "name": "he-github-copilot",
+    "org": "homesengland",
+    "original_url": "https://github.com/homesengland/he-github-copilot"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
