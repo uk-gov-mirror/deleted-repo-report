@@ -4936,6 +4936,16 @@
     "original_url": "https://github.com/alphagov/govuk_ab_analysis"
   },
   {
+    "deleted_on": "2026-08-15",
+    "description": "Spike how easily crossplane can manage a readonly and writer role in aws rds",
+    "full_name": "uk-gov-mirror/alphagov.spike-crossplane-db-roles-management",
+    "mirror_name": "alphagov.spike-crossplane-db-roles-management",
+    "mirror_url": "https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management",
+    "name": "spike-crossplane-db-roles-management",
+    "org": "alphagov",
+    "original_url": "https://github.com/alphagov/spike-crossplane-db-roles-management"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2020-12-02",
     "description": "Guidance and policy from Cabinet Office Digital",
@@ -11599,6 +11609,16 @@
     "name": "aws-trusted-advisor-to-github-issues",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/aws-trusted-advisor-to-github-issues"
+  },
+  {
+    "deleted_on": "2026-08-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.baking-office",
+    "mirror_name": "ministryofjustice.baking-office",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.baking-office",
+    "name": "baking-office",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/baking-office"
   },
   {
     "approximate_date_source": "last-git-activity",

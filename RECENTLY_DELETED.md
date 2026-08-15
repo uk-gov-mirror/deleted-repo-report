@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [alphagov](https://github.com/alphagov) | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`baking-office`](https://github.com/uk-gov-mirror/ministryofjustice.baking-office) |  | 2026-08-15 |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [`common`](https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common) | The IPO's common reusable components. | 2026-08-14 |
 | [companieshouse](https://github.com/companieshouse) | [`innovation-accounts-statistics-tool`](https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool) | A statistics tool for the company-accounts project | 2026-08-14 |
 | [forestresearch](https://github.com/forestresearch) | [`.github`](https://github.com/uk-gov-mirror/forestresearch..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-14 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [`verify-apostille-smoke-tests`](https://github.com/uk-gov-mirror/ukforeignoffice.verify-apostille-smoke-tests) | Verify apostille smoke tests | 2021-01-09* |
 | [dvsa](https://github.com/dvsa) | [`cvs-poc-authentication-web-int`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-authentication-web-int) | This repository contains a proof of concept to test the internal authentication solution for CVS. | 2021-01-08* |
 | [dvsa](https://github.com/dvsa) | [`cvs-poc-hybrid-data-sync`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-hybrid-data-sync) | This repository contains a proof-of-concept to verify the CVS offline solution will meet the user and service needs. | 2021-01-08* |
-| [dvsa](https://github.com/dvsa) | [`cvs-poc-offline-hybrid-appsync`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-offline-hybrid-appsync) | This repository contains a proof of concept implementation of an ionic hybrid application integrated with AWS AppSync | 2021-01-08* |
-| [informatics-lab](https://github.com/informatics-lab) | [`weather-bot-terraform`](https://github.com/uk-gov-mirror/informatics-lab.weather-bot-terraform) | IaaC for the weather-bot | 2021-01-08* |
