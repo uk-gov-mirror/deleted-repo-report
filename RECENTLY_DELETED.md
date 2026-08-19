@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [defra](https://github.com/defra) | [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
+| [hmrc](https://github.com/hmrc) | [`customs-inventory-linking-exports-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-inventory-linking-exports-performance-test) |  | 2026-08-19 |
 | [alphagov](https://github.com/alphagov) | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`baking-office`](https://github.com/uk-gov-mirror/ministryofjustice.baking-office) |  | 2026-08-15 |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [`common`](https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common) | The IPO's common reusable components. | 2026-08-14 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-composite-regions`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-composite-regions) |  | 2021-01-09* |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [`manage-your-move-releases`](https://github.com/uk-gov-mirror/ukforeignoffice.manage-your-move-releases) | Release notes for the internal service Manage your move | 2021-01-09* |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [`verify-apostille-smoke-tests`](https://github.com/uk-gov-mirror/ukforeignoffice.verify-apostille-smoke-tests) | Verify apostille smoke tests | 2021-01-09* |
-| [dvsa](https://github.com/dvsa) | [`cvs-poc-authentication-web-int`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-authentication-web-int) | This repository contains a proof of concept to test the internal authentication solution for CVS. | 2021-01-08* |
-| [dvsa](https://github.com/dvsa) | [`cvs-poc-hybrid-data-sync`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-hybrid-data-sync) | This repository contains a proof-of-concept to verify the CVS offline solution will meet the user and service needs. | 2021-01-08* |

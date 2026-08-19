@@ -5780,6 +5780,16 @@
     "original_url": "https://github.com/defra/dracoe"
   },
   {
+    "deleted_on": "2026-08-19",
+    "description": "Git repository for lis-taxonomy-status",
+    "full_name": "uk-gov-mirror/defra.lis-taxonomy-status",
+    "mirror_name": "defra.lis-taxonomy-status",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.lis-taxonomy-status",
+    "name": "lis-taxonomy-status",
+    "org": "defra",
+    "original_url": "https://github.com/defra/lis-taxonomy-status"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-07-16",
     "description": null,
@@ -7786,6 +7796,16 @@
     "name": "customs-guarantee-account-performance-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/customs-guarantee-account-performance-tests"
+  },
+  {
+    "deleted_on": "2026-08-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customs-inventory-linking-exports-performance-test",
+    "mirror_name": "hmrc.customs-inventory-linking-exports-performance-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customs-inventory-linking-exports-performance-test",
+    "name": "customs-inventory-linking-exports-performance-test",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customs-inventory-linking-exports-performance-test"
   },
   {
     "approximate_date_source": "last-git-activity",
