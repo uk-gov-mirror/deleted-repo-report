@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1570**
+Total deleted repositories: **1571**
 Organisations affected: **62**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -13,7 +13,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsdigital](https://github.com/nhsdigital) | [**170**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 33.9% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**105**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 3.9% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**106**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 4.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**101**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.6% |
 | [ONSdigital](https://github.com/ONSdigital) | [**66**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
@@ -21,7 +21,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.5% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.4% |
 | [companieshouse](https://github.com/companieshouse) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.2% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**39**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.5% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**39**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.4% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
@@ -766,10 +766,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opsdroid-skill-slack-to-s3`](https://github.com/uk-gov-mirror/informatics-lab.opsdroid-skill-slack-to-s3) | 💬 A skill for opsdroid to backup slack files to S3 |  |
 | [`video-service-scheduler`](https://github.com/uk-gov-mirror/informatics-lab.video-service-scheduler) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (105)
+## [ministryofjustice](https://github.com/ministryofjustice) (106)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`opg-make-lpa`](https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa) | The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform | 2026-08-20 |
 | [`baking-office`](https://github.com/uk-gov-mirror/ministryofjustice.baking-office) |  | 2026-08-15 |
 | [`hmpps-accommodation-data-domain-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api) | A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10) | 2026-08-11 |
 | [`hmpps-approved-premises-manage-a-resident-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-ui) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-11 |

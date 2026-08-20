@@ -12361,6 +12361,16 @@
     "original_url": "https://github.com/ministryofjustice/opg-infra-costs"
   },
   {
+    "deleted_on": "2026-08-20",
+    "description": "The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-make-lpa",
+    "mirror_name": "ministryofjustice.opg-make-lpa",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa",
+    "name": "opg-make-lpa",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-make-lpa"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-09-30",
     "description": "Repo for testing branch protection rules: Managed by opg-org-infra & Terraform",
