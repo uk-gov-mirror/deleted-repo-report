@@ -845,14 +845,14 @@
     "original_url": "https://github.com/NHSX/Synthetic-Data-Exploration-VAE"
   },
   {
-    "deleted_on": "2026-08-14",
+    "deleted_on": "2026-08-21",
     "description": "The IPO's common reusable components.",
-    "full_name": "uk-gov-mirror/Network-Rail-Business-Systems.common",
-    "mirror_name": "Network-Rail-Business-Systems.common",
-    "mirror_url": "https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common",
-    "name": "common",
+    "full_name": "uk-gov-mirror/Network-Rail-Business-Systems.common.replaced.2026-08-20",
+    "mirror_name": "Network-Rail-Business-Systems.common.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common.replaced.2026-08-20",
+    "name": "common.replaced.2026-08-20",
     "org": "Network-Rail-Business-Systems",
-    "original_url": "https://github.com/Network-Rail-Business-Systems/common"
+    "original_url": "https://github.com/Network-Rail-Business-Systems/common.replaced.2026-08-20"
   },
   {
     "deleted_on": "2026-08-11",
@@ -863,6 +863,16 @@
     "name": "Test1",
     "org": "ONS-Innovation",
     "original_url": "https://github.com/ONS-Innovation/Test1"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Developers site for Address Index API",
+    "full_name": "uk-gov-mirror/ONSdigital.address-index-developers",
+    "mirror_name": "ONSdigital.address-index-developers",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-index-developers",
+    "name": "address-index-developers",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-index-developers"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -3798,6 +3808,16 @@
     "original_url": "https://github.com/UKGovernmentBEIS/transparency-db-testing"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "Terraform and KQL for Azure Dashboard for reporting on FIDO2 Adoption.",
+    "full_name": "uk-gov-mirror/UKHO.idam-azure-dashboard-fido-adoption-reporting",
+    "mirror_name": "UKHO.idam-azure-dashboard-fido-adoption-reporting",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHO.idam-azure-dashboard-fido-adoption-reporting",
+    "name": "idam-azure-dashboard-fido-adoption-reporting",
+    "org": "UKHO",
+    "original_url": "https://github.com/UKHO/idam-azure-dashboard-fido-adoption-reporting"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "An form for the Afghan Citizens Resettlement Scheme (ACRS )",
     "full_name": "uk-gov-mirror/UKHomeOffice.acrs",
@@ -4662,15 +4682,14 @@
     "original_url": "https://github.com/UKHomeOffice/githelper"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2022-03-01",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/UKHomeOffice.hocs",
-    "mirror_name": "UKHomeOffice.hocs",
-    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.hocs",
-    "name": "hocs",
+    "full_name": "uk-gov-mirror/UKHomeOffice.hocs.replaced.2026-08-20",
+    "mirror_name": "UKHomeOffice.hocs.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.hocs.replaced.2026-08-20",
+    "name": "hocs.replaced.2026-08-20",
     "org": "UKHomeOffice",
-    "original_url": "https://github.com/UKHomeOffice/hocs"
+    "original_url": "https://github.com/UKHomeOffice/hocs.replaced.2026-08-20"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -5856,15 +5875,14 @@
     "original_url": "https://github.com/defra/waste-exemptions-acceptance-tests"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2024-01-11",
+    "deleted_on": "2026-08-21",
     "description": "Provides back office functionality to the Waste exemptions service",
-    "full_name": "uk-gov-mirror/defra.waste-exemptions-back-office",
-    "mirror_name": "defra.waste-exemptions-back-office",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office",
-    "name": "waste-exemptions-back-office",
+    "full_name": "uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21",
+    "mirror_name": "defra.waste-exemptions-back-office.replaced.2026-08-21",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21",
+    "name": "waste-exemptions-back-office.replaced.2026-08-21",
     "org": "defra",
-    "original_url": "https://github.com/defra/waste-exemptions-back-office"
+    "original_url": "https://github.com/defra/waste-exemptions-back-office.replaced.2026-08-21"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -5889,15 +5907,14 @@
     "original_url": "https://github.com/defra/water"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2026-07-09",
+    "deleted_on": "2026-08-21",
     "description": "Cucumber based acceptance tests for the Water abstraction digital service",
-    "full_name": "uk-gov-mirror/defra.water-abstraction-acceptance-tests",
-    "mirror_name": "defra.water-abstraction-acceptance-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests",
-    "name": "water-abstraction-acceptance-tests",
+    "full_name": "uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20",
+    "mirror_name": "defra.water-abstraction-acceptance-tests.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20",
+    "name": "water-abstraction-acceptance-tests.replaced.2026-08-20",
     "org": "defra",
-    "original_url": "https://github.com/defra/water-abstraction-acceptance-tests"
+    "original_url": "https://github.com/defra/water-abstraction-acceptance-tests.replaced.2026-08-20"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -5954,15 +5971,14 @@
     "original_url": "https://github.com/dfid/aidstream-ogd"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2023-07-09",
+    "deleted_on": "2026-08-21",
     "description": "A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment.",
-    "full_name": "uk-gov-mirror/dstl.Human-Interface-Horizons",
-    "mirror_name": "dstl.Human-Interface-Horizons",
-    "mirror_url": "https://github.com/uk-gov-mirror/dstl.Human-Interface-Horizons",
-    "name": "Human-Interface-Horizons",
+    "full_name": "uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21",
+    "mirror_name": "dstl.Human-Interface-Horizons.replaced.2026-08-21",
+    "mirror_url": "https://github.com/uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21",
+    "name": "Human-Interface-Horizons.replaced.2026-08-21",
     "org": "dstl",
-    "original_url": "https://github.com/dstl/Human-Interface-Horizons"
+    "original_url": "https://github.com/dstl/Human-Interface-Horizons.replaced.2026-08-21"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -6460,15 +6476,14 @@
     "original_url": "https://github.com/dvsa/vol-active-support"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-05-17",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/dvsa.vol-functional-tests",
-    "mirror_name": "dvsa.vol-functional-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.vol-functional-tests",
-    "name": "vol-functional-tests",
+    "full_name": "uk-gov-mirror/dvsa.vol-functional-tests.replaced.2026-08-20",
+    "mirror_name": "dvsa.vol-functional-tests.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.vol-functional-tests.replaced.2026-08-20",
+    "name": "vol-functional-tests.replaced.2026-08-20",
     "org": "dvsa",
-    "original_url": "https://github.com/dvsa/vol-functional-tests"
+    "original_url": "https://github.com/dvsa/vol-functional-tests.replaced.2026-08-20"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -6975,15 +6990,14 @@
     "original_url": "https://github.com/forestresearch/.github"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-09-10",
+    "deleted_on": "2026-08-21",
     "description": "An Observable notebook to help developers interrogate our tech stack - should never store data, only helpers that let you access data quickly if you have the right permissions already",
-    "full_name": "uk-gov-mirror/govuk-one-login.di-lead-observable-notebook",
-    "mirror_name": "govuk-one-login.di-lead-observable-notebook",
-    "mirror_url": "https://github.com/uk-gov-mirror/govuk-one-login.di-lead-observable-notebook",
-    "name": "di-lead-observable-notebook",
+    "full_name": "uk-gov-mirror/govuk-one-login.di-lead-observable-notebook.replaced.2026-08-21",
+    "mirror_name": "govuk-one-login.di-lead-observable-notebook.replaced.2026-08-21",
+    "mirror_url": "https://github.com/uk-gov-mirror/govuk-one-login.di-lead-observable-notebook.replaced.2026-08-21",
+    "name": "di-lead-observable-notebook.replaced.2026-08-21",
     "org": "govuk-one-login",
-    "original_url": "https://github.com/govuk-one-login/di-lead-observable-notebook"
+    "original_url": "https://github.com/govuk-one-login/di-lead-observable-notebook.replaced.2026-08-21"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -11412,15 +11426,14 @@
     "original_url": "https://github.com/intellectual-property-office/Services"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2026-04-21",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/intellectual-property-office.ctc-address",
-    "mirror_name": "intellectual-property-office.ctc-address",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address",
-    "name": "ctc-address",
+    "full_name": "uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20",
+    "mirror_name": "intellectual-property-office.ctc-address.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20",
+    "name": "ctc-address.replaced.2026-08-20",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/ctc-address"
+    "original_url": "https://github.com/intellectual-property-office/ctc-address.replaced.2026-08-20"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -11641,6 +11654,36 @@
     "original_url": "https://github.com/ministryofjustice/baking-office"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "Example backend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.bh-backend-app-dev",
+    "mirror_name": "ministryofjustice.bh-backend-app-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bh-backend-app-dev",
+    "name": "bh-backend-app-dev",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bh-backend-app-dev"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Example backend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.bh-example-backend-api-dev",
+    "mirror_name": "ministryofjustice.bh-example-backend-api-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bh-example-backend-api-dev",
+    "name": "bh-example-backend-api-dev",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bh-example-backend-api-dev"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Example frontend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.bh-frontend-app",
+    "mirror_name": "ministryofjustice.bh-frontend-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app",
+    "name": "bh-frontend-app",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bh-frontend-app"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-08",
     "description": null,
@@ -11674,6 +11717,16 @@
     "original_url": "https://github.com/ministryofjustice/cccd-spike-sns"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "a first attempt at creating a typescript app",
+    "full_name": "uk-gov-mirror/ministryofjustice.chux-dev-typescript",
+    "mirror_name": "ministryofjustice.chux-dev-typescript",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.chux-dev-typescript",
+    "name": "chux-dev-typescript",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/chux-dev-typescript"
+  },
+  {
     "deleted_on": null,
     "description": "Citizen facing application prototype for Civil Enforcement",
     "full_name": "uk-gov-mirror/ministryofjustice.civil-enforcement-prototype",
@@ -11684,15 +11737,24 @@
     "original_url": "https://github.com/ministryofjustice/civil-enforcement-prototype"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2024-12-14",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/ministryofjustice.court-case-service",
-    "mirror_name": "ministryofjustice.court-case-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.court-case-service",
-    "name": "court-case-service",
+    "full_name": "uk-gov-mirror/ministryofjustice.court-case-service.replaced.2026-08-21",
+    "mirror_name": "ministryofjustice.court-case-service.replaced.2026-08-21",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.court-case-service.replaced.2026-08-21",
+    "name": "court-case-service.replaced.2026-08-21",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/court-case-service"
+    "original_url": "https://github.com/ministryofjustice/court-case-service.replaced.2026-08-21"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "This service has been decommissioned",
+    "full_name": "uk-gov-mirror/ministryofjustice.court-list-splitter",
+    "mirror_name": "ministryofjustice.court-list-splitter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.court-list-splitter",
+    "name": "court-list-splitter",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/court-list-splitter"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -11760,6 +11822,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-accommodation-data-domain-api"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-api",
+    "mirror_name": "ministryofjustice.hmpps-approved-premises-manage-a-resident-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-api",
+    "name": "hmpps-approved-premises-manage-a-resident-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-approved-premises-manage-a-resident-api"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-ui",
@@ -11779,6 +11851,26 @@
     "name": "hmpps-architecture-docs",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-architecture-docs"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "An API for Assess for Early Release",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-api",
+    "mirror_name": "ministryofjustice.hmpps-assess-for-early-release-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-api",
+    "name": "hmpps-assess-for-early-release-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-assess-for-early-release-api"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "The user interface for Assess for Early Release",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-ui",
+    "mirror_name": "ministryofjustice.hmpps-assess-for-early-release-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-ui",
+    "name": "hmpps-assess-for-early-release-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-assess-for-early-release-ui"
   },
   {
     "deleted_on": "2026-08-11",
@@ -11840,6 +11932,16 @@
     "name": "hmpps-court-case-service-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-court-case-service-api"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "HMPPS Custody Manager API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-custody-manager-api",
+    "mirror_name": "ministryofjustice.hmpps-custody-manager-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-custody-manager-api",
+    "name": "hmpps-custody-manager-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-custody-manager-api"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -11960,6 +12062,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-hdc-api"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "Historical Prisoner Application",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hpa",
+    "mirror_name": "ministryofjustice.hmpps-hpa",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hpa",
+    "name": "hmpps-hpa",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-hpa"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Integration events provider for consumers of hmpps-integration-api",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-integration-events",
@@ -11970,6 +12082,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-integration-events"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "A basic web based incident creation app for ServiceNow",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-it-incident-hub",
+    "mirror_name": "ministryofjustice.hmpps-it-incident-hub",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-it-incident-hub",
+    "name": "hmpps-it-incident-hub",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-it-incident-hub"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "HMPPS Jobs Board Integration API",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-integration-api",
@@ -11978,6 +12100,46 @@
     "name": "hmpps-jobs-board-integration-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-integration-api"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "HMPPS Jobs Board Reporting API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-api",
+    "mirror_name": "ministryofjustice.hmpps-jobs-board-reporting-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-api",
+    "name": "hmpps-jobs-board-reporting-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-reporting-api"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Launchpad Audit API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-launchpad-audit",
+    "mirror_name": "ministryofjustice.hmpps-launchpad-audit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-launchpad-audit",
+    "name": "hmpps-launchpad-audit",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-launchpad-audit"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Digital service for allocating, managing and handing over POM cases. (bootstrapped 2025-02-21)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases",
+    "mirror_name": "ministryofjustice.hmpps-manage-pom-cases",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases",
+    "name": "hmpps-manage-pom-cases",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-manage-pom-cases"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Digital service for allocating, managing and handing over POM cases. API repository. (bootstrapped 2025-02-20)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases-api",
+    "mirror_name": "ministryofjustice.hmpps-manage-pom-cases-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases-api",
+    "name": "hmpps-manage-pom-cases-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-manage-pom-cases-api"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -12001,6 +12163,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-matomo-analytics"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "One Plan UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui",
+    "mirror_name": "ministryofjustice.hmpps-one-plan-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui",
+    "name": "hmpps-one-plan-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-one-plan-ui"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "An API wrapper around a model developed by the MoJ Analytical Platform for scoring the confidence of people matches across MoJ systems",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-person-match-score",
@@ -12021,6 +12193,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-person-on-probation-user-api"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "API for access to Prison Person Data (data about a person that is specific to their time in prison)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prison-person-api",
+    "mirror_name": "ministryofjustice.hmpps-prison-person-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prison-person-api",
+    "name": "hmpps-prison-person-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prison-person-api"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "A POC API for managing prisoner finances (bootstrapped 2025-06-03)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-finance-poc-api",
@@ -12029,6 +12211,16 @@
     "name": "hmpps-prisoner-finance-poc-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-finance-poc-api"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "HMPPS Prisoner Profile Case Notes Search Prototype",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-profile-casenotes-search-prototype",
+    "mirror_name": "ministryofjustice.hmpps-prisoner-profile-casenotes-search-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-profile-casenotes-search-prototype",
+    "name": "hmpps-prisoner-profile-casenotes-search-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-profile-casenotes-search-prototype"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12424,6 +12616,16 @@
     "original_url": "https://github.com/ministryofjustice/prison-to-probation-update"
   },
   {
+    "deleted_on": "2026-08-21",
+    "description": "A scheduled job for exporting feedback to google sheets",
+    "full_name": "uk-gov-mirror/ministryofjustice.prisoner-content-hub-feedback-exporter",
+    "mirror_name": "ministryofjustice.prisoner-content-hub-feedback-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.prisoner-content-hub-feedback-exporter",
+    "name": "prisoner-content-hub-feedback-exporter",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/prisoner-content-hub-feedback-exporter"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2022-08-10",
     "description": null,
@@ -12455,6 +12657,26 @@
     "name": "ruby-on-rails-demo",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/ruby-on-rails-demo"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "Testing documentation website",
+    "full_name": "uk-gov-mirror/ministryofjustice.san-eleventy-test",
+    "mirror_name": "ministryofjustice.san-eleventy-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.san-eleventy-test",
+    "name": "san-eleventy-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/san-eleventy-test"
+  },
+  {
+    "deleted_on": "2026-08-21",
+    "description": "a first attempt at creating a typescript app",
+    "full_name": "uk-gov-mirror/ministryofjustice.san-typescript-test",
+    "mirror_name": "ministryofjustice.san-typescript-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.san-typescript-test",
+    "name": "san-typescript-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/san-typescript-test"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -13182,15 +13404,14 @@
     "original_url": "https://github.com/moj-analytical-services/opg-investigations-backlog"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-11-05",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/moj-analytical-services.opg-pipeline-builder",
-    "mirror_name": "moj-analytical-services.opg-pipeline-builder",
-    "mirror_url": "https://github.com/uk-gov-mirror/moj-analytical-services.opg-pipeline-builder",
-    "name": "opg-pipeline-builder",
+    "full_name": "uk-gov-mirror/moj-analytical-services.opg-pipeline-builder.replaced.2026-08-20",
+    "mirror_name": "moj-analytical-services.opg-pipeline-builder.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/moj-analytical-services.opg-pipeline-builder.replaced.2026-08-20",
+    "name": "opg-pipeline-builder.replaced.2026-08-20",
     "org": "moj-analytical-services",
-    "original_url": "https://github.com/moj-analytical-services/opg-pipeline-builder"
+    "original_url": "https://github.com/moj-analytical-services/opg-pipeline-builder.replaced.2026-08-20"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -13531,16 +13752,6 @@
     "name": "nationalarchives.github.io",
     "org": "nationalarchives",
     "original_url": "https://github.com/nationalarchives/nationalarchives.github.io"
-  },
-  {
-    "deleted_on": null,
-    "description": "A repository for PRONOM development",
-    "full_name": "uk-gov-mirror/nationalarchives.pronom",
-    "mirror_name": "nationalarchives.pronom",
-    "mirror_url": "https://github.com/uk-gov-mirror/nationalarchives.pronom",
-    "name": "pronom",
-    "org": "nationalarchives",
-    "original_url": "https://github.com/nationalarchives/pronom"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -16314,15 +16525,14 @@
     "original_url": "https://github.com/nottmhospitals/sqlMiner"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-05-02",
+    "deleted_on": "2026-08-21",
     "description": null,
-    "full_name": "uk-gov-mirror/nw-gmsa.Testing",
-    "mirror_name": "nw-gmsa.Testing",
-    "mirror_url": "https://github.com/uk-gov-mirror/nw-gmsa.Testing",
-    "name": "Testing",
+    "full_name": "uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20",
+    "mirror_name": "nw-gmsa.Testing.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20",
+    "name": "Testing.replaced.2026-08-20",
     "org": "nw-gmsa",
-    "original_url": "https://github.com/nw-gmsa/Testing"
+    "original_url": "https://github.com/nw-gmsa/Testing.replaced.2026-08-20"
   },
   {
     "deleted_on": null,
