@@ -11684,6 +11684,26 @@
     "original_url": "https://github.com/ministryofjustice/bh-frontend-app"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Example frontend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.bh-frontend-app-dev",
+    "mirror_name": "ministryofjustice.bh-frontend-app-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app-dev",
+    "name": "bh-frontend-app-dev",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bh-frontend-app-dev"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Prototypes for the Calculate release dates service",
+    "full_name": "uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype",
+    "mirror_name": "ministryofjustice.calculate-release-dates-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype",
+    "name": "calculate-release-dates-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/calculate-release-dates-prototype"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-08",
     "description": null,
@@ -11737,6 +11757,16 @@
     "original_url": "https://github.com/ministryofjustice/civil-enforcement-prototype"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Application to proxy requests to the Community API and authenticate based on OAuth roles.",
+    "full_name": "uk-gov-mirror/ministryofjustice.community-proxy",
+    "mirror_name": "ministryofjustice.community-proxy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.community-proxy",
+    "name": "community-proxy",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/community-proxy"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.court-case-service.replaced.2026-08-21",
@@ -11745,6 +11775,16 @@
     "name": "court-case-service.replaced.2026-08-21",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/court-case-service.replaced.2026-08-21"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Populate test data in pre-prod on a daily basis",
+    "full_name": "uk-gov-mirror/ministryofjustice.court-case-test-app",
+    "mirror_name": "ministryofjustice.court-case-test-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.court-case-test-app",
+    "name": "court-case-test-app",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/court-case-test-app"
   },
   {
     "deleted_on": "2026-08-21",
@@ -11766,6 +11806,16 @@
     "name": "data-docs-public",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/data-docs-public"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Terraform Re-Usable Module for Glue Catalog Table",
+    "full_name": "uk-gov-mirror/ministryofjustice.digital-prison-reporting-tf-glue-catalog-table",
+    "mirror_name": "ministryofjustice.digital-prison-reporting-tf-glue-catalog-table",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.digital-prison-reporting-tf-glue-catalog-table",
+    "name": "digital-prison-reporting-tf-glue-catalog-table",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/digital-prison-reporting-tf-glue-catalog-table"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -11790,6 +11840,26 @@
     "original_url": "https://github.com/ministryofjustice/diso-devops-module-ssm-bastion"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "A spring boot app to manage data compliance for the Digital Prison Services",
+    "full_name": "uk-gov-mirror/ministryofjustice.dps-data-compliance",
+    "mirror_name": "ministryofjustice.dps-data-compliance",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.dps-data-compliance",
+    "name": "dps-data-compliance",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/dps-data-compliance"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Monitoring of DPS systems",
+    "full_name": "uk-gov-mirror/ministryofjustice.dps-monitor",
+    "mirror_name": "ministryofjustice.dps-monitor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.dps-monitor",
+    "name": "dps-monitor",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/dps-monitor"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-01-09",
     "description": "For management of Azure tags within DSO FixNGo estate",
@@ -11799,6 +11869,16 @@
     "name": "dso-infra-azure-tags",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/dso-infra-azure-tags"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Example frontend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.dv-frontend-app-dev",
+    "mirror_name": "ministryofjustice.dv-frontend-app-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.dv-frontend-app-dev",
+    "name": "dv-frontend-app-dev",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/dv-frontend-app-dev"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -11820,6 +11900,86 @@
     "name": "hmpps-accommodation-data-domain-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-accommodation-data-domain-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-alfresco-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-alfresco-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-bootstrap",
+    "name": "hmpps-alfresco-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-alfresco-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Role to install alfresco",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer",
+    "mirror_name": "ministryofjustice.hmpps-alfresco-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer",
+    "name": "hmpps-alfresco-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-alfresco-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Role to install alfresco",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer-builder",
+    "mirror_name": "ministryofjustice.hmpps-alfresco-installer-builder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer-builder",
+    "name": "hmpps-alfresco-installer-builder",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-alfresco-installer-builder"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "alfresco esadmin node role",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ansible-esadmin-role",
+    "mirror_name": "ministryofjustice.hmpps-ansible-esadmin-role",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-esadmin-role",
+    "name": "hmpps-ansible-esadmin-role",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ansible-esadmin-role"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy role to manage packages on a base instance",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ansible-packages",
+    "mirror_name": "ministryofjustice.hmpps-ansible-packages",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-packages",
+    "name": "hmpps-ansible-packages",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ansible-packages"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ansible-roles",
+    "mirror_name": "ministryofjustice.hmpps-ansible-roles",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-roles",
+    "name": "hmpps-ansible-roles",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ansible-roles"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "samba installer",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ansible-samba-role",
+    "mirror_name": "ministryofjustice.hmpps-ansible-samba-role",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-samba-role",
+    "name": "hmpps-ansible-samba-role",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ansible-samba-role"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "End to End Tests for the Approved Premises project",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-approved-premises-e2e",
+    "mirror_name": "ministryofjustice.hmpps-approved-premises-e2e",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-e2e",
+    "name": "hmpps-approved-premises-e2e",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-approved-premises-e2e"
   },
   {
     "deleted_on": "2026-08-21",
@@ -11851,6 +12011,36 @@
     "name": "hmpps-architecture-docs",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-architecture-docs"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS ARN Answers API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-arn-assessment-data-api",
+    "mirror_name": "ministryofjustice.hmpps-arn-assessment-data-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-assessment-data-api",
+    "name": "hmpps-arn-assessment-data-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-arn-assessment-data-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS ARN Forms UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-arn-forms-ui",
+    "mirror_name": "ministryofjustice.hmpps-arn-forms-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-forms-ui",
+    "name": "hmpps-arn-forms-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-arn-forms-ui"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS ARN Risks API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-arn-risks-api",
+    "mirror_name": "ministryofjustice.hmpps-arn-risks-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-risks-api",
+    "name": "hmpps-arn-risks-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-arn-risks-api"
   },
   {
     "deleted_on": "2026-08-21",
@@ -11913,6 +12103,46 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-authorization"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Scripts and config for Azure OMS",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-azure-oms",
+    "mirror_name": "ministryofjustice.hmpps-azure-oms",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-azure-oms",
+    "name": "hmpps-azure-oms",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-azure-oms"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-base-packer-pipeline",
+    "mirror_name": "ministryofjustice.hmpps-base-packer-pipeline",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-base-packer-pipeline",
+    "name": "hmpps-base-packer-pipeline",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-base-packer-pipeline"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy role to install file and metricbeats",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-beats-monitoring",
+    "mirror_name": "ministryofjustice.hmpps-beats-monitoring",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-beats-monitoring",
+    "name": "hmpps-beats-monitoring",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-beats-monitoring"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Documentation for the Book a secure move Platform - a platform to enable the safe, decent transport of people around the criminal justice system",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-book-secure-move",
+    "mirror_name": "ministryofjustice.hmpps-book-secure-move",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-book-secure-move",
+    "name": "hmpps-book-secure-move",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-book-secure-move"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2022-02-03",
     "description": "allow court users to book video link session with prison",
@@ -11924,6 +12154,106 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-book-video-link"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Bootstrap scripts for DRY terraform creation - Use CENTOS branch for most of our amis",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-bootstrap",
+    "name": "hmpps-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Candidate Matching Service API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-candidate-matching-api",
+    "mirror_name": "ministryofjustice.hmpps-candidate-matching-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-candidate-matching-api",
+    "name": "hmpps-candidate-matching-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-candidate-matching-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Prototype careers site for HMPPS, built using the Gov.UK prototype kit",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-careers-prototype",
+    "mirror_name": "ministryofjustice.hmpps-careers-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-careers-prototype",
+    "name": "hmpps-careers-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-careers-prototype"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A library for implementing a shared central user session between microservice frontends",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-central-session",
+    "mirror_name": "ministryofjustice.hmpps-central-session",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-central-session",
+    "name": "hmpps-central-session",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-central-session"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "API to manage the HMPPS Central Session",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-central-session-api",
+    "mirror_name": "ministryofjustice.hmpps-central-session-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-central-session-api",
+    "name": "hmpps-central-session-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-central-session-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A service for Careers Information, Advice and Guidance (CIAG)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-api",
+    "mirror_name": "ministryofjustice.hmpps-ciag-careers-induction-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-api",
+    "name": "hmpps-ciag-careers-induction-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ciag-careers-induction-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "User interface for Careers Information, Advice and Guidance (CIAG)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-ui",
+    "mirror_name": "ministryofjustice.hmpps-ciag-careers-induction-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-ui",
+    "name": "hmpps-ciag-careers-induction-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ciag-careers-induction-ui"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Docker build of ClamAV for anti-virus scanning during file upload",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-clamav",
+    "mirror_name": "ministryofjustice.hmpps-clamav",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-clamav",
+    "name": "hmpps-clamav",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-clamav"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "The user interface for Community Accommodation Service 2 (CAS-2)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-service-two-ui",
+    "mirror_name": "ministryofjustice.hmpps-community-accommodation-service-two-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-service-two-ui",
+    "name": "hmpps-community-accommodation-service-two-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-community-accommodation-service-two-ui"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "End to end tests for the CAS2 project",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-tier-2-e2e",
+    "mirror_name": "ministryofjustice.hmpps-community-accommodation-tier-2-e2e",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-tier-2-e2e",
+    "name": "hmpps-community-accommodation-tier-2-e2e",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-community-accommodation-tier-2-e2e"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Service to access court cases imported from HMCTS Libra court lists and Common Platform (bootstrapped 2025-08-15)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-court-case-service-api",
@@ -11932,6 +12262,46 @@
     "name": "hmpps-court-case-service-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-court-case-service-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A prototype for the combined journeys and service which make up Court cases and release dates.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-court-cases-release-dates-prototype",
+    "mirror_name": "ministryofjustice.hmpps-court-cases-release-dates-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-cases-release-dates-prototype",
+    "name": "hmpps-court-cases-release-dates-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-court-cases-release-dates-prototype"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Repository for Community Rehabilitation Services CP Oracle ancillary application",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-cp-oracle",
+    "mirror_name": "ministryofjustice.hmpps-cr-ancillary-cp-oracle",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-cp-oracle",
+    "name": "hmpps-cr-ancillary-cp-oracle",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-cr-ancillary-cp-oracle"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Community Rehabilitation Ancillary Applications - Jira Service Management Ansible",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jira-ansible",
+    "mirror_name": "ministryofjustice.hmpps-cr-ancillary-jira-ansible",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jira-ansible",
+    "name": "hmpps-cr-ancillary-jira-ansible",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-cr-ancillary-jira-ansible"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Repository for Community Rehabilitation Services Jitbit service desk ancillary application",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jitbit",
+    "mirror_name": "ministryofjustice.hmpps-cr-ancillary-jitbit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jitbit",
+    "name": "hmpps-cr-ancillary-jitbit",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-cr-ancillary-jitbit"
   },
   {
     "deleted_on": "2026-08-21",
@@ -11955,6 +12325,136 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-delius-api"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-389ds-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-389ds-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-389ds-bootstrap",
+    "name": "hmpps-delius-core-389ds-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-389ds-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Bootstrap Ansibel role to update our ApacheDS config",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-apacheds-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-bootstrap",
+    "name": "hmpps-delius-core-apacheds-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-apacheds-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-installer",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-apacheds-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-installer",
+    "name": "hmpps-delius-core-apacheds-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-apacheds-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Roles to bootstrap WebLogic for Delius Core",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-bootstrap",
+    "name": "hmpps-delius-core-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Containerised dependencies for Delius-core",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-build",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-build",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-build",
+    "name": "hmpps-delius-core-build",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-build"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible role for bootstrapping the delius-core management server",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-management-server-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-management-server-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-management-server-bootstrap",
+    "name": "hmpps-delius-core-management-server-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-management-server-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracle-client-installer",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-oracle-client-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracle-client-installer",
+    "name": "hmpps-delius-core-oracle-client-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-oracle-client-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-delius-core-oracledb-installer",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracledb-installer",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-oracledb-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracledb-installer",
+    "name": "hmpps-delius-core-oracledb-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-oracledb-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible role to bootstrap the Delius Password Self Service tool",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-pwm-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-pwm-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-pwm-bootstrap",
+    "name": "hmpps-delius-core-pwm-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-pwm-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "System User/Group Creation Role for Ansible",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-system-user",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-system-user",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-system-user",
+    "name": "hmpps-delius-core-system-user",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-system-user"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Bootstrap ansible role for the delius-core User Management Tool (UMT)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-umt-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-umt-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-umt-bootstrap",
+    "name": "hmpps-delius-core-umt-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-umt-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Role to Install Weblogic into an AMI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-core-weblogic-installer",
+    "mirror_name": "ministryofjustice.hmpps-delius-core-weblogic-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-weblogic-installer",
+    "name": "hmpps-delius-core-weblogic-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-core-weblogic-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-dss-offloc-docker",
+    "mirror_name": "ministryofjustice.hmpps-delius-dss-offloc-docker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-dss-offloc-docker",
+    "name": "hmpps-delius-dss-offloc-docker",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-dss-offloc-docker"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-03-03",
     "description": "Packer build for IAPS Server which hosts NDelius and IM Interface services",
@@ -11975,6 +12475,86 @@
     "name": "hmpps-delius-iaps-shared-terraform",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-delius-iaps-shared-terraform"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-integration-data-analysis",
+    "mirror_name": "ministryofjustice.hmpps-delius-integration-data-analysis",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-integration-data-analysis",
+    "name": "hmpps-delius-integration-data-analysis",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-integration-data-analysis"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Consumer of interventions domain events for interfacing with nDelius",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-interventions-event-listener",
+    "mirror_name": "ministryofjustice.hmpps-delius-interventions-event-listener",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-interventions-event-listener",
+    "name": "hmpps-delius-interventions-event-listener",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-interventions-event-listener"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-mis-installer",
+    "mirror_name": "ministryofjustice.hmpps-delius-mis-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-mis-installer",
+    "name": "hmpps-delius-mis-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-mis-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-new-tech-shared-terraform",
+    "mirror_name": "ministryofjustice.hmpps-delius-new-tech-shared-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-new-tech-shared-terraform",
+    "name": "hmpps-delius-new-tech-shared-terraform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-new-tech-shared-terraform"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-po-alfresco-proxy",
+    "mirror_name": "ministryofjustice.hmpps-delius-po-alfresco-proxy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-po-alfresco-proxy",
+    "name": "hmpps-delius-po-alfresco-proxy",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-po-alfresco-proxy"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "PSN Proxy image for Delius built with Packer.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-psn-proxy-packer",
+    "mirror_name": "ministryofjustice.hmpps-delius-psn-proxy-packer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psn-proxy-packer",
+    "name": "hmpps-delius-psn-proxy-packer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-psn-proxy-packer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Terraform code for the Delius PSN proxies.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-psn-terraform",
+    "mirror_name": "ministryofjustice.hmpps-delius-psn-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psn-terraform",
+    "name": "hmpps-delius-psn-terraform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-psn-terraform"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Packer project for the delius proxy. This REPLACES ministryofjustice/hmpps-delius-psn-proxy-packer",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-delius-psnproxy-packer",
+    "mirror_name": "ministryofjustice.hmpps-delius-psnproxy-packer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psnproxy-packer",
+    "name": "hmpps-delius-psnproxy-packer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-delius-psnproxy-packer"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12010,6 +12590,26 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-delius-spg-testing-secure-httpclient"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-digital-developer-recruitment",
+    "mirror_name": "ministryofjustice.hmpps-digital-developer-recruitment",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-digital-developer-recruitment",
+    "name": "hmpps-digital-developer-recruitment",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-digital-developer-recruitment"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "POC Only - repo to contain scripts to resolve glue etl tasks - TBC deployment yaml files",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-digital-prison-reporting-glue-poc",
+    "mirror_name": "ministryofjustice.hmpps-digital-prison-reporting-glue-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-digital-prison-reporting-glue-poc",
+    "name": "hmpps-digital-prison-reporting-glue-poc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-digital-prison-reporting-glue-poc"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "HMPPS Digital Prisons Reporting Fake DPS Service",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-dpr-fake-dps-service",
@@ -12030,6 +12630,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-electronic-monitoring-crime-matching-react"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ems-container-actions-toolkit",
+    "mirror_name": "ministryofjustice.hmpps-ems-container-actions-toolkit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-container-actions-toolkit",
+    "name": "hmpps-ems-container-actions-toolkit",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-ems-container-actions-toolkit"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-08",
     "description": "This repository contains terraform modules that are consumed by hmpps-ems-platform.",
@@ -12039,6 +12649,56 @@
     "name": "hmpps-ems-platform-terraform-modules",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-ems-platform-terraform-modules"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible bootstrap for JIRA Server",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-engineering-jira-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-bootstrap",
+    "name": "hmpps-engineering-jira-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-engineering-jira-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible repo for installing JIRA Server",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-installer",
+    "mirror_name": "ministryofjustice.hmpps-engineering-jira-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-installer",
+    "name": "hmpps-engineering-jira-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-engineering-jira-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-engineering-operations",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-engineering-operations",
+    "mirror_name": "ministryofjustice.hmpps-engineering-operations",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-operations",
+    "name": "hmpps-engineering-operations",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-engineering-operations"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-engineering-pipelines-utils",
+    "mirror_name": "ministryofjustice.hmpps-engineering-pipelines-utils",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-pipelines-utils",
+    "name": "hmpps-engineering-pipelines-utils",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-engineering-pipelines-utils"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Trying to visualise azure resources and make them browsable",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-estate-map",
+    "mirror_name": "ministryofjustice.hmpps-estate-map",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-estate-map",
+    "name": "hmpps-estate-map",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-estate-map"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12072,6 +12732,36 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-hpa"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hub",
+    "mirror_name": "ministryofjustice.hmpps-hub",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hub",
+    "name": "hmpps-hub",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-hub"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hub-fe",
+    "mirror_name": "ministryofjustice.hmpps-hub-fe",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hub-fe",
+    "name": "hmpps-hub-fe",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-hub-fe"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A documentation site for HMPPS Integration API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-integration-api-docs",
+    "mirror_name": "ministryofjustice.hmpps-integration-api-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-integration-api-docs",
+    "name": "hmpps-integration-api-docs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-integration-api-docs"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Integration events provider for consumers of hmpps-integration-api",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-integration-events",
@@ -12082,6 +12772,56 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-integration-events"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Prototypes created by the \u201cadd and find interventions\u201d HMPPS alpha team.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-interventions-add-find-prototype",
+    "mirror_name": "ministryofjustice.hmpps-interventions-add-find-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-add-find-prototype",
+    "name": "hmpps-interventions-add-find-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-interventions-add-find-prototype"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Onboarding providers and services to the 'Refer and monitor an intervention' service",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding",
+    "mirror_name": "ministryofjustice.hmpps-interventions-onboarding",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding",
+    "name": "hmpps-interventions-onboarding",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-interventions-onboarding"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding-prototype",
+    "mirror_name": "ministryofjustice.hmpps-interventions-onboarding-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding-prototype",
+    "name": "hmpps-interventions-onboarding-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-interventions-onboarding-prototype"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-interventions-vision",
+    "mirror_name": "ministryofjustice.hmpps-interventions-vision",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-vision",
+    "name": "hmpps-interventions-vision",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-interventions-vision"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A status page for the PACFS back button",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-is-pacfs-back-button-live",
+    "mirror_name": "ministryofjustice.hmpps-is-pacfs-back-button-live",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-is-pacfs-back-button-live",
+    "name": "hmpps-is-pacfs-back-button-live",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-is-pacfs-back-button-live"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "A basic web based incident creation app for ServiceNow",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-it-incident-hub",
@@ -12090,6 +12830,36 @@
     "name": "hmpps-it-incident-hub",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-it-incident-hub"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "samba bootstrap",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jitbit-samba-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-jitbit-samba-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jitbit-samba-bootstrap",
+    "name": "hmpps-jitbit-samba-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-jitbit-samba-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Monitor execution of the HMPPS Job Feed Parser",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-job-feed-monitor",
+    "mirror_name": "ministryofjustice.hmpps-job-feed-monitor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-job-feed-monitor",
+    "name": "hmpps-job-feed-monitor",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-job-feed-monitor"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A ruby app to parse the RSS feed from WCN",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-job-feed-parser",
+    "mirror_name": "ministryofjustice.hmpps-job-feed-parser",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-job-feed-parser",
+    "name": "hmpps-job-feed-parser",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-job-feed-parser"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12120,6 +12890,46 @@
     "name": "hmpps-launchpad-audit",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-launchpad-audit"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Role to install logstash",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-logstash",
+    "mirror_name": "ministryofjustice.hmpps-logstash",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-logstash",
+    "name": "hmpps-logstash",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-logstash"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A service for managing warrant files",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder",
+    "mirror_name": "ministryofjustice.hmpps-manage-a-warrant-folder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder",
+    "name": "hmpps-manage-a-warrant-folder",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-manage-a-warrant-folder"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "API service for managing warrant files",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder-api",
+    "mirror_name": "ministryofjustice.hmpps-manage-a-warrant-folder-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder-api",
+    "name": "hmpps-manage-a-warrant-folder-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-manage-a-warrant-folder-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-manage-assess-risks-and-needs",
+    "mirror_name": "ministryofjustice.hmpps-manage-assess-risks-and-needs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-assess-risks-and-needs",
+    "name": "hmpps-manage-assess-risks-and-needs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-manage-assess-risks-and-needs"
   },
   {
     "deleted_on": "2026-08-21",
@@ -12163,6 +12973,146 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-matomo-analytics"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Micro Frontend POC",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc",
+    "mirror_name": "ministryofjustice.hmpps-micro-frontend-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc",
+    "name": "hmpps-micro-frontend-poc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-micro-frontend-poc"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Micro Frontend POC Component",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc-component",
+    "mirror_name": "ministryofjustice.hmpps-micro-frontend-poc-component",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc-component",
+    "name": "hmpps-micro-frontend-poc-component",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-micro-frontend-poc-component"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmmps mis automation",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-mis-automation",
+    "mirror_name": "ministryofjustice.hmpps-mis-automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mis-automation",
+    "name": "hmpps-mis-automation",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-mis-automation"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "\u2018Prisoner Money Intelligence\u2019 prototypes",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-monitor-prisoner-money-prototype",
+    "mirror_name": "ministryofjustice.hmpps-monitor-prisoner-money-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-monitor-prisoner-money-prototype",
+    "name": "hmpps-monitor-prisoner-money-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-monitor-prisoner-money-prototype"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-network-delius-new-tech-terraform",
+    "mirror_name": "ministryofjustice.hmpps-network-delius-new-tech-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-delius-new-tech-terraform",
+    "name": "hmpps-network-delius-new-tech-terraform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-network-delius-new-tech-terraform"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-network-terraform-alfresco",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-network-terraform-alfresco",
+    "mirror_name": "ministryofjustice.hmpps-network-terraform-alfresco",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-terraform-alfresco",
+    "name": "hmpps-network-terraform-alfresco",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-network-terraform-alfresco"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-network-terraform-mis",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-network-terraform-mis",
+    "mirror_name": "ministryofjustice.hmpps-network-terraform-mis",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-terraform-mis",
+    "name": "hmpps-network-terraform-mis",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-network-terraform-mis"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible to install Nextcloud",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nextcloud-installer",
+    "mirror_name": "ministryofjustice.hmpps-nextcloud-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nextcloud-installer",
+    "name": "hmpps-nextcloud-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nextcloud-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Nextcloud AMI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nextcloud-packer",
+    "mirror_name": "ministryofjustice.hmpps-nextcloud-packer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nextcloud-packer",
+    "name": "hmpps-nextcloud-packer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nextcloud-packer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible galaxy role to install nfs utils on both server and client",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nfs",
+    "mirror_name": "ministryofjustice.hmpps-nfs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nfs",
+    "name": "hmpps-nfs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nfs"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Infrastructure as code for  building Nomis in AWS",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nomis-aws-terraform",
+    "mirror_name": "ministryofjustice.hmpps-nomis-aws-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-aws-terraform",
+    "name": "hmpps-nomis-aws-terraform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nomis-aws-terraform"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible Galaxy Role to bootstrap nomis",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nomis-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-nomis-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-bootstrap",
+    "name": "hmpps-nomis-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nomis-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "API for financial data interaction with NOMIS",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nomis-finance-api",
+    "mirror_name": "ministryofjustice.hmpps-nomis-finance-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-finance-api",
+    "name": "hmpps-nomis-finance-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nomis-finance-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A microservice for registering one-login accounts to HMPPS services",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-login-user-registry",
+    "mirror_name": "ministryofjustice.hmpps-one-login-user-registry",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-login-user-registry",
+    "name": "hmpps-one-login-user-registry",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-one-login-user-registry"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "One Plan UI",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui",
@@ -12193,6 +13143,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-person-on-probation-user-api"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Generates reports for the probation integration systems",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-pi-watch",
+    "mirror_name": "ministryofjustice.hmpps-pi-watch",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-pi-watch",
+    "name": "hmpps-pi-watch",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-pi-watch"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "API for access to Prison Person Data (data about a person that is specific to their time in prison)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prison-person-api",
@@ -12201,6 +13161,16 @@
     "name": "hmpps-prison-person-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-prison-person-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Handles prisoner contact information",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-contacts",
+    "mirror_name": "ministryofjustice.hmpps-prisoner-contacts",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-contacts",
+    "name": "hmpps-prisoner-contacts",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-contacts"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12244,6 +13214,36 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-probation-in-court-prepare-a-case-ui"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "End to end tests for HMPPS probation integration systems",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-probation-integration-e2e-docker-compose",
+    "mirror_name": "ministryofjustice.hmpps-probation-integration-e2e-docker-compose",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-integration-e2e-docker-compose",
+    "name": "hmpps-probation-integration-e2e-docker-compose",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-probation-integration-e2e-docker-compose"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Probation Integration Lambda functions, typically used for processing HMPPS domain events",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-probation-integration-lambda-functions",
+    "mirror_name": "ministryofjustice.hmpps-probation-integration-lambda-functions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-integration-lambda-functions",
+    "name": "hmpps-probation-integration-lambda-functions",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-probation-integration-lambda-functions"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prototype-tech-rader",
+    "mirror_name": "ministryofjustice.hmpps-prototype-tech-rader",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prototype-tech-rader",
+    "name": "hmpps-prototype-tech-rader",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prototype-tech-rader"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-10-30",
     "description": "A shared library of python functions and classes - mainly used for SRE purposes. (bootstrapped 2025-09-23)",
@@ -12265,6 +13265,36 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-record-a-recall-api"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Flat file reference data",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-reference-data",
+    "mirror_name": "ministryofjustice.hmpps-reference-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-reference-data",
+    "name": "hmpps-reference-data",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-reference-data"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Register synchronisation service for Delius",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-registers-to-delius-update",
+    "mirror_name": "ministryofjustice.hmpps-registers-to-delius-update",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-registers-to-delius-update",
+    "name": "hmpps-registers-to-delius-update",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-registers-to-delius-update"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "HMPPS Register synchronisation service for Nom",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-registers-to-nomis-update",
+    "mirror_name": "ministryofjustice.hmpps-registers-to-nomis-update",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-registers-to-nomis-update",
+    "name": "hmpps-registers-to-nomis-update",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-registers-to-nomis-update"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Resettlement passport: A website to provide people on probation access to appointments and licence info",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-person-on-probation-ui",
@@ -12275,6 +13305,26 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-resettlement-passport-person-on-probation-ui"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "A service for resettlement passport to prepare prisoner for release proof of concept",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-api",
+    "mirror_name": "ministryofjustice.hmpps-resettlement-passport-prototype-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-api",
+    "name": "hmpps-resettlement-passport-prototype-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-resettlement-passport-prototype-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Resettlement passport to prepare prisoner for release proof of concept UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-ui",
+    "mirror_name": "ministryofjustice.hmpps-resettlement-passport-prototype-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-ui",
+    "name": "hmpps-resettlement-passport-prototype-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-resettlement-passport-prototype-ui"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Resettlement passport to prepare prisoner for release UI",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-ui",
@@ -12283,6 +13333,46 @@
     "name": "hmpps-resettlement-passport-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-resettlement-passport-ui"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A proof of concept API Service for reviewing and sending recall decisions",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-review-send-recall-prototype-api",
+    "mirror_name": "ministryofjustice.hmpps-review-send-recall-prototype-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-review-send-recall-prototype-api",
+    "name": "hmpps-review-send-recall-prototype-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-review-send-recall-prototype-api"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Templates and styles for displaying consistent risk information UI elements in HMPPS services. ",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-risk-ui-elements",
+    "mirror_name": "ministryofjustice.hmpps-risk-ui-elements",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-risk-ui-elements",
+    "name": "hmpps-risk-ui-elements",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-risk-ui-elements"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Role to enable rsyslog to talk to logstash",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-rsyslog-role",
+    "mirror_name": "ministryofjustice.hmpps-rsyslog-role",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-rsyslog-role",
+    "name": "hmpps-rsyslog-role",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-rsyslog-role"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "\u2018Send money to someone in prison\u2019 prototypes",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-send-money-to-a-prisoner-prototype",
+    "mirror_name": "ministryofjustice.hmpps-send-money-to-a-prisoner-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-send-money-to-a-prisoner-prototype",
+    "name": "hmpps-send-money-to-a-prisoner-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-send-money-to-a-prisoner-prototype"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12305,6 +13395,106 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-sentence-plan-ui"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Sentence Planning UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-old",
+    "mirror_name": "ministryofjustice.hmpps-sentence-plan-ui-old",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-old",
+    "name": "hmpps-sentence-plan-ui-old",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-sentence-plan-ui-old"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-v2",
+    "mirror_name": "ministryofjustice.hmpps-sentence-plan-ui-v2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-v2",
+    "name": "hmpps-sentence-plan-ui-v2",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-sentence-plan-ui-v2"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Ansible to install postfix box",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-smtp-installer",
+    "mirror_name": "ministryofjustice.hmpps-smtp-installer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-smtp-installer",
+    "name": "hmpps-smtp-installer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-smtp-installer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-solr-bootstrap",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-solr-bootstrap",
+    "mirror_name": "ministryofjustice.hmpps-solr-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-solr-bootstrap",
+    "name": "hmpps-solr-bootstrap",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-solr-bootstrap"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-solr-packer",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-solr-packer",
+    "mirror_name": "ministryofjustice.hmpps-solr-packer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-solr-packer",
+    "name": "hmpps-solr-packer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-solr-packer"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-spring-boot-2.6-bug",
+    "mirror_name": "ministryofjustice.hmpps-spring-boot-2.6-bug",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-spring-boot-2.6-bug",
+    "name": "hmpps-spring-boot-2.6-bug",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-spring-boot-2.6-bug"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tech-docs",
+    "mirror_name": "ministryofjustice.hmpps-tech-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs",
+    "name": "hmpps-tech-docs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-tech-docs"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Data injection tool for end to end testing and data migration",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tier-sqs-tool",
+    "mirror_name": "ministryofjustice.hmpps-tier-sqs-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tier-sqs-tool",
+    "name": "hmpps-tier-sqs-tool",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-tier-sqs-tool"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tier-to-delius-update",
+    "mirror_name": "ministryofjustice.hmpps-tier-to-delius-update",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tier-to-delius-update",
+    "name": "hmpps-tier-to-delius-update",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-tier-to-delius-update"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "This is a repository for HMPPS and Tolomy to share the information required to migrate Probation services from UK Cloud to AWS",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tolomy-migration-share",
+    "mirror_name": "ministryofjustice.hmpps-tolomy-migration-share",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tolomy-migration-share",
+    "name": "hmpps-tolomy-migration-share",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-tolomy-migration-share"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Service that will run Trivy image scans on HMPPS container images and pushes the results into the service catalogue where they can be displayed in developer portal  (bootstrapped 2025-02-11)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-trivy-discovery",
@@ -12313,6 +13503,26 @@
     "name": "hmpps-trivy-discovery",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-trivy-discovery"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Listens for adjustment events to synchronise unused deductions.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-unused-deductions-listener",
+    "mirror_name": "ministryofjustice.hmpps-unused-deductions-listener",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-unused-deductions-listener",
+    "name": "hmpps-unused-deductions-listener",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-unused-deductions-listener"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "hmpps-vagrant-repo",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-vagrant-repo",
+    "mirror_name": "ministryofjustice.hmpps-vagrant-repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-vagrant-repo",
+    "name": "hmpps-vagrant-repo",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-vagrant-repo"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12333,6 +13543,16 @@
     "name": "hmpps-vsip-ui-tests",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-vsip-ui-tests"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "NOMS Workload Management Tool",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-wmt",
+    "mirror_name": "ministryofjustice.hmpps-wmt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-wmt",
+    "name": "hmpps-wmt",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-wmt"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -12377,6 +13597,16 @@
     "name": "juniper-mist-integration-spike",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/juniper-mist-integration-spike"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Example frontend system",
+    "full_name": "uk-gov-mirror/ministryofjustice.kv-frontend-app-dev",
+    "mirror_name": "ministryofjustice.kv-frontend-app-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.kv-frontend-app-dev",
+    "name": "kv-frontend-app-dev",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/kv-frontend-app-dev"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12488,6 +13718,16 @@
     "original_url": "https://github.com/ministryofjustice/manage-key-workers"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "Manage my prison",
+    "full_name": "uk-gov-mirror/ministryofjustice.manage-my-prison",
+    "mirror_name": "ministryofjustice.manage-my-prison",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.manage-my-prison",
+    "name": "manage-my-prison",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/manage-my-prison"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2020-10-20",
     "description": "A sample application configuration within the Modernisation Platform \u2022 This repository is defined and managed in Terraform",
@@ -12510,6 +13750,16 @@
     "original_url": "https://github.com/ministryofjustice/moj-ds-accessibility-audit"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.nomis-reports",
+    "mirror_name": "ministryofjustice.nomis-reports",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.nomis-reports",
+    "name": "nomis-reports",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/nomis-reports"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2026-07-30",
     "description": null,
@@ -12529,6 +13779,16 @@
     "name": "offender-risk-profiler",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/offender-risk-profiler"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "REST API Offenders microservice ",
+    "full_name": "uk-gov-mirror/ministryofjustice.offenders-api",
+    "mirror_name": "ministryofjustice.offenders-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.offenders-api",
+    "name": "offenders-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/offenders-api"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -12584,6 +13844,16 @@
     "original_url": "https://github.com/ministryofjustice/original-hmpps-electronic-monitoring-data-insights-ui"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.payforlegalaid-openapi",
+    "mirror_name": "ministryofjustice.payforlegalaid-openapi",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.payforlegalaid-openapi",
+    "name": "payforlegalaid-openapi",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/payforlegalaid-openapi"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-09-29",
     "description": null,
@@ -12593,6 +13863,16 @@
     "name": "payforlegalaid-tests",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/payforlegalaid-tests"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "A UI front-end for the facilities management system Planet FM using a node app with the gov uk front end toolkit.",
+    "full_name": "uk-gov-mirror/ministryofjustice.planet-fm",
+    "mirror_name": "ministryofjustice.planet-fm",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.planet-fm",
+    "name": "planet-fm",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/planet-fm"
   },
   {
     "deleted_on": "2026-08-11",
@@ -12626,6 +13906,26 @@
     "original_url": "https://github.com/ministryofjustice/prisoner-content-hub-feedback-exporter"
   },
   {
+    "deleted_on": "2026-08-22",
+    "description": "A service for prisoner transactions",
+    "full_name": "uk-gov-mirror/ministryofjustice.prisoner-transactions",
+    "mirror_name": "ministryofjustice.prisoner-transactions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.prisoner-transactions",
+    "name": "prisoner-transactions",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/prisoner-transactions"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Prototype for rapid development of UI and UX features for user testing.",
+    "full_name": "uk-gov-mirror/ministryofjustice.probation-court-prototype",
+    "mirror_name": "ministryofjustice.probation-court-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.probation-court-prototype",
+    "name": "probation-court-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/probation-court-prototype"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2022-08-10",
     "description": null,
@@ -12646,6 +13946,16 @@
     "name": "provision-ubuntu2004-on-wsl2",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/provision-ubuntu2004-on-wsl2"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "Created this project to test https://github.com/renovatebot/renovate",
+    "full_name": "uk-gov-mirror/ministryofjustice.renovate-typescript-poc",
+    "mirror_name": "ministryofjustice.renovate-typescript-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.renovate-typescript-poc",
+    "name": "renovate-typescript-poc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/renovate-typescript-poc"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12863,6 +14173,16 @@
     "name": "tst-em-example-app-jkn",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/tst-em-example-app-jkn"
+  },
+  {
+    "deleted_on": "2026-08-22",
+    "description": "This repo is created to hold all `vcms` performance test scripts",
+    "full_name": "uk-gov-mirror/ministryofjustice.vcms-performance",
+    "mirror_name": "ministryofjustice.vcms-performance",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.vcms-performance",
+    "name": "vcms-performance",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/vcms-performance"
   },
   {
     "approximate_date_source": "last-git-activity",

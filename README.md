@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1593**
+Total deleted repositories: **1725**
 Organisations affected: **63**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,13 +9,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**259**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.8% |
 | [hmrc](https://github.com/hmrc) | [**196**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.8% |
 | [nhsdigital](https://github.com/nhsdigital) | [**170**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 33.9% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**127**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 4.8% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**101**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.6% |
-| [ONSdigital](https://github.com/ONSdigital) | [**67**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.4% |
+| [ONSdigital](https://github.com/ONSdigital) | [**67**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.5% |
@@ -72,6 +72,270 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.6% |
+
+## [ministryofjustice](https://github.com/ministryofjustice) (259)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`bh-frontend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app-dev) | Example frontend system | 2026-08-22 |
+| [`calculate-release-dates-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype) | Prototypes for the Calculate release dates service | 2026-08-22 |
+| [`community-proxy`](https://github.com/uk-gov-mirror/ministryofjustice.community-proxy) | Application to proxy requests to the Community API and authenticate based on OAuth roles. | 2026-08-22 |
+| [`court-case-test-app`](https://github.com/uk-gov-mirror/ministryofjustice.court-case-test-app) | Populate test data in pre-prod on a daily basis | 2026-08-22 |
+| [`digital-prison-reporting-tf-glue-catalog-table`](https://github.com/uk-gov-mirror/ministryofjustice.digital-prison-reporting-tf-glue-catalog-table) | Terraform Re-Usable Module for Glue Catalog Table | 2026-08-22 |
+| [`dps-data-compliance`](https://github.com/uk-gov-mirror/ministryofjustice.dps-data-compliance) | A spring boot app to manage data compliance for the Digital Prison Services | 2026-08-22 |
+| [`dps-monitor`](https://github.com/uk-gov-mirror/ministryofjustice.dps-monitor) | Monitoring of DPS systems | 2026-08-22 |
+| [`dv-frontend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.dv-frontend-app-dev) | Example frontend system | 2026-08-22 |
+| [`hmpps-alfresco-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-bootstrap) |  | 2026-08-22 |
+| [`hmpps-alfresco-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer) | Ansible Galaxy Role to install alfresco | 2026-08-22 |
+| [`hmpps-alfresco-installer-builder`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-alfresco-installer-builder) | Ansible Galaxy Role to install alfresco | 2026-08-22 |
+| [`hmpps-ansible-esadmin-role`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-esadmin-role) | alfresco esadmin node role | 2026-08-22 |
+| [`hmpps-ansible-packages`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-packages) | Ansible Galaxy role to manage packages on a base instance | 2026-08-22 |
+| [`hmpps-ansible-roles`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-roles) |  | 2026-08-22 |
+| [`hmpps-ansible-samba-role`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ansible-samba-role) | samba installer | 2026-08-22 |
+| [`hmpps-approved-premises-e2e`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-e2e) | End to End Tests for the Approved Premises project | 2026-08-22 |
+| [`hmpps-arn-assessment-data-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-assessment-data-api) | HMPPS ARN Answers API | 2026-08-22 |
+| [`hmpps-arn-forms-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-forms-ui) | HMPPS ARN Forms UI | 2026-08-22 |
+| [`hmpps-arn-risks-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-arn-risks-api) | HMPPS ARN Risks API | 2026-08-22 |
+| [`hmpps-azure-oms`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-azure-oms) | Scripts and config for Azure OMS | 2026-08-22 |
+| [`hmpps-base-packer-pipeline`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-base-packer-pipeline) |  | 2026-08-22 |
+| [`hmpps-beats-monitoring`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-beats-monitoring) | Ansible Galaxy role to install file and metricbeats | 2026-08-22 |
+| [`hmpps-book-secure-move`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-book-secure-move) | Documentation for the Book a secure move Platform - a platform to enable the safe, decent transport of people around the criminal justice system | 2026-08-22 |
+| [`hmpps-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-bootstrap) | Bootstrap scripts for DRY terraform creation - Use CENTOS branch for most of our amis | 2026-08-22 |
+| [`hmpps-candidate-matching-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-candidate-matching-api) | HMPPS Candidate Matching Service API | 2026-08-22 |
+| [`hmpps-careers-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-careers-prototype) | Prototype careers site for HMPPS, built using the Gov.UK prototype kit | 2026-08-22 |
+| [`hmpps-central-session`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-central-session) | A library for implementing a shared central user session between microservice frontends | 2026-08-22 |
+| [`hmpps-central-session-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-central-session-api) | API to manage the HMPPS Central Session | 2026-08-22 |
+| [`hmpps-ciag-careers-induction-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-api) | A service for Careers Information, Advice and Guidance (CIAG) | 2026-08-22 |
+| [`hmpps-ciag-careers-induction-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ciag-careers-induction-ui) | User interface for Careers Information, Advice and Guidance (CIAG) | 2026-08-22 |
+| [`hmpps-clamav`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-clamav) | Docker build of ClamAV for anti-virus scanning during file upload | 2026-08-22 |
+| [`hmpps-community-accommodation-service-two-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-service-two-ui) | The user interface for Community Accommodation Service 2 (CAS-2) | 2026-08-22 |
+| [`hmpps-community-accommodation-tier-2-e2e`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-community-accommodation-tier-2-e2e) | End to end tests for the CAS2 project | 2026-08-22 |
+| [`hmpps-court-cases-release-dates-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-cases-release-dates-prototype) | A prototype for the combined journeys and service which make up Court cases and release dates. | 2026-08-22 |
+| [`hmpps-cr-ancillary-cp-oracle`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-cp-oracle) | Repository for Community Rehabilitation Services CP Oracle ancillary application | 2026-08-22 |
+| [`hmpps-cr-ancillary-jira-ansible`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jira-ansible) | HMPPS Community Rehabilitation Ancillary Applications - Jira Service Management Ansible | 2026-08-22 |
+| [`hmpps-cr-ancillary-jitbit`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-cr-ancillary-jitbit) | Repository for Community Rehabilitation Services Jitbit service desk ancillary application | 2026-08-22 |
+| [`hmpps-delius-core-389ds-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-389ds-bootstrap) |  | 2026-08-22 |
+| [`hmpps-delius-core-apacheds-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-bootstrap) | Bootstrap Ansibel role to update our ApacheDS config | 2026-08-22 |
+| [`hmpps-delius-core-apacheds-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-apacheds-installer) |  | 2026-08-22 |
+| [`hmpps-delius-core-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-bootstrap) | Ansible Galaxy Roles to bootstrap WebLogic for Delius Core | 2026-08-22 |
+| [`hmpps-delius-core-build`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-build) | Containerised dependencies for Delius-core | 2026-08-22 |
+| [`hmpps-delius-core-management-server-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-management-server-bootstrap) | Ansible role for bootstrapping the delius-core management server | 2026-08-22 |
+| [`hmpps-delius-core-oracle-client-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracle-client-installer) |  | 2026-08-22 |
+| [`hmpps-delius-core-oracledb-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-oracledb-installer) | hmpps-delius-core-oracledb-installer | 2026-08-22 |
+| [`hmpps-delius-core-pwm-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-pwm-bootstrap) | Ansible role to bootstrap the Delius Password Self Service tool | 2026-08-22 |
+| [`hmpps-delius-core-system-user`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-system-user) | System User/Group Creation Role for Ansible | 2026-08-22 |
+| [`hmpps-delius-core-umt-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-umt-bootstrap) | Bootstrap ansible role for the delius-core User Management Tool (UMT) | 2026-08-22 |
+| [`hmpps-delius-core-weblogic-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-core-weblogic-installer) | Ansible Galaxy Role to Install Weblogic into an AMI | 2026-08-22 |
+| [`hmpps-delius-dss-offloc-docker`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-dss-offloc-docker) |  | 2026-08-22 |
+| [`hmpps-delius-integration-data-analysis`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-integration-data-analysis) |  | 2026-08-22 |
+| [`hmpps-delius-interventions-event-listener`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-interventions-event-listener) | Consumer of interventions domain events for interfacing with nDelius | 2026-08-22 |
+| [`hmpps-delius-mis-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-mis-installer) |  | 2026-08-22 |
+| [`hmpps-delius-new-tech-shared-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-new-tech-shared-terraform) |  | 2026-08-22 |
+| [`hmpps-delius-po-alfresco-proxy`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-po-alfresco-proxy) |  | 2026-08-22 |
+| [`hmpps-delius-psn-proxy-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psn-proxy-packer) | PSN Proxy image for Delius built with Packer. | 2026-08-22 |
+| [`hmpps-delius-psn-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psn-terraform) | Terraform code for the Delius PSN proxies. | 2026-08-22 |
+| [`hmpps-delius-psnproxy-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-psnproxy-packer) | Packer project for the delius proxy. This REPLACES ministryofjustice/hmpps-delius-psn-proxy-packer | 2026-08-22 |
+| [`hmpps-digital-developer-recruitment`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-digital-developer-recruitment) |  | 2026-08-22 |
+| [`hmpps-digital-prison-reporting-glue-poc`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-digital-prison-reporting-glue-poc) | POC Only - repo to contain scripts to resolve glue etl tasks - TBC deployment yaml files | 2026-08-22 |
+| [`hmpps-ems-container-actions-toolkit`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-container-actions-toolkit) |  | 2026-08-22 |
+| [`hmpps-engineering-jira-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-bootstrap) | Ansible bootstrap for JIRA Server | 2026-08-22 |
+| [`hmpps-engineering-jira-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-jira-installer) | Ansible repo for installing JIRA Server | 2026-08-22 |
+| [`hmpps-engineering-operations`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-operations) | hmpps-engineering-operations | 2026-08-22 |
+| [`hmpps-engineering-pipelines-utils`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-engineering-pipelines-utils) |  | 2026-08-22 |
+| [`hmpps-estate-map`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-estate-map) | Trying to visualise azure resources and make them browsable | 2026-08-22 |
+| [`hmpps-hub`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hub) |  | 2026-08-22 |
+| [`hmpps-hub-fe`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hub-fe) |  | 2026-08-22 |
+| [`hmpps-integration-api-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-integration-api-docs) | A documentation site for HMPPS Integration API | 2026-08-22 |
+| [`hmpps-interventions-add-find-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-add-find-prototype) | Prototypes created by the “add and find interventions” HMPPS alpha team. | 2026-08-22 |
+| [`hmpps-interventions-onboarding`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding) | Onboarding providers and services to the 'Refer and monitor an intervention' service | 2026-08-22 |
+| [`hmpps-interventions-onboarding-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-onboarding-prototype) |  | 2026-08-22 |
+| [`hmpps-interventions-vision`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-interventions-vision) |  | 2026-08-22 |
+| [`hmpps-is-pacfs-back-button-live`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-is-pacfs-back-button-live) | A status page for the PACFS back button | 2026-08-22 |
+| [`hmpps-jitbit-samba-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jitbit-samba-bootstrap) | samba bootstrap | 2026-08-22 |
+| [`hmpps-job-feed-monitor`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-job-feed-monitor) | Monitor execution of the HMPPS Job Feed Parser | 2026-08-22 |
+| [`hmpps-job-feed-parser`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-job-feed-parser) | A ruby app to parse the RSS feed from WCN | 2026-08-22 |
+| [`hmpps-logstash`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-logstash) | Ansible Galaxy Role to install logstash | 2026-08-22 |
+| [`hmpps-manage-a-warrant-folder`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder) | A service for managing warrant files | 2026-08-22 |
+| [`hmpps-manage-a-warrant-folder-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-a-warrant-folder-api) | API service for managing warrant files | 2026-08-22 |
+| [`hmpps-manage-assess-risks-and-needs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-assess-risks-and-needs) |  | 2026-08-22 |
+| [`hmpps-micro-frontend-poc`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc) | HMPPS Micro Frontend POC | 2026-08-22 |
+| [`hmpps-micro-frontend-poc-component`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-micro-frontend-poc-component) | HMPPS Micro Frontend POC Component | 2026-08-22 |
+| [`hmpps-mis-automation`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mis-automation) | hmmps mis automation | 2026-08-22 |
+| [`hmpps-monitor-prisoner-money-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-monitor-prisoner-money-prototype) | ‘Prisoner Money Intelligence’ prototypes | 2026-08-22 |
+| [`hmpps-network-delius-new-tech-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-delius-new-tech-terraform) |  | 2026-08-22 |
+| [`hmpps-network-terraform-alfresco`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-terraform-alfresco) | hmpps-network-terraform-alfresco | 2026-08-22 |
+| [`hmpps-network-terraform-mis`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-network-terraform-mis) | hmpps-network-terraform-mis | 2026-08-22 |
+| [`hmpps-nextcloud-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nextcloud-installer) | Ansible to install Nextcloud | 2026-08-22 |
+| [`hmpps-nextcloud-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nextcloud-packer) | Nextcloud AMI | 2026-08-22 |
+| [`hmpps-nfs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nfs) | Ansible galaxy role to install nfs utils on both server and client | 2026-08-22 |
+| [`hmpps-nomis-aws-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-aws-terraform) | Infrastructure as code for  building Nomis in AWS | 2026-08-22 |
+| [`hmpps-nomis-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-bootstrap) | Ansible Galaxy Role to bootstrap nomis | 2026-08-22 |
+| [`hmpps-nomis-finance-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nomis-finance-api) | API for financial data interaction with NOMIS | 2026-08-22 |
+| [`hmpps-one-login-user-registry`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-login-user-registry) | A microservice for registering one-login accounts to HMPPS services | 2026-08-22 |
+| [`hmpps-pi-watch`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-pi-watch) | Generates reports for the probation integration systems | 2026-08-22 |
+| [`hmpps-prisoner-contacts`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-contacts) | Handles prisoner contact information | 2026-08-22 |
+| [`hmpps-probation-integration-e2e-docker-compose`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-integration-e2e-docker-compose) | End to end tests for HMPPS probation integration systems | 2026-08-22 |
+| [`hmpps-probation-integration-lambda-functions`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-integration-lambda-functions) | Probation Integration Lambda functions, typically used for processing HMPPS domain events | 2026-08-22 |
+| [`hmpps-prototype-tech-rader`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prototype-tech-rader) |  | 2026-08-22 |
+| [`hmpps-reference-data`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-reference-data) | Flat file reference data | 2026-08-22 |
+| [`hmpps-registers-to-delius-update`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-registers-to-delius-update) | HMPPS Register synchronisation service for Delius | 2026-08-22 |
+| [`hmpps-registers-to-nomis-update`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-registers-to-nomis-update) | HMPPS Register synchronisation service for Nom | 2026-08-22 |
+| [`hmpps-resettlement-passport-prototype-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-api) | A service for resettlement passport to prepare prisoner for release proof of concept | 2026-08-22 |
+| [`hmpps-resettlement-passport-prototype-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-prototype-ui) | Resettlement passport to prepare prisoner for release proof of concept UI | 2026-08-22 |
+| [`hmpps-review-send-recall-prototype-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-review-send-recall-prototype-api) | A proof of concept API Service for reviewing and sending recall decisions | 2026-08-22 |
+| [`hmpps-risk-ui-elements`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-risk-ui-elements) | Templates and styles for displaying consistent risk information UI elements in HMPPS services.  | 2026-08-22 |
+| [`hmpps-rsyslog-role`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-rsyslog-role) | Role to enable rsyslog to talk to logstash | 2026-08-22 |
+| [`hmpps-send-money-to-a-prisoner-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-send-money-to-a-prisoner-prototype) | ‘Send money to someone in prison’ prototypes | 2026-08-22 |
+| [`hmpps-sentence-plan-ui-old`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-old) | Sentence Planning UI | 2026-08-22 |
+| [`hmpps-sentence-plan-ui-v2`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui-v2) |  | 2026-08-22 |
+| [`hmpps-smtp-installer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-smtp-installer) | Ansible to install postfix box | 2026-08-22 |
+| [`hmpps-solr-bootstrap`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-solr-bootstrap) | hmpps-solr-bootstrap | 2026-08-22 |
+| [`hmpps-solr-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-solr-packer) | hmpps-solr-packer | 2026-08-22 |
+| [`hmpps-spring-boot-2.6-bug`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-spring-boot-2.6-bug) |  | 2026-08-22 |
+| [`hmpps-tech-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs) |  | 2026-08-22 |
+| [`hmpps-tier-sqs-tool`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tier-sqs-tool) | Data injection tool for end to end testing and data migration | 2026-08-22 |
+| [`hmpps-tier-to-delius-update`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tier-to-delius-update) |  | 2026-08-22 |
+| [`hmpps-tolomy-migration-share`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tolomy-migration-share) | This is a repository for HMPPS and Tolomy to share the information required to migrate Probation services from UK Cloud to AWS | 2026-08-22 |
+| [`hmpps-unused-deductions-listener`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-unused-deductions-listener) | Listens for adjustment events to synchronise unused deductions. | 2026-08-22 |
+| [`hmpps-vagrant-repo`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-vagrant-repo) | hmpps-vagrant-repo | 2026-08-22 |
+| [`hmpps-wmt`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-wmt) | NOMS Workload Management Tool | 2026-08-22 |
+| [`kv-frontend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.kv-frontend-app-dev) | Example frontend system | 2026-08-22 |
+| [`manage-my-prison`](https://github.com/uk-gov-mirror/ministryofjustice.manage-my-prison) | Manage my prison | 2026-08-22 |
+| [`nomis-reports`](https://github.com/uk-gov-mirror/ministryofjustice.nomis-reports) |  | 2026-08-22 |
+| [`offenders-api`](https://github.com/uk-gov-mirror/ministryofjustice.offenders-api) | REST API Offenders microservice  | 2026-08-22 |
+| [`payforlegalaid-openapi`](https://github.com/uk-gov-mirror/ministryofjustice.payforlegalaid-openapi) |  | 2026-08-22 |
+| [`planet-fm`](https://github.com/uk-gov-mirror/ministryofjustice.planet-fm) | A UI front-end for the facilities management system Planet FM using a node app with the gov uk front end toolkit. | 2026-08-22 |
+| [`prisoner-transactions`](https://github.com/uk-gov-mirror/ministryofjustice.prisoner-transactions) | A service for prisoner transactions | 2026-08-22 |
+| [`probation-court-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.probation-court-prototype) | Prototype for rapid development of UI and UX features for user testing. | 2026-08-22 |
+| [`renovate-typescript-poc`](https://github.com/uk-gov-mirror/ministryofjustice.renovate-typescript-poc) | Created this project to test https://github.com/renovatebot/renovate | 2026-08-22 |
+| [`vcms-performance`](https://github.com/uk-gov-mirror/ministryofjustice.vcms-performance) | This repo is created to hold all `vcms` performance test scripts | 2026-08-22 |
+| [`bh-backend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-backend-app-dev) | Example backend system | 2026-08-21 |
+| [`bh-example-backend-api-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-example-backend-api-dev) | Example backend system | 2026-08-21 |
+| [`bh-frontend-app`](https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app) | Example frontend system | 2026-08-21 |
+| [`chux-dev-typescript`](https://github.com/uk-gov-mirror/ministryofjustice.chux-dev-typescript) | a first attempt at creating a typescript app | 2026-08-21 |
+| [`court-case-service.replaced.2026-08-21`](https://github.com/uk-gov-mirror/ministryofjustice.court-case-service.replaced.2026-08-21) |  | 2026-08-21 |
+| [`court-list-splitter`](https://github.com/uk-gov-mirror/ministryofjustice.court-list-splitter) | This service has been decommissioned | 2026-08-21 |
+| [`hmpps-approved-premises-manage-a-resident-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-api) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-21 |
+| [`hmpps-assess-for-early-release-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-api) | An API for Assess for Early Release | 2026-08-21 |
+| [`hmpps-assess-for-early-release-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-ui) | The user interface for Assess for Early Release | 2026-08-21 |
+| [`hmpps-custody-manager-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-custody-manager-api) | HMPPS Custody Manager API | 2026-08-21 |
+| [`hmpps-hpa`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hpa) | Historical Prisoner Application | 2026-08-21 |
+| [`hmpps-it-incident-hub`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-it-incident-hub) | A basic web based incident creation app for ServiceNow | 2026-08-21 |
+| [`hmpps-jobs-board-reporting-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-api) | HMPPS Jobs Board Reporting API | 2026-08-21 |
+| [`hmpps-launchpad-audit`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-launchpad-audit) | Launchpad Audit API | 2026-08-21 |
+| [`hmpps-manage-pom-cases`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases) | Digital service for allocating, managing and handing over POM cases. (bootstrapped 2025-02-21) | 2026-08-21 |
+| [`hmpps-manage-pom-cases-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases-api) | Digital service for allocating, managing and handing over POM cases. API repository. (bootstrapped 2025-02-20) | 2026-08-21 |
+| [`hmpps-one-plan-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui) | One Plan UI | 2026-08-21 |
+| [`hmpps-prison-person-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prison-person-api) | API for access to Prison Person Data (data about a person that is specific to their time in prison) | 2026-08-21 |
+| [`hmpps-prisoner-profile-casenotes-search-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-profile-casenotes-search-prototype) | HMPPS Prisoner Profile Case Notes Search Prototype | 2026-08-21 |
+| [`prisoner-content-hub-feedback-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.prisoner-content-hub-feedback-exporter) | A scheduled job for exporting feedback to google sheets | 2026-08-21 |
+| [`san-eleventy-test`](https://github.com/uk-gov-mirror/ministryofjustice.san-eleventy-test) | Testing documentation website | 2026-08-21 |
+| [`san-typescript-test`](https://github.com/uk-gov-mirror/ministryofjustice.san-typescript-test) | a first attempt at creating a typescript app | 2026-08-21 |
+| [`opg-make-lpa`](https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa) | The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform | 2026-08-20 |
+| [`baking-office`](https://github.com/uk-gov-mirror/ministryofjustice.baking-office) |  | 2026-08-15 |
+| [`hmpps-accommodation-data-domain-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api) | A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10) | 2026-08-11 |
+| [`hmpps-approved-premises-manage-a-resident-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-ui) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-11 |
+| [`hmpps-assess-risks-and-needs-oastub-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-risks-and-needs-oastub-ui) | Stub output of the OASys journey to trigger flow through ARNS Handover Service into ARNS apps | 2026-08-11 |
+| [`hmpps-audit-poc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-api) | A POC backend application for testing audit strategies | 2026-08-11 |
+| [`hmpps-audit-poc-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-ui) | A POC frontend application for testing audit strategies | 2026-08-11 |
+| [`hmpps-authorization`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-authorization) | HMPPS Authorization Server UI | 2026-08-11 |
+| [`hmpps-court-case-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-case-service-api) | Service to access court cases imported from HMCTS Libra court lists and Common Platform (bootstrapped 2025-08-15) | 2026-08-11 |
+| [`hmpps-dpr-fake-dps-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-dpr-fake-dps-service) | HMPPS Digital Prisons Reporting Fake DPS Service | 2026-08-11 |
+| [`hmpps-electronic-monitoring-crime-matching-react`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-crime-matching-react) | A Microfrontend to host React App (bootstrapped 2025-04-24) | 2026-08-11 |
+| [`hmpps-github-actions-runner-security`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-github-actions-runner-security) | A special version of the Github Actions Runner specifically to run OWASP security scans (bootstrapped 2025-08-18) | 2026-08-11 |
+| [`hmpps-integration-events`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-integration-events) | Integration events provider for consumers of hmpps-integration-api | 2026-08-11 |
+| [`hmpps-jobs-board-integration-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-integration-api) | HMPPS Jobs Board Integration API | 2026-08-11 |
+| [`hmpps-matomo-analytics`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-matomo-analytics) | A place for Matomo Analytics (Boostrapped 10-Dec-2025) | 2026-08-11 |
+| [`hmpps-person-match-score`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-person-match-score) | An API wrapper around a model developed by the MoJ Analytical Platform for scoring the confidence of people matches across MoJ systems | 2026-08-11 |
+| [`hmpps-person-on-probation-user-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-person-on-probation-user-api) | A service to provide details releating to a person on probation user | 2026-08-11 |
+| [`hmpps-prisoner-finance-poc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-finance-poc-api) | A POC API for managing prisoner finances (bootstrapped 2025-06-03) | 2026-08-11 |
+| [`hmpps-probation-in-court-prepare-a-case-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-in-court-prepare-a-case-ui) | The frontend user interface for PACFS (Prepare A Case For Sentencing) (bootstrapped 2025-12-17) | 2026-08-11 |
+| [`hmpps-record-a-recall-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-record-a-recall-api) | None (bootstrapped 2025-06-23) | 2026-08-11 |
+| [`hmpps-resettlement-passport-person-on-probation-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-person-on-probation-ui) | Resettlement passport: A website to provide people on probation access to appointments and licence info | 2026-08-11 |
+| [`hmpps-resettlement-passport-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-ui) | Resettlement passport to prepare prisoner for release UI | 2026-08-11 |
+| [`hmpps-sentence-plan`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan) | Sentence Planning | 2026-08-11 |
+| [`hmpps-sentence-plan-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui) | Sentence Planning UI | 2026-08-11 |
+| [`hmpps-trivy-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-trivy-discovery) | Service that will run Trivy image scans on HMPPS container images and pushes the results into the service catalogue where they can be displayed in developer portal  (bootstrapped 2025-02-11) | 2026-08-11 |
+| [`hmpps-visits-prison-config-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-visits-prison-config-service) | A service to handle prison configurations for visits to prisons | 2026-08-11 |
+| [`hmpps-vsip-ui-tests`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-vsip-ui-tests) | A suite of Selenium/Cucumber tests to validate end-to-end user journeys | 2026-08-11 |
+| [`manage-key-workers`](https://github.com/uk-gov-mirror/ministryofjustice.manage-key-workers) | UI and Backend for Frontend of OMIC Keyworker | 2026-08-11 |
+| [`offender-risk-profiler`](https://github.com/uk-gov-mirror/ministryofjustice.offender-risk-profiler) | API for Providing Risk Profile Information on Offenders | 2026-08-11 |
+| [`original-hmpps-electronic-monitoring-data-insights-ui`](https://github.com/uk-gov-mirror/ministryofjustice.original-hmpps-electronic-monitoring-data-insights-ui) | The user interface for Electronic Monitoring Probation Officers | 2026-08-11 |
+| [`prison-services-feedback-and-support`](https://github.com/uk-gov-mirror/ministryofjustice.prison-services-feedback-and-support) | Prison services feedback and support application | 2026-08-11 |
+| [`tst-em-example-app-jkn`](https://github.com/uk-gov-mirror/ministryofjustice.tst-em-example-app-jkn) | UI for searching historical electronic monitoring data records | 2026-08-11 |
+| [`october-friendly-cherry-tree`](https://github.com/uk-gov-mirror/ministryofjustice.october-friendly-cherry-tree) |  | 2026-07-30* |
+| [`laa-maat-scheduled-tasks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-maat-scheduled-tasks) |  | 2025-11-06* |
+| [`james-kotlin-test`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) | 2025-11-05* |
+| [`staff-identity-idam-entra-infra`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-idam-entra-infra) | This repository holds the configuration for managing various end user facing configurations within Entra ID. | 2025-11-05* |
+| [`hmpps-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-python-lib) | A shared library of python functions and classes - mainly used for SRE purposes. (bootstrapped 2025-09-23) | 2025-10-30* |
+| [`laa-crime-court-message-processor`](https://github.com/uk-gov-mirror/ministryofjustice.laa-crime-court-message-processor) | Repository for the Crime Court Message Processor service | 2025-10-21* |
+| [`hmpps-hdc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api) | API for managing HDC licences | 2025-10-17* |
+| [`hmpps-probation-in-court-e2e-tests-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-in-court-e2e-tests-service) | End-To-End tests for Probation In Court application (bootstrapped 2025-10-01) | 2025-10-01* |
+| [`opg-test-branch-protection`](https://github.com/uk-gov-mirror/ministryofjustice.opg-test-branch-protection) | Repo for testing branch protection rules: Managed by opg-org-infra & Terraform | 2025-09-30* |
+| [`payforlegalaid-tests`](https://github.com/uk-gov-mirror/ministryofjustice.payforlegalaid-tests) |  | 2025-09-29* |
+| [`laa-nolasa`](https://github.com/uk-gov-mirror/ministryofjustice.laa-nolasa) | Not on LIBRA Auto Search Application | 2025-09-18* |
+| [`laa-assess-a-claim`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim) |  | 2025-08-26* |
+| [`laa-data-stewardship-civil-claims-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-stewardship-civil-claims-api) |  | 2025-07-17* |
+| [`care-arrangement-plan-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.care-arrangement-plan-prototype) |  | 2025-07-08* |
+| [`live-de`](https://github.com/uk-gov-mirror/ministryofjustice.live-de) |  | 2025-06-09* |
+| [`seo-de`](https://github.com/uk-gov-mirror/ministryofjustice.seo-de) |  | 2025-05-07* |
+| [`data-docs-public`](https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public) |  | 2025-01-23* |
+| [`diso-devops-module-ssm-bastion`](https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion) | Terraform module for the bastion accessed only via an AWS Systems Manager Session. | 2024-10-04* |
+| [`staff-device-dhcp-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dhcp-server) | The ISC KEA server for serving DHCP requests (via a Docker image) | 2024-06-10* |
+| [`terraform-aws-tgw`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw) | Terraform module for TGW and TGW route table creation  | 2024-05-22* |
+| [`ruby-on-rails-demo`](https://github.com/uk-gov-mirror/ministryofjustice.ruby-on-rails-demo) | A simple hello world app, in order for the team to learn Ruby on rails | 2024-02-21* |
+| [`dso-infra-azure-tags`](https://github.com/uk-gov-mirror/ministryofjustice.dso-infra-azure-tags) | For management of Azure tags within DSO FixNGo estate | 2024-01-09* |
+| [`juniper-mist-integration-spike`](https://github.com/uk-gov-mirror/ministryofjustice.juniper-mist-integration-spike) |  | 2023-12-12* |
+| [`provision-ubuntu2004-on-wsl2`](https://github.com/uk-gov-mirror/ministryofjustice.provision-ubuntu2004-on-wsl2) | Automating provisoning ubuntu 20.04 with Ansible on WSL 2 | 2023-10-27* |
+| [`staff-device-logging-syslog-to-cloudwatch`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-syslog-to-cloudwatch) | Docker container to forward syslog events to CloudWatch | 2023-06-15* |
+| [`laa-cwa-feature-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cwa-feature-tests) |  | 2023-01-31* |
+| [`opg-infra-costs`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs) | OPG Infrastructure Costs: Managed by opg-org-infra & Terraform | 2022-09-27* |
+| [`probation-offender-search-indexer`](https://github.com/uk-gov-mirror/ministryofjustice.probation-offender-search-indexer) |  | 2022-08-10* |
+| [`aws-trusted-advisor-to-github-issues`](https://github.com/uk-gov-mirror/ministryofjustice.aws-trusted-advisor-to-github-issues) | Automates creation of GitHub Issues from AWS Trusted Advisor checks | 2022-07-28* |
+| [`staff-infrastructure-monitoring`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring) | Terraform module that deploys the staff infrastructure monitoring solution. It has support for components like: Grafana, Prometheus, etc. | 2022-06-14* |
+| [`hmpps-manage-supervisions`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-supervisions) |  | 2022-06-11* |
+| [`staff-device-logging-dns-dhcp-integration-tests`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-dns-dhcp-integration-tests) | Remote full stack integration tests currently run from Corsham test site. Services being tested include Security Logging, DHCP and DNS. | 2022-05-26* |
+| [`iis`](https://github.com/uk-gov-mirror/ministryofjustice.iis) | Historical Prisoners Application UI | 2022-03-30* |
+| [`digital-studio-infra`](https://github.com/uk-gov-mirror/ministryofjustice.digital-studio-infra) |  | 2022-02-07* |
+| [`hmpps-delius-iaps-shared-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-iaps-shared-terraform) | hmpps-delius-iaps-shared-terraform | 2022-02-07* |
+| [`hmpps-book-video-link`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-book-video-link) | allow court users to book video link session with prison | 2022-02-03* |
+| [`hmpps-delius-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-api) |  | 2022-01-27* |
+| [`staff-infrastructure-monitoring-deployments`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring-deployments) |  | 2021-11-20* |
+| [`staff-device-dns-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-server) | Staff Device DNS Server repository | 2021-08-13* |
+| [`hmpps-workforce-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-workforce-prototype) | Prototyping for workforce management and case allocation in the community | 2021-07-09* |
+| [`analytics-platform-aws-federated-login`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-aws-federated-login) | Web app to handle federated AWS console login with JWTs | 2021-05-06* |
+| [`analytics-platform-idler`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-idler) | Periodically idles Kubernetes deployments meeting certain criteria to avoid wasting money  | 2021-04-29* |
+| [`prison-to-probation-update`](https://github.com/uk-gov-mirror/ministryofjustice.prison-to-probation-update) | Updates Probation systems with changes to an offender's record in Prison | 2021-04-20* |
+| [`technology-diversity-statistics`](https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics) | We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics. | 2021-04-20* |
+| [`terraform-aws-step_function_globalprotect`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-step_function_globalprotect) |  | 2021-04-19* |
+| [`staff-device-shared-services-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-shared-services-infrastructure) | Staff Device AWS Infrastructure for build pipelines | 2021-04-12* |
+| [`moj-ds-accessibility-audit`](https://github.com/uk-gov-mirror/ministryofjustice.moj-ds-accessibility-audit) | Gov.UK Prototype Kit. This repository is defined and managed in Terraform | 2021-04-09* |
+| [`hmpps-ems-platform-terraform-modules`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules) | This repository contains terraform modules that are consumed by hmpps-ems-platform. | 2021-04-08* |
+| [`staff-infrastructure-monitoring-blackbox-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring-blackbox-exporter) |  | 2021-03-26* |
+| [`staff-device-logging-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-infrastructure) | Log proxy and forwarding infrastructure | 2021-03-25* |
+| [`hmpps-delius-iaps-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-iaps-packer) | Packer build for IAPS Server which hosts NDelius and IM Interface services | 2021-03-03* |
+| [`ALB-UnclaimedBalanceindex`](https://github.com/uk-gov-mirror/ministryofjustice.ALB-UnclaimedBalanceindex) | Unclaimed Balance Indexes | 2021-02-23* |
+| [`hmpps-delius-spg-codepipeline`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-codepipeline) |  | 2021-02-15* |
+| [`staff-device-dns-dhcp-disaster-recovery`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-dhcp-disaster-recovery) | Disaster recovery script for DNS and DHCP services. | 2021-02-15* |
+| [`wordpress-base-docker`](https://github.com/uk-gov-mirror/ministryofjustice.wordpress-base-docker) | A base WordPress image for use in the Publishing Platform. | 2021-02-05* |
+| [`cccd-spike-sns`](https://github.com/uk-gov-mirror/ministryofjustice.cccd-spike-sns) | Spike to test producing and consuming messages through AWS  SNS and SQS | 2021-01-20* |
+| [`cccd-maintenance-page`](https://github.com/uk-gov-mirror/ministryofjustice.cccd-maintenance-page) | Maintenance page for Claim for crown court defence | 2021-01-01* |
+| [`analytics-platform-go-unidler`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-go-unidler) | Unidle idled tools | 2020-12-18* |
+| [`laa-court-data-orchestration-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-orchestration-service) | A service to handle court data that exists on Common Platform | 2020-12-15* |
+| [`analytics-platform-restarter`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-restarter) | API to restart applications within a given namespace | 2020-12-04* |
+| [`hmpps-architecture-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-architecture-docs) | Tooling for automated documentation of HMPPS architecture | 2020-11-30* |
+| [`hmpps-delius-spg-testing-payload-generator`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-payload-generator) | Generates payloads for testing with the SPG | 2020-11-27* |
+| [`offloc-server`](https://github.com/uk-gov-mirror/ministryofjustice.offloc-server) | Serves up the offloc | 2020-11-27* |
+| [`hillsborough`](https://github.com/uk-gov-mirror/ministryofjustice.hillsborough) | Hillsborough Inquests | 2020-11-17* |
+| [`modernisation-platform-hello-world`](https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world) | A sample application configuration within the Modernisation Platform • This repository is defined and managed in Terraform | 2020-10-20* |
+| [`CCCD-prototype-kit-ext`](https://github.com/uk-gov-mirror/ministryofjustice.CCCD-prototype-kit-ext) |  | 2020-10-13* |
+| [`laa-claim-crown-court-defence-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-crown-court-defence-prototype) |  | 2020-10-13* |
+| [`setup-kd`](https://github.com/uk-gov-mirror/ministryofjustice.setup-kd) | Set up your GitHub Actions workflow with a specific version of UKHomeOffice/kd | 2020-09-24* |
+| [`adp-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.adp-prototype) | Advocate Defence Payments Interactive Prototype | 2020-09-12* |
+| [`CCCD-prototype-kit`](https://github.com/uk-gov-mirror/ministryofjustice.CCCD-prototype-kit) | Building static components for testing and user research | 2020-09-11* |
+| [`analytics-platform-airflow-docker-image`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-airflow-docker-image) | Repository used to build Airflow docker image | 2020-09-05* |
+| [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
+| [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
 ## [hmrc](https://github.com/hmrc) (196)
 
@@ -766,138 +1030,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`nodejs-wx-globe`](https://github.com/uk-gov-mirror/informatics-lab.nodejs-wx-globe) | Weather forecasts, satellite observations, social media |  |
 | [`opsdroid-skill-slack-to-s3`](https://github.com/uk-gov-mirror/informatics-lab.opsdroid-skill-slack-to-s3) | 💬 A skill for opsdroid to backup slack files to S3 |  |
 | [`video-service-scheduler`](https://github.com/uk-gov-mirror/informatics-lab.video-service-scheduler) |  |  |
-
-## [ministryofjustice](https://github.com/ministryofjustice) (127)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`bh-backend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-backend-app-dev) | Example backend system | 2026-08-21 |
-| [`bh-example-backend-api-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-example-backend-api-dev) | Example backend system | 2026-08-21 |
-| [`bh-frontend-app`](https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app) | Example frontend system | 2026-08-21 |
-| [`chux-dev-typescript`](https://github.com/uk-gov-mirror/ministryofjustice.chux-dev-typescript) | a first attempt at creating a typescript app | 2026-08-21 |
-| [`court-case-service.replaced.2026-08-21`](https://github.com/uk-gov-mirror/ministryofjustice.court-case-service.replaced.2026-08-21) |  | 2026-08-21 |
-| [`court-list-splitter`](https://github.com/uk-gov-mirror/ministryofjustice.court-list-splitter) | This service has been decommissioned | 2026-08-21 |
-| [`hmpps-approved-premises-manage-a-resident-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-api) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-21 |
-| [`hmpps-assess-for-early-release-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-api) | An API for Assess for Early Release | 2026-08-21 |
-| [`hmpps-assess-for-early-release-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-for-early-release-ui) | The user interface for Assess for Early Release | 2026-08-21 |
-| [`hmpps-custody-manager-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-custody-manager-api) | HMPPS Custody Manager API | 2026-08-21 |
-| [`hmpps-hpa`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hpa) | Historical Prisoner Application | 2026-08-21 |
-| [`hmpps-it-incident-hub`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-it-incident-hub) | A basic web based incident creation app for ServiceNow | 2026-08-21 |
-| [`hmpps-jobs-board-reporting-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-api) | HMPPS Jobs Board Reporting API | 2026-08-21 |
-| [`hmpps-launchpad-audit`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-launchpad-audit) | Launchpad Audit API | 2026-08-21 |
-| [`hmpps-manage-pom-cases`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases) | Digital service for allocating, managing and handing over POM cases. (bootstrapped 2025-02-21) | 2026-08-21 |
-| [`hmpps-manage-pom-cases-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-pom-cases-api) | Digital service for allocating, managing and handing over POM cases. API repository. (bootstrapped 2025-02-20) | 2026-08-21 |
-| [`hmpps-one-plan-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui) | One Plan UI | 2026-08-21 |
-| [`hmpps-prison-person-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prison-person-api) | API for access to Prison Person Data (data about a person that is specific to their time in prison) | 2026-08-21 |
-| [`hmpps-prisoner-profile-casenotes-search-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-profile-casenotes-search-prototype) | HMPPS Prisoner Profile Case Notes Search Prototype | 2026-08-21 |
-| [`prisoner-content-hub-feedback-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.prisoner-content-hub-feedback-exporter) | A scheduled job for exporting feedback to google sheets | 2026-08-21 |
-| [`san-eleventy-test`](https://github.com/uk-gov-mirror/ministryofjustice.san-eleventy-test) | Testing documentation website | 2026-08-21 |
-| [`san-typescript-test`](https://github.com/uk-gov-mirror/ministryofjustice.san-typescript-test) | a first attempt at creating a typescript app | 2026-08-21 |
-| [`opg-make-lpa`](https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa) | The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform | 2026-08-20 |
-| [`baking-office`](https://github.com/uk-gov-mirror/ministryofjustice.baking-office) |  | 2026-08-15 |
-| [`hmpps-accommodation-data-domain-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api) | A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10) | 2026-08-11 |
-| [`hmpps-approved-premises-manage-a-resident-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-manage-a-resident-ui) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements (bootstrapped 2025-11-04) | 2026-08-11 |
-| [`hmpps-assess-risks-and-needs-oastub-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-assess-risks-and-needs-oastub-ui) | Stub output of the OASys journey to trigger flow through ARNS Handover Service into ARNS apps | 2026-08-11 |
-| [`hmpps-audit-poc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-api) | A POC backend application for testing audit strategies | 2026-08-11 |
-| [`hmpps-audit-poc-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-audit-poc-ui) | A POC frontend application for testing audit strategies | 2026-08-11 |
-| [`hmpps-authorization`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-authorization) | HMPPS Authorization Server UI | 2026-08-11 |
-| [`hmpps-court-case-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-case-service-api) | Service to access court cases imported from HMCTS Libra court lists and Common Platform (bootstrapped 2025-08-15) | 2026-08-11 |
-| [`hmpps-dpr-fake-dps-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-dpr-fake-dps-service) | HMPPS Digital Prisons Reporting Fake DPS Service | 2026-08-11 |
-| [`hmpps-electronic-monitoring-crime-matching-react`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-crime-matching-react) | A Microfrontend to host React App (bootstrapped 2025-04-24) | 2026-08-11 |
-| [`hmpps-github-actions-runner-security`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-github-actions-runner-security) | A special version of the Github Actions Runner specifically to run OWASP security scans (bootstrapped 2025-08-18) | 2026-08-11 |
-| [`hmpps-integration-events`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-integration-events) | Integration events provider for consumers of hmpps-integration-api | 2026-08-11 |
-| [`hmpps-jobs-board-integration-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-integration-api) | HMPPS Jobs Board Integration API | 2026-08-11 |
-| [`hmpps-matomo-analytics`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-matomo-analytics) | A place for Matomo Analytics (Boostrapped 10-Dec-2025) | 2026-08-11 |
-| [`hmpps-person-match-score`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-person-match-score) | An API wrapper around a model developed by the MoJ Analytical Platform for scoring the confidence of people matches across MoJ systems | 2026-08-11 |
-| [`hmpps-person-on-probation-user-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-person-on-probation-user-api) | A service to provide details releating to a person on probation user | 2026-08-11 |
-| [`hmpps-prisoner-finance-poc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-finance-poc-api) | A POC API for managing prisoner finances (bootstrapped 2025-06-03) | 2026-08-11 |
-| [`hmpps-probation-in-court-prepare-a-case-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-in-court-prepare-a-case-ui) | The frontend user interface for PACFS (Prepare A Case For Sentencing) (bootstrapped 2025-12-17) | 2026-08-11 |
-| [`hmpps-record-a-recall-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-record-a-recall-api) | None (bootstrapped 2025-06-23) | 2026-08-11 |
-| [`hmpps-resettlement-passport-person-on-probation-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-person-on-probation-ui) | Resettlement passport: A website to provide people on probation access to appointments and licence info | 2026-08-11 |
-| [`hmpps-resettlement-passport-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-ui) | Resettlement passport to prepare prisoner for release UI | 2026-08-11 |
-| [`hmpps-sentence-plan`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan) | Sentence Planning | 2026-08-11 |
-| [`hmpps-sentence-plan-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sentence-plan-ui) | Sentence Planning UI | 2026-08-11 |
-| [`hmpps-trivy-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-trivy-discovery) | Service that will run Trivy image scans on HMPPS container images and pushes the results into the service catalogue where they can be displayed in developer portal  (bootstrapped 2025-02-11) | 2026-08-11 |
-| [`hmpps-visits-prison-config-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-visits-prison-config-service) | A service to handle prison configurations for visits to prisons | 2026-08-11 |
-| [`hmpps-vsip-ui-tests`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-vsip-ui-tests) | A suite of Selenium/Cucumber tests to validate end-to-end user journeys | 2026-08-11 |
-| [`manage-key-workers`](https://github.com/uk-gov-mirror/ministryofjustice.manage-key-workers) | UI and Backend for Frontend of OMIC Keyworker | 2026-08-11 |
-| [`offender-risk-profiler`](https://github.com/uk-gov-mirror/ministryofjustice.offender-risk-profiler) | API for Providing Risk Profile Information on Offenders | 2026-08-11 |
-| [`original-hmpps-electronic-monitoring-data-insights-ui`](https://github.com/uk-gov-mirror/ministryofjustice.original-hmpps-electronic-monitoring-data-insights-ui) | The user interface for Electronic Monitoring Probation Officers | 2026-08-11 |
-| [`prison-services-feedback-and-support`](https://github.com/uk-gov-mirror/ministryofjustice.prison-services-feedback-and-support) | Prison services feedback and support application | 2026-08-11 |
-| [`tst-em-example-app-jkn`](https://github.com/uk-gov-mirror/ministryofjustice.tst-em-example-app-jkn) | UI for searching historical electronic monitoring data records | 2026-08-11 |
-| [`october-friendly-cherry-tree`](https://github.com/uk-gov-mirror/ministryofjustice.october-friendly-cherry-tree) |  | 2026-07-30* |
-| [`laa-maat-scheduled-tasks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-maat-scheduled-tasks) |  | 2025-11-06* |
-| [`james-kotlin-test`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) | 2025-11-05* |
-| [`staff-identity-idam-entra-infra`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-idam-entra-infra) | This repository holds the configuration for managing various end user facing configurations within Entra ID. | 2025-11-05* |
-| [`hmpps-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-python-lib) | A shared library of python functions and classes - mainly used for SRE purposes. (bootstrapped 2025-09-23) | 2025-10-30* |
-| [`laa-crime-court-message-processor`](https://github.com/uk-gov-mirror/ministryofjustice.laa-crime-court-message-processor) | Repository for the Crime Court Message Processor service | 2025-10-21* |
-| [`hmpps-hdc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api) | API for managing HDC licences | 2025-10-17* |
-| [`hmpps-probation-in-court-e2e-tests-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-in-court-e2e-tests-service) | End-To-End tests for Probation In Court application (bootstrapped 2025-10-01) | 2025-10-01* |
-| [`opg-test-branch-protection`](https://github.com/uk-gov-mirror/ministryofjustice.opg-test-branch-protection) | Repo for testing branch protection rules: Managed by opg-org-infra & Terraform | 2025-09-30* |
-| [`payforlegalaid-tests`](https://github.com/uk-gov-mirror/ministryofjustice.payforlegalaid-tests) |  | 2025-09-29* |
-| [`laa-nolasa`](https://github.com/uk-gov-mirror/ministryofjustice.laa-nolasa) | Not on LIBRA Auto Search Application | 2025-09-18* |
-| [`laa-assess-a-claim`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim) |  | 2025-08-26* |
-| [`laa-data-stewardship-civil-claims-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-stewardship-civil-claims-api) |  | 2025-07-17* |
-| [`care-arrangement-plan-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.care-arrangement-plan-prototype) |  | 2025-07-08* |
-| [`live-de`](https://github.com/uk-gov-mirror/ministryofjustice.live-de) |  | 2025-06-09* |
-| [`seo-de`](https://github.com/uk-gov-mirror/ministryofjustice.seo-de) |  | 2025-05-07* |
-| [`data-docs-public`](https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public) |  | 2025-01-23* |
-| [`diso-devops-module-ssm-bastion`](https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion) | Terraform module for the bastion accessed only via an AWS Systems Manager Session. | 2024-10-04* |
-| [`staff-device-dhcp-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dhcp-server) | The ISC KEA server for serving DHCP requests (via a Docker image) | 2024-06-10* |
-| [`terraform-aws-tgw`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw) | Terraform module for TGW and TGW route table creation  | 2024-05-22* |
-| [`ruby-on-rails-demo`](https://github.com/uk-gov-mirror/ministryofjustice.ruby-on-rails-demo) | A simple hello world app, in order for the team to learn Ruby on rails | 2024-02-21* |
-| [`dso-infra-azure-tags`](https://github.com/uk-gov-mirror/ministryofjustice.dso-infra-azure-tags) | For management of Azure tags within DSO FixNGo estate | 2024-01-09* |
-| [`juniper-mist-integration-spike`](https://github.com/uk-gov-mirror/ministryofjustice.juniper-mist-integration-spike) |  | 2023-12-12* |
-| [`provision-ubuntu2004-on-wsl2`](https://github.com/uk-gov-mirror/ministryofjustice.provision-ubuntu2004-on-wsl2) | Automating provisoning ubuntu 20.04 with Ansible on WSL 2 | 2023-10-27* |
-| [`staff-device-logging-syslog-to-cloudwatch`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-syslog-to-cloudwatch) | Docker container to forward syslog events to CloudWatch | 2023-06-15* |
-| [`laa-cwa-feature-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cwa-feature-tests) |  | 2023-01-31* |
-| [`opg-infra-costs`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs) | OPG Infrastructure Costs: Managed by opg-org-infra & Terraform | 2022-09-27* |
-| [`probation-offender-search-indexer`](https://github.com/uk-gov-mirror/ministryofjustice.probation-offender-search-indexer) |  | 2022-08-10* |
-| [`aws-trusted-advisor-to-github-issues`](https://github.com/uk-gov-mirror/ministryofjustice.aws-trusted-advisor-to-github-issues) | Automates creation of GitHub Issues from AWS Trusted Advisor checks | 2022-07-28* |
-| [`staff-infrastructure-monitoring`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring) | Terraform module that deploys the staff infrastructure monitoring solution. It has support for components like: Grafana, Prometheus, etc. | 2022-06-14* |
-| [`hmpps-manage-supervisions`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-supervisions) |  | 2022-06-11* |
-| [`staff-device-logging-dns-dhcp-integration-tests`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-dns-dhcp-integration-tests) | Remote full stack integration tests currently run from Corsham test site. Services being tested include Security Logging, DHCP and DNS. | 2022-05-26* |
-| [`iis`](https://github.com/uk-gov-mirror/ministryofjustice.iis) | Historical Prisoners Application UI | 2022-03-30* |
-| [`digital-studio-infra`](https://github.com/uk-gov-mirror/ministryofjustice.digital-studio-infra) |  | 2022-02-07* |
-| [`hmpps-delius-iaps-shared-terraform`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-iaps-shared-terraform) | hmpps-delius-iaps-shared-terraform | 2022-02-07* |
-| [`hmpps-book-video-link`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-book-video-link) | allow court users to book video link session with prison | 2022-02-03* |
-| [`hmpps-delius-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-api) |  | 2022-01-27* |
-| [`staff-infrastructure-monitoring-deployments`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring-deployments) |  | 2021-11-20* |
-| [`staff-device-dns-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-server) | Staff Device DNS Server repository | 2021-08-13* |
-| [`hmpps-workforce-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-workforce-prototype) | Prototyping for workforce management and case allocation in the community | 2021-07-09* |
-| [`analytics-platform-aws-federated-login`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-aws-federated-login) | Web app to handle federated AWS console login with JWTs | 2021-05-06* |
-| [`analytics-platform-idler`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-idler) | Periodically idles Kubernetes deployments meeting certain criteria to avoid wasting money  | 2021-04-29* |
-| [`prison-to-probation-update`](https://github.com/uk-gov-mirror/ministryofjustice.prison-to-probation-update) | Updates Probation systems with changes to an offender's record in Prison | 2021-04-20* |
-| [`technology-diversity-statistics`](https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics) | We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics. | 2021-04-20* |
-| [`terraform-aws-step_function_globalprotect`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-step_function_globalprotect) |  | 2021-04-19* |
-| [`staff-device-shared-services-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-shared-services-infrastructure) | Staff Device AWS Infrastructure for build pipelines | 2021-04-12* |
-| [`moj-ds-accessibility-audit`](https://github.com/uk-gov-mirror/ministryofjustice.moj-ds-accessibility-audit) | Gov.UK Prototype Kit. This repository is defined and managed in Terraform | 2021-04-09* |
-| [`hmpps-ems-platform-terraform-modules`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules) | This repository contains terraform modules that are consumed by hmpps-ems-platform. | 2021-04-08* |
-| [`staff-infrastructure-monitoring-blackbox-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring-blackbox-exporter) |  | 2021-03-26* |
-| [`staff-device-logging-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-infrastructure) | Log proxy and forwarding infrastructure | 2021-03-25* |
-| [`hmpps-delius-iaps-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-iaps-packer) | Packer build for IAPS Server which hosts NDelius and IM Interface services | 2021-03-03* |
-| [`ALB-UnclaimedBalanceindex`](https://github.com/uk-gov-mirror/ministryofjustice.ALB-UnclaimedBalanceindex) | Unclaimed Balance Indexes | 2021-02-23* |
-| [`hmpps-delius-spg-codepipeline`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-codepipeline) |  | 2021-02-15* |
-| [`staff-device-dns-dhcp-disaster-recovery`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-dhcp-disaster-recovery) | Disaster recovery script for DNS and DHCP services. | 2021-02-15* |
-| [`wordpress-base-docker`](https://github.com/uk-gov-mirror/ministryofjustice.wordpress-base-docker) | A base WordPress image for use in the Publishing Platform. | 2021-02-05* |
-| [`cccd-spike-sns`](https://github.com/uk-gov-mirror/ministryofjustice.cccd-spike-sns) | Spike to test producing and consuming messages through AWS  SNS and SQS | 2021-01-20* |
-| [`cccd-maintenance-page`](https://github.com/uk-gov-mirror/ministryofjustice.cccd-maintenance-page) | Maintenance page for Claim for crown court defence | 2021-01-01* |
-| [`analytics-platform-go-unidler`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-go-unidler) | Unidle idled tools | 2020-12-18* |
-| [`laa-court-data-orchestration-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-orchestration-service) | A service to handle court data that exists on Common Platform | 2020-12-15* |
-| [`analytics-platform-restarter`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-restarter) | API to restart applications within a given namespace | 2020-12-04* |
-| [`hmpps-architecture-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-architecture-docs) | Tooling for automated documentation of HMPPS architecture | 2020-11-30* |
-| [`hmpps-delius-spg-testing-payload-generator`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-payload-generator) | Generates payloads for testing with the SPG | 2020-11-27* |
-| [`offloc-server`](https://github.com/uk-gov-mirror/ministryofjustice.offloc-server) | Serves up the offloc | 2020-11-27* |
-| [`hillsborough`](https://github.com/uk-gov-mirror/ministryofjustice.hillsborough) | Hillsborough Inquests | 2020-11-17* |
-| [`modernisation-platform-hello-world`](https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world) | A sample application configuration within the Modernisation Platform • This repository is defined and managed in Terraform | 2020-10-20* |
-| [`CCCD-prototype-kit-ext`](https://github.com/uk-gov-mirror/ministryofjustice.CCCD-prototype-kit-ext) |  | 2020-10-13* |
-| [`laa-claim-crown-court-defence-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-crown-court-defence-prototype) |  | 2020-10-13* |
-| [`setup-kd`](https://github.com/uk-gov-mirror/ministryofjustice.setup-kd) | Set up your GitHub Actions workflow with a specific version of UKHomeOffice/kd | 2020-09-24* |
-| [`adp-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.adp-prototype) | Advocate Defence Payments Interactive Prototype | 2020-09-12* |
-| [`CCCD-prototype-kit`](https://github.com/uk-gov-mirror/ministryofjustice.CCCD-prototype-kit) | Building static components for testing and user research | 2020-09-11* |
-| [`analytics-platform-airflow-docker-image`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-airflow-docker-image) | Repository used to build Airflow docker image | 2020-09-05* |
-| [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
-| [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
 ## [UKHomeOffice](https://github.com/UKHomeOffice) (101)
 
