@@ -5722,6 +5722,16 @@
     "original_url": "https://github.com/datasciencecampus/trendyr"
   },
   {
+    "deleted_on": "2026-08-25",
+    "description": "POC IDe test for rulesets etc",
+    "full_name": "uk-gov-mirror/defencedigital.CPA_Rulesets_POC_test2",
+    "mirror_name": "defencedigital.CPA_Rulesets_POC_test2",
+    "mirror_url": "https://github.com/uk-gov-mirror/defencedigital.CPA_Rulesets_POC_test2",
+    "name": "CPA_Rulesets_POC_test2",
+    "org": "defencedigital",
+    "original_url": "https://github.com/defencedigital/CPA_Rulesets_POC_test2"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-05-28",
     "description": null,
@@ -5862,6 +5872,16 @@
     "name": "sroc-tcm-acceptance-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/sroc-tcm-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-08-25",
+    "description": "Git repository for service waste-batteries-reg-backend",
+    "full_name": "uk-gov-mirror/defra.waste-batteries-reg-backend",
+    "mirror_name": "defra.waste-batteries-reg-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend",
+    "name": "waste-batteries-reg-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-batteries-reg-backend"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -12628,6 +12648,16 @@
     "name": "hmpps-electronic-monitoring-crime-matching-react",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-electronic-monitoring-crime-matching-react"
+  },
+  {
+    "deleted_on": "2026-08-25",
+    "description": "Contains documentation for the Electronic Monitorinc architecture & application",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs",
+    "mirror_name": "ministryofjustice.hmpps-electronic-monitoring-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs",
+    "name": "hmpps-electronic-monitoring-docs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-electronic-monitoring-docs"
   },
   {
     "deleted_on": "2026-08-22",

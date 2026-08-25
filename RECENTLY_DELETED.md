@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [defencedigital](https://github.com/defencedigital) | [`CPA_Rulesets_POC_test2`](https://github.com/uk-gov-mirror/defencedigital.CPA_Rulesets_POC_test2) | POC IDe test for rulesets etc | 2026-08-25 |
+| [defra](https://github.com/defra) | [`waste-batteries-reg-backend`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend) | Git repository for service waste-batteries-reg-backend | 2026-08-25 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-electronic-monitoring-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs) | Contains documentation for the Electronic Monitorinc architecture & application | 2026-08-25 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`bh-frontend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app-dev) | Example frontend system | 2026-08-22 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`calculate-release-dates-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype) | Prototypes for the Calculate release dates service | 2026-08-22 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`community-proxy`](https://github.com/uk-gov-mirror/ministryofjustice.community-proxy) | Application to proxy requests to the Community API and authenticate based on OAuth roles. | 2026-08-22 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`spp-engine`](https://github.com/uk-gov-mirror/ONSdigital.spp-engine) | Statistical Processing Pipeline engine | 2021-04-12* |
 | [hmrc](https://github.com/hmrc) | [`bars-modcheck-lambda-function`](https://github.com/uk-gov-mirror/hmrc.bars-modcheck-lambda-function) |  | 2021-04-12* |
 | [hmrc](https://github.com/hmrc) | [`customs-financials-email-throttler`](https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler) |  | 2021-04-12* |
-| [hmrc](https://github.com/hmrc) | [`organisations-api-performance-tests`](https://github.com/uk-gov-mirror/hmrc.organisations-api-performance-tests) |  | 2021-04-12* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-shared-services-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-shared-services-infrastructure) | Staff Device AWS Infrastructure for build pipelines | 2021-04-12* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`login.dfe.saml.proxy`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml.proxy) |  | 2021-04-09* |
