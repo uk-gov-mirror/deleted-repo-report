@@ -4922,6 +4922,16 @@
     "original_url": "https://github.com/UKHomeOffice/wcs-serenity-automation"
   },
   {
+    "deleted_on": "2026-08-26",
+    "description": "Home Office web messengers service",
+    "full_name": "uk-gov-mirror/UKHomeOffice.web-messengers",
+    "mirror_name": "UKHomeOffice.web-messengers",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.web-messengers",
+    "name": "web-messengers",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/web-messengers"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-07-02",
     "description": "Egar HOF Template mixins",
@@ -5989,6 +5999,16 @@
     "name": "aidstream-ogd",
     "org": "dfid",
     "original_url": "https://github.com/dfid/aidstream-ogd"
+  },
+  {
+    "deleted_on": "2026-08-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/digital-land.manage-planning-data-prototype",
+    "mirror_name": "digital-land.manage-planning-data-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.manage-planning-data-prototype",
+    "name": "manage-planning-data-prototype",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/manage-planning-data-prototype"
   },
   {
     "deleted_on": "2026-08-21",
@@ -13393,6 +13413,16 @@
     "name": "hmpps-rsyslog-role",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-rsyslog-role"
+  },
+  {
+    "deleted_on": "2026-08-26",
+    "description": "test repo (bootstrapped 2026-04-21)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-san-test-typescript",
+    "mirror_name": "ministryofjustice.hmpps-san-test-typescript",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-san-test-typescript",
+    "name": "hmpps-san-test-typescript",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-san-test-typescript"
   },
   {
     "deleted_on": "2026-08-22",

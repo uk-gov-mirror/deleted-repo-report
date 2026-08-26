@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`web-messengers`](https://github.com/uk-gov-mirror/UKHomeOffice.web-messengers) | Home Office web messengers service | 2026-08-26 |
+| [digital-land](https://github.com/digital-land) | [`manage-planning-data-prototype`](https://github.com/uk-gov-mirror/digital-land.manage-planning-data-prototype) |  | 2026-08-26 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-san-test-typescript`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-san-test-typescript) | test repo (bootstrapped 2026-04-21) | 2026-08-26 |
 | [defencedigital](https://github.com/defencedigital) | [`CPA_Rulesets_POC_test2`](https://github.com/uk-gov-mirror/defencedigital.CPA_Rulesets_POC_test2) | POC IDe test for rulesets etc | 2026-08-25 |
 | [defra](https://github.com/defra) | [`waste-batteries-reg-backend`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend) | Git repository for service waste-batteries-reg-backend | 2026-08-25 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-electronic-monitoring-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs) | Contains documentation for the Electronic Monitorinc architecture & application | 2026-08-25 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`modern-slavery-data-service`](https://github.com/uk-gov-mirror/UKHomeOffice.modern-slavery-data-service) | Provides the service to store and manage the data within the report modern slavery application | 2021-04-13* |
 | [hmrc](https://github.com/hmrc) | [`customs-rosm-frontend`](https://github.com/uk-gov-mirror/hmrc.customs-rosm-frontend) |  | 2021-04-13* |
 | [hmrc](https://github.com/hmrc) | [`sole-trader-identification-frontend`](https://github.com/uk-gov-mirror/hmrc.sole-trader-identification-frontend) |  | 2021-04-13* |
-| [ONSdigital](https://github.com/ONSdigital) | [`spp-engine`](https://github.com/uk-gov-mirror/ONSdigital.spp-engine) | Statistical Processing Pipeline engine | 2021-04-12* |
-| [hmrc](https://github.com/hmrc) | [`bars-modcheck-lambda-function`](https://github.com/uk-gov-mirror/hmrc.bars-modcheck-lambda-function) |  | 2021-04-12* |
-| [hmrc](https://github.com/hmrc) | [`customs-financials-email-throttler`](https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler) |  | 2021-04-12* |
