@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1731**
-Organisations affected: **65**
+Total deleted repositories: **1774**
+Organisations affected: **67**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -12,21 +12,22 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ministryofjustice](https://github.com/ministryofjustice) | [**261**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.8% |
 | [hmrc](https://github.com/hmrc) | [**196**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.8% |
 | [nhsdigital](https://github.com/nhsdigital) | [**170**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 33.7% |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
+| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [**102**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.6% |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
 | [ONSdigital](https://github.com/ONSdigital) | [**67**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.5% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.4% |
 | [companieshouse](https://github.com/companieshouse) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.2% |
+| [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 83.3% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**39**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.4% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 62.2% |
-| [defra](https://github.com/defra) | [**22**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.2% |
+| [defra](https://github.com/defra) | [**22**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.1% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
@@ -60,6 +61,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
+| [TransportForLondon](https://github.com/TransportForLondon) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22TransportForLondon.%22) | 7.7% |
 | [UKHO](https://github.com/UKHO) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHO.%22) | 0.8% |
 | [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOfficeForms.%22) | 2.3% |
 | [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.9% |
@@ -717,10 +719,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [SkillsFundingAgency](https://github.com/SkillsFundingAgency) (154)
+## [SkillsFundingAgency](https://github.com/SkillsFundingAgency) (155)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`das-rcrt-ai-quality-assurance`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-rcrt-ai-quality-assurance) | Recruit-An-Apprenticeship AI quality assurance service | 2026-08-27 |
 | [`dfc-providerportal-database`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-database) | Database project for provider portal / course directory | 2025-10-28* |
 | [`dfc-app-discoverskillsandcareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-discoverskillsandcareers) | Discover Your Skills And Careers (DYSAC) composite UI | 2025-02-03* |
 | [`dfc-common-sharedcontent-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-common-sharedcontent-pkg-netcore) | NuGet package to be used for GraphQL queries to retrieve data from STAX | 2025-01-31* |
@@ -1035,10 +1038,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opsdroid-skill-slack-to-s3`](https://github.com/uk-gov-mirror/informatics-lab.opsdroid-skill-slack-to-s3) | 💬 A skill for opsdroid to backup slack files to S3 |  |
 | [`video-service-scheduler`](https://github.com/uk-gov-mirror/informatics-lab.video-service-scheduler) |  |  |
 
-## [UKHomeOffice](https://github.com/UKHomeOffice) (102)
+## [UKHomeOffice](https://github.com/UKHomeOffice) (103)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hof-db-table-replacer`](https://github.com/uk-gov-mirror/UKHomeOffice.hof-db-table-replacer) |  | 2026-08-27 |
 | [`web-messengers`](https://github.com/uk-gov-mirror/UKHomeOffice.web-messengers) | Home Office web messengers service | 2026-08-26 |
 | [`hocs.replaced.2026-08-20`](https://github.com/uk-gov-mirror/UKHomeOffice.hocs.replaced.2026-08-20) |  | 2026-08-21 |
 | [`acrs`](https://github.com/uk-gov-mirror/UKHomeOffice.acrs) | An form for the Afghan Citizens Resettlement Scheme (ACRS ) | 2026-08-11 |
@@ -1481,6 +1485,51 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`chl-database-terraform`](https://github.com/uk-gov-mirror/companieshouse.chl-database-terraform) |  | 2020-07-29* |
 | [`taf-bris`](https://github.com/uk-gov-mirror/companieshouse.taf-bris) | Automated tests for the BRIS project | 2020-02-10* |
 | [`webincs-reskin-prototype`](https://github.com/uk-gov-mirror/companieshouse.webincs-reskin-prototype) |  |  |
+
+## [Planning-Inspectorate](https://github.com/Planning-Inspectorate) (40)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`appeals-migration`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals-migration) | Systems to facilitate the migration of Appeal casework | 2026-08-27 |
+| [`appeals_monthly_SR`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals_monthly_SR) | proof of concept automation of appeals monthly statistical release | 2026-08-27 |
+| [`applications-backoffice-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype) | Prototype for the Applications Back Office | 2026-08-27 |
+| [`applications-dco-portal`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal) |  | 2026-08-27 |
+| [`applications-dco-portal-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype) |  | 2026-08-27 |
+| [`applications-relevant-representations-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-relevant-representations-analysis-poc) |  | 2026-08-27 |
+| [`applications-service-performance-tests`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-performance-tests) |  | 2026-08-27 |
+| [`applications-service-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-prototype) | Prototype of applications FO/CBOS for user testing | 2026-08-27 |
+| [`back-office-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.back-office-prototype) | Prototype for Back Office Applications | 2026-08-27 |
+| [`casework-portal`](https://github.com/uk-gov-mirror/Planning-Inspectorate.casework-portal) |  | 2026-08-27 |
+| [`coding-standards`](https://github.com/uk-gov-mirror/Planning-Inspectorate.coding-standards) | Configuration and other shared code for implementing our coding standards | 2026-08-27 |
+| [`crown-developments`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments) |  | 2026-08-27 |
+| [`crown-developments-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype) | Prototype project for the Crown Developments service | 2026-08-27 |
+| [`design-patterns`](https://github.com/uk-gov-mirror/Planning-Inspectorate.design-patterns) | Design patterns for use across Core Services | 2026-08-27 |
+| [`devops-test-app`](https://github.com/uk-gov-mirror/Planning-Inspectorate.devops-test-app) | Test app for testing DevOps processes and updates | 2026-08-27 |
+| [`dynamic-forms`](https://github.com/uk-gov-mirror/Planning-Inspectorate.dynamic-forms) | A configuration-based form builder, supporting conditional questions and other logic | 2026-08-27 |
+| [`e-learning`](https://github.com/uk-gov-mirror/Planning-Inspectorate.e-learning) |  | 2026-08-27 |
+| [`example-app`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app) | An example application for learning | 2026-08-27 |
+| [`example-app-dynamic`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app-dynamic) | An example application to showcase dynamic form building | 2026-08-27 |
+| [`example-code`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-code) | Code examples and snippets to complement learning materials | 2026-08-27 |
+| [`extract-ofgem-generator-licencees`](https://github.com/uk-gov-mirror/Planning-Inspectorate.extract-ofgem-generator-licencees) | Script to extract the Ofgem Electricity Generator Licence holders from the PDF published by Ofgem | 2026-08-27 |
+| [`infrastructure-modules`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-modules) | Infrastructure as Code (IaC) modules for use across environments. | 2026-08-27 |
+| [`infrastructure-tooling`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling) |  | 2026-08-27 |
+| [`inspector-programming`](https://github.com/uk-gov-mirror/Planning-Inspectorate.inspector-programming) | Programme appeals service | 2026-08-27 |
+| [`knowledge-service-link-extractor`](https://github.com/uk-gov-mirror/Planning-Inspectorate.knowledge-service-link-extractor) | Proof of concept for converting word documents to html, then extracting hyperlinks from word docs and linked pdf docs | 2026-08-27 |
+| [`library-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service) |  | 2026-08-27 |
+| [`local-plans-examinations`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations) | Monorepo for the Local Plans Examinations service | 2026-08-27 |
+| [`local-plans-examinations-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype) | Design prototype for the local plans examinations service | 2026-08-27 |
+| [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
+| [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
+| [`mpesc-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mpesc-prototype) | Prototype for the MPESC service | 2026-08-27 |
+| [`odw-azure-functions`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-azure-functions) |  | 2026-08-27 |
+| [`odw-common`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-common) |  | 2026-08-27 |
+| [`odw-infrastructure`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-infrastructure) |  | 2026-08-27 |
+| [`odw-purview`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-purview) |  | 2026-08-27 |
+| [`peas-row-commons`](https://github.com/uk-gov-mirror/Planning-Inspectorate.peas-row-commons) | Mono repo for the PEAS/RoW case management services | 2026-08-27 |
+| [`prototypes-common-infrastructure`](https://github.com/uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure) | Infrastructure code for the design prototypes and other proof-of-concepts | 2026-08-27 |
+| [`redaction-system`](https://github.com/uk-gov-mirror/Planning-Inspectorate.redaction-system) |  | 2026-08-27 |
+| [`section-62a-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.section-62a-prototype) |  | 2026-08-27 |
+| [`template-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.template-service) | Template code for new services to use as a reference | 2026-08-27 |
 
 ## [DFE-Digital](https://github.com/DFE-Digital) (39)
 
@@ -2046,6 +2095,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
+
+## [TransportForLondon](https://github.com/TransportForLondon) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`TFL-DevOps-Test`](https://github.com/uk-gov-mirror/TransportForLondon.TFL-DevOps-Test) |  | 2026-08-27 |
 
 ## [UKHO](https://github.com/UKHO) (1)
 
