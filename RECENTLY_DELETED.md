@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`dauPortalTools`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools) |  | 2026-08-29 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`appeals-migration`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals-migration) | Systems to facilitate the migration of Appeal casework | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`appeals_monthly_SR`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals_monthly_SR) | proof of concept automation of appeals monthly statistical release | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`applications-backoffice-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype) | Prototype for the Applications Back Office | 2026-08-27 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`spp-rsi-glue-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-glue-scripts) |  | 2021-04-20* |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`cba-manifest`](https://github.com/uk-gov-mirror/UKHomeOffice.cba-manifest) |  | 2021-04-20* |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`kube-hocs-toolbox`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-hocs-toolbox) | A kubernetes postgres based deployment container with tools for initialising databases, SQS queues, S3 buckets & Elasticsearch indexes. | 2021-04-20* |
-| [companieshouse](https://github.com/companieshouse) | [`ch-account-ui`](https://github.com/uk-gov-mirror/companieshouse.ch-account-ui) |  | 2021-04-20* |

@@ -219,6 +219,16 @@
     "original_url": "https://github.com/DFE-Digital/content-designer-training"
   },
   {
+    "deleted_on": "2026-08-29",
+    "description": null,
+    "full_name": "uk-gov-mirror/DFE-Digital.dauPortalTools",
+    "mirror_name": "DFE-Digital.dauPortalTools",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools",
+    "name": "dauPortalTools",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/dauPortalTools"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-04-28",
     "description": "SAML proxy for use in the login.dfe service",
