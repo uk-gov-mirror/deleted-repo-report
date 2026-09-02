@@ -12734,6 +12734,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-community-accommodation-tier-2-e2e"
   },
   {
+    "deleted_on": "2026-09-02",
+    "description": "Service to perform migration of existing court-case-service data to a new hmpps-court-case-service database schema. (bootstrapped 2025-09-16)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-court-case-data-migration-service",
+    "mirror_name": "ministryofjustice.hmpps-court-case-data-migration-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-case-data-migration-service",
+    "name": "hmpps-court-case-data-migration-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-court-case-data-migration-service"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Service to access court cases imported from HMCTS Libra court lists and Common Platform (bootstrapped 2025-08-15)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-court-case-service-api",

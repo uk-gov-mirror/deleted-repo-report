@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1775**
+Total deleted repositories: **1776**
 Organisations affected: **67**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,7 +9,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**261**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.8% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**262**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.9% |
 | [hmrc](https://github.com/hmrc) | [**196**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.8% |
 | [nhsdigital](https://github.com/nhsdigital) | [**170**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 33.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
@@ -77,10 +77,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.6% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (261)
+## [ministryofjustice](https://github.com/ministryofjustice) (262)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-court-case-data-migration-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-case-data-migration-service) | Service to perform migration of existing court-case-service data to a new hmpps-court-case-service database schema. (bootstrapped 2025-09-16) | 2026-09-02 |
 | [`hmpps-san-test-typescript`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-san-test-typescript) | test repo (bootstrapped 2026-04-21) | 2026-08-26 |
 | [`hmpps-electronic-monitoring-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs) | Contains documentation for the Electronic Monitorinc architecture & application | 2026-08-25 |
 | [`bh-frontend-app-dev`](https://github.com/uk-gov-mirror/ministryofjustice.bh-frontend-app-dev) | Example frontend system | 2026-08-22 |
