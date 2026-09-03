@@ -187,14 +187,14 @@
     "original_url": "https://github.com/CPS-Innovation/large-and-complex-cases-pipeline-templates"
   },
   {
-    "deleted_on": "2026-08-11",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Civil-Service-Human-Resources.prototype",
-    "mirror_name": "Civil-Service-Human-Resources.prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype",
-    "name": "prototype",
+    "full_name": "uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02",
+    "mirror_name": "Civil-Service-Human-Resources.prototype.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02",
+    "name": "prototype.replaced.2026-09-02",
     "org": "Civil-Service-Human-Resources",
-    "original_url": "https://github.com/Civil-Service-Human-Resources/prototype"
+    "original_url": "https://github.com/Civil-Service-Human-Resources/prototype.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -219,14 +219,14 @@
     "original_url": "https://github.com/DFE-Digital/content-designer-training"
   },
   {
-    "deleted_on": "2026-08-29",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/DFE-Digital.dauPortalTools",
-    "mirror_name": "DFE-Digital.dauPortalTools",
-    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools",
-    "name": "dauPortalTools",
+    "full_name": "uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03",
+    "mirror_name": "DFE-Digital.dauPortalTools.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03",
+    "name": "dauPortalTools.replaced.2026-09-03",
     "org": "DFE-Digital",
-    "original_url": "https://github.com/DFE-Digital/dauPortalTools"
+    "original_url": "https://github.com/DFE-Digital/dauPortalTools.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -570,15 +570,14 @@
     "original_url": "https://github.com/DFE-Digital/login.dfe.uptime-test"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-04-28",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/DFE-Digital.login.dfe.validation",
-    "mirror_name": "DFE-Digital.login.dfe.validation",
-    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation",
-    "name": "login.dfe.validation",
+    "full_name": "uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03",
+    "mirror_name": "DFE-Digital.login.dfe.validation.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03",
+    "name": "login.dfe.validation.replaced.2026-09-03",
     "org": "DFE-Digital",
-    "original_url": "https://github.com/DFE-Digital/login.dfe.validation"
+    "original_url": "https://github.com/DFE-Digital/login.dfe.validation.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -691,14 +690,14 @@
     "original_url": "https://github.com/Digital-Intelligence-Unit/NHS_Business_Intelligence_Platform_Shiny"
   },
   {
-    "deleted_on": "2026-08-12",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/GSS-Cogs.prototypes",
-    "mirror_name": "GSS-Cogs.prototypes",
-    "mirror_url": "https://github.com/uk-gov-mirror/GSS-Cogs.prototypes",
-    "name": "prototypes",
+    "full_name": "uk-gov-mirror/GSS-Cogs.prototypes.replaced.2026-09-03",
+    "mirror_name": "GSS-Cogs.prototypes.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/GSS-Cogs.prototypes.replaced.2026-09-03",
+    "name": "prototypes.replaced.2026-09-03",
     "org": "GSS-Cogs",
-    "original_url": "https://github.com/GSS-Cogs/prototypes"
+    "original_url": "https://github.com/GSS-Cogs/prototypes.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -865,14 +864,14 @@
     "original_url": "https://github.com/Network-Rail-Business-Systems/common.replaced.2026-08-20"
   },
   {
-    "deleted_on": "2026-08-11",
+    "deleted_on": "2026-09-03",
     "description": "just testting",
-    "full_name": "uk-gov-mirror/ONS-Innovation.Test1",
-    "mirror_name": "ONS-Innovation.Test1",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.Test1",
-    "name": "Test1",
+    "full_name": "uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03",
+    "mirror_name": "ONS-Innovation.Test1.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03",
+    "name": "Test1.replaced.2026-09-03",
     "org": "ONS-Innovation",
-    "original_url": "https://github.com/ONS-Innovation/Test1"
+    "original_url": "https://github.com/ONS-Innovation/Test1.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-21",
@@ -885,26 +884,24 @@
     "original_url": "https://github.com/ONSdigital/address-index-developers"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2026-06-16",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/ONSdigital.aims-address-parser",
-    "mirror_name": "ONSdigital.aims-address-parser",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser",
-    "name": "aims-address-parser",
+    "full_name": "uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03",
+    "mirror_name": "ONSdigital.aims-address-parser.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03",
+    "name": "aims-address-parser.replaced.2026-09-03",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/aims-address-parser"
+    "original_url": "https://github.com/ONSdigital/aims-address-parser.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-03-23",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/ONSdigital.aims-create-address",
-    "mirror_name": "ONSdigital.aims-create-address",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-create-address",
-    "name": "aims-create-address",
+    "full_name": "uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03",
+    "mirror_name": "ONSdigital.aims-create-address.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03",
+    "name": "aims-create-address.replaced.2026-09-03",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/aims-create-address"
+    "original_url": "https://github.com/ONSdigital/aims-create-address.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -918,15 +915,14 @@
     "original_url": "https://github.com/ONSdigital/alpha-eq-terraform"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-02-03",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/ONSdigital.blaise-api-rest",
-    "mirror_name": "ONSdigital.blaise-api-rest",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest",
-    "name": "blaise-api-rest",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03",
+    "mirror_name": "ONSdigital.blaise-api-rest.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03",
+    "name": "blaise-api-rest.replaced.2026-09-03",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/blaise-api-rest"
+    "original_url": "https://github.com/ONSdigital/blaise-api-rest.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1347,15 +1343,14 @@
     "original_url": "https://github.com/ONSdigital/pyblaise"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-10-29",
+    "deleted_on": "2026-09-03",
     "description": "Learn RAP principles through practical Python exercises. This repo showcases best practices for Reproducible Analytical Pipelines, with descriptions of components and exercises to help users build confidence in applying RAP techniques.",
-    "full_name": "uk-gov-mirror/ONSdigital.python_rap_demo",
-    "mirror_name": "ONSdigital.python_rap_demo",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo",
-    "name": "python_rap_demo",
+    "full_name": "uk-gov-mirror/ONSdigital.python_rap_demo.replaced.2026-09-03",
+    "mirror_name": "ONSdigital.python_rap_demo.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo.replaced.2026-09-03",
+    "name": "python_rap_demo.replaced.2026-09-03",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/python_rap_demo"
+    "original_url": "https://github.com/ONSdigital/python_rap_demo.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1380,15 +1375,14 @@
     "original_url": "https://github.com/ONSdigital/rjstat"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-09",
+    "deleted_on": "2026-09-03",
     "description": "Code for updating SDG data files",
-    "full_name": "uk-gov-mirror/ONSdigital.sdg_data_updates",
-    "mirror_name": "ONSdigital.sdg_data_updates",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates",
-    "name": "sdg_data_updates",
+    "full_name": "uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03",
+    "mirror_name": "ONSdigital.sdg_data_updates.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03",
+    "name": "sdg_data_updates.replaced.2026-09-03",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/sdg_data_updates"
+    "original_url": "https://github.com/ONSdigital/sdg_data_updates.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1685,34 +1679,34 @@
     "original_url": "https://github.com/Planning-Inspectorate/appeals_monthly_SR"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Prototype for the Applications Back Office",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype",
-    "mirror_name": "Planning-Inspectorate.applications-backoffice-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype",
-    "name": "applications-backoffice-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03",
+    "name": "applications-backoffice-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/applications-backoffice-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/applications-backoffice-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-dco-portal",
-    "mirror_name": "Planning-Inspectorate.applications-dco-portal",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal",
-    "name": "applications-dco-portal",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03",
+    "name": "applications-dco-portal-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/applications-dco-portal"
+    "original_url": "https://github.com/Planning-Inspectorate/applications-dco-portal-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype",
-    "mirror_name": "Planning-Inspectorate.applications-dco-portal-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype",
-    "name": "applications-dco-portal-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-dco-portal.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.applications-dco-portal.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal.replaced.2026-09-03",
+    "name": "applications-dco-portal.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/applications-dco-portal-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/applications-dco-portal.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1735,54 +1729,44 @@
     "original_url": "https://github.com/Planning-Inspectorate/applications-service-performance-tests"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Prototype of applications FO/CBOS for user testing",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-service-prototype",
-    "mirror_name": "Planning-Inspectorate.applications-service-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-prototype",
-    "name": "applications-service-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.applications-service-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.applications-service-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-prototype.replaced.2026-09-03",
+    "name": "applications-service-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/applications-service-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/applications-service-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Prototype for Back Office Applications",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.back-office-prototype",
-    "mirror_name": "Planning-Inspectorate.back-office-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.back-office-prototype",
-    "name": "back-office-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.back-office-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.back-office-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.back-office-prototype.replaced.2026-09-03",
+    "name": "back-office-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/back-office-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/back-office-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.casework-portal",
-    "mirror_name": "Planning-Inspectorate.casework-portal",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.casework-portal",
-    "name": "casework-portal",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.casework-portal.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.casework-portal.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.casework-portal.replaced.2026-09-03",
+    "name": "casework-portal.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/casework-portal"
+    "original_url": "https://github.com/Planning-Inspectorate/casework-portal.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Configuration and other shared code for implementing our coding standards",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.coding-standards",
-    "mirror_name": "Planning-Inspectorate.coding-standards",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.coding-standards",
-    "name": "coding-standards",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.coding-standards.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.coding-standards.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.coding-standards.replaced.2026-09-03",
+    "name": "coding-standards.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/coding-standards"
-  },
-  {
-    "deleted_on": "2026-08-27",
-    "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.crown-developments",
-    "mirror_name": "Planning-Inspectorate.crown-developments",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments",
-    "name": "crown-developments",
-    "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/crown-developments"
+    "original_url": "https://github.com/Planning-Inspectorate/coding-standards.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1795,14 +1779,24 @@
     "original_url": "https://github.com/Planning-Inspectorate/crown-developments-prototype"
   },
   {
-    "deleted_on": "2026-08-27",
-    "description": "Design patterns for use across Core Services",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.design-patterns",
-    "mirror_name": "Planning-Inspectorate.design-patterns",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.design-patterns",
-    "name": "design-patterns",
+    "deleted_on": "2026-09-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.crown-developments.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.crown-developments.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments.replaced.2026-09-03",
+    "name": "crown-developments.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/design-patterns"
+    "original_url": "https://github.com/Planning-Inspectorate/crown-developments.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-03",
+    "description": "Design patterns for use across Core Services",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.design-patterns.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.design-patterns.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.design-patterns.replaced.2026-09-03",
+    "name": "design-patterns.replaced.2026-09-03",
+    "org": "Planning-Inspectorate",
+    "original_url": "https://github.com/Planning-Inspectorate/design-patterns.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1815,14 +1809,14 @@
     "original_url": "https://github.com/Planning-Inspectorate/devops-test-app"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "A configuration-based form builder, supporting conditional questions and other logic",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.dynamic-forms",
-    "mirror_name": "Planning-Inspectorate.dynamic-forms",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.dynamic-forms",
-    "name": "dynamic-forms",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.dynamic-forms.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.dynamic-forms.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.dynamic-forms.replaced.2026-09-03",
+    "name": "dynamic-forms.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/dynamic-forms"
+    "original_url": "https://github.com/Planning-Inspectorate/dynamic-forms.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1835,34 +1829,34 @@
     "original_url": "https://github.com/Planning-Inspectorate/e-learning"
   },
   {
-    "deleted_on": "2026-08-27",
-    "description": "An example application for learning",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-app",
-    "mirror_name": "Planning-Inspectorate.example-app",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app",
-    "name": "example-app",
-    "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/example-app"
-  },
-  {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "An example application to showcase dynamic form building",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-app-dynamic",
-    "mirror_name": "Planning-Inspectorate.example-app-dynamic",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app-dynamic",
-    "name": "example-app-dynamic",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-app-dynamic.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.example-app-dynamic.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app-dynamic.replaced.2026-09-03",
+    "name": "example-app-dynamic.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/example-app-dynamic"
+    "original_url": "https://github.com/Planning-Inspectorate/example-app-dynamic.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
-    "description": "Code examples and snippets to complement learning materials",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-code",
-    "mirror_name": "Planning-Inspectorate.example-code",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-code",
-    "name": "example-code",
+    "deleted_on": "2026-09-03",
+    "description": "An example application for learning",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-app.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.example-app.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app.replaced.2026-09-03",
+    "name": "example-app.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/example-code"
+    "original_url": "https://github.com/Planning-Inspectorate/example-app.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-03",
+    "description": "Code examples and snippets to complement learning materials",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.example-code.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.example-code.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.example-code.replaced.2026-09-03",
+    "name": "example-code.replaced.2026-09-03",
+    "org": "Planning-Inspectorate",
+    "original_url": "https://github.com/Planning-Inspectorate/example-code.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1875,34 +1869,34 @@
     "original_url": "https://github.com/Planning-Inspectorate/extract-ofgem-generator-licencees"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Infrastructure as Code (IaC) modules for use across environments.",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.infrastructure-modules",
-    "mirror_name": "Planning-Inspectorate.infrastructure-modules",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-modules",
-    "name": "infrastructure-modules",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.infrastructure-modules.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.infrastructure-modules.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-modules.replaced.2026-09-03",
+    "name": "infrastructure-modules.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/infrastructure-modules"
+    "original_url": "https://github.com/Planning-Inspectorate/infrastructure-modules.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling",
-    "mirror_name": "Planning-Inspectorate.infrastructure-tooling",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling",
-    "name": "infrastructure-tooling",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.infrastructure-tooling.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling.replaced.2026-09-03",
+    "name": "infrastructure-tooling.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/infrastructure-tooling"
+    "original_url": "https://github.com/Planning-Inspectorate/infrastructure-tooling.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Programme appeals service",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.inspector-programming",
-    "mirror_name": "Planning-Inspectorate.inspector-programming",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.inspector-programming",
-    "name": "inspector-programming",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.inspector-programming.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.inspector-programming.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.inspector-programming.replaced.2026-09-03",
+    "name": "inspector-programming.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/inspector-programming"
+    "original_url": "https://github.com/Planning-Inspectorate/inspector-programming.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1925,24 +1919,24 @@
     "original_url": "https://github.com/Planning-Inspectorate/library-service"
   },
   {
-    "deleted_on": "2026-08-27",
-    "description": "Monorepo for the Local Plans Examinations service",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.local-plans-examinations",
-    "mirror_name": "Planning-Inspectorate.local-plans-examinations",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations",
-    "name": "local-plans-examinations",
+    "deleted_on": "2026-09-03",
+    "description": "Design prototype for the local plans examinations service",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.local-plans-examinations-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype.replaced.2026-09-03",
+    "name": "local-plans-examinations-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/local-plans-examinations"
+    "original_url": "https://github.com/Planning-Inspectorate/local-plans-examinations-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
-    "description": "Design prototype for the local plans examinations service",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype",
-    "mirror_name": "Planning-Inspectorate.local-plans-examinations-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype",
-    "name": "local-plans-examinations-prototype",
+    "deleted_on": "2026-09-03",
+    "description": "Monorepo for the Local Plans Examinations service",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.local-plans-examinations.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.local-plans-examinations.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations.replaced.2026-09-03",
+    "name": "local-plans-examinations.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/local-plans-examinations-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/local-plans-examinations.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-27",
@@ -1965,104 +1959,104 @@
     "original_url": "https://github.com/Planning-Inspectorate/mapathon-2025"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Prototype for the MPESC service",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.mpesc-prototype",
-    "mirror_name": "Planning-Inspectorate.mpesc-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.mpesc-prototype",
-    "name": "mpesc-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.mpesc-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.mpesc-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.mpesc-prototype.replaced.2026-09-03",
+    "name": "mpesc-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/mpesc-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/mpesc-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-azure-functions",
-    "mirror_name": "Planning-Inspectorate.odw-azure-functions",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-azure-functions",
-    "name": "odw-azure-functions",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-azure-functions.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.odw-azure-functions.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-azure-functions.replaced.2026-09-03",
+    "name": "odw-azure-functions.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/odw-azure-functions"
+    "original_url": "https://github.com/Planning-Inspectorate/odw-azure-functions.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-common",
-    "mirror_name": "Planning-Inspectorate.odw-common",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-common",
-    "name": "odw-common",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-common.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.odw-common.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-common.replaced.2026-09-03",
+    "name": "odw-common.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/odw-common"
+    "original_url": "https://github.com/Planning-Inspectorate/odw-common.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-infrastructure",
-    "mirror_name": "Planning-Inspectorate.odw-infrastructure",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-infrastructure",
-    "name": "odw-infrastructure",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-infrastructure.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.odw-infrastructure.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-infrastructure.replaced.2026-09-03",
+    "name": "odw-infrastructure.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/odw-infrastructure"
+    "original_url": "https://github.com/Planning-Inspectorate/odw-infrastructure.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-purview",
-    "mirror_name": "Planning-Inspectorate.odw-purview",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-purview",
-    "name": "odw-purview",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.odw-purview.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.odw-purview.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-purview.replaced.2026-09-03",
+    "name": "odw-purview.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/odw-purview"
+    "original_url": "https://github.com/Planning-Inspectorate/odw-purview.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Mono repo for the PEAS/RoW case management services",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.peas-row-commons",
-    "mirror_name": "Planning-Inspectorate.peas-row-commons",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.peas-row-commons",
-    "name": "peas-row-commons",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.peas-row-commons.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.peas-row-commons.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.peas-row-commons.replaced.2026-09-03",
+    "name": "peas-row-commons.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/peas-row-commons"
+    "original_url": "https://github.com/Planning-Inspectorate/peas-row-commons.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Infrastructure code for the design prototypes and other proof-of-concepts",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure",
-    "mirror_name": "Planning-Inspectorate.prototypes-common-infrastructure",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure",
-    "name": "prototypes-common-infrastructure",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.prototypes-common-infrastructure.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure.replaced.2026-09-03",
+    "name": "prototypes-common-infrastructure.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/prototypes-common-infrastructure"
+    "original_url": "https://github.com/Planning-Inspectorate/prototypes-common-infrastructure.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.redaction-system",
-    "mirror_name": "Planning-Inspectorate.redaction-system",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.redaction-system",
-    "name": "redaction-system",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.redaction-system.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.redaction-system.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.redaction-system.replaced.2026-09-03",
+    "name": "redaction-system.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/redaction-system"
+    "original_url": "https://github.com/Planning-Inspectorate/redaction-system.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.section-62a-prototype",
-    "mirror_name": "Planning-Inspectorate.section-62a-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.section-62a-prototype",
-    "name": "section-62a-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.section-62a-prototype.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.section-62a-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.section-62a-prototype.replaced.2026-09-03",
+    "name": "section-62a-prototype.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/section-62a-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/section-62a-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-03",
     "description": "Template code for new services to use as a reference",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.template-service",
-    "mirror_name": "Planning-Inspectorate.template-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.template-service",
-    "name": "template-service",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.template-service.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.template-service.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.template-service.replaced.2026-09-03",
+    "name": "template-service.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/template-service"
+    "original_url": "https://github.com/Planning-Inspectorate/template-service.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -2249,37 +2243,34 @@
     "original_url": "https://github.com/SkillsFundingAgency/das-data-factory"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2023-01-27",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives",
-    "mirror_name": "SkillsFundingAgency.das-employer-incentives",
-    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives",
-    "name": "das-employer-incentives",
+    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions.replaced.2026-09-03",
+    "mirror_name": "SkillsFundingAgency.das-employer-incentives-functions.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions.replaced.2026-09-03",
+    "name": "das-employer-incentives-functions.replaced.2026-09-03",
     "org": "SkillsFundingAgency",
-    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives"
+    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives-functions.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2022-02-22",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions",
-    "mirror_name": "SkillsFundingAgency.das-employer-incentives-functions",
-    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions",
-    "name": "das-employer-incentives-functions",
+    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web.replaced.2026-09-03",
+    "mirror_name": "SkillsFundingAgency.das-employer-incentives-web.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web.replaced.2026-09-03",
+    "name": "das-employer-incentives-web.replaced.2026-09-03",
     "org": "SkillsFundingAgency",
-    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives-functions"
+    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives-web.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2022-02-22",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web",
-    "mirror_name": "SkillsFundingAgency.das-employer-incentives-web",
-    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web",
-    "name": "das-employer-incentives-web",
+    "full_name": "uk-gov-mirror/SkillsFundingAgency.das-employer-incentives.replaced.2026-09-03",
+    "mirror_name": "SkillsFundingAgency.das-employer-incentives.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives.replaced.2026-09-03",
+    "name": "das-employer-incentives.replaced.2026-09-03",
     "org": "SkillsFundingAgency",
-    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives-web"
+    "original_url": "https://github.com/SkillsFundingAgency/das-employer-incentives.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -3744,25 +3735,24 @@
     "original_url": "https://github.com/SkillsFundingAgency/dss-versioningspike"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2020-12-15",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype",
-    "mirror_name": "SkillsFundingAgency.tl-marketing-and-communication-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype",
-    "name": "tl-marketing-and-communication-prototype",
+    "full_name": "uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype.replaced.2026-09-03",
+    "mirror_name": "SkillsFundingAgency.tl-marketing-and-communication-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype.replaced.2026-09-03",
+    "name": "tl-marketing-and-communication-prototype.replaced.2026-09-03",
     "org": "SkillsFundingAgency",
-    "original_url": "https://github.com/SkillsFundingAgency/tl-marketing-and-communication-prototype"
+    "original_url": "https://github.com/SkillsFundingAgency/tl-marketing-and-communication-prototype.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-12",
+    "deleted_on": "2026-09-03",
     "description": "UK Intellectual Property Office Assets",
-    "full_name": "uk-gov-mirror/The-Strategy-Unit.assets",
-    "mirror_name": "The-Strategy-Unit.assets",
-    "mirror_url": "https://github.com/uk-gov-mirror/The-Strategy-Unit.assets",
-    "name": "assets",
+    "full_name": "uk-gov-mirror/The-Strategy-Unit.assets.replaced.2026-09-02",
+    "mirror_name": "The-Strategy-Unit.assets.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/The-Strategy-Unit.assets.replaced.2026-09-02",
+    "name": "assets.replaced.2026-09-02",
     "org": "The-Strategy-Unit",
-    "original_url": "https://github.com/The-Strategy-Unit/assets"
+    "original_url": "https://github.com/The-Strategy-Unit/assets.replaced.2026-09-02"
   },
   {
     "deleted_on": "2026-08-27",
@@ -4807,15 +4797,14 @@
     "original_url": "https://github.com/UKHomeOffice/dsa-elasticsearch"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2022-11-11",
+    "deleted_on": "2026-09-03",
     "description": "Kibana image for DSA project",
-    "full_name": "uk-gov-mirror/UKHomeOffice.dsa-kibana",
-    "mirror_name": "UKHomeOffice.dsa-kibana",
-    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.dsa-kibana",
-    "name": "dsa-kibana",
+    "full_name": "uk-gov-mirror/UKHomeOffice.dsa-kibana.replaced.2026-09-03",
+    "mirror_name": "UKHomeOffice.dsa-kibana.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.dsa-kibana.replaced.2026-09-03",
+    "name": "dsa-kibana.replaced.2026-09-03",
     "org": "UKHomeOffice",
-    "original_url": "https://github.com/UKHomeOffice/dsa-kibana"
+    "original_url": "https://github.com/UKHomeOffice/dsa-kibana.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -5372,15 +5361,14 @@
     "original_url": "https://github.com/UKHomeOffice/web-messengers"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2021-07-02",
+    "deleted_on": "2026-09-03",
     "description": "Egar HOF Template mixins",
-    "full_name": "uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins",
-    "mirror_name": "UKHomeOfficeForms.hof-template-mixins",
-    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins",
-    "name": "hof-template-mixins",
+    "full_name": "uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins.replaced.2026-09-03",
+    "mirror_name": "UKHomeOfficeForms.hof-template-mixins.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins.replaced.2026-09-03",
+    "name": "hof-template-mixins.replaced.2026-09-03",
     "org": "UKHomeOfficeForms",
-    "original_url": "https://github.com/UKHomeOfficeForms/hof-template-mixins"
+    "original_url": "https://github.com/UKHomeOfficeForms/hof-template-mixins.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -5394,15 +5382,14 @@
     "original_url": "https://github.com/alphagov/govuk-rota-generator"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2025-05-26",
+    "deleted_on": "2026-09-03",
     "description": "Statistical tools to help analyse A/B tests of processed BigQuery user journey data.",
-    "full_name": "uk-gov-mirror/alphagov.govuk_ab_analysis",
-    "mirror_name": "alphagov.govuk_ab_analysis",
-    "mirror_url": "https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis",
-    "name": "govuk_ab_analysis",
+    "full_name": "uk-gov-mirror/alphagov.govuk_ab_analysis.replaced.2026-09-03",
+    "mirror_name": "alphagov.govuk_ab_analysis.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis.replaced.2026-09-03",
+    "name": "govuk_ab_analysis.replaced.2026-09-03",
     "org": "alphagov",
-    "original_url": "https://github.com/alphagov/govuk_ab_analysis"
+    "original_url": "https://github.com/alphagov/govuk_ab_analysis.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-15",
@@ -5536,15 +5523,14 @@
     "original_url": "https://github.com/companieshouse/ansible-role-informix-db"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-10-19",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/companieshouse.bulk-outputs-aws",
-    "mirror_name": "companieshouse.bulk-outputs-aws",
-    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws",
-    "name": "bulk-outputs-aws",
+    "full_name": "uk-gov-mirror/companieshouse.bulk-outputs-aws.replaced.2026-09-03",
+    "mirror_name": "companieshouse.bulk-outputs-aws.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws.replaced.2026-09-03",
+    "name": "bulk-outputs-aws.replaced.2026-09-03",
     "org": "companieshouse",
-    "original_url": "https://github.com/companieshouse/bulk-outputs-aws"
+    "original_url": "https://github.com/companieshouse/bulk-outputs-aws.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -5580,15 +5566,14 @@
     "original_url": "https://github.com/companieshouse/ch-account-ui"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2021-11-25",
+    "deleted_on": "2026-09-03",
     "description": "The Companies House design system and docs",
-    "full_name": "uk-gov-mirror/companieshouse.ch-design-system",
-    "mirror_name": "companieshouse.ch-design-system",
-    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.ch-design-system",
-    "name": "ch-design-system",
+    "full_name": "uk-gov-mirror/companieshouse.ch-design-system.replaced.2026-09-03",
+    "mirror_name": "companieshouse.ch-design-system.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.ch-design-system.replaced.2026-09-03",
+    "name": "ch-design-system.replaced.2026-09-03",
     "org": "companieshouse",
-    "original_url": "https://github.com/companieshouse/ch-design-system"
+    "original_url": "https://github.com/companieshouse/ch-design-system.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -5744,15 +5729,14 @@
     "original_url": "https://github.com/companieshouse/mongo-to-s3-export"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2025-10-23",
+    "deleted_on": "2026-09-03",
     "description": "A starter project for web applications built with Node",
-    "full_name": "uk-gov-mirror/companieshouse.node-web-starter",
-    "mirror_name": "companieshouse.node-web-starter",
-    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.node-web-starter",
-    "name": "node-web-starter",
+    "full_name": "uk-gov-mirror/companieshouse.node-web-starter.replaced.2026-09-03",
+    "mirror_name": "companieshouse.node-web-starter.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.node-web-starter.replaced.2026-09-03",
+    "name": "node-web-starter.replaced.2026-09-03",
     "org": "companieshouse",
-    "original_url": "https://github.com/companieshouse/node-web-starter"
+    "original_url": "https://github.com/companieshouse/node-web-starter.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -5832,15 +5816,14 @@
     "original_url": "https://github.com/companieshouse/psc-extensions-api"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-10-28",
+    "deleted_on": "2026-09-03",
     "description": "REST API handling the company register data set.",
-    "full_name": "uk-gov-mirror/companieshouse.registers-data-api",
-    "mirror_name": "companieshouse.registers-data-api",
-    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.registers-data-api",
-    "name": "registers-data-api",
+    "full_name": "uk-gov-mirror/companieshouse.registers-data-api.replaced.2026-09-03",
+    "mirror_name": "companieshouse.registers-data-api.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.registers-data-api.replaced.2026-09-03",
+    "name": "registers-data-api.replaced.2026-09-03",
     "org": "companieshouse",
-    "original_url": "https://github.com/companieshouse/registers-data-api"
+    "original_url": "https://github.com/companieshouse/registers-data-api.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -6324,25 +6307,24 @@
     "original_url": "https://github.com/defra/sroc-tcm-acceptance-tests"
   },
   {
-    "deleted_on": "2026-08-25",
+    "deleted_on": "2026-09-03",
     "description": "Git repository for service waste-batteries-reg-backend",
-    "full_name": "uk-gov-mirror/defra.waste-batteries-reg-backend",
-    "mirror_name": "defra.waste-batteries-reg-backend",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend",
-    "name": "waste-batteries-reg-backend",
+    "full_name": "uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02",
+    "mirror_name": "defra.waste-batteries-reg-backend.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02",
+    "name": "waste-batteries-reg-backend.replaced.2026-09-02",
     "org": "defra",
-    "original_url": "https://github.com/defra/waste-batteries-reg-backend"
+    "original_url": "https://github.com/defra/waste-batteries-reg-backend.replaced.2026-09-02"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2024-01-11",
+    "deleted_on": "2026-09-03",
     "description": "Cucumber based acceptance tests for the Waste exemptions digital service",
-    "full_name": "uk-gov-mirror/defra.waste-exemptions-acceptance-tests",
-    "mirror_name": "defra.waste-exemptions-acceptance-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests",
-    "name": "waste-exemptions-acceptance-tests",
+    "full_name": "uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02",
+    "mirror_name": "defra.waste-exemptions-acceptance-tests.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02",
+    "name": "waste-exemptions-acceptance-tests.replaced.2026-09-02",
     "org": "defra",
-    "original_url": "https://github.com/defra/waste-exemptions-acceptance-tests"
+    "original_url": "https://github.com/defra/waste-exemptions-acceptance-tests.replaced.2026-09-02"
   },
   {
     "deleted_on": "2026-08-21",
@@ -6355,15 +6337,14 @@
     "original_url": "https://github.com/defra/waste-exemptions-back-office.replaced.2026-08-21"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2024-01-11",
+    "deleted_on": "2026-09-03",
     "description": "The public facing Waste Exemptions service",
-    "full_name": "uk-gov-mirror/defra.waste-exemptions-front-office",
-    "mirror_name": "defra.waste-exemptions-front-office",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office",
-    "name": "waste-exemptions-front-office",
+    "full_name": "uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02",
+    "mirror_name": "defra.waste-exemptions-front-office.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02",
+    "name": "waste-exemptions-front-office.replaced.2026-09-02",
     "org": "defra",
-    "original_url": "https://github.com/defra/waste-exemptions-front-office"
+    "original_url": "https://github.com/defra/waste-exemptions-front-office.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -6420,14 +6401,14 @@
     "original_url": "https://github.com/defra/water-abstraction-reporting"
   },
   {
-    "deleted_on": "2026-08-12",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/department-for-transport-BODS.reference-data-service",
-    "mirror_name": "department-for-transport-BODS.reference-data-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service",
-    "name": "reference-data-service",
+    "full_name": "uk-gov-mirror/department-for-transport-BODS.reference-data-service.replaced.2026-09-03",
+    "mirror_name": "department-for-transport-BODS.reference-data-service.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service.replaced.2026-09-03",
+    "name": "reference-data-service.replaced.2026-09-03",
     "org": "department-for-transport-BODS",
-    "original_url": "https://github.com/department-for-transport-BODS/reference-data-service"
+    "original_url": "https://github.com/department-for-transport-BODS/reference-data-service.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -6461,15 +6442,14 @@
     "original_url": "https://github.com/dstl/Human-Interface-Horizons.replaced.2026-08-21"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2026-04-27",
+    "deleted_on": "2026-09-03",
     "description": "Interfaces, interchange formats and data transformations to promote shared, collaborative and distributed knowledge representation and reasoning.",
-    "full_name": "uk-gov-mirror/dstl.eleatics",
-    "mirror_name": "dstl.eleatics",
-    "mirror_url": "https://github.com/uk-gov-mirror/dstl.eleatics",
-    "name": "eleatics",
+    "full_name": "uk-gov-mirror/dstl.eleatics.replaced.2026-09-02",
+    "mirror_name": "dstl.eleatics.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/dstl.eleatics.replaced.2026-09-02",
+    "name": "eleatics.replaced.2026-09-02",
     "org": "dstl",
-    "original_url": "https://github.com/dstl/eleatics"
+    "original_url": "https://github.com/dstl/eleatics.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -6857,15 +6837,14 @@
     "original_url": "https://github.com/dvsa/cvs-poc-offline-hybrid-appsync"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-03-30",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/dvsa.cvs-svc-defects",
-    "mirror_name": "dvsa.cvs-svc-defects",
-    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.cvs-svc-defects",
-    "name": "cvs-svc-defects",
+    "full_name": "uk-gov-mirror/dvsa.cvs-svc-defects.replaced.2026-09-03",
+    "mirror_name": "dvsa.cvs-svc-defects.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.cvs-svc-defects.replaced.2026-09-03",
+    "name": "cvs-svc-defects.replaced.2026-09-03",
     "org": "dvsa",
-    "original_url": "https://github.com/dvsa/cvs-svc-defects"
+    "original_url": "https://github.com/dvsa/cvs-svc-defects.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -6945,15 +6924,14 @@
     "original_url": "https://github.com/dvsa/motr-terraform"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-05-17",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/dvsa.vol-active-support",
-    "mirror_name": "dvsa.vol-active-support",
-    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.vol-active-support",
-    "name": "vol-active-support",
+    "full_name": "uk-gov-mirror/dvsa.vol-active-support.replaced.2026-09-03",
+    "mirror_name": "dvsa.vol-active-support.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dvsa.vol-active-support.replaced.2026-09-03",
+    "name": "vol-active-support.replaced.2026-09-03",
     "org": "dvsa",
-    "original_url": "https://github.com/dvsa/vol-active-support"
+    "original_url": "https://github.com/dvsa/vol-active-support.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-21",
@@ -6977,15 +6955,14 @@
     "original_url": "https://github.com/dwp/CADSPrototypeCircs"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2020-11-18",
+    "deleted_on": "2026-09-03",
     "description": "AWS Cognito management",
-    "full_name": "uk-gov-mirror/dwp.aws-authentication",
-    "mirror_name": "dwp.aws-authentication",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.aws-authentication",
-    "name": "aws-authentication",
+    "full_name": "uk-gov-mirror/dwp.aws-authentication.replaced.2026-09-03",
+    "mirror_name": "dwp.aws-authentication.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.aws-authentication.replaced.2026-09-03",
+    "name": "aws-authentication.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/aws-authentication"
+    "original_url": "https://github.com/dwp/aws-authentication.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -7098,37 +7075,34 @@
     "original_url": "https://github.com/dwp/dataworks-aws-ingest-reconcilers"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2021-09-08",
+    "deleted_on": "2026-09-03",
     "description": "This repository holds the codes for ingesting and generating analytical dataset for kickstart into dataworks",
-    "full_name": "uk-gov-mirror/dwp.dataworks-aws-kickstart-adg",
-    "mirror_name": "dwp.dataworks-aws-kickstart-adg",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-aws-kickstart-adg",
-    "name": "dataworks-aws-kickstart-adg",
+    "full_name": "uk-gov-mirror/dwp.dataworks-aws-kickstart-adg.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-aws-kickstart-adg.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-aws-kickstart-adg.replaced.2026-09-03",
+    "name": "dataworks-aws-kickstart-adg.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-aws-kickstart-adg"
+    "original_url": "https://github.com/dwp/dataworks-aws-kickstart-adg.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2023-06-15",
+    "deleted_on": "2026-09-03",
     "description": "TF code for the Tarball Ingester Service",
-    "full_name": "uk-gov-mirror/dwp.dataworks-aws-tarball-ingester",
-    "mirror_name": "dwp.dataworks-aws-tarball-ingester",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-aws-tarball-ingester",
-    "name": "dataworks-aws-tarball-ingester",
+    "full_name": "uk-gov-mirror/dwp.dataworks-aws-tarball-ingester.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-aws-tarball-ingester.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-aws-tarball-ingester.replaced.2026-09-03",
+    "name": "dataworks-aws-tarball-ingester.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-aws-tarball-ingester"
+    "original_url": "https://github.com/dwp/dataworks-aws-tarball-ingester.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2023-10-30",
+    "deleted_on": "2026-09-03",
     "description": "Kotlin utility library to be used in Dataworks applications to ensure common logging format.",
-    "full_name": "uk-gov-mirror/dwp.dataworks-common-logging",
-    "mirror_name": "dwp.dataworks-common-logging",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-common-logging",
-    "name": "dataworks-common-logging",
+    "full_name": "uk-gov-mirror/dwp.dataworks-common-logging.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-common-logging.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-common-logging.replaced.2026-09-03",
+    "name": "dataworks-common-logging.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-common-logging"
+    "original_url": "https://github.com/dwp/dataworks-common-logging.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -7142,37 +7116,34 @@
     "original_url": "https://github.com/dwp/dataworks-config"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2023-10-30",
+    "deleted_on": "2026-09-03",
     "description": "Manage GitHub team and repository configuration for DataWorks",
-    "full_name": "uk-gov-mirror/dwp.dataworks-github-config",
-    "mirror_name": "dwp.dataworks-github-config",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-github-config",
-    "name": "dataworks-github-config",
+    "full_name": "uk-gov-mirror/dwp.dataworks-github-config.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-github-config.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-github-config.replaced.2026-09-03",
+    "name": "dataworks-github-config.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-github-config"
+    "original_url": "https://github.com/dwp/dataworks-github-config.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2020-10-19",
+    "deleted_on": "2026-09-03",
     "description": "Template repository for DataWorks GitHub",
-    "full_name": "uk-gov-mirror/dwp.dataworks-repo-template",
-    "mirror_name": "dwp.dataworks-repo-template",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-repo-template",
-    "name": "dataworks-repo-template",
+    "full_name": "uk-gov-mirror/dwp.dataworks-repo-template.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-repo-template.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-repo-template.replaced.2026-09-03",
+    "name": "dataworks-repo-template.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-repo-template"
+    "original_url": "https://github.com/dwp/dataworks-repo-template.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2023-03-14",
+    "deleted_on": "2026-09-03",
     "description": "An application to tag S3 objects based on various rules and source config files",
-    "full_name": "uk-gov-mirror/dwp.dataworks-s3-object-tagger",
-    "mirror_name": "dwp.dataworks-s3-object-tagger",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-s3-object-tagger",
-    "name": "dataworks-s3-object-tagger",
+    "full_name": "uk-gov-mirror/dwp.dataworks-s3-object-tagger.replaced.2026-09-03",
+    "mirror_name": "dwp.dataworks-s3-object-tagger.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.dataworks-s3-object-tagger.replaced.2026-09-03",
+    "name": "dataworks-s3-object-tagger.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/dataworks-s3-object-tagger"
+    "original_url": "https://github.com/dwp/dataworks-s3-object-tagger.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -7208,15 +7179,14 @@
     "original_url": "https://github.com/dwp/docker-aws-openssl"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2020-12-02",
+    "deleted_on": "2026-09-03",
     "description": "A container with required extensions and libraries for creating test data for Analytical Environment Performance Monitor",
-    "full_name": "uk-gov-mirror/dwp.docker-create-metrics-data-batch",
-    "mirror_name": "dwp.docker-create-metrics-data-batch",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.docker-create-metrics-data-batch",
-    "name": "docker-create-metrics-data-batch",
+    "full_name": "uk-gov-mirror/dwp.docker-create-metrics-data-batch.replaced.2026-09-03",
+    "mirror_name": "dwp.docker-create-metrics-data-batch.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.docker-create-metrics-data-batch.replaced.2026-09-03",
+    "name": "docker-create-metrics-data-batch.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/docker-create-metrics-data-batch"
+    "original_url": "https://github.com/dwp/docker-create-metrics-data-batch.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -7318,26 +7288,24 @@
     "original_url": "https://github.com/dwp/github-repo-config-examples"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-09-27",
+    "deleted_on": "2026-09-03",
     "description": "The hardened Guacamole Chrome container",
-    "full_name": "uk-gov-mirror/dwp.hardened-guac-chrome",
-    "mirror_name": "dwp.hardened-guac-chrome",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.hardened-guac-chrome",
-    "name": "hardened-guac-chrome",
+    "full_name": "uk-gov-mirror/dwp.hardened-guac-chrome.replaced.2026-09-03",
+    "mirror_name": "dwp.hardened-guac-chrome.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.hardened-guac-chrome.replaced.2026-09-03",
+    "name": "hardened-guac-chrome.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/hardened-guac-chrome"
+    "original_url": "https://github.com/dwp/hardened-guac-chrome.replaced.2026-09-03"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2023-01-18",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/dwp.newstylejsa",
-    "mirror_name": "dwp.newstylejsa",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.newstylejsa",
-    "name": "newstylejsa",
+    "full_name": "uk-gov-mirror/dwp.newstylejsa.replaced.2026-09-03",
+    "mirror_name": "dwp.newstylejsa.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.newstylejsa.replaced.2026-09-03",
+    "name": "newstylejsa.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/newstylejsa"
+    "original_url": "https://github.com/dwp/newstylejsa.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -7417,15 +7385,14 @@
     "original_url": "https://github.com/dwp/streaming-data-importer"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2020-04-22",
+    "deleted_on": "2026-09-03",
     "description": "Temporary app to create and assign MFA software token code to a user in AWS cognito.",
-    "full_name": "uk-gov-mirror/dwp.tactical-aws-user-creation",
-    "mirror_name": "dwp.tactical-aws-user-creation",
-    "mirror_url": "https://github.com/uk-gov-mirror/dwp.tactical-aws-user-creation",
-    "name": "tactical-aws-user-creation",
+    "full_name": "uk-gov-mirror/dwp.tactical-aws-user-creation.replaced.2026-09-03",
+    "mirror_name": "dwp.tactical-aws-user-creation.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/dwp.tactical-aws-user-creation.replaced.2026-09-03",
+    "name": "tactical-aws-user-creation.replaced.2026-09-03",
     "org": "dwp",
-    "original_url": "https://github.com/dwp/tactical-aws-user-creation"
+    "original_url": "https://github.com/dwp/tactical-aws-user-creation.replaced.2026-09-03"
   },
   {
     "deleted_on": null,
@@ -7460,14 +7427,14 @@
     "original_url": "https://github.com/dwp/ux-form-validation-prototype"
   },
   {
-    "deleted_on": "2026-08-14",
+    "deleted_on": "2026-09-03",
     "description": "Ministry of Justice Analytical Services GitHub workflow templates",
-    "full_name": "uk-gov-mirror/forestresearch..github",
-    "mirror_name": "forestresearch..github",
-    "mirror_url": "https://github.com/uk-gov-mirror/forestresearch..github",
-    "name": ".github",
+    "full_name": "uk-gov-mirror/forestresearch..github.replaced.2026-09-02",
+    "mirror_name": "forestresearch..github.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/forestresearch..github.replaced.2026-09-02",
+    "name": ".github.replaced.2026-09-02",
     "org": "forestresearch",
-    "original_url": "https://github.com/forestresearch/.github"
+    "original_url": "https://github.com/forestresearch/.github.replaced.2026-09-02"
   },
   {
     "deleted_on": "2026-08-21",
@@ -7512,15 +7479,14 @@
     "original_url": "https://github.com/hmcts/azure-resource-groups"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-02-25",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmcts.bulk-scan-java-client",
-    "mirror_name": "hmcts.bulk-scan-java-client",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client",
-    "name": "bulk-scan-java-client",
+    "full_name": "uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03",
+    "mirror_name": "hmcts.bulk-scan-java-client.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03",
+    "name": "bulk-scan-java-client.replaced.2026-09-03",
     "org": "hmcts",
-    "original_url": "https://github.com/hmcts/bulk-scan-java-client"
+    "original_url": "https://github.com/hmcts/bulk-scan-java-client.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -8051,15 +8017,14 @@
     "original_url": "https://github.com/hmrc/build-and-deploy-sup-test"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-09-16",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.carf-management-ui-tests",
-    "mirror_name": "hmrc.carf-management-ui-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-management-ui-tests",
-    "name": "carf-management-ui-tests",
+    "full_name": "uk-gov-mirror/hmrc.carf-management-ui-tests.replaced.2026-09-02",
+    "mirror_name": "hmrc.carf-management-ui-tests.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-management-ui-tests.replaced.2026-09-02",
+    "name": "carf-management-ui-tests.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/carf-management-ui-tests"
+    "original_url": "https://github.com/hmrc/carf-management-ui-tests.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -8073,15 +8038,14 @@
     "original_url": "https://github.com/hmrc/carf-registration-performance-tests"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-09-16",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.carf-reporting-ui-tests",
-    "mirror_name": "hmrc.carf-reporting-ui-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-reporting-ui-tests",
-    "name": "carf-reporting-ui-tests",
+    "full_name": "uk-gov-mirror/hmrc.carf-reporting-ui-tests.replaced.2026-09-02",
+    "mirror_name": "hmrc.carf-reporting-ui-tests.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-reporting-ui-tests.replaced.2026-09-02",
+    "name": "carf-reporting-ui-tests.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/carf-reporting-ui-tests"
+    "original_url": "https://github.com/hmrc/carf-reporting-ui-tests.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -8270,15 +8234,14 @@
     "original_url": "https://github.com/hmrc/customs-dit-licences"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-12",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.customs-financials-email-throttler",
-    "mirror_name": "hmrc.customs-financials-email-throttler",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler",
-    "name": "customs-financials-email-throttler",
+    "full_name": "uk-gov-mirror/hmrc.customs-financials-email-throttler.replaced.2026-09-02",
+    "mirror_name": "hmrc.customs-financials-email-throttler.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler.replaced.2026-09-02",
+    "name": "customs-financials-email-throttler.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/customs-financials-email-throttler"
+    "original_url": "https://github.com/hmrc/customs-financials-email-throttler.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -8674,26 +8637,24 @@
     "original_url": "https://github.com/hmrc/income-tax-view-change-dynamic-stub"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-02-15",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.incorporated-entity-identification",
-    "mirror_name": "hmrc.incorporated-entity-identification",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification",
-    "name": "incorporated-entity-identification",
+    "full_name": "uk-gov-mirror/hmrc.incorporated-entity-identification-frontend.replaced.2026-09-02",
+    "mirror_name": "hmrc.incorporated-entity-identification-frontend.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification-frontend.replaced.2026-09-02",
+    "name": "incorporated-entity-identification-frontend.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/incorporated-entity-identification"
+    "original_url": "https://github.com/hmrc/incorporated-entity-identification-frontend.replaced.2026-09-02"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2022-12-03",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.incorporated-entity-identification-frontend",
-    "mirror_name": "hmrc.incorporated-entity-identification-frontend",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification-frontend",
-    "name": "incorporated-entity-identification-frontend",
+    "full_name": "uk-gov-mirror/hmrc.incorporated-entity-identification.replaced.2026-09-02",
+    "mirror_name": "hmrc.incorporated-entity-identification.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification.replaced.2026-09-02",
+    "name": "incorporated-entity-identification.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/incorporated-entity-identification-frontend"
+    "original_url": "https://github.com/hmrc/incorporated-entity-identification.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -8784,15 +8745,14 @@
     "original_url": "https://github.com/hmrc/irr-reporting-company-frontend"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-02-18",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.iv-orchestration",
-    "mirror_name": "hmrc.iv-orchestration",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.iv-orchestration",
-    "name": "iv-orchestration",
+    "full_name": "uk-gov-mirror/hmrc.iv-orchestration.replaced.2026-09-02",
+    "mirror_name": "hmrc.iv-orchestration.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.iv-orchestration.replaced.2026-09-02",
+    "name": "iv-orchestration.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/iv-orchestration"
+    "original_url": "https://github.com/hmrc/iv-orchestration.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -9356,26 +9316,24 @@
     "original_url": "https://github.com/hmrc/pbd-paul-test"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2022-05-13",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.personal-details-validation",
-    "mirror_name": "hmrc.personal-details-validation",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.personal-details-validation",
-    "name": "personal-details-validation",
+    "full_name": "uk-gov-mirror/hmrc.personal-details-validation-frontend.replaced.2026-09-02",
+    "mirror_name": "hmrc.personal-details-validation-frontend.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.personal-details-validation-frontend.replaced.2026-09-02",
+    "name": "personal-details-validation-frontend.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/personal-details-validation"
+    "original_url": "https://github.com/hmrc/personal-details-validation-frontend.replaced.2026-09-02"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-20",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.personal-details-validation-frontend",
-    "mirror_name": "hmrc.personal-details-validation-frontend",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.personal-details-validation-frontend",
-    "name": "personal-details-validation-frontend",
+    "full_name": "uk-gov-mirror/hmrc.personal-details-validation.replaced.2026-09-02",
+    "mirror_name": "hmrc.personal-details-validation.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.personal-details-validation.replaced.2026-09-02",
+    "name": "personal-details-validation.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/personal-details-validation-frontend"
+    "original_url": "https://github.com/hmrc/personal-details-validation.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -9608,26 +9566,24 @@
     "original_url": "https://github.com/hmrc/service-contract-cache"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-03-10",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.sole-trader-identification",
-    "mirror_name": "hmrc.sole-trader-identification",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.sole-trader-identification",
-    "name": "sole-trader-identification",
+    "full_name": "uk-gov-mirror/hmrc.sole-trader-identification-frontend.replaced.2026-09-02",
+    "mirror_name": "hmrc.sole-trader-identification-frontend.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.sole-trader-identification-frontend.replaced.2026-09-02",
+    "name": "sole-trader-identification-frontend.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/sole-trader-identification"
+    "original_url": "https://github.com/hmrc/sole-trader-identification-frontend.replaced.2026-09-02"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-13",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.sole-trader-identification-frontend",
-    "mirror_name": "hmrc.sole-trader-identification-frontend",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.sole-trader-identification-frontend",
-    "name": "sole-trader-identification-frontend",
+    "full_name": "uk-gov-mirror/hmrc.sole-trader-identification.replaced.2026-09-02",
+    "mirror_name": "hmrc.sole-trader-identification.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.sole-trader-identification.replaced.2026-09-02",
+    "name": "sole-trader-identification.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/sole-trader-identification-frontend"
+    "original_url": "https://github.com/hmrc/sole-trader-identification.replaced.2026-09-02"
   },
   {
     "deleted_on": null,
@@ -9651,15 +9607,14 @@
     "original_url": "https://github.com/hmrc/stream-processor"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2020-12-03",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.stub-data-generator",
-    "mirror_name": "hmrc.stub-data-generator",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.stub-data-generator",
-    "name": "stub-data-generator",
+    "full_name": "uk-gov-mirror/hmrc.stub-data-generator.replaced.2026-09-02",
+    "mirror_name": "hmrc.stub-data-generator.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.stub-data-generator.replaced.2026-09-02",
+    "name": "stub-data-generator.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/stub-data-generator"
+    "original_url": "https://github.com/hmrc/stub-data-generator.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -9717,15 +9672,14 @@
     "original_url": "https://github.com/hmrc/template-play-27-frontend-fsm.g8"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-09-28",
+    "deleted_on": "2026-09-03",
     "description": "Terraform module to deploy AWS components required for VM-series firewalls ",
-    "full_name": "uk-gov-mirror/hmrc.terraform-aws-vpc",
-    "mirror_name": "hmrc.terraform-aws-vpc",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.terraform-aws-vpc",
-    "name": "terraform-aws-vpc",
+    "full_name": "uk-gov-mirror/hmrc.terraform-aws-vpc.replaced.2026-09-02",
+    "mirror_name": "hmrc.terraform-aws-vpc.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.terraform-aws-vpc.replaced.2026-09-02",
+    "name": "terraform-aws-vpc.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/terraform-aws-vpc"
+    "original_url": "https://github.com/hmrc/terraform-aws-vpc.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -9750,15 +9704,14 @@
     "original_url": "https://github.com/hmrc/time-to-pay-calculator"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-10-29",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.trade-reporting-extracts",
-    "mirror_name": "hmrc.trade-reporting-extracts",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.trade-reporting-extracts",
-    "name": "trade-reporting-extracts",
+    "full_name": "uk-gov-mirror/hmrc.trade-reporting-extracts.replaced.2026-09-02",
+    "mirror_name": "hmrc.trade-reporting-extracts.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.trade-reporting-extracts.replaced.2026-09-02",
+    "name": "trade-reporting-extracts.replaced.2026-09-02",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/trade-reporting-extracts"
+    "original_url": "https://github.com/hmrc/trade-reporting-extracts.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -11916,15 +11869,14 @@
     "original_url": "https://github.com/intellectual-property-office/ctc-address.replaced.2026-08-20"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2025-07-17",
+    "deleted_on": "2026-09-03",
     "description": "Open sourced code for IPO's CTC Company microservice",
-    "full_name": "uk-gov-mirror/intellectual-property-office.ctc-company",
-    "mirror_name": "intellectual-property-office.ctc-company",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company",
-    "name": "ctc-company",
+    "full_name": "uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03",
+    "mirror_name": "intellectual-property-office.ctc-company.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03",
+    "name": "ctc-company.replaced.2026-09-03",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/ctc-company"
+    "original_url": "https://github.com/intellectual-property-office/ctc-company.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-13",
@@ -12277,15 +12229,14 @@
     "original_url": "https://github.com/ministryofjustice/court-list-splitter"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-01-23",
+    "deleted_on": "2026-09-03",
     "description": null,
-    "full_name": "uk-gov-mirror/ministryofjustice.data-docs-public",
-    "mirror_name": "ministryofjustice.data-docs-public",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public",
-    "name": "data-docs-public",
+    "full_name": "uk-gov-mirror/ministryofjustice.data-docs-public.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.data-docs-public.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public.replaced.2026-09-03",
+    "name": "data-docs-public.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/data-docs-public"
+    "original_url": "https://github.com/ministryofjustice/data-docs-public.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-22",
@@ -12309,15 +12260,14 @@
     "original_url": "https://github.com/ministryofjustice/digital-studio-infra"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2024-10-04",
+    "deleted_on": "2026-09-03",
     "description": "Terraform module for the bastion accessed only via an AWS Systems Manager Session.",
-    "full_name": "uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion",
-    "mirror_name": "ministryofjustice.diso-devops-module-ssm-bastion",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion",
-    "name": "diso-devops-module-ssm-bastion",
+    "full_name": "uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.diso-devops-module-ssm-bastion.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion.replaced.2026-09-03",
+    "name": "diso-devops-module-ssm-bastion.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/diso-devops-module-ssm-bastion"
+    "original_url": "https://github.com/ministryofjustice/diso-devops-module-ssm-bastion.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-22",
@@ -13080,6 +13030,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-delius-spg-testing-secure-httpclient"
   },
   {
+    "deleted_on": "2026-09-03",
+    "description": "Instance of DepencyTrack for collation of SBOM information across HMPPS github projects. Managed by the HMPPS SRE team. (bootstrapped 2026-08-25)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-dependencytrack",
+    "mirror_name": "ministryofjustice.hmpps-dependencytrack",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-dependencytrack",
+    "name": "hmpps-dependencytrack",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-dependencytrack"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-digital-developer-recruitment",
@@ -13140,15 +13100,14 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-ems-container-actions-toolkit"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-08",
+    "deleted_on": "2026-09-03",
     "description": "This repository contains terraform modules that are consumed by hmpps-ems-platform.",
-    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules",
-    "mirror_name": "ministryofjustice.hmpps-ems-platform-terraform-modules",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules",
-    "name": "hmpps-ems-platform-terraform-modules",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.hmpps-ems-platform-terraform-modules.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules.replaced.2026-09-03",
+    "name": "hmpps-ems-platform-terraform-modules.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/hmpps-ems-platform-terraform-modules"
+    "original_url": "https://github.com/ministryofjustice/hmpps-ems-platform-terraform-modules.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-22",
@@ -13211,15 +13170,14 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-github-actions-runner-security"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-10-17",
+    "deleted_on": "2026-09-03",
     "description": "API for managing HDC licences",
-    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hdc-api",
-    "mirror_name": "ministryofjustice.hmpps-hdc-api",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api",
-    "name": "hmpps-hdc-api",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hdc-api.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.hmpps-hdc-api.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api.replaced.2026-09-03",
+    "name": "hmpps-hdc-api.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/hmpps-hdc-api"
+    "original_url": "https://github.com/ministryofjustice/hmpps-hdc-api.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-21",
@@ -13621,6 +13579,16 @@
     "name": "hmpps-one-plan-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-one-plan-ui"
+  },
+  {
+    "deleted_on": "2026-09-03",
+    "description": "People on probation API (bootstrapped 2026-03-16)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-people-on-probation-api",
+    "mirror_name": "ministryofjustice.hmpps-people-on-probation-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-people-on-probation-api",
+    "name": "hmpps-people-on-probation-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-people-on-probation-api"
   },
   {
     "deleted_on": "2026-08-11",
@@ -14087,15 +14055,14 @@
     "original_url": "https://github.com/ministryofjustice/iis"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2025-11-05",
+    "deleted_on": "2026-09-03",
     "description": "my first attempt at creating a kotlin app (bootstrapped 2025-06-17)",
-    "full_name": "uk-gov-mirror/ministryofjustice.james-kotlin-test",
-    "mirror_name": "ministryofjustice.james-kotlin-test",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test",
-    "name": "james-kotlin-test",
+    "full_name": "uk-gov-mirror/ministryofjustice.james-kotlin-test.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.james-kotlin-test.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test.replaced.2026-09-03",
+    "name": "james-kotlin-test.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/james-kotlin-test"
+    "original_url": "https://github.com/ministryofjustice/james-kotlin-test.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14238,15 +14205,14 @@
     "original_url": "https://github.com/ministryofjustice/manage-my-prison"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2020-10-20",
+    "deleted_on": "2026-09-03",
     "description": "A sample application configuration within the Modernisation Platform \u2022 This repository is defined and managed in Terraform",
-    "full_name": "uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world",
-    "mirror_name": "ministryofjustice.modernisation-platform-hello-world",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world",
-    "name": "modernisation-platform-hello-world",
+    "full_name": "uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.modernisation-platform-hello-world.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world.replaced.2026-09-03",
+    "name": "modernisation-platform-hello-world.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/modernisation-platform-hello-world"
+    "original_url": "https://github.com/ministryofjustice/modernisation-platform-hello-world.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14312,15 +14278,14 @@
     "original_url": "https://github.com/ministryofjustice/offloc-server"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2022-09-27",
+    "deleted_on": "2026-09-03",
     "description": "OPG Infrastructure Costs: Managed by opg-org-infra & Terraform",
-    "full_name": "uk-gov-mirror/ministryofjustice.opg-infra-costs",
-    "mirror_name": "ministryofjustice.opg-infra-costs",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs",
-    "name": "opg-infra-costs",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-infra-costs.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.opg-infra-costs.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs.replaced.2026-09-03",
+    "name": "opg-infra-costs.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/opg-infra-costs"
+    "original_url": "https://github.com/ministryofjustice/opg-infra-costs.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-20",
@@ -14642,15 +14607,14 @@
     "original_url": "https://github.com/ministryofjustice/staff-infrastructure-monitoring-deployments"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2021-04-20",
+    "deleted_on": "2026-09-03",
     "description": "We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics.",
-    "full_name": "uk-gov-mirror/ministryofjustice.technology-diversity-statistics",
-    "mirror_name": "ministryofjustice.technology-diversity-statistics",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics",
-    "name": "technology-diversity-statistics",
+    "full_name": "uk-gov-mirror/ministryofjustice.technology-diversity-statistics.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.technology-diversity-statistics.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics.replaced.2026-09-03",
+    "name": "technology-diversity-statistics.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/technology-diversity-statistics"
+    "original_url": "https://github.com/ministryofjustice/technology-diversity-statistics.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14664,15 +14628,14 @@
     "original_url": "https://github.com/ministryofjustice/terraform-aws-step_function_globalprotect"
   },
   {
-    "approximate_date_source": "last-git-activity",
-    "deleted_on": "2024-05-22",
+    "deleted_on": "2026-09-03",
     "description": "Terraform module for TGW and TGW route table creation ",
-    "full_name": "uk-gov-mirror/ministryofjustice.terraform-aws-tgw",
-    "mirror_name": "ministryofjustice.terraform-aws-tgw",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw",
-    "name": "terraform-aws-tgw",
+    "full_name": "uk-gov-mirror/ministryofjustice.terraform-aws-tgw.replaced.2026-09-03",
+    "mirror_name": "ministryofjustice.terraform-aws-tgw.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw.replaced.2026-09-03",
+    "name": "terraform-aws-tgw.replaced.2026-09-03",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/terraform-aws-tgw"
+    "original_url": "https://github.com/ministryofjustice/terraform-aws-tgw.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-08-11",
@@ -16552,6 +16515,16 @@
     "original_url": "https://github.com/nhsdigital/dotnet-mesh-client"
   },
   {
+    "deleted_on": "2026-09-03",
+    "description": "Data science related code for the Digital Screening Analyse Team ",
+    "full_name": "uk-gov-mirror/nhsdigital.dtos-analyse-data-science",
+    "mirror_name": "nhsdigital.dtos-analyse-data-science",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.dtos-analyse-data-science",
+    "name": "dtos-analyse-data-science",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/dtos-analyse-data-science"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.dtos-cohort-manager",
@@ -17002,6 +16975,16 @@
     "original_url": "https://github.com/nhsdigital/genomic-test-directory-api"
   },
   {
+    "deleted_on": "2026-09-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-registrations-management-information-api",
+    "mirror_name": "nhsdigital.gp-registrations-management-information-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-registrations-management-information-api",
+    "name": "gp-registrations-management-information-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-registrations-management-information-api"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "Graduate Project",
@@ -17189,15 +17172,14 @@
     "original_url": "https://github.com/nhsdigital/mock-lambda-api-template"
   },
   {
-    "approximate_date_source": "archive.org-gh-org",
-    "deleted_on": "2026-05-06",
+    "deleted_on": "2026-09-03",
     "description": "A mock jwks endpoint used for automated tests",
-    "full_name": "uk-gov-mirror/nhsdigital.mock-proxy",
-    "mirror_name": "nhsdigital.mock-proxy",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mock-proxy",
-    "name": "mock-proxy",
+    "full_name": "uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03",
+    "mirror_name": "nhsdigital.mock-proxy.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03",
+    "name": "mock-proxy.replaced.2026-09-03",
     "org": "nhsdigital",
-    "original_url": "https://github.com/nhsdigital/mock-proxy"
+    "original_url": "https://github.com/nhsdigital/mock-proxy.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17662,6 +17644,26 @@
     "original_url": "https://github.com/nhsdigital/nhsapp-prototype-notifications-messaging"
   },
   {
+    "deleted_on": "2026-09-03",
+    "description": "Terraform graph starter pack for 2023 Innovation Day",
+    "full_name": "uk-gov-mirror/nhsdigital.nhse-innovationdays-tfstate-graph",
+    "mirror_name": "nhsdigital.nhse-innovationdays-tfstate-graph",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhse-innovationdays-tfstate-graph",
+    "name": "nhse-innovationdays-tfstate-graph",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhse-innovationdays-tfstate-graph"
+  },
+  {
+    "deleted_on": "2026-09-03",
+    "description": "Static site generator for architecture models created with Structurizr DSL",
+    "full_name": "uk-gov-mirror/nhsdigital.nhse-structurizr-site-generatr",
+    "mirror_name": "nhsdigital.nhse-structurizr-site-generatr",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhse-structurizr-site-generatr",
+    "name": "nhse-structurizr-site-generatr",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhse-structurizr-site-generatr"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -17748,6 +17750,16 @@
     "name": "ord-api-cache",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/ord-api-cache"
+  },
+  {
+    "deleted_on": "2026-09-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.org-workflows",
+    "mirror_name": "nhsdigital.org-workflows",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.org-workflows",
+    "name": "org-workflows",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/org-workflows"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -18113,26 +18125,24 @@
     "original_url": "https://github.com/nhsdigital/validation-service-fhir-r4"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-05-06",
+    "deleted_on": "2026-09-03",
     "description": "Development work in AIF (Analysis and Insight for Finance) Allocations Team , to calculate populations for use in allocations",
-    "full_name": "uk-gov-mirror/nhsengland.AIF_Allocation_Populations",
-    "mirror_name": "nhsengland.AIF_Allocation_Populations",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations",
-    "name": "AIF_Allocation_Populations",
+    "full_name": "uk-gov-mirror/nhsengland.AIF_Allocation_Populations.replaced.2026-09-02",
+    "mirror_name": "nhsengland.AIF_Allocation_Populations.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations.replaced.2026-09-02",
+    "name": "AIF_Allocation_Populations.replaced.2026-09-02",
     "org": "nhsengland",
-    "original_url": "https://github.com/nhsengland/AIF_Allocation_Populations"
+    "original_url": "https://github.com/nhsengland/AIF_Allocation_Populations.replaced.2026-09-02"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-05-06",
+    "deleted_on": "2026-09-03",
     "description": "This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions.",
-    "full_name": "uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829",
-    "mirror_name": "nhsengland.ICB_Place_Based_Tool_2627-2829",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829",
-    "name": "ICB_Place_Based_Tool_2627-2829",
+    "full_name": "uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02",
+    "mirror_name": "nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02",
+    "name": "ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02",
     "org": "nhsengland",
-    "original_url": "https://github.com/nhsengland/ICB_Place_Based_Tool_2627-2829"
+    "original_url": "https://github.com/nhsengland/ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -18201,15 +18211,14 @@
     "original_url": "https://github.com/nhsengland/WTE-Playground"
   },
   {
-    "approximate_date_source": "archive.org-gh-repo",
-    "deleted_on": "2026-05-02",
+    "deleted_on": "2026-09-03",
     "description": "A prototype to test design assumptions for the NHS Notify service.",
-    "full_name": "uk-gov-mirror/nhsuk-archive.nhs-notify-prototype",
-    "mirror_name": "nhsuk-archive.nhs-notify-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype",
-    "name": "nhs-notify-prototype",
+    "full_name": "uk-gov-mirror/nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02",
+    "mirror_name": "nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02",
+    "name": "nhs-notify-prototype.replaced.2026-09-02",
     "org": "nhsuk-archive",
-    "original_url": "https://github.com/nhsuk-archive/nhs-notify-prototype"
+    "original_url": "https://github.com/nhsuk-archive/nhs-notify-prototype.replaced.2026-09-02"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

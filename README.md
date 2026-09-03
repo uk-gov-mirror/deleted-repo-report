@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1776**
+Total deleted repositories: **1783**
 Organisations affected: **67**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,9 +9,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**262**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.9% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**264**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.9% |
 | [hmrc](https://github.com/hmrc) | [**196**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.8% |
-| [nhsdigital](https://github.com/nhsdigital) | [**170**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 33.7% |
+| [nhsdigital](https://github.com/nhsdigital) | [**175**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 34.8% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -22,7 +22,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.4% |
 | [companieshouse](https://github.com/companieshouse) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.2% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.5% |
-| [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 44.0% |
+| [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
@@ -75,12 +75,23 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 0.5% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
-| [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.6% |
+| [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.4% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (262)
+## [ministryofjustice](https://github.com/ministryofjustice) (264)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`data-docs-public.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public.replaced.2026-09-03) |  | 2026-09-03 |
+| [`diso-devops-module-ssm-bastion.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion.replaced.2026-09-03) | Terraform module for the bastion accessed only via an AWS Systems Manager Session. | 2026-09-03 |
+| [`hmpps-dependencytrack`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-dependencytrack) | Instance of DepencyTrack for collation of SBOM information across HMPPS github projects. Managed by the HMPPS SRE team. (bootstrapped 2026-08-25) | 2026-09-03 |
+| [`hmpps-ems-platform-terraform-modules.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules.replaced.2026-09-03) | This repository contains terraform modules that are consumed by hmpps-ems-platform. | 2026-09-03 |
+| [`hmpps-hdc-api.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api.replaced.2026-09-03) | API for managing HDC licences | 2026-09-03 |
+| [`hmpps-people-on-probation-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-people-on-probation-api) | People on probation API (bootstrapped 2026-03-16) | 2026-09-03 |
+| [`james-kotlin-test.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test.replaced.2026-09-03) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) | 2026-09-03 |
+| [`modernisation-platform-hello-world.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world.replaced.2026-09-03) | A sample application configuration within the Modernisation Platform • This repository is defined and managed in Terraform | 2026-09-03 |
+| [`opg-infra-costs.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs.replaced.2026-09-03) | OPG Infrastructure Costs: Managed by opg-org-infra & Terraform | 2026-09-03 |
+| [`technology-diversity-statistics.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics.replaced.2026-09-03) | We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics. | 2026-09-03 |
+| [`terraform-aws-tgw.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw.replaced.2026-09-03) | Terraform module for TGW and TGW route table creation  | 2026-09-03 |
 | [`hmpps-court-case-data-migration-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-court-case-data-migration-service) | Service to perform migration of existing court-case-service data to a new hmpps-court-case-service database schema. (bootstrapped 2025-09-16) | 2026-09-02 |
 | [`hmpps-san-test-typescript`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-san-test-typescript) | test repo (bootstrapped 2026-04-21) | 2026-08-26 |
 | [`hmpps-electronic-monitoring-docs`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-docs) | Contains documentation for the Electronic Monitorinc architecture & application | 2026-08-25 |
@@ -272,11 +283,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`tst-em-example-app-jkn`](https://github.com/uk-gov-mirror/ministryofjustice.tst-em-example-app-jkn) | UI for searching historical electronic monitoring data records | 2026-08-11 |
 | [`october-friendly-cherry-tree`](https://github.com/uk-gov-mirror/ministryofjustice.october-friendly-cherry-tree) |  | 2026-07-30* |
 | [`laa-maat-scheduled-tasks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-maat-scheduled-tasks) |  | 2025-11-06* |
-| [`james-kotlin-test`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) | 2025-11-05* |
 | [`staff-identity-idam-entra-infra`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-idam-entra-infra) | This repository holds the configuration for managing various end user facing configurations within Entra ID. | 2025-11-05* |
 | [`hmpps-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-python-lib) | A shared library of python functions and classes - mainly used for SRE purposes. (bootstrapped 2025-09-23) | 2025-10-30* |
 | [`laa-crime-court-message-processor`](https://github.com/uk-gov-mirror/ministryofjustice.laa-crime-court-message-processor) | Repository for the Crime Court Message Processor service | 2025-10-21* |
-| [`hmpps-hdc-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hdc-api) | API for managing HDC licences | 2025-10-17* |
 | [`hmpps-probation-in-court-e2e-tests-service`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-probation-in-court-e2e-tests-service) | End-To-End tests for Probation In Court application (bootstrapped 2025-10-01) | 2025-10-01* |
 | [`opg-test-branch-protection`](https://github.com/uk-gov-mirror/ministryofjustice.opg-test-branch-protection) | Repo for testing branch protection rules: Managed by opg-org-infra & Terraform | 2025-09-30* |
 | [`payforlegalaid-tests`](https://github.com/uk-gov-mirror/ministryofjustice.payforlegalaid-tests) |  | 2025-09-29* |
@@ -286,17 +295,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`care-arrangement-plan-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.care-arrangement-plan-prototype) |  | 2025-07-08* |
 | [`live-de`](https://github.com/uk-gov-mirror/ministryofjustice.live-de) |  | 2025-06-09* |
 | [`seo-de`](https://github.com/uk-gov-mirror/ministryofjustice.seo-de) |  | 2025-05-07* |
-| [`data-docs-public`](https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public) |  | 2025-01-23* |
-| [`diso-devops-module-ssm-bastion`](https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion) | Terraform module for the bastion accessed only via an AWS Systems Manager Session. | 2024-10-04* |
 | [`staff-device-dhcp-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dhcp-server) | The ISC KEA server for serving DHCP requests (via a Docker image) | 2024-06-10* |
-| [`terraform-aws-tgw`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-tgw) | Terraform module for TGW and TGW route table creation  | 2024-05-22* |
 | [`ruby-on-rails-demo`](https://github.com/uk-gov-mirror/ministryofjustice.ruby-on-rails-demo) | A simple hello world app, in order for the team to learn Ruby on rails | 2024-02-21* |
 | [`dso-infra-azure-tags`](https://github.com/uk-gov-mirror/ministryofjustice.dso-infra-azure-tags) | For management of Azure tags within DSO FixNGo estate | 2024-01-09* |
 | [`juniper-mist-integration-spike`](https://github.com/uk-gov-mirror/ministryofjustice.juniper-mist-integration-spike) |  | 2023-12-12* |
 | [`provision-ubuntu2004-on-wsl2`](https://github.com/uk-gov-mirror/ministryofjustice.provision-ubuntu2004-on-wsl2) | Automating provisoning ubuntu 20.04 with Ansible on WSL 2 | 2023-10-27* |
 | [`staff-device-logging-syslog-to-cloudwatch`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-syslog-to-cloudwatch) | Docker container to forward syslog events to CloudWatch | 2023-06-15* |
 | [`laa-cwa-feature-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cwa-feature-tests) |  | 2023-01-31* |
-| [`opg-infra-costs`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs) | OPG Infrastructure Costs: Managed by opg-org-infra & Terraform | 2022-09-27* |
 | [`probation-offender-search-indexer`](https://github.com/uk-gov-mirror/ministryofjustice.probation-offender-search-indexer) |  | 2022-08-10* |
 | [`aws-trusted-advisor-to-github-issues`](https://github.com/uk-gov-mirror/ministryofjustice.aws-trusted-advisor-to-github-issues) | Automates creation of GitHub Issues from AWS Trusted Advisor checks | 2022-07-28* |
 | [`staff-infrastructure-monitoring`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring) | Terraform module that deploys the staff infrastructure monitoring solution. It has support for components like: Grafana, Prometheus, etc. | 2022-06-14* |
@@ -313,11 +318,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`analytics-platform-aws-federated-login`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-aws-federated-login) | Web app to handle federated AWS console login with JWTs | 2021-05-06* |
 | [`analytics-platform-idler`](https://github.com/uk-gov-mirror/ministryofjustice.analytics-platform-idler) | Periodically idles Kubernetes deployments meeting certain criteria to avoid wasting money  | 2021-04-29* |
 | [`prison-to-probation-update`](https://github.com/uk-gov-mirror/ministryofjustice.prison-to-probation-update) | Updates Probation systems with changes to an offender's record in Prison | 2021-04-20* |
-| [`technology-diversity-statistics`](https://github.com/uk-gov-mirror/ministryofjustice.technology-diversity-statistics) | We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics. | 2021-04-20* |
 | [`terraform-aws-step_function_globalprotect`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-step_function_globalprotect) |  | 2021-04-19* |
 | [`staff-device-shared-services-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-shared-services-infrastructure) | Staff Device AWS Infrastructure for build pipelines | 2021-04-12* |
 | [`moj-ds-accessibility-audit`](https://github.com/uk-gov-mirror/ministryofjustice.moj-ds-accessibility-audit) | Gov.UK Prototype Kit. This repository is defined and managed in Terraform | 2021-04-09* |
-| [`hmpps-ems-platform-terraform-modules`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-ems-platform-terraform-modules) | This repository contains terraform modules that are consumed by hmpps-ems-platform. | 2021-04-08* |
 | [`staff-infrastructure-monitoring-blackbox-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring-blackbox-exporter) |  | 2021-03-26* |
 | [`staff-device-logging-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-infrastructure) | Log proxy and forwarding infrastructure | 2021-03-25* |
 | [`hmpps-delius-iaps-packer`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-iaps-packer) | Packer build for IAPS Server which hosts NDelius and IM Interface services | 2021-03-03* |
@@ -334,7 +337,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-payload-generator`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-payload-generator) | Generates payloads for testing with the SPG | 2020-11-27* |
 | [`offloc-server`](https://github.com/uk-gov-mirror/ministryofjustice.offloc-server) | Serves up the offloc | 2020-11-27* |
 | [`hillsborough`](https://github.com/uk-gov-mirror/ministryofjustice.hillsborough) | Hillsborough Inquests | 2020-11-17* |
-| [`modernisation-platform-hello-world`](https://github.com/uk-gov-mirror/ministryofjustice.modernisation-platform-hello-world) | A sample application configuration within the Modernisation Platform • This repository is defined and managed in Terraform | 2020-10-20* |
 | [`CCCD-prototype-kit-ext`](https://github.com/uk-gov-mirror/ministryofjustice.CCCD-prototype-kit-ext) |  | 2020-10-13* |
 | [`laa-claim-crown-court-defence-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-crown-court-defence-prototype) |  | 2020-10-13* |
 | [`setup-kd`](https://github.com/uk-gov-mirror/ministryofjustice.setup-kd) | Set up your GitHub Actions workflow with a specific version of UKHomeOffice/kd | 2020-09-24* |
@@ -348,11 +350,21 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`carf-management-ui-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.carf-management-ui-tests.replaced.2026-09-02) |  | 2026-09-03 |
+| [`carf-reporting-ui-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-ui-tests.replaced.2026-09-02) |  | 2026-09-03 |
+| [`customs-financials-email-throttler.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler.replaced.2026-09-02) |  | 2026-09-03 |
+| [`incorporated-entity-identification-frontend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification-frontend.replaced.2026-09-02) |  | 2026-09-03 |
+| [`incorporated-entity-identification.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification.replaced.2026-09-02) |  | 2026-09-03 |
+| [`iv-orchestration.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.iv-orchestration.replaced.2026-09-02) |  | 2026-09-03 |
+| [`personal-details-validation-frontend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.personal-details-validation-frontend.replaced.2026-09-02) |  | 2026-09-03 |
+| [`personal-details-validation.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.personal-details-validation.replaced.2026-09-02) |  | 2026-09-03 |
+| [`sole-trader-identification-frontend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.sole-trader-identification-frontend.replaced.2026-09-02) |  | 2026-09-03 |
+| [`sole-trader-identification.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.sole-trader-identification.replaced.2026-09-02) |  | 2026-09-03 |
+| [`stub-data-generator.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.stub-data-generator.replaced.2026-09-02) |  | 2026-09-03 |
+| [`terraform-aws-vpc.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.terraform-aws-vpc.replaced.2026-09-02) | Terraform module to deploy AWS components required for VM-series firewalls  | 2026-09-03 |
+| [`trade-reporting-extracts.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.trade-reporting-extracts.replaced.2026-09-02) |  | 2026-09-03 |
 | [`customs-inventory-linking-exports-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-inventory-linking-exports-performance-test) |  | 2026-08-19 |
-| [`trade-reporting-extracts`](https://github.com/uk-gov-mirror/hmrc.trade-reporting-extracts) |  | 2025-10-29* |
 | [`mpe-ui-journey-tests`](https://github.com/uk-gov-mirror/hmrc.mpe-ui-journey-tests) |  | 2025-10-28* |
-| [`carf-management-ui-tests`](https://github.com/uk-gov-mirror/hmrc.carf-management-ui-tests) |  | 2025-09-16* |
-| [`carf-reporting-ui-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-ui-tests) |  | 2025-09-16* |
 | [`carf-registration-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-registration-performance-tests) |  | 2025-09-08* |
 | [`ctc-traders-phase6-testing-guide`](https://github.com/uk-gov-mirror/hmrc.ctc-traders-phase6-testing-guide) |  | 2025-08-29* |
 | [`ctc-traders-phase6-tis`](https://github.com/uk-gov-mirror/hmrc.ctc-traders-phase6-tis) |  | 2025-08-29* |
@@ -371,13 +383,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`mobile-task-scheduler`](https://github.com/uk-gov-mirror/hmrc.mobile-task-scheduler) |  | 2023-05-23* |
 | [`nino-insights-stubs`](https://github.com/uk-gov-mirror/hmrc.nino-insights-stubs) |  | 2023-04-24* |
 | [`mobile-feedback`](https://github.com/uk-gov-mirror/hmrc.mobile-feedback) |  | 2023-02-20* |
-| [`incorporated-entity-identification-frontend`](https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification-frontend) |  | 2022-12-03* |
 | [`income-tax-subscription-eligibility-frontend`](https://github.com/uk-gov-mirror/hmrc.income-tax-subscription-eligibility-frontend) |  | 2022-06-06* |
 | [`platops-playbooks`](https://github.com/uk-gov-mirror/hmrc.platops-playbooks) |  | 2022-06-06* |
 | [`ui-test-template.g8`](https://github.com/uk-gov-mirror/hmrc.ui-test-template.g8) |  | 2022-06-06* |
-| [`personal-details-validation`](https://github.com/uk-gov-mirror/hmrc.personal-details-validation) |  | 2022-05-13* |
 | [`transit-movements-trader-reference-data`](https://github.com/uk-gov-mirror/hmrc.transit-movements-trader-reference-data) |  | 2021-11-19* |
-| [`terraform-aws-vpc`](https://github.com/uk-gov-mirror/hmrc.terraform-aws-vpc) | Terraform module to deploy AWS components required for VM-series firewalls  | 2021-09-28* |
 | [`import-voluntary-disclosure-journey-tests`](https://github.com/uk-gov-mirror/hmrc.import-voluntary-disclosure-journey-tests) |  | 2021-06-24* |
 | [`mtd-crystallisation`](https://github.com/uk-gov-mirror/hmrc.mtd-crystallisation) |  | 2021-06-24* |
 | [`time-to-pay-calculator`](https://github.com/uk-gov-mirror/hmrc.time-to-pay-calculator) |  | 2021-06-24* |
@@ -388,7 +397,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`declare-transit-movement-cancellation-frontend`](https://github.com/uk-gov-mirror/hmrc.declare-transit-movement-cancellation-frontend) |  | 2021-04-20* |
 | [`import-voluntary-disclosure-performance-tests`](https://github.com/uk-gov-mirror/hmrc.import-voluntary-disclosure-performance-tests) |  | 2021-04-20* |
 | [`mobile-auth-stub`](https://github.com/uk-gov-mirror/hmrc.mobile-auth-stub) |  | 2021-04-20* |
-| [`personal-details-validation-frontend`](https://github.com/uk-gov-mirror/hmrc.personal-details-validation-frontend) |  | 2021-04-20* |
 | [`platform-example-api-tests`](https://github.com/uk-gov-mirror/hmrc.platform-example-api-tests) |  | 2021-04-20* |
 | [`vat-deferral-new-payment-scheme-frontend`](https://github.com/uk-gov-mirror/hmrc.vat-deferral-new-payment-scheme-frontend) |  | 2021-04-20* |
 | [`individuals-income-received-api`](https://github.com/uk-gov-mirror/hmrc.individuals-income-received-api) |  | 2021-04-19* |
@@ -400,9 +408,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`national-import-duty-adjustment-centre`](https://github.com/uk-gov-mirror/hmrc.national-import-duty-adjustment-centre) |  | 2021-04-16* |
 | [`vat-deferral-new-payment-scheme`](https://github.com/uk-gov-mirror/hmrc.vat-deferral-new-payment-scheme) |  | 2021-04-14* |
 | [`customs-rosm-frontend`](https://github.com/uk-gov-mirror/hmrc.customs-rosm-frontend) |  | 2021-04-13* |
-| [`sole-trader-identification-frontend`](https://github.com/uk-gov-mirror/hmrc.sole-trader-identification-frontend) |  | 2021-04-13* |
 | [`bars-modcheck-lambda-function`](https://github.com/uk-gov-mirror/hmrc.bars-modcheck-lambda-function) |  | 2021-04-12* |
-| [`customs-financials-email-throttler`](https://github.com/uk-gov-mirror/hmrc.customs-financials-email-throttler) |  | 2021-04-12* |
 | [`organisations-api-performance-tests`](https://github.com/uk-gov-mirror/hmrc.organisations-api-performance-tests) |  | 2021-04-12* |
 | [`home-office-settled-status-proxy`](https://github.com/uk-gov-mirror/hmrc.home-office-settled-status-proxy) |  | 2021-04-09* |
 | [`interest-restriction-return-frontend`](https://github.com/uk-gov-mirror/hmrc.interest-restriction-return-frontend) |  | 2021-04-09* |
@@ -425,7 +431,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`mtd-dividends-income`](https://github.com/uk-gov-mirror/hmrc.mtd-dividends-income) |  | 2021-03-11* |
 | [`mtd-self-employment`](https://github.com/uk-gov-mirror/hmrc.mtd-self-employment) |  | 2021-03-11* |
 | [`mtd-tax-calculation`](https://github.com/uk-gov-mirror/hmrc.mtd-tax-calculation) |  | 2021-03-11* |
-| [`sole-trader-identification`](https://github.com/uk-gov-mirror/hmrc.sole-trader-identification) |  | 2021-03-10* |
 | [`vat-deferral-new-payment-scheme-stub`](https://github.com/uk-gov-mirror/hmrc.vat-deferral-new-payment-scheme-stub) |  | 2021-03-10* |
 | [`mtd-property-api`](https://github.com/uk-gov-mirror/hmrc.mtd-property-api) |  | 2021-03-09* |
 | [`vat-opt-out-frontend`](https://github.com/uk-gov-mirror/hmrc.vat-opt-out-frontend) |  | 2021-03-09* |
@@ -433,9 +438,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`financial-transactions-dynamic-stub`](https://github.com/uk-gov-mirror/hmrc.financial-transactions-dynamic-stub) |  | 2021-03-08* |
 | [`channel-preferences-frontend`](https://github.com/uk-gov-mirror/hmrc.channel-preferences-frontend) |  | 2021-03-04* |
 | [`vat-obligations-dynamic-stub`](https://github.com/uk-gov-mirror/hmrc.vat-obligations-dynamic-stub) |  | 2021-02-26* |
-| [`iv-orchestration`](https://github.com/uk-gov-mirror/hmrc.iv-orchestration) |  | 2021-02-18* |
 | [`authorised-economic-operator-tests`](https://github.com/uk-gov-mirror/hmrc.authorised-economic-operator-tests) |  | 2021-02-15* |
-| [`incorporated-entity-identification`](https://github.com/uk-gov-mirror/hmrc.incorporated-entity-identification) |  | 2021-02-15* |
 | [`PBD-2947`](https://github.com/uk-gov-mirror/hmrc.PBD-2947) |  | 2021-02-11* |
 | [`aeo-mra-performance-tests`](https://github.com/uk-gov-mirror/hmrc.aeo-mra-performance-tests) |  | 2021-01-28* |
 | [`aeo-mra-performace-tests`](https://github.com/uk-gov-mirror/hmrc.aeo-mra-performace-tests) |  | 2021-01-27* |
@@ -459,7 +462,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`bbsi-dynamic-stub`](https://github.com/uk-gov-mirror/hmrc.bbsi-dynamic-stub) |  | 2020-12-07* |
 | [`build-and-deploy-sup-test`](https://github.com/uk-gov-mirror/hmrc.build-and-deploy-sup-test) |  | 2020-12-04* |
 | [`customs-dit-licences`](https://github.com/uk-gov-mirror/hmrc.customs-dit-licences) |  | 2020-12-03* |
-| [`stub-data-generator`](https://github.com/uk-gov-mirror/hmrc.stub-data-generator) |  | 2020-12-03* |
 | [`contact-preferences-frontend`](https://github.com/uk-gov-mirror/hmrc.contact-preferences-frontend) |  | 2020-12-01* |
 | [`gform-superform-frontend`](https://github.com/uk-gov-mirror/hmrc.gform-superform-frontend) |  | 2020-12-01* |
 | [`mtd-api-reqs`](https://github.com/uk-gov-mirror/hmrc.mtd-api-reqs) |  | 2020-12-01* |
@@ -545,10 +547,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`s3-stub`](https://github.com/uk-gov-mirror/hmrc.s3-stub) |  |  |
 | [`ssttp-performance-test`](https://github.com/uk-gov-mirror/hmrc.ssttp-performance-test) |  |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (170)
+## [nhsdigital](https://github.com/nhsdigital) (175)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dtos-analyse-data-science`](https://github.com/uk-gov-mirror/nhsdigital.dtos-analyse-data-science) | Data science related code for the Digital Screening Analyse Team  | 2026-09-03 |
+| [`gp-registrations-management-information-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-registrations-management-information-api) |  | 2026-09-03 |
+| [`mock-proxy.replaced.2026-09-03`](https://github.com/uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03) | A mock jwks endpoint used for automated tests | 2026-09-03 |
+| [`nhse-innovationdays-tfstate-graph`](https://github.com/uk-gov-mirror/nhsdigital.nhse-innovationdays-tfstate-graph) | Terraform graph starter pack for 2023 Innovation Day | 2026-09-03 |
+| [`nhse-structurizr-site-generatr`](https://github.com/uk-gov-mirror/nhsdigital.nhse-structurizr-site-generatr) | Static site generator for architecture models created with Structurizr DSL | 2026-09-03 |
+| [`org-workflows`](https://github.com/uk-gov-mirror/nhsdigital.org-workflows) |  | 2026-09-03 |
 | [`dtos-cohort-manager`](https://github.com/uk-gov-mirror/nhsdigital.dtos-cohort-manager) |  | 2026-08-11 |
 | [`api-management-utils`](https://github.com/uk-gov-mirror/nhsdigital.api-management-utils) | Scripts and utilities used across API managment platform and services | 2026-07-13* |
 | [`IAM_ID_Verification_Service_Common`](https://github.com/uk-gov-mirror/nhsdigital.IAM_ID_Verification_Service_Common) | Terraform code for reusable modules | 2026-05-06* |
@@ -612,7 +620,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`map-viewer`](https://github.com/uk-gov-mirror/nhsdigital.map-viewer) |  | 2026-05-06* |
 | [`mock-jwks`](https://github.com/uk-gov-mirror/nhsdigital.mock-jwks) |  | 2026-05-06* |
 | [`mock-lambda-api-template`](https://github.com/uk-gov-mirror/nhsdigital.mock-lambda-api-template) |  | 2026-05-06* |
-| [`mock-proxy`](https://github.com/uk-gov-mirror/nhsdigital.mock-proxy) | A mock jwks endpoint used for automated tests | 2026-05-06* |
 | [`monitoring-service-discovery`](https://github.com/uk-gov-mirror/nhsdigital.monitoring-service-discovery) |  | 2026-05-06* |
 | [`multicast-notification-service`](https://github.com/uk-gov-mirror/nhsdigital.multicast-notification-service) |  | 2026-05-06* |
 | [`national-document-repository`](https://github.com/uk-gov-mirror/nhsdigital.national-document-repository) |  | 2026-05-06* |
@@ -724,6 +731,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`das-employer-incentives-functions.replaced.2026-09-03`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions.replaced.2026-09-03) |  | 2026-09-03 |
+| [`das-employer-incentives-web.replaced.2026-09-03`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web.replaced.2026-09-03) |  | 2026-09-03 |
+| [`das-employer-incentives.replaced.2026-09-03`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives.replaced.2026-09-03) |  | 2026-09-03 |
+| [`tl-marketing-and-communication-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype.replaced.2026-09-03) |  | 2026-09-03 |
 | [`das-rcrt-ai-quality-assurance`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-rcrt-ai-quality-assurance) | Recruit-An-Apprenticeship AI quality assurance service | 2026-08-27 |
 | [`dfc-providerportal-database`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-database) | Database project for provider portal / course directory | 2025-10-28* |
 | [`dfc-app-discoverskillsandcareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-discoverskillsandcareers) | Discover Your Skills And Careers (DYSAC) composite UI | 2025-02-03* |
@@ -758,7 +769,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dfc-session-pkg-netstandard`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-session-pkg-netstandard) |  | 2023-11-23* |
 | [`dfc-personalisation-common-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-personalisation-common-pkg-netcore) |  | 2023-02-09* |
 | [`dfc-personalisation-domain-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-personalisation-domain-pkg-netcore) | Nuget package | 2023-02-09* |
-| [`das-employer-incentives`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives) |  | 2023-01-27* |
 | [`dfc-app-jobprofile-overview`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-overview) | Composite applet for Job Profile Overview | 2023-01-27* |
 | [`dfc-app-findacourse`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-findacourse) | Composite app for find a course | 2022-09-21* |
 | [`dfc-providerportal-prototypes`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-prototypes) |  | 2022-09-06* |
@@ -777,8 +787,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dfc-app-relatedcareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-relatedcareers) | Composite applet for Related Careers | 2022-05-05* |
 | [`dfc-app-actionplans`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-actionplans) |  | 2022-05-04* |
 | [`dfc-app-careerpath`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-careerpath) | Composite applet for Career Path | 2022-04-01* |
-| [`das-employer-incentives-functions`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-functions) |  | 2022-02-22* |
-| [`das-employer-incentives-web`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-employer-incentives-web) |  | 2022-02-22* |
 | [`dfc-servicetaxonomy-database`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-servicetaxonomy-database) |  | 2022-02-15* |
 | [`dfc-ui-automation-test-suite`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-ui-automation-test-suite) |  | 2022-01-20* |
 | [`dfc-api-lmi-delta-report`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-api-lmi-delta-report) |  | 2022-01-13* |
@@ -810,7 +818,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dfc-logger-appinsights-pkg-netstandard`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-logger-appinsights-pkg-netstandard) |  | 2020-12-21* |
 | [`dss-central`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dss-central) |  | 2020-12-17* |
 | [`dfc-api-integration-tests`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-api-integration-tests) | API full integration test | 2020-12-16* |
-| [`tl-marketing-and-communication-prototype`](https://github.com/uk-gov-mirror/SkillsFundingAgency.tl-marketing-and-communication-prototype) |  | 2020-12-15* |
 | [`das-amazing-apprenticeships`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-amazing-apprenticeships) |  | 2020-12-10* |
 | [`DC-Data-LargeEmployer`](https://github.com/uk-gov-mirror/SkillsFundingAgency.DC-Data-LargeEmployer) | DC-Data-LargeEmployer | 2020-12-09* |
 | [`dfc-composite-sitemapsubmission`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-composite-sitemapsubmission) |  | 2020-12-07* |
@@ -1043,6 +1050,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dsa-kibana.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOffice.dsa-kibana.replaced.2026-09-03) | Kibana image for DSA project | 2026-09-03 |
 | [`hof-db-table-replacer`](https://github.com/uk-gov-mirror/UKHomeOffice.hof-db-table-replacer) |  | 2026-08-27 |
 | [`web-messengers`](https://github.com/uk-gov-mirror/UKHomeOffice.web-messengers) | Home Office web messengers service | 2026-08-26 |
 | [`hocs.replaced.2026-08-20`](https://github.com/uk-gov-mirror/UKHomeOffice.hocs.replaced.2026-08-20) |  | 2026-08-21 |
@@ -1052,7 +1060,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`purple-team-prototypes`](https://github.com/uk-gov-mirror/UKHomeOffice.purple-team-prototypes) |  | 2025-10-13* |
 | [`core-cloud-dynatrace-golden-dashboards-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-golden-dashboards-terraform) | For core-cloud terraform module for dynatrace golden dashboards | 2025-05-06* |
 | [`passports-prototype-v3`](https://github.com/uk-gov-mirror/UKHomeOffice.passports-prototype-v3) | Prototype for passport journeys. This is version 3 of the prototype. | 2023-03-21* |
-| [`dsa-kibana`](https://github.com/uk-gov-mirror/UKHomeOffice.dsa-kibana) | Kibana image for DSA project | 2022-11-11* |
 | [`evw-self-serve`](https://github.com/uk-gov-mirror/UKHomeOffice.evw-self-serve) | Self service micro-form for the Electronic Visa Waiver project | 2022-05-30* |
 | [`cop-product-page`](https://github.com/uk-gov-mirror/UKHomeOffice.cop-product-page) | COP | 2022-05-11* |
 | [`cerberus-service`](https://github.com/uk-gov-mirror/UKHomeOffice.cerberus-service) | Cerberus frontend service for cerberus-api | 2022-03-01* |
@@ -1151,12 +1158,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`aims-address-parser.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03) |  | 2026-09-03 |
+| [`aims-create-address.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03) |  | 2026-09-03 |
+| [`blaise-api-rest.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03) |  | 2026-09-03 |
+| [`python_rap_demo.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo.replaced.2026-09-03) | Learn RAP principles through practical Python exercises. This repo showcases best practices for Reproducible Analytical Pipelines, with descriptions of components and exercises to help users build confidence in applying RAP techniques. | 2026-09-03 |
+| [`sdg_data_updates.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03) | Code for updating SDG data files | 2026-09-03 |
 | [`address-index-developers`](https://github.com/uk-gov-mirror/ONSdigital.address-index-developers) | Developers site for Address Index API | 2026-08-21 |
-| [`aims-address-parser`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser) |  | 2026-06-16* |
-| [`python_rap_demo`](https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo) | Learn RAP principles through practical Python exercises. This repo showcases best practices for Reproducible Analytical Pipelines, with descriptions of components and exercises to help users build confidence in applying RAP techniques. | 2025-10-29* |
 | [`response-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.response-management-ui) | Response Operations user interface for Response Management. | 2025-04-13* |
 | [`blaise-app-engine-default`](https://github.com/uk-gov-mirror/ONSdigital.blaise-app-engine-default) | Blank Express App to set as the default App Engine Application | 2025-02-14* |
-| [`blaise-api-rest`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest) |  | 2025-02-03* |
 | [`alpha-eq-terraform`](https://github.com/uk-gov-mirror/ONSdigital.alpha-eq-terraform) | Terraform project that creates the infrastructure for the EQ project alpha. | 2024-06-13* |
 | [`eq-author`](https://github.com/uk-gov-mirror/ONSdigital.eq-author) | Author has moved to | 2024-06-13* |
 | [`takeon-business-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-business-layer) |  | 2021-07-09* |
@@ -1167,8 +1176,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`terraform-aws-account`](https://github.com/uk-gov-mirror/ONSdigital.terraform-aws-account) | Provision AWS accounts within an organisation  | 2021-04-15* |
 | [`takeon-egestion`](https://github.com/uk-gov-mirror/ONSdigital.takeon-egestion) | A pipeline that runs all of the egestion code for the takeon team | 2021-04-13* |
 | [`spp-engine`](https://github.com/uk-gov-mirror/ONSdigital.spp-engine) | Statistical Processing Pipeline engine | 2021-04-12* |
-| [`sdg_data_updates`](https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates) | Code for updating SDG data files | 2021-04-09* |
-| [`aims-create-address`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address) |  | 2021-03-23* |
 | [`spp-rsi-lambda-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-lambda-scripts) |  | 2021-03-22* |
 | [`es-GenData`](https://github.com/uk-gov-mirror/ONSdigital.es-GenData) |  | 2021-03-21* |
 | [`es-bmi-step-functions`](https://github.com/uk-gov-mirror/ONSdigital.es-bmi-step-functions) |  | 2021-03-21* |
@@ -1345,22 +1352,26 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`aws-authentication.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.aws-authentication.replaced.2026-09-03) | AWS Cognito management | 2026-09-03 |
+| [`dataworks-aws-kickstart-adg.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-aws-kickstart-adg.replaced.2026-09-03) | This repository holds the codes for ingesting and generating analytical dataset for kickstart into dataworks | 2026-09-03 |
+| [`dataworks-aws-tarball-ingester.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-aws-tarball-ingester.replaced.2026-09-03) | TF code for the Tarball Ingester Service | 2026-09-03 |
+| [`dataworks-common-logging.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-common-logging.replaced.2026-09-03) | Kotlin utility library to be used in Dataworks applications to ensure common logging format. | 2026-09-03 |
+| [`dataworks-github-config.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-github-config.replaced.2026-09-03) | Manage GitHub team and repository configuration for DataWorks | 2026-09-03 |
+| [`dataworks-repo-template.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-repo-template.replaced.2026-09-03) | Template repository for DataWorks GitHub | 2026-09-03 |
+| [`dataworks-s3-object-tagger.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.dataworks-s3-object-tagger.replaced.2026-09-03) | An application to tag S3 objects based on various rules and source config files | 2026-09-03 |
+| [`docker-create-metrics-data-batch.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.docker-create-metrics-data-batch.replaced.2026-09-03) | A container with required extensions and libraries for creating test data for Analytical Environment Performance Monitor | 2026-09-03 |
+| [`hardened-guac-chrome.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.hardened-guac-chrome.replaced.2026-09-03) | The hardened Guacamole Chrome container | 2026-09-03 |
+| [`newstylejsa.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.newstylejsa.replaced.2026-09-03) |  | 2026-09-03 |
+| [`tactical-aws-user-creation.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dwp.tactical-aws-user-creation.replaced.2026-09-03) | Temporary app to create and assign MFA software token code to a user in AWS cognito. | 2026-09-03 |
 | [`github-repo-config-examples`](https://github.com/uk-gov-mirror/dwp.github-repo-config-examples) | Examples and templates for configuring GitHub repositories using Terraform | 2025-08-24* |
 | [`dwp-health`](https://github.com/uk-gov-mirror/dwp.dwp-health) | Another prototype for work going on in the Health PDU | 2024-07-15* |
 | [`fes-work-management`](https://github.com/uk-gov-mirror/dwp.fes-work-management) | FES Prototype | 2024-07-15* |
 | [`pip-prototype-v2`](https://github.com/uk-gov-mirror/dwp.pip-prototype-v2) |  | 2024-07-15* |
-| [`dataworks-common-logging`](https://github.com/uk-gov-mirror/dwp.dataworks-common-logging) | Kotlin utility library to be used in Dataworks applications to ensure common logging format. | 2023-10-30* |
-| [`dataworks-github-config`](https://github.com/uk-gov-mirror/dwp.dataworks-github-config) | Manage GitHub team and repository configuration for DataWorks | 2023-10-30* |
-| [`dataworks-aws-tarball-ingester`](https://github.com/uk-gov-mirror/dwp.dataworks-aws-tarball-ingester) | TF code for the Tarball Ingester Service | 2023-06-15* |
-| [`dataworks-s3-object-tagger`](https://github.com/uk-gov-mirror/dwp.dataworks-s3-object-tagger) | An application to tag S3 objects based on various rules and source config files | 2023-03-14* |
 | [`compensation-recovery-unit`](https://github.com/uk-gov-mirror/dwp.compensation-recovery-unit) | This repo will house code for research prototypes for the Compensation Recovery Unit | 2023-01-27* |
 | [`carersallowance-prototype`](https://github.com/uk-gov-mirror/dwp.carersallowance-prototype) |  | 2023-01-18* |
 | [`ciaad-prototype`](https://github.com/uk-gov-mirror/dwp.ciaad-prototype) |  | 2023-01-18* |
-| [`newstylejsa`](https://github.com/uk-gov-mirror/dwp.newstylejsa) |  | 2023-01-18* |
 | [`pip-prototype`](https://github.com/uk-gov-mirror/dwp.pip-prototype) |  | 2023-01-18* |
 | [`send-fitnote-prototype`](https://github.com/uk-gov-mirror/dwp.send-fitnote-prototype) |  | 2023-01-18* |
-| [`hardened-guac-chrome`](https://github.com/uk-gov-mirror/dwp.hardened-guac-chrome) | The hardened Guacamole Chrome container | 2021-09-27* |
-| [`dataworks-aws-kickstart-adg`](https://github.com/uk-gov-mirror/dwp.dataworks-aws-kickstart-adg) | This repository holds the codes for ingesting and generating analytical dataset for kickstart into dataworks | 2021-09-08* |
 | [`ca-prototype-ur-2`](https://github.com/uk-gov-mirror/dwp.ca-prototype-ur-2) | Carer‘s Allowance prototype for UR (Pegasus) | 2021-07-09* |
 | [`cmg-portal-prototype`](https://github.com/uk-gov-mirror/dwp.cmg-portal-prototype) |  | 2021-07-09* |
 | [`bank-maintenance-prototype`](https://github.com/uk-gov-mirror/dwp.bank-maintenance-prototype) |  | 2021-04-20* |
@@ -1369,16 +1380,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`CADSPrototypeCircs`](https://github.com/uk-gov-mirror/dwp.CADSPrototypeCircs) | Prototype for Carer's Allowance Digital Service Change in Circumstances | 2021-01-21* |
 | [`docker-ruby-rspec-aws-sdk`](https://github.com/uk-gov-mirror/dwp.docker-ruby-rspec-aws-sdk) | Official Ruby container with rspec and aws-sdk installed | 2021-01-07* |
 | [`aws-internet-egress`](https://github.com/uk-gov-mirror/dwp.aws-internet-egress) | DataWorks AWS Internet Egress | 2020-12-16* |
-| [`docker-create-metrics-data-batch`](https://github.com/uk-gov-mirror/dwp.docker-create-metrics-data-batch) | A container with required extensions and libraries for creating test data for Analytical Environment Performance Monitor | 2020-12-02* |
 | [`dataworks-aws-ingest-reconcilers`](https://github.com/uk-gov-mirror/dwp.dataworks-aws-ingest-reconcilers) | Manages the reconcilers and trimmers for aws ingestion feeds | 2020-12-01* |
 | [`dataworks-config`](https://github.com/uk-gov-mirror/dwp.dataworks-config) | Repo for storing SSM Parameter Store content | 2020-12-01* |
 | [`emr-cluster-broker`](https://github.com/uk-gov-mirror/dwp.emr-cluster-broker) | A lightweight API to passthrough requests to AWS SDK and create EMR clusters | 2020-11-25* |
-| [`aws-authentication`](https://github.com/uk-gov-mirror/dwp.aws-authentication) | AWS Cognito management | 2020-11-18* |
 | [`cookies-banner-prototype`](https://github.com/uk-gov-mirror/dwp.cookies-banner-prototype) | Cookies Banner example for the DWP Design System | 2020-11-13* |
 | [`pip-triage`](https://github.com/uk-gov-mirror/dwp.pip-triage) |  | 2020-11-11* |
 | [`emr-cluster-broker-client`](https://github.com/uk-gov-mirror/dwp.emr-cluster-broker-client) | Lambda for sending JSON payloads to the Cluster Broker API | 2020-11-10* |
 | [`prototypes`](https://github.com/uk-gov-mirror/dwp.prototypes) | Prototypes and interaction design work from DWP digital services | 2020-10-29* |
-| [`dataworks-repo-template`](https://github.com/uk-gov-mirror/dwp.dataworks-repo-template) | Template repository for DataWorks GitHub | 2020-10-19* |
 | [`docker-ansible-pass-gpg`](https://github.com/uk-gov-mirror/dwp.docker-ansible-pass-gpg) | Docker CentOS image with Ansible, Pass and GPG. Used in CI pipeline to run Ansible playbooks. | 2020-10-08* |
 | [`ux-form-validation-prototype`](https://github.com/uk-gov-mirror/dwp.ux-form-validation-prototype) | A prototyping kit for putting together forms with validation | 2020-09-28* |
 | [`streaming-data-importer`](https://github.com/uk-gov-mirror/dwp.streaming-data-importer) | Simple shovel utility to move messages from S3 to Hbase with versioning | 2020-09-22* |
@@ -1388,7 +1396,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`carers-allowance-apply-prototype`](https://github.com/uk-gov-mirror/dwp.carers-allowance-apply-prototype) |  | 2020-09-08* |
 | [`dwp-design-examples`](https://github.com/uk-gov-mirror/dwp.dwp-design-examples) | An extension for the prototyping kit so we can test experimental patterns and components. | 2020-09-07* |
 | [`external-ci-users`](https://github.com/uk-gov-mirror/dwp.external-ci-users) | Repo to manage users from a third-party CI/CD tool | 2020-08-20* |
-| [`tactical-aws-user-creation`](https://github.com/uk-gov-mirror/dwp.tactical-aws-user-creation) | Temporary app to create and assign MFA software token code to a user in AWS cognito. | 2020-04-22* |
 | [`technow-dwp`](https://github.com/uk-gov-mirror/dwp.technow-dwp) | Prototype for TechNow research (December 2018 onwards). |  |
 
 ## [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) (43)
@@ -1443,6 +1450,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`bulk-outputs-aws.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws.replaced.2026-09-03) |  | 2026-09-03 |
+| [`ch-design-system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.ch-design-system.replaced.2026-09-03) | The Companies House design system and docs | 2026-09-03 |
+| [`node-web-starter.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.node-web-starter.replaced.2026-09-03) | A starter project for web applications built with Node | 2026-09-03 |
+| [`registers-data-api.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.registers-data-api.replaced.2026-09-03) | REST API handling the company register data set. | 2026-09-03 |
 | [`innovation-accounts-statistics-tool`](https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool) | A statistics tool for the company-accounts project | 2026-08-14 |
 | [`account-validator-web`](https://github.com/uk-gov-mirror/companieshouse.account-validator-web) | A web frontend for the account-validation service, allowing users to test XBRL validation on their accounts. | 2026-05-27* |
 | [`acsp-manage-users-web`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-web) |  | 2026-05-27* |
@@ -1457,17 +1468,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`company-links-consumer`](https://github.com/uk-gov-mirror/companieshouse.company-links-consumer) | company-links-consumer | 2025-11-11* |
 | [`efs-submission-web`](https://github.com/uk-gov-mirror/companieshouse.efs-submission-web) | The Emergency Filing Service web application allows users to file forms by uploading electronic documents. | 2025-11-11* |
 | [`psc-extensions-api`](https://github.com/uk-gov-mirror/companieshouse.psc-extensions-api) | psc-extensions-api is a Spring Boot REST API which forms part of the Identification Verification (IDV) service and is responsible for handling and processing PSC Extention requests. | 2025-11-10* |
-| [`registers-data-api`](https://github.com/uk-gov-mirror/companieshouse.registers-data-api) | REST API handling the company register data set. | 2025-10-28* |
 | [`onboarding-portal-cms`](https://github.com/uk-gov-mirror/companieshouse.onboarding-portal-cms) |  | 2025-10-24* |
-| [`node-web-starter`](https://github.com/uk-gov-mirror/companieshouse.node-web-starter) | A starter project for web applications built with Node | 2025-10-23* |
-| [`bulk-outputs-aws`](https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws) |  | 2025-10-19* |
 | [`ewf-terraform`](https://github.com/uk-gov-mirror/companieshouse.ewf-terraform) |  | 2025-10-16* |
 | [`unix-dev-terraform`](https://github.com/uk-gov-mirror/companieshouse.unix-dev-terraform) | Terraform AWS dev environment  | 2025-10-14* |
 | [`acsp-manage-users-api`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-api) | API to manage users and  roles for an ACSP | 2025-09-18* |
 | [`digital-certified-copy-processor`](https://github.com/uk-gov-mirror/companieshouse.digital-certified-copy-processor) | Consuming messages from the item-ordered-certified-copy Kafka topic | 2025-08-21* |
 | [`charges-delta-consumer`](https://github.com/uk-gov-mirror/companieshouse.charges-delta-consumer) | charges-delta-consumer is responsible for transforming charges data from the charges-delta kafka as part of chips and chs data sync | 2025-08-01* |
 | [`ddat-scoring-app`](https://github.com/uk-gov-mirror/companieshouse.ddat-scoring-app) | Simple Express App for producing | 2025-03-12* |
-| [`ch-design-system`](https://github.com/uk-gov-mirror/companieshouse.ch-design-system) | The Companies House design system and docs | 2021-11-25* |
 | [`ch-account-ui`](https://github.com/uk-gov-mirror/companieshouse.ch-account-ui) |  | 2021-04-20* |
 | [`psc-discrepancies.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.api.ch.gov.uk) | The Companies House API for handling PSC discrepancies | 2021-04-19* |
 | [`psc-discrepancies.web.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.web.ch.gov.uk) | Web application to gather PSC discrepancies from obliged entities. | 2021-04-16* |
@@ -1491,7 +1498,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`dauPortalTools`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools) |  | 2026-08-29 |
+| [`dauPortalTools.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03) |  | 2026-09-03 |
+| [`login.dfe.validation.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03) |  | 2026-09-03 |
 | [`deprecated-login.dfe.saml-proxy`](https://github.com/uk-gov-mirror/DFE-Digital.deprecated-login.dfe.saml-proxy) | SAML proxy for use in the login.dfe service | 2026-04-28* |
 | [`login.dfe.applications`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.applications) | API for application consuming DfE Sign-in | 2026-04-28* |
 | [`login.dfe.devices`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.devices) | API for managing devices and validating user entered codes for devices | 2026-04-28* |
@@ -1512,7 +1520,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`login.dfe.search`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.search) | API for searching aggregated data with DfE Sign-in | 2026-04-28* |
 | [`login.dfe.services`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.services) | DfE Service launch pad | 2026-04-28* |
 | [`login.dfe.support`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.support) | Application for support staff to service user requests | 2026-04-28* |
-| [`login.dfe.validation`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation) |  | 2026-04-28* |
 | [`dsi-platform`](https://github.com/uk-gov-mirror/DFE-Digital.dsi-platform) | This repository contains various projects to support the DfE Sign-in platform. | 2025-08-28* |
 | [`tra-backstage-poc`](https://github.com/uk-gov-mirror/DFE-Digital.tra-backstage-poc) |  | 2024-11-14* |
 | [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
@@ -1536,46 +1543,46 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`applications-backoffice-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03) | Prototype for the Applications Back Office | 2026-09-03 |
+| [`applications-dco-portal-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03) |  | 2026-09-03 |
+| [`applications-dco-portal.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal.replaced.2026-09-03) |  | 2026-09-03 |
+| [`applications-service-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-prototype.replaced.2026-09-03) | Prototype of applications FO/CBOS for user testing | 2026-09-03 |
+| [`back-office-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.back-office-prototype.replaced.2026-09-03) | Prototype for Back Office Applications | 2026-09-03 |
+| [`casework-portal.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.casework-portal.replaced.2026-09-03) |  | 2026-09-03 |
+| [`coding-standards.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.coding-standards.replaced.2026-09-03) | Configuration and other shared code for implementing our coding standards | 2026-09-03 |
+| [`crown-developments.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments.replaced.2026-09-03) |  | 2026-09-03 |
+| [`design-patterns.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.design-patterns.replaced.2026-09-03) | Design patterns for use across Core Services | 2026-09-03 |
+| [`dynamic-forms.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.dynamic-forms.replaced.2026-09-03) | A configuration-based form builder, supporting conditional questions and other logic | 2026-09-03 |
+| [`example-app-dynamic.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app-dynamic.replaced.2026-09-03) | An example application to showcase dynamic form building | 2026-09-03 |
+| [`example-app.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app.replaced.2026-09-03) | An example application for learning | 2026-09-03 |
+| [`example-code.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-code.replaced.2026-09-03) | Code examples and snippets to complement learning materials | 2026-09-03 |
+| [`infrastructure-modules.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-modules.replaced.2026-09-03) | Infrastructure as Code (IaC) modules for use across environments. | 2026-09-03 |
+| [`infrastructure-tooling.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling.replaced.2026-09-03) |  | 2026-09-03 |
+| [`inspector-programming.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.inspector-programming.replaced.2026-09-03) | Programme appeals service | 2026-09-03 |
+| [`local-plans-examinations-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype.replaced.2026-09-03) | Design prototype for the local plans examinations service | 2026-09-03 |
+| [`local-plans-examinations.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations.replaced.2026-09-03) | Monorepo for the Local Plans Examinations service | 2026-09-03 |
+| [`mpesc-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mpesc-prototype.replaced.2026-09-03) | Prototype for the MPESC service | 2026-09-03 |
+| [`odw-azure-functions.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-azure-functions.replaced.2026-09-03) |  | 2026-09-03 |
+| [`odw-common.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-common.replaced.2026-09-03) |  | 2026-09-03 |
+| [`odw-infrastructure.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-infrastructure.replaced.2026-09-03) |  | 2026-09-03 |
+| [`odw-purview.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-purview.replaced.2026-09-03) |  | 2026-09-03 |
+| [`peas-row-commons.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.peas-row-commons.replaced.2026-09-03) | Mono repo for the PEAS/RoW case management services | 2026-09-03 |
+| [`prototypes-common-infrastructure.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure.replaced.2026-09-03) | Infrastructure code for the design prototypes and other proof-of-concepts | 2026-09-03 |
+| [`redaction-system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.redaction-system.replaced.2026-09-03) |  | 2026-09-03 |
+| [`section-62a-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.section-62a-prototype.replaced.2026-09-03) |  | 2026-09-03 |
+| [`template-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.template-service.replaced.2026-09-03) | Template code for new services to use as a reference | 2026-09-03 |
 | [`appeals-migration`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals-migration) | Systems to facilitate the migration of Appeal casework | 2026-08-27 |
 | [`appeals_monthly_SR`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals_monthly_SR) | proof of concept automation of appeals monthly statistical release | 2026-08-27 |
-| [`applications-backoffice-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype) | Prototype for the Applications Back Office | 2026-08-27 |
-| [`applications-dco-portal`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal) |  | 2026-08-27 |
-| [`applications-dco-portal-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype) |  | 2026-08-27 |
 | [`applications-relevant-representations-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-relevant-representations-analysis-poc) |  | 2026-08-27 |
 | [`applications-service-performance-tests`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-performance-tests) |  | 2026-08-27 |
-| [`applications-service-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-prototype) | Prototype of applications FO/CBOS for user testing | 2026-08-27 |
-| [`back-office-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.back-office-prototype) | Prototype for Back Office Applications | 2026-08-27 |
-| [`casework-portal`](https://github.com/uk-gov-mirror/Planning-Inspectorate.casework-portal) |  | 2026-08-27 |
-| [`coding-standards`](https://github.com/uk-gov-mirror/Planning-Inspectorate.coding-standards) | Configuration and other shared code for implementing our coding standards | 2026-08-27 |
-| [`crown-developments`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments) |  | 2026-08-27 |
 | [`crown-developments-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype) | Prototype project for the Crown Developments service | 2026-08-27 |
-| [`design-patterns`](https://github.com/uk-gov-mirror/Planning-Inspectorate.design-patterns) | Design patterns for use across Core Services | 2026-08-27 |
 | [`devops-test-app`](https://github.com/uk-gov-mirror/Planning-Inspectorate.devops-test-app) | Test app for testing DevOps processes and updates | 2026-08-27 |
-| [`dynamic-forms`](https://github.com/uk-gov-mirror/Planning-Inspectorate.dynamic-forms) | A configuration-based form builder, supporting conditional questions and other logic | 2026-08-27 |
 | [`e-learning`](https://github.com/uk-gov-mirror/Planning-Inspectorate.e-learning) |  | 2026-08-27 |
-| [`example-app`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app) | An example application for learning | 2026-08-27 |
-| [`example-app-dynamic`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-app-dynamic) | An example application to showcase dynamic form building | 2026-08-27 |
-| [`example-code`](https://github.com/uk-gov-mirror/Planning-Inspectorate.example-code) | Code examples and snippets to complement learning materials | 2026-08-27 |
 | [`extract-ofgem-generator-licencees`](https://github.com/uk-gov-mirror/Planning-Inspectorate.extract-ofgem-generator-licencees) | Script to extract the Ofgem Electricity Generator Licence holders from the PDF published by Ofgem | 2026-08-27 |
-| [`infrastructure-modules`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-modules) | Infrastructure as Code (IaC) modules for use across environments. | 2026-08-27 |
-| [`infrastructure-tooling`](https://github.com/uk-gov-mirror/Planning-Inspectorate.infrastructure-tooling) |  | 2026-08-27 |
-| [`inspector-programming`](https://github.com/uk-gov-mirror/Planning-Inspectorate.inspector-programming) | Programme appeals service | 2026-08-27 |
 | [`knowledge-service-link-extractor`](https://github.com/uk-gov-mirror/Planning-Inspectorate.knowledge-service-link-extractor) | Proof of concept for converting word documents to html, then extracting hyperlinks from word docs and linked pdf docs | 2026-08-27 |
 | [`library-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service) |  | 2026-08-27 |
-| [`local-plans-examinations`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations) | Monorepo for the Local Plans Examinations service | 2026-08-27 |
-| [`local-plans-examinations-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-examinations-prototype) | Design prototype for the local plans examinations service | 2026-08-27 |
 | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
-| [`mpesc-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mpesc-prototype) | Prototype for the MPESC service | 2026-08-27 |
-| [`odw-azure-functions`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-azure-functions) |  | 2026-08-27 |
-| [`odw-common`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-common) |  | 2026-08-27 |
-| [`odw-infrastructure`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-infrastructure) |  | 2026-08-27 |
-| [`odw-purview`](https://github.com/uk-gov-mirror/Planning-Inspectorate.odw-purview) |  | 2026-08-27 |
-| [`peas-row-commons`](https://github.com/uk-gov-mirror/Planning-Inspectorate.peas-row-commons) | Mono repo for the PEAS/RoW case management services | 2026-08-27 |
-| [`prototypes-common-infrastructure`](https://github.com/uk-gov-mirror/Planning-Inspectorate.prototypes-common-infrastructure) | Infrastructure code for the design prototypes and other proof-of-concepts | 2026-08-27 |
-| [`redaction-system`](https://github.com/uk-gov-mirror/Planning-Inspectorate.redaction-system) |  | 2026-08-27 |
-| [`section-62a-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.section-62a-prototype) |  | 2026-08-27 |
-| [`template-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.template-service) | Template code for new services to use as a reference | 2026-08-27 |
 
 ## [dvla](https://github.com/dvla) (30)
 
@@ -1651,6 +1658,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`bulk-scan-java-client.replaced.2026-09-03`](https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03) |  | 2026-09-03 |
 | [`ia-owasp-suppressions`](https://github.com/uk-gov-mirror/hmcts.ia-owasp-suppressions) | To store suppressions.xml across all IA microservices | 2026-04-24* |
 | [`rpx-xui-dev-utils`](https://github.com/uk-gov-mirror/hmcts.rpx-xui-dev-utils) | Place to keep useful scripts for EXUI devs | 2026-04-24* |
 | [`semarchy-xdm`](https://github.com/uk-gov-mirror/hmcts.semarchy-xdm) | Deployment of Semarchy xDM and supporting infrastructure to Azure for the Crime Standing Data Service application. | 2026-04-21* |
@@ -1670,7 +1678,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`send-letter-service-container-new-old`](https://github.com/uk-gov-mirror/hmcts.send-letter-service-container-new-old) | Send letter new container to cater new blobs (print letter request) | 2021-04-14* |
 | [`am-role-assignment-e2e-tests`](https://github.com/uk-gov-mirror/hmcts.am-role-assignment-e2e-tests) | Repository for Access Management and Reference data project functional tests. | 2021-03-16* |
 | [`snl-api-fh-test`](https://github.com/uk-gov-mirror/hmcts.snl-api-fh-test) |  | 2021-02-26* |
-| [`bulk-scan-java-client`](https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client) |  | 2021-02-25* |
 | [`am-docker`](https://github.com/uk-gov-mirror/hmcts.am-docker) |  | 2021-02-17* |
 | [`probate-pa-admon-prototype`](https://github.com/uk-gov-mirror/hmcts.probate-pa-admon-prototype) |  | 2020-11-07* |
 | [`idam-forgerock-images`](https://github.com/uk-gov-mirror/hmcts.idam-forgerock-images) | Builds Docker images for running Forgerock locally with the latest configuration | 2020-10-30* |
@@ -1709,13 +1716,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`waste-batteries-reg-backend`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend) | Git repository for service waste-batteries-reg-backend | 2026-08-25 |
+| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
+| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
+| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
 | [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
 | [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
 | [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
 | [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
-| [`waste-exemptions-acceptance-tests`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests) | Cucumber based acceptance tests for the Waste exemptions digital service | 2024-01-11* |
-| [`waste-exemptions-front-office`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office) | The public facing Waste Exemptions service | 2024-01-11* |
 | [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
 | [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
 | [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
@@ -1809,12 +1816,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`cvs-svc-defects.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dvsa.cvs-svc-defects.replaced.2026-09-03) |  | 2026-09-03 |
+| [`vol-active-support.replaced.2026-09-03`](https://github.com/uk-gov-mirror/dvsa.vol-active-support.replaced.2026-09-03) |  | 2026-09-03 |
 | [`vol-functional-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/dvsa.vol-functional-tests.replaced.2026-08-20) |  | 2026-08-21 |
 | [`mes-api-definitions`](https://github.com/uk-gov-mirror/dvsa.mes-api-definitions) | DVSA Mobile Examiner Services - REST API schema definitions | 2025-06-30* |
-| [`vol-active-support`](https://github.com/uk-gov-mirror/dvsa.vol-active-support) |  | 2025-05-17* |
 | [`motr`](https://github.com/uk-gov-mirror/dvsa.motr) | MOT Reminders | 2021-04-22* |
 | [`cvs-auto-svc-vott`](https://github.com/uk-gov-mirror/dvsa.cvs-auto-svc-vott) |  | 2021-04-21* |
-| [`cvs-svc-defects`](https://github.com/uk-gov-mirror/dvsa.cvs-svc-defects) |  | 2021-03-30* |
 | [`cvs-auto-vtm`](https://github.com/uk-gov-mirror/dvsa.cvs-auto-vtm) |  | 2021-01-30* |
 | [`cvs-svc-dvla-ants`](https://github.com/uk-gov-mirror/dvsa.cvs-svc-dvla-ants) | DVLA ANTS report | 2021-01-24* |
 | [`cvs-poc-authentication-web-int`](https://github.com/uk-gov-mirror/dvsa.cvs-poc-authentication-web-int) | This repository contains a proof of concept to test the internal authentication solution for CVS. | 2021-01-08* |
@@ -1878,9 +1885,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`ctc-company.replaced.2026-09-03`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03) | Open sourced code for IPO's CTC Company microservice | 2026-09-03 |
 | [`ctc-address.replaced.2026-08-20`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20) |  | 2026-08-21 |
 | [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
-| [`ctc-company`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company) | Open sourced code for IPO's CTC Company microservice | 2025-07-17* |
 | [`Frontend-Build-Tool`](https://github.com/uk-gov-mirror/intellectual-property-office.Frontend-Build-Tool) | UK Intellectual Property Office Frontend Build Tool | 2023-01-27* |
 | [`Graphics`](https://github.com/uk-gov-mirror/intellectual-property-office.Graphics) |  | 2023-01-27* |
 | [`HtmlHelpers`](https://github.com/uk-gov-mirror/intellectual-property-office.HtmlHelpers) | MVC Html Helpers to render GOV.UK styled controls | 2023-01-27* |
@@ -1905,8 +1912,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`AIF_Allocation_Populations`](https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations) | Development work in AIF (Analysis and Insight for Finance) Allocations Team , to calculate populations for use in allocations | 2026-05-06* |
-| [`ICB_Place_Based_Tool_2627-2829`](https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829) | This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions. | 2026-05-06* |
+| [`AIF_Allocation_Populations.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations.replaced.2026-09-02) | Development work in AIF (Analysis and Insight for Finance) Allocations Team , to calculate populations for use in allocations | 2026-09-03 |
+| [`ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02) | This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions. | 2026-09-03 |
 | [`MHS-ingestion-for-Outpatients`](https://github.com/uk-gov-mirror/nhsengland.MHS-ingestion-for-Outpatients) |  | 2026-05-06* |
 | [`PIFU-Data-Quality-Checks`](https://github.com/uk-gov-mirror/nhsengland.PIFU-Data-Quality-Checks) |  | 2026-05-06* |
 | [`PIFU_MI`](https://github.com/uk-gov-mirror/nhsengland.PIFU_MI) |  | 2026-05-06* |
@@ -2004,9 +2011,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`govuk_ab_analysis.replaced.2026-09-03`](https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis.replaced.2026-09-03) | Statistical tools to help analyse A/B tests of processed BigQuery user journey data. | 2026-09-03 |
 | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
 | [`govuk-rota-generator`](https://github.com/uk-gov-mirror/alphagov.govuk-rota-generator) |  | 2025-11-04* |
-| [`govuk_ab_analysis`](https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis) | Statistical tools to help analyse A/B tests of processed BigQuery user journey data. | 2025-05-26* |
 
 ## [communitiesuk](https://github.com/communitiesuk) (3)
 
@@ -2034,8 +2041,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`eleatics.replaced.2026-09-02`](https://github.com/uk-gov-mirror/dstl.eleatics.replaced.2026-09-02) | Interfaces, interchange formats and data transformations to promote shared, collaborative and distributed knowledge representation and reasoning. | 2026-09-03 |
 | [`Human-Interface-Horizons.replaced.2026-08-21`](https://github.com/uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21) | A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment. | 2026-08-21 |
-| [`eleatics`](https://github.com/uk-gov-mirror/dstl.eleatics) | Interfaces, interchange formats and data transformations to promote shared, collaborative and distributed knowledge representation and reasoning. | 2026-04-27* |
 
 ## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (2)
 
@@ -2054,13 +2061,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`prototype`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype) |  | 2026-08-11 |
+| [`prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02) |  | 2026-09-03 |
 
 ## [GSS-Cogs](https://github.com/GSS-Cogs) (1)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`prototypes`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes) |  | 2026-08-12 |
+| [`prototypes.replaced.2026-09-03`](https://github.com/uk-gov-mirror/GSS-Cogs.prototypes.replaced.2026-09-03) |  | 2026-09-03 |
 
 ## [LocalGovDigital](https://github.com/LocalGovDigital) (1)
 
@@ -2090,13 +2097,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`Test1`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1) | just testting | 2026-08-11 |
+| [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
 
 ## [The-Strategy-Unit](https://github.com/The-Strategy-Unit) (1)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`assets`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets) | UK Intellectual Property Office Assets | 2026-08-12 |
+| [`assets.replaced.2026-09-02`](https://github.com/uk-gov-mirror/The-Strategy-Unit.assets.replaced.2026-09-02) | UK Intellectual Property Office Assets | 2026-09-03 |
 
 ## [TransportForLondon](https://github.com/TransportForLondon) (1)
 
@@ -2114,7 +2121,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`hof-template-mixins`](https://github.com/uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins) | Egar HOF Template mixins | 2021-07-02* |
+| [`hof-template-mixins.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins.replaced.2026-09-03) | Egar HOF Template mixins | 2026-09-03 |
 
 ## [cabinetoffice](https://github.com/cabinetoffice) (1)
 
@@ -2138,7 +2145,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`reference-data-service`](https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service) |  | 2026-08-12 |
+| [`reference-data-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/department-for-transport-BODS.reference-data-service.replaced.2026-09-03) |  | 2026-09-03 |
 
 ## [dfid](https://github.com/dfid) (1)
 
@@ -2156,7 +2163,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`.github`](https://github.com/uk-gov-mirror/forestresearch..github) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-08-14 |
+| [`.github.replaced.2026-09-02`](https://github.com/uk-gov-mirror/forestresearch..github.replaced.2026-09-02) | Ministry of Justice Analytical Services GitHub workflow templates | 2026-09-03 |
 
 ## [govuk-one-login](https://github.com/govuk-one-login) (1)
 
@@ -2168,7 +2175,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`nhs-notify-prototype`](https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype) | A prototype to test design assumptions for the NHS Notify service. | 2026-05-02* |
+| [`nhs-notify-prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02) | A prototype to test design assumptions for the NHS Notify service. | 2026-09-03 |
 
 ## [nottmhospitals](https://github.com/nottmhospitals) (1)
 
