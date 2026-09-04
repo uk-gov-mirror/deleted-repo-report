@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1783**
+Total deleted repositories: **1789**
 Organisations affected: **67**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,9 +9,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**264**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 9.9% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**265**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.0% |
 | [hmrc](https://github.com/hmrc) | [**196**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.8% |
-| [nhsdigital](https://github.com/nhsdigital) | [**175**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 34.8% |
+| [nhsdigital](https://github.com/nhsdigital) | [**180**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 35.9% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -26,7 +26,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
-| [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 62.2% |
+| [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
 | [defra](https://github.com/defra) | [**22**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.1% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
@@ -77,10 +77,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.4% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (264)
+## [ministryofjustice](https://github.com/ministryofjustice) (265)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`sturdy-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.sturdy-fishstick) |  | 2026-09-04 |
 | [`data-docs-public.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.data-docs-public.replaced.2026-09-03) |  | 2026-09-03 |
 | [`diso-devops-module-ssm-bastion.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ministryofjustice.diso-devops-module-ssm-bastion.replaced.2026-09-03) | Terraform module for the bastion accessed only via an AWS Systems Manager Session. | 2026-09-03 |
 | [`hmpps-dependencytrack`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-dependencytrack) | Instance of DepencyTrack for collation of SBOM information across HMPPS github projects. Managed by the HMPPS SRE team. (bootstrapped 2026-08-25) | 2026-09-03 |
@@ -547,10 +548,15 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`s3-stub`](https://github.com/uk-gov-mirror/hmrc.s3-stub) |  |  |
 | [`ssttp-performance-test`](https://github.com/uk-gov-mirror/hmrc.ssttp-performance-test) |  |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (175)
+## [nhsdigital](https://github.com/nhsdigital) (180)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
+| [`key-locator-api`](https://github.com/uk-gov-mirror/nhsdigital.key-locator-api) |  | 2026-09-04 |
+| [`poc-jwks-dos`](https://github.com/uk-gov-mirror/nhsdigital.poc-jwks-dos) |  | 2026-09-04 |
+| [`record-a-vaccination-plus-prototype`](https://github.com/uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype) | Extended feature set to enhance and expand the capabilities of RAVS (Record A Vaccination Service) | 2026-09-04 |
+| [`test-api`](https://github.com/uk-gov-mirror/nhsdigital.test-api) |  | 2026-09-04 |
 | [`dtos-analyse-data-science`](https://github.com/uk-gov-mirror/nhsdigital.dtos-analyse-data-science) | Data science related code for the Digital Screening Analyse Team  | 2026-09-03 |
 | [`gp-registrations-management-information-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-registrations-management-information-api) |  | 2026-09-03 |
 | [`mock-proxy.replaced.2026-09-03`](https://github.com/uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03) | A mock jwks endpoint used for automated tests | 2026-09-03 |
@@ -1543,6 +1549,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`library-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03) |  | 2026-09-04 |
 | [`applications-backoffice-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03) | Prototype for the Applications Back Office | 2026-09-03 |
 | [`applications-dco-portal-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03) |  | 2026-09-03 |
 | [`applications-dco-portal.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal.replaced.2026-09-03) |  | 2026-09-03 |
@@ -1580,7 +1587,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`e-learning`](https://github.com/uk-gov-mirror/Planning-Inspectorate.e-learning) |  | 2026-08-27 |
 | [`extract-ofgem-generator-licencees`](https://github.com/uk-gov-mirror/Planning-Inspectorate.extract-ofgem-generator-licencees) | Script to extract the Ofgem Electricity Generator Licence holders from the PDF published by Ofgem | 2026-08-27 |
 | [`knowledge-service-link-extractor`](https://github.com/uk-gov-mirror/Planning-Inspectorate.knowledge-service-link-extractor) | Proof of concept for converting word documents to html, then extracting hyperlinks from word docs and linked pdf docs | 2026-08-27 |
-| [`library-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service) |  | 2026-08-27 |
 | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
 

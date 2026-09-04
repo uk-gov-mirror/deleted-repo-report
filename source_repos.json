@@ -1909,14 +1909,14 @@
     "original_url": "https://github.com/Planning-Inspectorate/knowledge-service-link-extractor"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-09-04",
     "description": null,
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.library-service",
-    "mirror_name": "Planning-Inspectorate.library-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service",
-    "name": "library-service",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03",
+    "mirror_name": "Planning-Inspectorate.library-service.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03",
+    "name": "library-service.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/library-service"
+    "original_url": "https://github.com/Planning-Inspectorate/library-service.replaced.2026-09-03"
   },
   {
     "deleted_on": "2026-09-03",
@@ -14607,6 +14607,16 @@
     "original_url": "https://github.com/ministryofjustice/staff-infrastructure-monitoring-deployments"
   },
   {
+    "deleted_on": "2026-09-04",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.sturdy-fishstick",
+    "mirror_name": "ministryofjustice.sturdy-fishstick",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.sturdy-fishstick",
+    "name": "sturdy-fishstick",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/sturdy-fishstick"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "We are committed to making our teams more representative of the people we build services for. The purpose of these diversity stats is to measure the Justice Digital & Technology team against societal demographics.",
     "full_name": "uk-gov-mirror/ministryofjustice.technology-diversity-statistics.replaced.2026-09-03",
@@ -16996,6 +17006,16 @@
     "original_url": "https://github.com/nhsdigital/guesswho"
   },
   {
+    "deleted_on": "2026-09-04",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.health-research-data-catalogue",
+    "mirror_name": "nhsdigital.health-research-data-catalogue",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue",
+    "name": "health-research-data-catalogue",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/health-research-data-catalogue"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -17093,6 +17113,16 @@
     "name": "karate-jar",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/karate-jar"
+  },
+  {
+    "deleted_on": "2026-09-04",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.key-locator-api",
+    "mirror_name": "nhsdigital.key-locator-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.key-locator-api",
+    "name": "key-locator-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/key-locator-api"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -17762,6 +17792,16 @@
     "original_url": "https://github.com/nhsdigital/org-workflows"
   },
   {
+    "deleted_on": "2026-09-04",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.poc-jwks-dos",
+    "mirror_name": "nhsdigital.poc-jwks-dos",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.poc-jwks-dos",
+    "name": "poc-jwks-dos",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/poc-jwks-dos"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-06",
     "description": "PPS Weight Management",
@@ -17826,6 +17866,16 @@
     "name": "ravs-tests",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/ravs-tests"
+  },
+  {
+    "deleted_on": "2026-09-04",
+    "description": "Extended feature set to enhance and expand the capabilities of RAVS (Record A Vaccination Service)",
+    "full_name": "uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype",
+    "mirror_name": "nhsdigital.record-a-vaccination-plus-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype",
+    "name": "record-a-vaccination-plus-prototype",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/record-a-vaccination-plus-prototype"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17969,6 +18019,16 @@
     "name": "terraform-aws-odin-common",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/terraform-aws-odin-common"
+  },
+  {
+    "deleted_on": "2026-09-04",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.test-api",
+    "mirror_name": "nhsdigital.test-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.test-api",
+    "name": "test-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/test-api"
   },
   {
     "approximate_date_source": "last-git-activity",

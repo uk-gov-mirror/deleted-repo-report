@@ -6,6 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`library-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03) |  | 2026-09-04 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`sturdy-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.sturdy-fishstick) |  | 2026-09-04 |
+| [nhsdigital](https://github.com/nhsdigital) | [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
+| [nhsdigital](https://github.com/nhsdigital) | [`key-locator-api`](https://github.com/uk-gov-mirror/nhsdigital.key-locator-api) |  | 2026-09-04 |
+| [nhsdigital](https://github.com/nhsdigital) | [`poc-jwks-dos`](https://github.com/uk-gov-mirror/nhsdigital.poc-jwks-dos) |  | 2026-09-04 |
+| [nhsdigital](https://github.com/nhsdigital) | [`record-a-vaccination-plus-prototype`](https://github.com/uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype) | Extended feature set to enhance and expand the capabilities of RAVS (Record A Vaccination Service) | 2026-09-04 |
+| [nhsdigital](https://github.com/nhsdigital) | [`test-api`](https://github.com/uk-gov-mirror/nhsdigital.test-api) |  | 2026-09-04 |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [`prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02) |  | 2026-09-03 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`dauPortalTools.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03) |  | 2026-09-03 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`login.dfe.validation.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03) |  | 2026-09-03 |
@@ -120,7 +127,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`e-learning`](https://github.com/uk-gov-mirror/Planning-Inspectorate.e-learning) |  | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`extract-ofgem-generator-licencees`](https://github.com/uk-gov-mirror/Planning-Inspectorate.extract-ofgem-generator-licencees) | Script to extract the Ofgem Electricity Generator Licence holders from the PDF published by Ofgem | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`knowledge-service-link-extractor`](https://github.com/uk-gov-mirror/Planning-Inspectorate.knowledge-service-link-extractor) | Proof of concept for converting word documents to html, then extracting hyperlinks from word docs and linked pdf docs | 2026-08-27 |
-| [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`library-service`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service) |  | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`das-rcrt-ai-quality-assurance`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-rcrt-ai-quality-assurance) | Recruit-An-Apprenticeship AI quality assurance service | 2026-08-27 |
@@ -1000,9 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [informatics-lab](https://github.com/informatics-lab) | [`mo-ai-4-earth-data`](https://github.com/uk-gov-mirror/informatics-lab.mo-ai-4-earth-data) | An Azure function to consume a notification from a HTTP post, process and copy the data referenced to a blob container | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`pangeo-envs`](https://github.com/uk-gov-mirror/informatics-lab.pangeo-envs) | Environments for our pangeo deployment | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`panzure-shared-env-notebook`](https://github.com/uk-gov-mirror/informatics-lab.panzure-shared-env-notebook) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`pupiltracker`](https://github.com/uk-gov-mirror/informatics-lab.pupiltracker) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`website`](https://github.com/uk-gov-mirror/informatics-lab.website) | Simple website for us | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`xarray-iris-coord-system`](https://github.com/uk-gov-mirror/informatics-lab.xarray-iris-coord-system) | Python class to fix xarray-iris coord_system issue | 2021-06-24* |
-| [hmrc](https://github.com/hmrc) | [`one-stop-shop-admin-frontend`](https://github.com/uk-gov-mirror/hmrc.one-stop-shop-admin-frontend) |  | 2021-06-17* |
-| [hmcts](https://github.com/hmcts) | [`civil-damages-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-damages-sdk) |  | 2021-05-25* |
-| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-R4-UKCORE-STAGING`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-STAGING) | Staging area for Simplifier.net to sync FHIR Assets and enable sharing of development work | 2021-05-13* |
