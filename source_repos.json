@@ -15656,6 +15656,16 @@
     "original_url": "https://github.com/nhs-england-tools/repository-template-servicenow-integration"
   },
   {
+    "deleted_on": "2026-09-05",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhs-england-tools.terraform-aws-api-bootstrap",
+    "mirror_name": "nhs-england-tools.terraform-aws-api-bootstrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhs-england-tools.terraform-aws-api-bootstrap",
+    "name": "terraform-aws-api-bootstrap",
+    "org": "nhs-england-tools",
+    "original_url": "https://github.com/nhs-england-tools/terraform-aws-api-bootstrap"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-02",
     "description": "Canonical reference implementation for automated versioning, tagging, signing, and release provenance within NHS repositories.",
@@ -16479,6 +16489,26 @@
     "name": "connecting-party-manager",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/connecting-party-manager"
+  },
+  {
+    "deleted_on": "2026-09-05",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext",
+    "mirror_name": "nhsdigital.cypkg-nextjs-opennext",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext",
+    "name": "cypkg-nextjs-opennext",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/cypkg-nextjs-opennext"
+  },
+  {
+    "deleted_on": "2026-09-05",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.cypkg-test-package",
+    "mirror_name": "nhsdigital.cypkg-test-package",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package",
+    "name": "cypkg-test-package",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/cypkg-test-package"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17573,6 +17603,16 @@
     "name": "nhs-notify-observability",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/nhs-notify-observability"
+  },
+  {
+    "deleted_on": "2026-09-05",
+    "description": "Automated functional release tests for NHS Notify ",
+    "full_name": "uk-gov-mirror/nhsdigital.nhs-notify-release-tests",
+    "mirror_name": "nhsdigital.nhs-notify-release-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-release-tests",
+    "name": "nhs-notify-release-tests",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhs-notify-release-tests"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -18683,6 +18723,16 @@
     "name": "verify-apostille-smoke-tests",
     "org": "ukforeignoffice",
     "original_url": "https://github.com/ukforeignoffice/verify-apostille-smoke-tests"
+  },
+  {
+    "deleted_on": "2026-09-05",
+    "description": "TICLR is a Timeline for Infection Clusters tool. ",
+    "full_name": "uk-gov-mirror/ukhsa-collaboration.TICLR",
+    "mirror_name": "ukhsa-collaboration.TICLR",
+    "mirror_url": "https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR",
+    "name": "TICLR",
+    "org": "ukhsa-collaboration",
+    "original_url": "https://github.com/ukhsa-collaboration/TICLR"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

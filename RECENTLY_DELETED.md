@@ -6,6 +6,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [nhs-england-tools](https://github.com/nhs-england-tools) | [`terraform-aws-api-bootstrap`](https://github.com/uk-gov-mirror/nhs-england-tools.terraform-aws-api-bootstrap) |  | 2026-09-05 |
+| [nhsdigital](https://github.com/nhsdigital) | [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
+| [nhsdigital](https://github.com/nhsdigital) | [`cypkg-test-package`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package) |  | 2026-09-05 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhs-notify-release-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-release-tests) | Automated functional release tests for NHS Notify  | 2026-09-05 |
+| [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [`TICLR`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-05 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`library-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03) |  | 2026-09-04 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`sturdy-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.sturdy-fishstick) |  | 2026-09-04 |
 | [nhsdigital](https://github.com/nhsdigital) | [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
@@ -1001,8 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [informatics-lab](https://github.com/informatics-lab) | [`cchd`](https://github.com/uk-gov-mirror/informatics-lab.cchd) | An example of a Climate Change Hazard Dashboard (CCHD). | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`covid19-ai4earth-examples`](https://github.com/uk-gov-mirror/informatics-lab.covid19-ai4earth-examples) |  | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`human-eval-app`](https://github.com/uk-gov-mirror/informatics-lab.human-eval-app) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`itk-3dvis`](https://github.com/uk-gov-mirror/informatics-lab.itk-3dvis) | Examples of how to use itk-jupyter-widgets to render Met Office data in 3D | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`metadatabase`](https://github.com/uk-gov-mirror/informatics-lab.metadatabase) | Query collections of files by metadata using mongoDB | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`mo-ai-4-earth-data`](https://github.com/uk-gov-mirror/informatics-lab.mo-ai-4-earth-data) | An Azure function to consume a notification from a HTTP post, process and copy the data referenced to a blob container | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`pangeo-envs`](https://github.com/uk-gov-mirror/informatics-lab.pangeo-envs) | Environments for our pangeo deployment | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`panzure-shared-env-notebook`](https://github.com/uk-gov-mirror/informatics-lab.panzure-shared-env-notebook) |  | 2021-06-24* |
