@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [alphagov](https://github.com/alphagov) | [`gds-next-gen-soc-development-security-attack-data`](https://github.com/uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data) | Security Attack data for GDS-Next-Gen-SOC | 2026-09-07 |
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [`terraform-aws-api-bootstrap`](https://github.com/uk-gov-mirror/nhs-england-tools.terraform-aws-api-bootstrap) |  | 2026-09-05 |
 | [nhsdigital](https://github.com/nhsdigital) | [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
 | [nhsdigital](https://github.com/nhsdigital) | [`cypkg-test-package`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package) |  | 2026-09-05 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [informatics-lab](https://github.com/informatics-lab) | [`causality`](https://github.com/uk-gov-mirror/informatics-lab.causality) | Repository for examples of using causal analysis with climate data | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`cchd`](https://github.com/uk-gov-mirror/informatics-lab.cchd) | An example of a Climate Change Hazard Dashboard (CCHD). | 2021-06-24* |
 | [informatics-lab](https://github.com/informatics-lab) | [`covid19-ai4earth-examples`](https://github.com/uk-gov-mirror/informatics-lab.covid19-ai4earth-examples) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`human-eval-app`](https://github.com/uk-gov-mirror/informatics-lab.human-eval-app) |  | 2021-06-24* |

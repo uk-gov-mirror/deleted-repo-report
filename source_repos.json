@@ -5371,6 +5371,16 @@
     "original_url": "https://github.com/UKHomeOfficeForms/hof-template-mixins.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-09-07",
+    "description": "Security Attack data for GDS-Next-Gen-SOC",
+    "full_name": "uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data",
+    "mirror_name": "alphagov.gds-next-gen-soc-development-security-attack-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data",
+    "name": "gds-next-gen-soc-development-security-attack-data",
+    "org": "alphagov",
+    "original_url": "https://github.com/alphagov/gds-next-gen-soc-development-security-attack-data"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-11-04",
     "description": null,

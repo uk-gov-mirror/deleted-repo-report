@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1794**
+Total deleted repositories: **1795**
 Organisations affected: **68**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -46,7 +46,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 33.3% |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 6.3% |
-| [alphagov](https://github.com/alphagov) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.2% |
+| [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 1.5% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
@@ -2018,10 +2018,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
 | [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
 
-## [alphagov](https://github.com/alphagov) (3)
+## [alphagov](https://github.com/alphagov) (4)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`gds-next-gen-soc-development-security-attack-data`](https://github.com/uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data) | Security Attack data for GDS-Next-Gen-SOC | 2026-09-07 |
 | [`govuk_ab_analysis.replaced.2026-09-03`](https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis.replaced.2026-09-03) | Statistical tools to help analyse A/B tests of processed BigQuery user journey data. | 2026-09-03 |
 | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
 | [`govuk-rota-generator`](https://github.com/uk-gov-mirror/alphagov.govuk-rota-generator) |  | 2025-11-04* |
