@@ -690,6 +690,26 @@
     "original_url": "https://github.com/Digital-Intelligence-Unit/NHS_Business_Intelligence_Platform_Shiny"
   },
   {
+    "deleted_on": "2026-09-08",
+    "description": "Uses NDNS data to examine the quantiles of bodyweight",
+    "full_name": "uk-gov-mirror/FoodStandardsAgency.NDNS-bodyweight",
+    "mirror_name": "FoodStandardsAgency.NDNS-bodyweight",
+    "mirror_url": "https://github.com/uk-gov-mirror/FoodStandardsAgency.NDNS-bodyweight",
+    "name": "NDNS-bodyweight",
+    "org": "FoodStandardsAgency",
+    "original_url": "https://github.com/FoodStandardsAgency/NDNS-bodyweight"
+  },
+  {
+    "deleted_on": "2026-09-08",
+    "description": "CRUD interface using FastCRUD",
+    "full_name": "uk-gov-mirror/FoodStandardsAgency.python-crud",
+    "mirror_name": "FoodStandardsAgency.python-crud",
+    "mirror_url": "https://github.com/uk-gov-mirror/FoodStandardsAgency.python-crud",
+    "name": "python-crud",
+    "org": "FoodStandardsAgency",
+    "original_url": "https://github.com/FoodStandardsAgency/python-crud"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/GSS-Cogs.prototypes.replaced.2026-09-03",
@@ -13581,6 +13601,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-one-login-user-registry"
   },
   {
+    "deleted_on": "2026-09-08",
+    "description": "HMPPS One Plan Manager API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-plan-api",
+    "mirror_name": "ministryofjustice.hmpps-one-plan-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-api",
+    "name": "hmpps-one-plan-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-one-plan-api"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "One Plan UI",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-plan-ui",
@@ -16435,6 +16465,16 @@
     "original_url": "https://github.com/nhsdigital/bcss-notifications"
   },
   {
+    "deleted_on": "2026-09-08",
+    "description": "Booking and Referrals Standard Media storage",
+    "full_name": "uk-gov-mirror/nhsdigital.booking-and-referral-media",
+    "mirror_name": "nhsdigital.booking-and-referral-media",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-media",
+    "name": "booking-and-referral-media",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/booking-and-referral-media"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "The Canary API is used for testing internal processes for API Management releases",
@@ -17384,6 +17424,16 @@
     "original_url": "https://github.com/nhsdigital/nhs-aws-helpers"
   },
   {
+    "deleted_on": "2026-09-08",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.nhs-c4-umbrella",
+    "mirror_name": "nhsdigital.nhs-c4-umbrella",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-c4-umbrella",
+    "name": "nhs-c4-umbrella",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhs-c4-umbrella"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-06",
     "description": "Utility for signing prescriptions using NHS Credential Manager",
@@ -17755,6 +17805,16 @@
     "original_url": "https://github.com/nhsdigital/nhslogin-provisioning-2023"
   },
   {
+    "deleted_on": "2026-09-08",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.nhsuk-bcss",
+    "mirror_name": "nhsdigital.nhsuk-bcss",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhsuk-bcss",
+    "name": "nhsuk-bcss",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhsuk-bcss"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "NHS Notify Notifest Hackathon",
@@ -17905,6 +17965,16 @@
     "name": "prototype-ncrs-structured",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/prototype-ncrs-structured"
+  },
+  {
+    "deleted_on": "2026-09-08",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.prototype-nhs-caas",
+    "mirror_name": "nhsdigital.prototype-nhs-caas",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.prototype-nhs-caas",
+    "name": "prototype-nhs-caas",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/prototype-nhs-caas"
   },
   {
     "approximate_date_source": "last-git-activity",

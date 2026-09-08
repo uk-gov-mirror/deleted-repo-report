@@ -6,6 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [`NDNS-bodyweight`](https://github.com/uk-gov-mirror/FoodStandardsAgency.NDNS-bodyweight) | Uses NDNS data to examine the quantiles of bodyweight | 2026-09-08 |
+| [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [`python-crud`](https://github.com/uk-gov-mirror/FoodStandardsAgency.python-crud) | CRUD interface using FastCRUD | 2026-09-08 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-one-plan-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-api) | HMPPS One Plan Manager API | 2026-09-08 |
+| [nhsdigital](https://github.com/nhsdigital) | [`booking-and-referral-media`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-media) | Booking and Referrals Standard Media storage | 2026-09-08 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhs-c4-umbrella`](https://github.com/uk-gov-mirror/nhsdigital.nhs-c4-umbrella) |  | 2026-09-08 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhsuk-bcss`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-bcss) |  | 2026-09-08 |
+| [nhsdigital](https://github.com/nhsdigital) | [`prototype-nhs-caas`](https://github.com/uk-gov-mirror/nhsdigital.prototype-nhs-caas) |  | 2026-09-08 |
 | [alphagov](https://github.com/alphagov) | [`gds-next-gen-soc-development-security-attack-data`](https://github.com/uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data) | Security Attack data for GDS-Next-Gen-SOC | 2026-09-07 |
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [`terraform-aws-api-bootstrap`](https://github.com/uk-gov-mirror/nhs-england-tools.terraform-aws-api-bootstrap) |  | 2026-09-05 |
 | [nhsdigital](https://github.com/nhsdigital) | [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
@@ -999,10 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [hmrc](https://github.com/hmrc) | [`import-voluntary-disclosure-journey-tests`](https://github.com/uk-gov-mirror/hmrc.import-voluntary-disclosure-journey-tests) |  | 2021-06-24* |
 | [hmrc](https://github.com/hmrc) | [`mtd-crystallisation`](https://github.com/uk-gov-mirror/hmrc.mtd-crystallisation) |  | 2021-06-24* |
 | [hmrc](https://github.com/hmrc) | [`time-to-pay-calculator`](https://github.com/uk-gov-mirror/hmrc.time-to-pay-calculator) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`UsingClimateData`](https://github.com/uk-gov-mirror/informatics-lab.UsingClimateData) | Tutorial material on using climate data for investigating climate-related impacts. | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`annotable-bokeh`](https://github.com/uk-gov-mirror/informatics-lab.annotable-bokeh) | Annotation of gridded data plots | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`azure-kubernettes`](https://github.com/uk-gov-mirror/informatics-lab.azure-kubernettes) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`azure_datasets`](https://github.com/uk-gov-mirror/informatics-lab.azure_datasets) |  | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`causality`](https://github.com/uk-gov-mirror/informatics-lab.causality) | Repository for examples of using causal analysis with climate data | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`cchd`](https://github.com/uk-gov-mirror/informatics-lab.cchd) | An example of a Climate Change Hazard Dashboard (CCHD). | 2021-06-24* |
-| [informatics-lab](https://github.com/informatics-lab) | [`covid19-ai4earth-examples`](https://github.com/uk-gov-mirror/informatics-lab.covid19-ai4earth-examples) |  | 2021-06-24* |
