@@ -6,6 +6,21 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`dau-rise-universal-hubs`](https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs) |  | 2026-09-09 |
+| [OfqualGovUK](https://github.com/OfqualGovUK) | [`ofq_render_csv`](https://github.com/uk-gov-mirror/OfqualGovUK.ofq_render_csv) | A Wordpress plugin to render a local CSV file as a table using a shortcode. | 2026-09-09 |
+| [digital-land](https://github.com/digital-land) | [`performance-api`](https://github.com/uk-gov-mirror/digital-land.performance-api) | Provides performance metrics from the Data Collection Pipelines | 2026-09-09 |
+| [digital-land](https://github.com/digital-land) | [`performance-task`](https://github.com/uk-gov-mirror/digital-land.performance-task) | A repository to create performance datasets from data in our data lake. | 2026-09-09 |
+| [hmrc](https://github.com/hmrc) | [`bank-account-insights-stub`](https://github.com/uk-gov-mirror/hmrc.bank-account-insights-stub) |  | 2026-09-09 |
+| [hmrc](https://github.com/hmrc) | [`nino-insights-stub`](https://github.com/uk-gov-mirror/hmrc.nino-insights-stub) |  | 2026-09-09 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`dave-learning`](https://github.com/uk-gov-mirror/ministryofjustice.dave-learning) | Sandbox repo for learning and testing things | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-Package-Comparison-Tool`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool) | A tool to compare elements between different packages | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-FHIR-Integration-Engine`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Integration-Engine) |  | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-FHIR-Utility`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility) | An API to work with CI/CD and FHIR Servers. Includes loading of FHIR Servers with reference data or examples and caching of inflated packages.  | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-openFHIR`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-openFHIR) |  | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`fhir-mapping-stu3-careconnect-to-r4-ukcore`](https://github.com/uk-gov-mirror/nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore) |  | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`governance`](https://github.com/uk-gov-mirror/nhsdigital.governance) | Guidance on how to navigate governance in NHS Digital | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`interoperability-standards-documentation`](https://github.com/uk-gov-mirror/nhsdigital.interoperability-standards-documentation) |  | 2026-09-09 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhsuk-document-store`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-document-store) | Notifications & Messaging | Digital Letters | 2026-09-09 |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [`NDNS-bodyweight`](https://github.com/uk-gov-mirror/FoodStandardsAgency.NDNS-bodyweight) | Uses NDNS data to examine the quantiles of bodyweight | 2026-09-08 |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [`python-crud`](https://github.com/uk-gov-mirror/FoodStandardsAgency.python-crud) | CRUD interface using FastCRUD | 2026-09-08 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-one-plan-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-api) | HMPPS One Plan Manager API | 2026-09-08 |
@@ -991,18 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-dns-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-server) | Staff Device DNS Server repository | 2021-08-13* |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`login.dfe.org-management.api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.api) |  | 2021-08-10* |
 | [nationalarchives](https://github.com/nationalarchives) | [`transformation-alpha`](https://github.com/uk-gov-mirror/nationalarchives.transformation-alpha) | A repository for code output from the Alpha phase of the Digital Archiving Transformation Engine project | 2021-08-05* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-notify-pkg`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-notify-pkg) |  | 2021-07-27* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`das-data-factory`](https://github.com/uk-gov-mirror/SkillsFundingAgency.das-data-factory) |  | 2021-07-16* |
-| [defra](https://github.com/defra) | [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
-| [defra](https://github.com/defra) | [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
-| [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [`transparency-db-testing`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.transparency-db-testing) | Repo for test artifacts | 2021-07-14* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`ccoe-prototype-2`](https://github.com/uk-gov-mirror/UKHomeOffice.ccoe-prototype-2) | This prototype is based on the layout of the GOV.UK Design System pages and using the Design System components - this version of our prototype has a different navigation | 2021-07-10* |
-| [ONSdigital](https://github.com/ONSdigital) | [`takeon-business-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-business-layer) |  | 2021-07-09* |
-| [dwp](https://github.com/dwp) | [`ca-prototype-ur-2`](https://github.com/uk-gov-mirror/dwp.ca-prototype-ur-2) | Carer‘s Allowance prototype for UR (Pegasus) | 2021-07-09* |
-| [dwp](https://github.com/dwp) | [`cmg-portal-prototype`](https://github.com/uk-gov-mirror/dwp.cmg-portal-prototype) |  | 2021-07-09* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-workforce-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-workforce-prototype) | Prototyping for workforce management and case allocation in the community | 2021-07-09* |
-| [ONSdigital](https://github.com/ONSdigital) | [`takeon-ui`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ui) |  | 2021-07-07* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`review-school-college-data`](https://github.com/uk-gov-mirror/DFE-Digital.review-school-college-data) | Department for Education's Review My School or College Data (RSCD) service (Private beta) | 2021-07-06* |
-| [hmrc](https://github.com/hmrc) | [`import-voluntary-disclosure-journey-tests`](https://github.com/uk-gov-mirror/hmrc.import-voluntary-disclosure-journey-tests) |  | 2021-06-24* |
-| [hmrc](https://github.com/hmrc) | [`mtd-crystallisation`](https://github.com/uk-gov-mirror/hmrc.mtd-crystallisation) |  | 2021-06-24* |
-| [hmrc](https://github.com/hmrc) | [`time-to-pay-calculator`](https://github.com/uk-gov-mirror/hmrc.time-to-pay-calculator) |  | 2021-06-24* |

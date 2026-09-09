@@ -219,6 +219,16 @@
     "original_url": "https://github.com/DFE-Digital/content-designer-training"
   },
   {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs",
+    "mirror_name": "DFE-Digital.dau-rise-universal-hubs",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs",
+    "name": "dau-rise-universal-hubs",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/dau-rise-universal-hubs"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03",
@@ -1655,6 +1665,16 @@
     "name": "experts-prototype",
     "org": "OfqualGovUK",
     "original_url": "https://github.com/OfqualGovUK/experts-prototype"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "A Wordpress plugin to render a local CSV file as a table using a shortcode.",
+    "full_name": "uk-gov-mirror/OfqualGovUK.ofq_render_csv",
+    "mirror_name": "OfqualGovUK.ofq_render_csv",
+    "mirror_url": "https://github.com/uk-gov-mirror/OfqualGovUK.ofq_render_csv",
+    "name": "ofq_render_csv",
+    "org": "OfqualGovUK",
+    "original_url": "https://github.com/OfqualGovUK/ofq_render_csv"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -6462,6 +6482,26 @@
     "original_url": "https://github.com/digital-land/manage-planning-data-prototype"
   },
   {
+    "deleted_on": "2026-09-09",
+    "description": "Provides performance metrics from the Data Collection Pipelines",
+    "full_name": "uk-gov-mirror/digital-land.performance-api",
+    "mirror_name": "digital-land.performance-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.performance-api",
+    "name": "performance-api",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/performance-api"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "A repository to create performance datasets from data in our data lake.",
+    "full_name": "uk-gov-mirror/digital-land.performance-task",
+    "mirror_name": "digital-land.performance-task",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.performance-task",
+    "name": "performance-task",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/performance-task"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment.",
     "full_name": "uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21",
@@ -7970,6 +8010,16 @@
     "original_url": "https://github.com/hmrc/aws-ecs-appmesh-ingress-gateway"
   },
   {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.bank-account-insights-stub",
+    "mirror_name": "hmrc.bank-account-insights-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.bank-account-insights-stub",
+    "name": "bank-account-insights-stub",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/bank-account-insights-stub"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-12-28",
     "description": null,
@@ -9025,6 +9075,16 @@
     "name": "national-import-duty-adjustment-centre",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/national-import-duty-adjustment-centre"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.nino-insights-stub",
+    "mirror_name": "hmrc.nino-insights-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.nino-insights-stub",
+    "name": "nino-insights-stub",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/nino-insights-stub"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12267,6 +12327,16 @@
     "name": "data-docs-public.replaced.2026-09-03",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/data-docs-public.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "Sandbox repo for learning and testing things",
+    "full_name": "uk-gov-mirror/ministryofjustice.dave-learning",
+    "mirror_name": "ministryofjustice.dave-learning",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.dave-learning",
+    "name": "dave-learning",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/dave-learning"
   },
   {
     "deleted_on": "2026-08-22",
@@ -16267,6 +16337,16 @@
     "original_url": "https://github.com/nhsd-exeter/uec-sf-sfrunner"
   },
   {
+    "deleted_on": "2026-09-09",
+    "description": "A tool to compare elements between different packages",
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool",
+    "mirror_name": "nhsdigital.FHIR-Package-Comparison-Tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool",
+    "name": "FHIR-Package-Comparison-Tool",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-Package-Comparison-Tool"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-02-04",
     "description": "FHIR Resources for the NHS Pathology Implementation Guide",
@@ -16298,6 +16378,36 @@
     "name": "IAM_ID_Verification_Service_Common",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/IAM_ID_Verification_Service_Common"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-Integration-Engine",
+    "mirror_name": "nhsdigital.IOPS-FHIR-Integration-Engine",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Integration-Engine",
+    "name": "IOPS-FHIR-Integration-Engine",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-FHIR-Integration-Engine"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "An API to work with CI/CD and FHIR Servers. Includes loading of FHIR Servers with reference data or examples and caching of inflated packages. ",
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility",
+    "mirror_name": "nhsdigital.IOPS-FHIR-Utility",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility",
+    "name": "IOPS-FHIR-Utility",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-FHIR-Utility"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-openFHIR",
+    "mirror_name": "nhsdigital.IOPS-openFHIR",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-openFHIR",
+    "name": "IOPS-openFHIR",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-openFHIR"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -16999,6 +17109,16 @@
     "original_url": "https://github.com/nhsdigital/eps-workflow-semantic-release"
   },
   {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore",
+    "mirror_name": "nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore",
+    "name": "fhir-mapping-stu3-careconnect-to-r4-ukcore",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/fhir-mapping-stu3-careconnect-to-r4-ukcore"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "PoCs for converting postcodes into boundaries for locally defined areas in the dos migration",
@@ -17063,6 +17183,16 @@
     "name": "genomic-test-directory-api",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/genomic-test-directory-api"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "Guidance on how to navigate governance in NHS Digital",
+    "full_name": "uk-gov-mirror/nhsdigital.governance",
+    "mirror_name": "nhsdigital.governance",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.governance",
+    "name": "governance",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/governance"
   },
   {
     "deleted_on": "2026-09-03",
@@ -17182,6 +17312,16 @@
     "name": "imms_fhir_api_automation",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/imms_fhir_api_automation"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.interoperability-standards-documentation",
+    "mirror_name": "nhsdigital.interoperability-standards-documentation",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.interoperability-standards-documentation",
+    "name": "interoperability-standards-documentation",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/interoperability-standards-documentation"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17813,6 +17953,16 @@
     "name": "nhsuk-bcss",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/nhsuk-bcss"
+  },
+  {
+    "deleted_on": "2026-09-09",
+    "description": "Notifications & Messaging | Digital Letters",
+    "full_name": "uk-gov-mirror/nhsdigital.nhsuk-document-store",
+    "mirror_name": "nhsdigital.nhsuk-document-store",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhsuk-document-store",
+    "name": "nhsuk-document-store",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhsuk-document-store"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
