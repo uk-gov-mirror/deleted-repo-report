@@ -6,6 +6,26 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [`gca-cvt-backend`](https://github.com/uk-gov-mirror/Crown-Commercial-Service.gca-cvt-backend) | Commercial Value Tool backend | 2026-09-10 |
+| [communitiesuk](https://github.com/communitiesuk) | [`python-cookiecutter-uv`](https://github.com/uk-gov-mirror/communitiesuk.python-cookiecutter-uv) | uv cookiecutter template | 2026-09-10 |
+| [digital-land](https://github.com/digital-land) | [`spark-jobs`](https://github.com/uk-gov-mirror/digital-land.spark-jobs) | a repo to contain spark jobs. the repo will be synced to s3 including a copy of the python environment to be used. | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-R4-AMBULANCE-DATA-SET`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-AMBULANCE-DATA-SET) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-R4-CLINICAL-OBSERVATIONS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-R4-UKCORE-COMMUNITYASSETS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS) | IOPS Repo for FHIR R4 UK Core Community Assets | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-STU3-AND-CARE-CONNECT-ASSETS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-AND-CARE-CONNECT-ASSETS) | STU3 FHIR Assets and Care Connect Assets | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-STU3-CARECONNECT-STAGING`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-CARECONNECT-STAGING) | Staging area | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`FHIR-Test-Data`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Test-Data) | A repo to hold FHIR test data for use for Hackathons. Validated against UK Core. | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-FHIR-MHDS`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-MHDS) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-FHIR-QEDm`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-QEDm) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-FHIR-mCSD`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-mCSD) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-NHSEngland-ProviderAPI`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-NHSEngland-ProviderAPI) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`IOPS-Patient-Data-Repository`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-Patient-Data-Repository) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`Interoperability-Standards-Registry`](https://github.com/uk-gov-mirror/nhsdigital.Interoperability-Standards-Registry) | NHS England Webpage for all profiles and resources | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`NHSDigital-FHIR-Genomics-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide) | Resource repository for the Genomic Medicine Service Implementation Guide | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`NHSDigitial-FHIR-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-ImplementationGuide) | Implementation Guide for NHS Digital APIs | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`RA-FHIR-API`](https://github.com/uk-gov-mirror/nhsdigital.RA-FHIR-API) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`fgm-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.fgm-fhir-api) |  | 2026-09-10 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhs-website-content-api`](https://github.com/uk-gov-mirror/nhsdigital.nhs-website-content-api) |  | 2026-09-10 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`dau-rise-universal-hubs`](https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs) |  | 2026-09-09 |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [`ofq_render_csv`](https://github.com/uk-gov-mirror/OfqualGovUK.ofq_render_csv) | A Wordpress plugin to render a local CSV file as a table using a shortcode. | 2026-09-09 |
 | [digital-land](https://github.com/digital-land) | [`performance-api`](https://github.com/uk-gov-mirror/digital-land.performance-api) | Provides performance metrics from the Data Collection Pipelines | 2026-09-09 |
@@ -986,23 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-api-visits`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-api-visits) |  | 2021-11-18* |
 | [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_ARP`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_ARP) |  | 2021-11-10* |
 | [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_DSWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_DSWR) |  | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_NLPWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_NLPWR) |  | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_feminist-dataviz`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_feminist-dataviz) | Takeaways from the feminist data visualisation paper and data feminism book. | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_presentation_accessibility`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_presentation_accessibility) | temporary repo to host presentation options for accessibility checks - io slides, beamer, xaringan, ppt | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`DSCA_temp-geospatial`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_temp-geospatial) | temp repo hosting web content for accessibility check | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`UNGP`](https://github.com/uk-gov-mirror/datasciencecampus.UNGP) | UNGP | 2021-11-10* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`road-data-pipeline-documentation`](https://github.com/uk-gov-mirror/datasciencecampus.road-data-pipeline-documentation) | Documentation for the r-pipeline branch of the road-data-dump repository | 2021-11-10* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-compui-sessionstate-pkg-netstandard`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-compui-sessionstate-pkg-netstandard) |  | 2021-10-21* |
-| [NHSX](https://github.com/NHSX) | [`NHS-GreenSpace`](https://github.com/uk-gov-mirror/NHSX.NHS-GreenSpace) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`NHS-Semantic-Search`](https://github.com/uk-gov-mirror/NHSX.NHS-Semantic-Search) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`Synthetic-Data-Exploration-Dicom`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Dicom) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`Synthetic-Data-Exploration-Longitudinal`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Longitudinal) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`Synthetic-Data-Exploration-Probabilistic-Graphical-Models`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Probabilistic-Graphical-Models) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`Synthetic-Data-Exploration-Text`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Text) | NHSX PhD Internship Project | 2021-09-04* |
-| [NHSX](https://github.com/NHSX) | [`Synthetic-Data-Exploration-VAE`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-VAE) | NHSX PhD Internship Project | 2021-09-04* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-docker-hosted-agent`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-docker-hosted-agent) |  | 2021-08-27* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-digital-prototype`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-digital-prototype) |  | 2021-08-26* |
-| [hmcts](https://github.com/hmcts) | [`div-case-maintenance-service`](https://github.com/uk-gov-mirror/hmcts.div-case-maintenance-service) | Divorce Case Maintainance Service | 2021-08-16* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-dns-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dns-server) | Staff Device DNS Server repository | 2021-08-13* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`login.dfe.org-management.api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.api) |  | 2021-08-10* |
-| [nationalarchives](https://github.com/nationalarchives) | [`transformation-alpha`](https://github.com/uk-gov-mirror/nationalarchives.transformation-alpha) | A repository for code output from the Alpha phase of the Digital Archiving Transformation Engine project | 2021-08-05* |

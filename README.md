@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1817**
-Organisations affected: **69**
+Total deleted repositories: **1837**
+Organisations affected: **70**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -10,8 +10,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**267**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.0% |
+| [nhsdigital](https://github.com/nhsdigital) | [**212**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 43.4% |
 | [hmrc](https://github.com/hmrc) | [**198**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.9% |
-| [nhsdigital](https://github.com/nhsdigital) | [**195**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 39.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -47,8 +47,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 6.3% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
-| [communitiesuk](https://github.com/communitiesuk) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 1.5% |
-| [digital-land](https://github.com/digital-land) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 1.1% |
+| [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
+| [digital-land](https://github.com/digital-land) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 1.4% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
@@ -56,6 +56,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 4.8% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
+| [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
@@ -351,6 +352,223 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
+## [nhsdigital](https://github.com/nhsdigital) (212)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`FHIR-R4-AMBULANCE-DATA-SET`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-AMBULANCE-DATA-SET) |  | 2026-09-10 |
+| [`FHIR-R4-CLINICAL-OBSERVATIONS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS) |  | 2026-09-10 |
+| [`FHIR-R4-UKCORE-COMMUNITYASSETS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS) | IOPS Repo for FHIR R4 UK Core Community Assets | 2026-09-10 |
+| [`FHIR-STU3-AND-CARE-CONNECT-ASSETS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-AND-CARE-CONNECT-ASSETS) | STU3 FHIR Assets and Care Connect Assets | 2026-09-10 |
+| [`FHIR-STU3-CARECONNECT-STAGING`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-CARECONNECT-STAGING) | Staging area | 2026-09-10 |
+| [`FHIR-Test-Data`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Test-Data) | A repo to hold FHIR test data for use for Hackathons. Validated against UK Core. | 2026-09-10 |
+| [`IOPS-FHIR-MHDS`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-MHDS) |  | 2026-09-10 |
+| [`IOPS-FHIR-QEDm`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-QEDm) |  | 2026-09-10 |
+| [`IOPS-FHIR-mCSD`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-mCSD) |  | 2026-09-10 |
+| [`IOPS-NHSEngland-ProviderAPI`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-NHSEngland-ProviderAPI) |  | 2026-09-10 |
+| [`IOPS-Patient-Data-Repository`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-Patient-Data-Repository) |  | 2026-09-10 |
+| [`Interoperability-Standards-Registry`](https://github.com/uk-gov-mirror/nhsdigital.Interoperability-Standards-Registry) | NHS England Webpage for all profiles and resources | 2026-09-10 |
+| [`NHSDigital-FHIR-Genomics-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide) | Resource repository for the Genomic Medicine Service Implementation Guide | 2026-09-10 |
+| [`NHSDigitial-FHIR-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-ImplementationGuide) | Implementation Guide for NHS Digital APIs | 2026-09-10 |
+| [`RA-FHIR-API`](https://github.com/uk-gov-mirror/nhsdigital.RA-FHIR-API) |  | 2026-09-10 |
+| [`fgm-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.fgm-fhir-api) |  | 2026-09-10 |
+| [`nhs-website-content-api`](https://github.com/uk-gov-mirror/nhsdigital.nhs-website-content-api) |  | 2026-09-10 |
+| [`FHIR-Package-Comparison-Tool`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool) | A tool to compare elements between different packages | 2026-09-09 |
+| [`IOPS-FHIR-Integration-Engine`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Integration-Engine) |  | 2026-09-09 |
+| [`IOPS-FHIR-Utility`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility) | An API to work with CI/CD and FHIR Servers. Includes loading of FHIR Servers with reference data or examples and caching of inflated packages.  | 2026-09-09 |
+| [`IOPS-openFHIR`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-openFHIR) |  | 2026-09-09 |
+| [`fhir-mapping-stu3-careconnect-to-r4-ukcore`](https://github.com/uk-gov-mirror/nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore) |  | 2026-09-09 |
+| [`governance`](https://github.com/uk-gov-mirror/nhsdigital.governance) | Guidance on how to navigate governance in NHS Digital | 2026-09-09 |
+| [`interoperability-standards-documentation`](https://github.com/uk-gov-mirror/nhsdigital.interoperability-standards-documentation) |  | 2026-09-09 |
+| [`nhsuk-document-store`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-document-store) | Notifications & Messaging | Digital Letters | 2026-09-09 |
+| [`booking-and-referral-media`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-media) | Booking and Referrals Standard Media storage | 2026-09-08 |
+| [`nhs-c4-umbrella`](https://github.com/uk-gov-mirror/nhsdigital.nhs-c4-umbrella) |  | 2026-09-08 |
+| [`nhsuk-bcss`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-bcss) |  | 2026-09-08 |
+| [`prototype-nhs-caas`](https://github.com/uk-gov-mirror/nhsdigital.prototype-nhs-caas) |  | 2026-09-08 |
+| [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
+| [`cypkg-test-package`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package) |  | 2026-09-05 |
+| [`nhs-notify-release-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-release-tests) | Automated functional release tests for NHS Notify  | 2026-09-05 |
+| [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
+| [`key-locator-api`](https://github.com/uk-gov-mirror/nhsdigital.key-locator-api) |  | 2026-09-04 |
+| [`poc-jwks-dos`](https://github.com/uk-gov-mirror/nhsdigital.poc-jwks-dos) |  | 2026-09-04 |
+| [`record-a-vaccination-plus-prototype`](https://github.com/uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype) | Extended feature set to enhance and expand the capabilities of RAVS (Record A Vaccination Service) | 2026-09-04 |
+| [`test-api`](https://github.com/uk-gov-mirror/nhsdigital.test-api) |  | 2026-09-04 |
+| [`dtos-analyse-data-science`](https://github.com/uk-gov-mirror/nhsdigital.dtos-analyse-data-science) | Data science related code for the Digital Screening Analyse Team  | 2026-09-03 |
+| [`gp-registrations-management-information-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-registrations-management-information-api) |  | 2026-09-03 |
+| [`mock-proxy.replaced.2026-09-03`](https://github.com/uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03) | A mock jwks endpoint used for automated tests | 2026-09-03 |
+| [`nhse-innovationdays-tfstate-graph`](https://github.com/uk-gov-mirror/nhsdigital.nhse-innovationdays-tfstate-graph) | Terraform graph starter pack for 2023 Innovation Day | 2026-09-03 |
+| [`nhse-structurizr-site-generatr`](https://github.com/uk-gov-mirror/nhsdigital.nhse-structurizr-site-generatr) | Static site generator for architecture models created with Structurizr DSL | 2026-09-03 |
+| [`org-workflows`](https://github.com/uk-gov-mirror/nhsdigital.org-workflows) |  | 2026-09-03 |
+| [`dtos-cohort-manager`](https://github.com/uk-gov-mirror/nhsdigital.dtos-cohort-manager) |  | 2026-08-11 |
+| [`api-management-utils`](https://github.com/uk-gov-mirror/nhsdigital.api-management-utils) | Scripts and utilities used across API managment platform and services | 2026-07-13* |
+| [`IAM_ID_Verification_Service_Common`](https://github.com/uk-gov-mirror/nhsdigital.IAM_ID_Verification_Service_Common) | Terraform code for reusable modules | 2026-05-06* |
+| [`NHSDigital-nhs-notify-service-now-dev-ops`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigital-nhs-notify-service-now-dev-ops) | Trialling Servicenow DevOps approval flow | 2026-05-06* |
+| [`api-management-cert-generation`](https://github.com/uk-gov-mirror/nhsdigital.api-management-cert-generation) | Tools for (re-)generating certificates for API Management | 2026-05-06* |
+| [`api-management-service-template`](https://github.com/uk-gov-mirror/nhsdigital.api-management-service-template) | Template repository for services falling under API Management | 2026-05-06* |
+| [`apim-s3-cache-action`](https://github.com/uk-gov-mirror/nhsdigital.apim-s3-cache-action) |  | 2026-05-06* |
+| [`apim-test-utils`](https://github.com/uk-gov-mirror/nhsdigital.apim-test-utils) | API Management Test Utils | 2026-05-06* |
+| [`async-slowapp`](https://github.com/uk-gov-mirror/nhsdigital.async-slowapp) |  | 2026-05-06* |
+| [`canary-api`](https://github.com/uk-gov-mirror/nhsdigital.canary-api) | The Canary API is used for testing internal processes for API Management releases | 2026-05-06* |
+| [`cis2-mock-lambda`](https://github.com/uk-gov-mirror/nhsdigital.cis2-mock-lambda) |  | 2026-05-06* |
+| [`clinical-data-pathology-api`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-pathology-api) | Code supporting the Clinical Data Sharing Pathology APIs | 2026-05-06* |
+| [`connecting-party-manager`](https://github.com/uk-gov-mirror/nhsdigital.connecting-party-manager) | Connecting Party Manager | 2026-05-06* |
+| [`digital-health-checks-public`](https://github.com/uk-gov-mirror/nhsdigital.digital-health-checks-public) | This repository contains publicly accessible documents for the Digital Health Check online service. | 2026-05-06* |
+| [`dotnet-mesh-client`](https://github.com/uk-gov-mirror/nhsdigital.dotnet-mesh-client) |  | 2026-05-06* |
+| [`dtos-hub`](https://github.com/uk-gov-mirror/nhsdigital.dtos-hub) | Repository for the DTOS Hub: Centralised resources, configurations, and infrastructure management for the DTOS project, designed to support and integrate the network of application spokes. | 2026-05-06* |
+| [`duec-hack-24-symptom-search`](https://github.com/uk-gov-mirror/nhsdigital.duec-hack-24-symptom-search) |  | 2026-05-06* |
+| [`electronic-prescription-service-account-resources`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-account-resources) | Account resources for Electronic Prescription Service systems | 2026-05-06* |
+| [`electronic-prescription-service-api-regression-tests`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-api-regression-tests) |  | 2026-05-06* |
+| [`electronic-prescription-service-get-secrets`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-get-secrets) |  | 2026-05-06* |
+| [`electronic-prescription-service-release-notes`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-release-notes) | lambda to create release notes for EPS products | 2026-05-06* |
+| [`eligibility-signposting-api-regression-tests`](https://github.com/uk-gov-mirror/nhsdigital.eligibility-signposting-api-regression-tests) |  | 2026-05-06* |
+| [`endpoint-catalogue-service`](https://github.com/uk-gov-mirror/nhsdigital.endpoint-catalogue-service) |  | 2026-05-06* |
+| [`eps-action-cfn-guard`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-cfn-guard) |  | 2026-05-06* |
+| [`eps-action-cfn-lint`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-cfn-lint) |  | 2026-05-06* |
+| [`eps-action-sbom`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-sbom) |  | 2026-05-06* |
+| [`eps-assist-me`](https://github.com/uk-gov-mirror/nhsdigital.eps-assist-me) |  | 2026-05-06* |
+| [`eps-aws-dashboards`](https://github.com/uk-gov-mirror/nhsdigital.eps-aws-dashboards) |  | 2026-05-06* |
+| [`eps-cdk-utils`](https://github.com/uk-gov-mirror/nhsdigital.eps-cdk-utils) |  | 2026-05-06* |
+| [`eps-common-workflows`](https://github.com/uk-gov-mirror/nhsdigital.eps-common-workflows) |  | 2026-05-06* |
+| [`eps-conventional-changelog`](https://github.com/uk-gov-mirror/nhsdigital.eps-conventional-changelog) |  | 2026-05-06* |
+| [`eps-copilot-instructions`](https://github.com/uk-gov-mirror/nhsdigital.eps-copilot-instructions) | Common copilot instructions for eps projects | 2026-05-06* |
+| [`eps-dependabot-approve`](https://github.com/uk-gov-mirror/nhsdigital.eps-dependabot-approve) |  | 2026-05-06* |
+| [`eps-devcontainers`](https://github.com/uk-gov-mirror/nhsdigital.eps-devcontainers) |  | 2026-05-06* |
+| [`eps-dynamodb-poc`](https://github.com/uk-gov-mirror/nhsdigital.eps-dynamodb-poc) |  | 2026-05-06* |
+| [`eps-load-test`](https://github.com/uk-gov-mirror/nhsdigital.eps-load-test) |  | 2026-05-06* |
+| [`eps-prescription-status-update-api`](https://github.com/uk-gov-mirror/nhsdigital.eps-prescription-status-update-api) |  | 2026-05-06* |
+| [`eps-prescription-tracker-ui`](https://github.com/uk-gov-mirror/nhsdigital.eps-prescription-tracker-ui) | eps-prescription-tracker-ui | 2026-05-06* |
+| [`eps-repo-status`](https://github.com/uk-gov-mirror/nhsdigital.eps-repo-status) |  | 2026-05-06* |
+| [`eps-spine-shared`](https://github.com/uk-gov-mirror/nhsdigital.eps-spine-shared) | Code shared between EPS and Spine. | 2026-05-06* |
+| [`eps-storage-resources`](https://github.com/uk-gov-mirror/nhsdigital.eps-storage-resources) |  | 2026-05-06* |
+| [`eps-tool-hack-day`](https://github.com/uk-gov-mirror/nhsdigital.eps-tool-hack-day) |  | 2026-05-06* |
+| [`eps-update-devcontainer`](https://github.com/uk-gov-mirror/nhsdigital.eps-update-devcontainer) |  | 2026-05-06* |
+| [`eps-vpc-resources`](https://github.com/uk-gov-mirror/nhsdigital.eps-vpc-resources) | VPC resources for Electronic Prescription Service systems  | 2026-05-06* |
+| [`eps-workflow-dependabot`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-dependabot) | Workflows to manage dependabot for EPS repositories | 2026-05-06* |
+| [`eps-workflow-quality-checks`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-quality-checks) | A workflow to run the quality checks for EPS repositories | 2026-05-06* |
+| [`eps-workflow-semantic-release`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-semantic-release) | Workflows to manage semantic releases for EPS repositories | 2026-05-06* |
+| [`ftrs-LDA-poc`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-LDA-poc) | PoCs for converting postcodes into boundaries for locally defined areas in the dos migration | 2026-05-06* |
+| [`ftrs-data-model-ui-poc`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-data-model-ui-poc) | Proof-of-Concept Repository for Data Model UI (Find the Right Service) | 2026-05-06* |
+| [`ftrs-directory-of-services-ui-prototype`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-directory-of-services-ui-prototype) | FTRS Directory of Services UI Prototype | 2026-05-06* |
+| [`guesswho`](https://github.com/uk-gov-mirror/nhsdigital.guesswho) | Graduate Project | 2026-05-06* |
+| [`hello-world-api`](https://github.com/uk-gov-mirror/nhsdigital.hello-world-api) |  | 2026-05-06* |
+| [`identity-service-api`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-api) | API Spec & Proxy for the NHS Identity IdP for NHS Digital's API Platform | 2026-05-06* |
+| [`identity-service-jwks`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-jwks) | NHSD-Managed JWKS Keystore to store public keys of applications using client_credentials flow auth with signed JWT client assertion | 2026-05-06* |
+| [`im1-pfs-auth`](https://github.com/uk-gov-mirror/nhsdigital.im1-pfs-auth) | A service enabling proxies to act on behalf of patients, regardless of their GP practice. | 2026-05-06* |
+| [`imms_fhir_api_automation`](https://github.com/uk-gov-mirror/nhsdigital.imms_fhir_api_automation) | Behave Automation for Immunisation FHIR API | 2026-05-06* |
+| [`karate-jar`](https://github.com/uk-gov-mirror/nhsdigital.karate-jar) | A repo that stores a working Karate 1.6.0 jar until it's released on the usual channel | 2026-05-06* |
+| [`lung_cancer_screening`](https://github.com/uk-gov-mirror/nhsdigital.lung_cancer_screening) |  | 2026-05-06* |
+| [`manage-vaccinations-in-schools-infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.manage-vaccinations-in-schools-infrastructure) | Repository containing the infrastructure as code for the "MAVIS" application | 2026-05-06* |
+| [`manage-vaccinations-in-schools-reporting`](https://github.com/uk-gov-mirror/nhsdigital.manage-vaccinations-in-schools-reporting) | The reporting component of the Manage Vaccinations In Schools service (Mavis) | 2026-05-06* |
+| [`map-viewer`](https://github.com/uk-gov-mirror/nhsdigital.map-viewer) |  | 2026-05-06* |
+| [`mock-jwks`](https://github.com/uk-gov-mirror/nhsdigital.mock-jwks) |  | 2026-05-06* |
+| [`mock-lambda-api-template`](https://github.com/uk-gov-mirror/nhsdigital.mock-lambda-api-template) |  | 2026-05-06* |
+| [`monitoring-service-discovery`](https://github.com/uk-gov-mirror/nhsdigital.monitoring-service-discovery) |  | 2026-05-06* |
+| [`multicast-notification-service`](https://github.com/uk-gov-mirror/nhsdigital.multicast-notification-service) |  | 2026-05-06* |
+| [`national-document-repository`](https://github.com/uk-gov-mirror/nhsdigital.national-document-repository) |  | 2026-05-06* |
+| [`national-document-repository-infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.national-document-repository-infrastructure) |  | 2026-05-06* |
+| [`national-imaging-repository-specification`](https://github.com/uk-gov-mirror/nhsdigital.national-imaging-repository-specification) |  | 2026-05-06* |
+| [`nbs-appointments-management-service`](https://github.com/uk-gov-mirror/nhsdigital.nbs-appointments-management-service) |  | 2026-05-06* |
+| [`nfrs-toolkit`](https://github.com/uk-gov-mirror/nhsdigital.nfrs-toolkit) | Containerised toolkit for managing non‑functional requirements across services. Provides a React UI and API, generates Markdown views from YAML (by domain, service, team, release, operation), and can publish NFR documentation to Confluence per‑repo via Docker Compose. | 2026-05-06* |
+| [`nhs-api-oauth2-client`](https://github.com/uk-gov-mirror/nhsdigital.nhs-api-oauth2-client) | Python OAuth2 Client for NHS England API Authentication | 2026-05-06* |
+| [`nhs-aws-helpers`](https://github.com/uk-gov-mirror/nhsdigital.nhs-aws-helpers) |  | 2026-05-06* |
+| [`nhs-credential-manager-prescription-signing`](https://github.com/uk-gov-mirror/nhsdigital.nhs-credential-manager-prescription-signing) | Utility for signing prescriptions using NHS Credential Manager | 2026-05-06* |
+| [`nhs-eps-spine-client`](https://github.com/uk-gov-mirror/nhsdigital.nhs-eps-spine-client) |  | 2026-05-06* |
+| [`nhs-fhir-middy-error-handler`](https://github.com/uk-gov-mirror/nhsdigital.nhs-fhir-middy-error-handler) |  | 2026-05-06* |
+| [`nhs-login-prototype-account-management`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-account-management) |  | 2026-05-06* |
+| [`nhs-login-prototype-admin-portal`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-admin-portal) |  | 2026-05-06* |
+| [`nhs-login-prototype-idchecker-2`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-idchecker-2) |  | 2026-05-06* |
+| [`nhs-notify-admail`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-admail) | NHS Notify Admail | 2026-05-06* |
+| [`nhs-notify-client-callbacks`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-client-callbacks) |  | 2026-05-06* |
+| [`nhs-notify-client-config`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-client-config) | Configuration model and event schemas for NHS Notify | 2026-05-06* |
+| [`nhs-notify-devcontainers`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-devcontainers) | Developer containers for NHS Notify | 2026-05-06* |
+| [`nhs-notify-dns`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-dns) | NHS Notify Terraform IaC for DNS build artifacts | 2026-05-06* |
+| [`nhs-notify-eventbus`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-eventbus) |  | 2026-05-06* |
+| [`nhs-notify-hello-world`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-hello-world) |  | 2026-05-06* |
+| [`nhs-notify-iam-webauth`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-iam-webauth) | NHS Notify Identity and Access Management (IAM) for Web and API Authorisation  | 2026-05-06* |
+| [`nhs-notify-letter-rendering`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-letter-rendering) | Bounded context event schemas for letters rendered by NHS Notify | 2026-05-06* |
+| [`nhs-notify-observability`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-observability) |  | 2026-05-06* |
+| [`nhs-notify-reporting`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-reporting) |  | 2026-05-06* |
+| [`nhs-notify-sms-nudge`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-sms-nudge) |  | 2026-05-06* |
+| [`nhs-notify-supplier-config`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-supplier-config) | Supplier configuration model and event schemas for NHS Notify | 2026-05-06* |
+| [`nhs-notify-system-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-system-tests) | System-level tests for the NHS Notify platform | 2026-05-06* |
+| [`nhs-notify-temp-original`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-temp-original) | NHS Notify | 2026-05-06* |
+| [`nhs-notify-web-gateway`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-web-gateway) | Micro frontend web orchestration platform | 2026-05-06* |
+| [`nhs-notify-web-template-management`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-web-template-management) | Full stack Web UI micro front end for managing and configuring NHS Notify templates | 2026-05-06* |
+| [`nhslogin-provisioning-2023`](https://github.com/uk-gov-mirror/nhsdigital.nhslogin-provisioning-2023) |  | 2026-05-06* |
+| [`notifest`](https://github.com/uk-gov-mirror/nhsdigital.notifest) | NHS Notify Notifest Hackathon | 2026-05-06* |
+| [`nrl-consumer-api`](https://github.com/uk-gov-mirror/nhsdigital.nrl-consumer-api) |  | 2026-05-06* |
+| [`nrl-producer-api`](https://github.com/uk-gov-mirror/nhsdigital.nrl-producer-api) |  | 2026-05-06* |
+| [`nrlf-lambda-pipeline`](https://github.com/uk-gov-mirror/nhsdigital.nrlf-lambda-pipeline) | Robust implementation of step chaining for AWS Lambda executions | 2026-05-06* |
+| [`oas-shared-fragments`](https://github.com/uk-gov-mirror/nhsdigital.oas-shared-fragments) |  | 2026-05-06* |
+| [`ord-api-cache`](https://github.com/uk-gov-mirror/nhsdigital.ord-api-cache) |  | 2026-05-06* |
+| [`pps-weight-management`](https://github.com/uk-gov-mirror/nhsdigital.pps-weight-management) | PPS Weight Management | 2026-05-06* |
+| [`prescriptions-for-patients`](https://github.com/uk-gov-mirror/nhsdigital.prescriptions-for-patients) |  | 2026-05-06* |
+| [`prescriptionsforpatients`](https://github.com/uk-gov-mirror/nhsdigital.prescriptionsforpatients) |  | 2026-05-06* |
+| [`prototype-ncrs-structured`](https://github.com/uk-gov-mirror/nhsdigital.prototype-ncrs-structured) | NHS Prototype of NCRS - structured for use with agentic workflows | 2026-05-06* |
+| [`repeat-encounter-service-poc-jwks`](https://github.com/uk-gov-mirror/nhsdigital.repeat-encounter-service-poc-jwks) | Public hosting of jwks for poc | 2026-05-06* |
+| [`rossbuggins`](https://github.com/uk-gov-mirror/nhsdigital.rossbuggins) |  | 2026-05-06* |
+| [`rossbugginsnhs-nhs-notify-repository-template`](https://github.com/uk-gov-mirror/nhsdigital.rossbugginsnhs-nhs-notify-repository-template) |  | 2026-05-06* |
+| [`secure-data-environment-import-prototype`](https://github.com/uk-gov-mirror/nhsdigital.secure-data-environment-import-prototype) |  | 2026-05-06* |
+| [`shared-flow-testing`](https://github.com/uk-gov-mirror/nhsdigital.shared-flow-testing) |  | 2026-05-06* |
+| [`splunk-monitor`](https://github.com/uk-gov-mirror/nhsdigital.splunk-monitor) |  | 2026-05-06* |
+| [`splunk-packaging-toolkit-whl`](https://github.com/uk-gov-mirror/nhsdigital.splunk-packaging-toolkit-whl) | just a place to package splunk packaging toolkit as a whl  https://pypi.org/project/splunk-packaging-toolkit | 2026-05-06* |
+| [`summary-care-record-api`](https://github.com/uk-gov-mirror/nhsdigital.summary-care-record-api) |  | 2026-05-06* |
+| [`sync-wrap`](https://github.com/uk-gov-mirror/nhsdigital.sync-wrap) | synchronously wrap async responses | 2026-05-06* |
+| [`terraform-aws-mesh-common`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-mesh-common) | Common AWS terraform modules for MESH | 2026-05-06* |
+| [`terraform-aws-odin-common`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-odin-common) | reusable terraform modules for odin | 2026-05-06* |
+| [`uec-account-mngt`](https://github.com/uk-gov-mirror/nhsdigital.uec-account-mngt) | Code repository for account related infrastructure and policies hosting the uec-dos and uec-cm suite of services | 2026-05-06* |
+| [`uec-cm-prototype`](https://github.com/uk-gov-mirror/nhsdigital.uec-cm-prototype) | Repository to hold prototype of new capacity management user interface | 2026-05-06* |
+| [`uec-dos`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos) | The UEC Directory of Services  | 2026-05-06* |
+| [`uec-dos-bluesky`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-bluesky) | Code repository for UEC DoS Bluesky development and exploration | 2026-05-06* |
+| [`uec-dos-integration`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-integration) | Repository for cross domain integration tests | 2026-05-06* |
+| [`uec-dos-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-management) | UEC DoS repository for general management of pipelines and modular code through the UEC DoS accounts | 2026-05-06* |
+| [`uec-dos-service-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-service-management) | Repository for the Service Management domain of the UEC Directory of Services application | 2026-05-06* |
+| [`uec-dos-service-search`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-service-search) | Repository for the Service Search domain of the UEC Directory of Services application | 2026-05-06* |
+| [`uec-dos-user-interfaces`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-user-interfaces) | Repository for the User Interface domain of the UEC Directory of Services application | 2026-05-06* |
+| [`uec-dos-user-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-user-management) | Repository for the User Management domain of the UEC Directory of Services application | 2026-05-06* |
+| [`vaccinations-app`](https://github.com/uk-gov-mirror/nhsdigital.vaccinations-app) | VitA Team: Vaccinations in the NHS app | 2026-05-06* |
+| [`validation-service-fhir-r4`](https://github.com/uk-gov-mirror/nhsdigital.validation-service-fhir-r4) |  | 2026-05-06* |
+| [`bcss-notifications`](https://github.com/uk-gov-mirror/nhsdigital.bcss-notifications) |  | 2026-05-02* |
+| [`native-nhsapp-ucd-team`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-ucd-team) | A repo for tracking native transformation design team work. | 2026-05-02* |
+| [`nhs-notify-app-response`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-app-response) |  | 2026-05-02* |
+| [`nhsapp-playbook`](https://github.com/uk-gov-mirror/nhsdigital.nhsapp-playbook) | Guidance for NHS England teams building services that live in the NHS App | 2026-05-02* |
+| [`nhsapp-prototype-notifications-messaging`](https://github.com/uk-gov-mirror/nhsdigital.nhsapp-prototype-notifications-messaging) | Notifications and Messaging prototype | 2026-05-02* |
+| [`clinical-data-gateway-api`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-gateway-api) | Code supporting the Clinical Data Sharing Gateway APIs | 2026-05-01* |
+| [`clinical-data-common`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-common) | Common code supporting the Clinical Data Sharing Gateway APIs & Clinical Data Pathology APIs | 2026-04-28* |
+| [`hometest-mgmt-terraform`](https://github.com/uk-gov-mirror/nhsdigital.hometest-mgmt-terraform) | Terraform to hold management account infrastructure code for Home Test | 2026-04-28* |
+| [`hometest-service`](https://github.com/uk-gov-mirror/nhsdigital.hometest-service) | Home Test service repository | 2026-04-28* |
+| [`address-quality-service-api`](https://github.com/uk-gov-mirror/nhsdigital.address-quality-service-api) |  | 2026-04-13* |
+| [`ftrs-directory-of-services`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-directory-of-services) | The mono-repo for the FtRS team | 2026-03-24* |
+| [`nrlf-converter`](https://github.com/uk-gov-mirror/nhsdigital.nrlf-converter) |  | 2026-02-28* |
+| [`ai`](https://github.com/uk-gov-mirror/nhsdigital.ai) | NHS England AI Framework | 2025-11-07* |
+| [`native-nhsapp-ios-prototype`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-ios-prototype) |  | 2025-11-03* |
+| [`native-nhsapp-android-prototype`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-android-prototype) |  | 2025-10-31* |
+| [`api-management-utils-restored`](https://github.com/uk-gov-mirror/nhsdigital.api-management-utils-restored) | Restored backup for NHSDigital/api-management-utils taken on 202508290431 | 2025-10-13* |
+| [`test-delete-me`](https://github.com/uk-gov-mirror/nhsdigital.test-delete-me) |  | 2025-10-06* |
+| [`ravs-tests`](https://github.com/uk-gov-mirror/nhsdigital.ravs-tests) |  | 2025-09-29* |
+| [`identity-service-jwks-restored`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-jwks-restored) | Restored backup for NHSDigital/identity-service-jwks taken on 202509030431 | 2025-08-28* |
+| [`digital-staff-passport-app-test`](https://github.com/uk-gov-mirror/nhsdigital.digital-staff-passport-app-test) | Automated iOS testing for Digital Staff Passport (DSP) unified journey app | 2025-04-16* |
+| [`dtos-participant-manager-prototype`](https://github.com/uk-gov-mirror/nhsdigital.dtos-participant-manager-prototype) | Prototype for Participant Manager. #screening-team-participant-manager | 2025-03-28* |
+| [`Screening-Infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.Screening-Infrastructure) |  | 2025-03-21* |
+| [`screening-ansible`](https://github.com/uk-gov-mirror/nhsdigital.screening-ansible) |  | 2025-03-11* |
+| [`dtos-playwright-csharp-template`](https://github.com/uk-gov-mirror/nhsdigital.dtos-playwright-csharp-template) | A blueprint for NHS England teams to use when adopting Playwright C# | 2025-02-17* |
+| [`uec-integration-test`](https://github.com/uk-gov-mirror/nhsdigital.uec-integration-test) |  | 2024-05-07* |
+| [`digitaluec_interopstandards.github.io`](https://github.com/uk-gov-mirror/nhsdigital.digitaluec_interopstandards.github.io) |  | 2024-01-16* |
+| [`genomic-test-directory-api`](https://github.com/uk-gov-mirror/nhsdigital.genomic-test-directory-api) |  | 2023-05-17* |
+| [`FHIR-R4-UKCORE-STAGING`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-STAGING) | Staging area for Simplifier.net to sync FHIR Assets and enable sharing of development work | 2021-05-13* |
+| [`NHSDigitial-FHIR-Clinical-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-Clinical-ImplementationGuide) |  | 2021-05-13* |
+| [`generated-template`](https://github.com/uk-gov-mirror/nhsdigital.generated-template) |  | 2021-05-13* |
+| [`risk-stratification-service-api`](https://github.com/uk-gov-mirror/nhsdigital.risk-stratification-service-api) |  | 2021-05-13* |
+| [`api-management-slackbot`](https://github.com/uk-gov-mirror/nhsdigital.api-management-slackbot) | A slackbot for the API management team. | 2021-04-09* |
+| [`nhs-login-prototype-registration-paycasso-sdk`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-registration-paycasso-sdk) |  | 2021-03-26* |
+| [`FHIR-Pathology`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Pathology) | FHIR Resources for the NHS Pathology Implementation Guide | 2021-02-04* |
+| [`nhs-login-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype) | The end-to-end NHS login registration journey | 2020-11-30* |
+| [`nhs-login-prototype-idchecker`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-idchecker) |  | 2020-11-20* |
+| [`api-platform-service-module`](https://github.com/uk-gov-mirror/nhsdigital.api-platform-service-module) | Terraform module for services on the API Management API Platform | 2020-10-28* |
+| [`manifest_validator`](https://github.com/uk-gov-mirror/nhsdigital.manifest_validator) | Validator for API Management API Manifests | 2020-10-27* |
+| [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
+| [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
+
 ## [hmrc](https://github.com/hmrc) (198)
 
 | Repository | Description | Deleted On |
@@ -553,206 +771,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`gform-template`](https://github.com/uk-gov-mirror/hmrc.gform-template) |  |  |
 | [`s3-stub`](https://github.com/uk-gov-mirror/hmrc.s3-stub) |  |  |
 | [`ssttp-performance-test`](https://github.com/uk-gov-mirror/hmrc.ssttp-performance-test) |  |  |
-
-## [nhsdigital](https://github.com/nhsdigital) (195)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`FHIR-Package-Comparison-Tool`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool) | A tool to compare elements between different packages | 2026-09-09 |
-| [`IOPS-FHIR-Integration-Engine`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Integration-Engine) |  | 2026-09-09 |
-| [`IOPS-FHIR-Utility`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility) | An API to work with CI/CD and FHIR Servers. Includes loading of FHIR Servers with reference data or examples and caching of inflated packages.  | 2026-09-09 |
-| [`IOPS-openFHIR`](https://github.com/uk-gov-mirror/nhsdigital.IOPS-openFHIR) |  | 2026-09-09 |
-| [`fhir-mapping-stu3-careconnect-to-r4-ukcore`](https://github.com/uk-gov-mirror/nhsdigital.fhir-mapping-stu3-careconnect-to-r4-ukcore) |  | 2026-09-09 |
-| [`governance`](https://github.com/uk-gov-mirror/nhsdigital.governance) | Guidance on how to navigate governance in NHS Digital | 2026-09-09 |
-| [`interoperability-standards-documentation`](https://github.com/uk-gov-mirror/nhsdigital.interoperability-standards-documentation) |  | 2026-09-09 |
-| [`nhsuk-document-store`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-document-store) | Notifications & Messaging | Digital Letters | 2026-09-09 |
-| [`booking-and-referral-media`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-media) | Booking and Referrals Standard Media storage | 2026-09-08 |
-| [`nhs-c4-umbrella`](https://github.com/uk-gov-mirror/nhsdigital.nhs-c4-umbrella) |  | 2026-09-08 |
-| [`nhsuk-bcss`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-bcss) |  | 2026-09-08 |
-| [`prototype-nhs-caas`](https://github.com/uk-gov-mirror/nhsdigital.prototype-nhs-caas) |  | 2026-09-08 |
-| [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
-| [`cypkg-test-package`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package) |  | 2026-09-05 |
-| [`nhs-notify-release-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-release-tests) | Automated functional release tests for NHS Notify  | 2026-09-05 |
-| [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
-| [`key-locator-api`](https://github.com/uk-gov-mirror/nhsdigital.key-locator-api) |  | 2026-09-04 |
-| [`poc-jwks-dos`](https://github.com/uk-gov-mirror/nhsdigital.poc-jwks-dos) |  | 2026-09-04 |
-| [`record-a-vaccination-plus-prototype`](https://github.com/uk-gov-mirror/nhsdigital.record-a-vaccination-plus-prototype) | Extended feature set to enhance and expand the capabilities of RAVS (Record A Vaccination Service) | 2026-09-04 |
-| [`test-api`](https://github.com/uk-gov-mirror/nhsdigital.test-api) |  | 2026-09-04 |
-| [`dtos-analyse-data-science`](https://github.com/uk-gov-mirror/nhsdigital.dtos-analyse-data-science) | Data science related code for the Digital Screening Analyse Team  | 2026-09-03 |
-| [`gp-registrations-management-information-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-registrations-management-information-api) |  | 2026-09-03 |
-| [`mock-proxy.replaced.2026-09-03`](https://github.com/uk-gov-mirror/nhsdigital.mock-proxy.replaced.2026-09-03) | A mock jwks endpoint used for automated tests | 2026-09-03 |
-| [`nhse-innovationdays-tfstate-graph`](https://github.com/uk-gov-mirror/nhsdigital.nhse-innovationdays-tfstate-graph) | Terraform graph starter pack for 2023 Innovation Day | 2026-09-03 |
-| [`nhse-structurizr-site-generatr`](https://github.com/uk-gov-mirror/nhsdigital.nhse-structurizr-site-generatr) | Static site generator for architecture models created with Structurizr DSL | 2026-09-03 |
-| [`org-workflows`](https://github.com/uk-gov-mirror/nhsdigital.org-workflows) |  | 2026-09-03 |
-| [`dtos-cohort-manager`](https://github.com/uk-gov-mirror/nhsdigital.dtos-cohort-manager) |  | 2026-08-11 |
-| [`api-management-utils`](https://github.com/uk-gov-mirror/nhsdigital.api-management-utils) | Scripts and utilities used across API managment platform and services | 2026-07-13* |
-| [`IAM_ID_Verification_Service_Common`](https://github.com/uk-gov-mirror/nhsdigital.IAM_ID_Verification_Service_Common) | Terraform code for reusable modules | 2026-05-06* |
-| [`NHSDigital-nhs-notify-service-now-dev-ops`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigital-nhs-notify-service-now-dev-ops) | Trialling Servicenow DevOps approval flow | 2026-05-06* |
-| [`api-management-cert-generation`](https://github.com/uk-gov-mirror/nhsdigital.api-management-cert-generation) | Tools for (re-)generating certificates for API Management | 2026-05-06* |
-| [`api-management-service-template`](https://github.com/uk-gov-mirror/nhsdigital.api-management-service-template) | Template repository for services falling under API Management | 2026-05-06* |
-| [`apim-s3-cache-action`](https://github.com/uk-gov-mirror/nhsdigital.apim-s3-cache-action) |  | 2026-05-06* |
-| [`apim-test-utils`](https://github.com/uk-gov-mirror/nhsdigital.apim-test-utils) | API Management Test Utils | 2026-05-06* |
-| [`async-slowapp`](https://github.com/uk-gov-mirror/nhsdigital.async-slowapp) |  | 2026-05-06* |
-| [`canary-api`](https://github.com/uk-gov-mirror/nhsdigital.canary-api) | The Canary API is used for testing internal processes for API Management releases | 2026-05-06* |
-| [`cis2-mock-lambda`](https://github.com/uk-gov-mirror/nhsdigital.cis2-mock-lambda) |  | 2026-05-06* |
-| [`clinical-data-pathology-api`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-pathology-api) | Code supporting the Clinical Data Sharing Pathology APIs | 2026-05-06* |
-| [`connecting-party-manager`](https://github.com/uk-gov-mirror/nhsdigital.connecting-party-manager) | Connecting Party Manager | 2026-05-06* |
-| [`digital-health-checks-public`](https://github.com/uk-gov-mirror/nhsdigital.digital-health-checks-public) | This repository contains publicly accessible documents for the Digital Health Check online service. | 2026-05-06* |
-| [`dotnet-mesh-client`](https://github.com/uk-gov-mirror/nhsdigital.dotnet-mesh-client) |  | 2026-05-06* |
-| [`dtos-hub`](https://github.com/uk-gov-mirror/nhsdigital.dtos-hub) | Repository for the DTOS Hub: Centralised resources, configurations, and infrastructure management for the DTOS project, designed to support and integrate the network of application spokes. | 2026-05-06* |
-| [`duec-hack-24-symptom-search`](https://github.com/uk-gov-mirror/nhsdigital.duec-hack-24-symptom-search) |  | 2026-05-06* |
-| [`electronic-prescription-service-account-resources`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-account-resources) | Account resources for Electronic Prescription Service systems | 2026-05-06* |
-| [`electronic-prescription-service-api-regression-tests`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-api-regression-tests) |  | 2026-05-06* |
-| [`electronic-prescription-service-get-secrets`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-get-secrets) |  | 2026-05-06* |
-| [`electronic-prescription-service-release-notes`](https://github.com/uk-gov-mirror/nhsdigital.electronic-prescription-service-release-notes) | lambda to create release notes for EPS products | 2026-05-06* |
-| [`eligibility-signposting-api-regression-tests`](https://github.com/uk-gov-mirror/nhsdigital.eligibility-signposting-api-regression-tests) |  | 2026-05-06* |
-| [`endpoint-catalogue-service`](https://github.com/uk-gov-mirror/nhsdigital.endpoint-catalogue-service) |  | 2026-05-06* |
-| [`eps-action-cfn-guard`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-cfn-guard) |  | 2026-05-06* |
-| [`eps-action-cfn-lint`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-cfn-lint) |  | 2026-05-06* |
-| [`eps-action-sbom`](https://github.com/uk-gov-mirror/nhsdigital.eps-action-sbom) |  | 2026-05-06* |
-| [`eps-assist-me`](https://github.com/uk-gov-mirror/nhsdigital.eps-assist-me) |  | 2026-05-06* |
-| [`eps-aws-dashboards`](https://github.com/uk-gov-mirror/nhsdigital.eps-aws-dashboards) |  | 2026-05-06* |
-| [`eps-cdk-utils`](https://github.com/uk-gov-mirror/nhsdigital.eps-cdk-utils) |  | 2026-05-06* |
-| [`eps-common-workflows`](https://github.com/uk-gov-mirror/nhsdigital.eps-common-workflows) |  | 2026-05-06* |
-| [`eps-conventional-changelog`](https://github.com/uk-gov-mirror/nhsdigital.eps-conventional-changelog) |  | 2026-05-06* |
-| [`eps-copilot-instructions`](https://github.com/uk-gov-mirror/nhsdigital.eps-copilot-instructions) | Common copilot instructions for eps projects | 2026-05-06* |
-| [`eps-dependabot-approve`](https://github.com/uk-gov-mirror/nhsdigital.eps-dependabot-approve) |  | 2026-05-06* |
-| [`eps-devcontainers`](https://github.com/uk-gov-mirror/nhsdigital.eps-devcontainers) |  | 2026-05-06* |
-| [`eps-dynamodb-poc`](https://github.com/uk-gov-mirror/nhsdigital.eps-dynamodb-poc) |  | 2026-05-06* |
-| [`eps-load-test`](https://github.com/uk-gov-mirror/nhsdigital.eps-load-test) |  | 2026-05-06* |
-| [`eps-prescription-status-update-api`](https://github.com/uk-gov-mirror/nhsdigital.eps-prescription-status-update-api) |  | 2026-05-06* |
-| [`eps-prescription-tracker-ui`](https://github.com/uk-gov-mirror/nhsdigital.eps-prescription-tracker-ui) | eps-prescription-tracker-ui | 2026-05-06* |
-| [`eps-repo-status`](https://github.com/uk-gov-mirror/nhsdigital.eps-repo-status) |  | 2026-05-06* |
-| [`eps-spine-shared`](https://github.com/uk-gov-mirror/nhsdigital.eps-spine-shared) | Code shared between EPS and Spine. | 2026-05-06* |
-| [`eps-storage-resources`](https://github.com/uk-gov-mirror/nhsdigital.eps-storage-resources) |  | 2026-05-06* |
-| [`eps-tool-hack-day`](https://github.com/uk-gov-mirror/nhsdigital.eps-tool-hack-day) |  | 2026-05-06* |
-| [`eps-update-devcontainer`](https://github.com/uk-gov-mirror/nhsdigital.eps-update-devcontainer) |  | 2026-05-06* |
-| [`eps-vpc-resources`](https://github.com/uk-gov-mirror/nhsdigital.eps-vpc-resources) | VPC resources for Electronic Prescription Service systems  | 2026-05-06* |
-| [`eps-workflow-dependabot`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-dependabot) | Workflows to manage dependabot for EPS repositories | 2026-05-06* |
-| [`eps-workflow-quality-checks`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-quality-checks) | A workflow to run the quality checks for EPS repositories | 2026-05-06* |
-| [`eps-workflow-semantic-release`](https://github.com/uk-gov-mirror/nhsdigital.eps-workflow-semantic-release) | Workflows to manage semantic releases for EPS repositories | 2026-05-06* |
-| [`ftrs-LDA-poc`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-LDA-poc) | PoCs for converting postcodes into boundaries for locally defined areas in the dos migration | 2026-05-06* |
-| [`ftrs-data-model-ui-poc`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-data-model-ui-poc) | Proof-of-Concept Repository for Data Model UI (Find the Right Service) | 2026-05-06* |
-| [`ftrs-directory-of-services-ui-prototype`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-directory-of-services-ui-prototype) | FTRS Directory of Services UI Prototype | 2026-05-06* |
-| [`guesswho`](https://github.com/uk-gov-mirror/nhsdigital.guesswho) | Graduate Project | 2026-05-06* |
-| [`hello-world-api`](https://github.com/uk-gov-mirror/nhsdigital.hello-world-api) |  | 2026-05-06* |
-| [`identity-service-api`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-api) | API Spec & Proxy for the NHS Identity IdP for NHS Digital's API Platform | 2026-05-06* |
-| [`identity-service-jwks`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-jwks) | NHSD-Managed JWKS Keystore to store public keys of applications using client_credentials flow auth with signed JWT client assertion | 2026-05-06* |
-| [`im1-pfs-auth`](https://github.com/uk-gov-mirror/nhsdigital.im1-pfs-auth) | A service enabling proxies to act on behalf of patients, regardless of their GP practice. | 2026-05-06* |
-| [`imms_fhir_api_automation`](https://github.com/uk-gov-mirror/nhsdigital.imms_fhir_api_automation) | Behave Automation for Immunisation FHIR API | 2026-05-06* |
-| [`karate-jar`](https://github.com/uk-gov-mirror/nhsdigital.karate-jar) | A repo that stores a working Karate 1.6.0 jar until it's released on the usual channel | 2026-05-06* |
-| [`lung_cancer_screening`](https://github.com/uk-gov-mirror/nhsdigital.lung_cancer_screening) |  | 2026-05-06* |
-| [`manage-vaccinations-in-schools-infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.manage-vaccinations-in-schools-infrastructure) | Repository containing the infrastructure as code for the "MAVIS" application | 2026-05-06* |
-| [`manage-vaccinations-in-schools-reporting`](https://github.com/uk-gov-mirror/nhsdigital.manage-vaccinations-in-schools-reporting) | The reporting component of the Manage Vaccinations In Schools service (Mavis) | 2026-05-06* |
-| [`map-viewer`](https://github.com/uk-gov-mirror/nhsdigital.map-viewer) |  | 2026-05-06* |
-| [`mock-jwks`](https://github.com/uk-gov-mirror/nhsdigital.mock-jwks) |  | 2026-05-06* |
-| [`mock-lambda-api-template`](https://github.com/uk-gov-mirror/nhsdigital.mock-lambda-api-template) |  | 2026-05-06* |
-| [`monitoring-service-discovery`](https://github.com/uk-gov-mirror/nhsdigital.monitoring-service-discovery) |  | 2026-05-06* |
-| [`multicast-notification-service`](https://github.com/uk-gov-mirror/nhsdigital.multicast-notification-service) |  | 2026-05-06* |
-| [`national-document-repository`](https://github.com/uk-gov-mirror/nhsdigital.national-document-repository) |  | 2026-05-06* |
-| [`national-document-repository-infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.national-document-repository-infrastructure) |  | 2026-05-06* |
-| [`national-imaging-repository-specification`](https://github.com/uk-gov-mirror/nhsdigital.national-imaging-repository-specification) |  | 2026-05-06* |
-| [`nbs-appointments-management-service`](https://github.com/uk-gov-mirror/nhsdigital.nbs-appointments-management-service) |  | 2026-05-06* |
-| [`nfrs-toolkit`](https://github.com/uk-gov-mirror/nhsdigital.nfrs-toolkit) | Containerised toolkit for managing non‑functional requirements across services. Provides a React UI and API, generates Markdown views from YAML (by domain, service, team, release, operation), and can publish NFR documentation to Confluence per‑repo via Docker Compose. | 2026-05-06* |
-| [`nhs-api-oauth2-client`](https://github.com/uk-gov-mirror/nhsdigital.nhs-api-oauth2-client) | Python OAuth2 Client for NHS England API Authentication | 2026-05-06* |
-| [`nhs-aws-helpers`](https://github.com/uk-gov-mirror/nhsdigital.nhs-aws-helpers) |  | 2026-05-06* |
-| [`nhs-credential-manager-prescription-signing`](https://github.com/uk-gov-mirror/nhsdigital.nhs-credential-manager-prescription-signing) | Utility for signing prescriptions using NHS Credential Manager | 2026-05-06* |
-| [`nhs-eps-spine-client`](https://github.com/uk-gov-mirror/nhsdigital.nhs-eps-spine-client) |  | 2026-05-06* |
-| [`nhs-fhir-middy-error-handler`](https://github.com/uk-gov-mirror/nhsdigital.nhs-fhir-middy-error-handler) |  | 2026-05-06* |
-| [`nhs-login-prototype-account-management`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-account-management) |  | 2026-05-06* |
-| [`nhs-login-prototype-admin-portal`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-admin-portal) |  | 2026-05-06* |
-| [`nhs-login-prototype-idchecker-2`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-idchecker-2) |  | 2026-05-06* |
-| [`nhs-notify-admail`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-admail) | NHS Notify Admail | 2026-05-06* |
-| [`nhs-notify-client-callbacks`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-client-callbacks) |  | 2026-05-06* |
-| [`nhs-notify-client-config`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-client-config) | Configuration model and event schemas for NHS Notify | 2026-05-06* |
-| [`nhs-notify-devcontainers`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-devcontainers) | Developer containers for NHS Notify | 2026-05-06* |
-| [`nhs-notify-dns`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-dns) | NHS Notify Terraform IaC for DNS build artifacts | 2026-05-06* |
-| [`nhs-notify-eventbus`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-eventbus) |  | 2026-05-06* |
-| [`nhs-notify-hello-world`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-hello-world) |  | 2026-05-06* |
-| [`nhs-notify-iam-webauth`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-iam-webauth) | NHS Notify Identity and Access Management (IAM) for Web and API Authorisation  | 2026-05-06* |
-| [`nhs-notify-letter-rendering`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-letter-rendering) | Bounded context event schemas for letters rendered by NHS Notify | 2026-05-06* |
-| [`nhs-notify-observability`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-observability) |  | 2026-05-06* |
-| [`nhs-notify-reporting`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-reporting) |  | 2026-05-06* |
-| [`nhs-notify-sms-nudge`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-sms-nudge) |  | 2026-05-06* |
-| [`nhs-notify-supplier-config`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-supplier-config) | Supplier configuration model and event schemas for NHS Notify | 2026-05-06* |
-| [`nhs-notify-system-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-system-tests) | System-level tests for the NHS Notify platform | 2026-05-06* |
-| [`nhs-notify-temp-original`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-temp-original) | NHS Notify | 2026-05-06* |
-| [`nhs-notify-web-gateway`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-web-gateway) | Micro frontend web orchestration platform | 2026-05-06* |
-| [`nhs-notify-web-template-management`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-web-template-management) | Full stack Web UI micro front end for managing and configuring NHS Notify templates | 2026-05-06* |
-| [`nhslogin-provisioning-2023`](https://github.com/uk-gov-mirror/nhsdigital.nhslogin-provisioning-2023) |  | 2026-05-06* |
-| [`notifest`](https://github.com/uk-gov-mirror/nhsdigital.notifest) | NHS Notify Notifest Hackathon | 2026-05-06* |
-| [`nrl-consumer-api`](https://github.com/uk-gov-mirror/nhsdigital.nrl-consumer-api) |  | 2026-05-06* |
-| [`nrl-producer-api`](https://github.com/uk-gov-mirror/nhsdigital.nrl-producer-api) |  | 2026-05-06* |
-| [`nrlf-lambda-pipeline`](https://github.com/uk-gov-mirror/nhsdigital.nrlf-lambda-pipeline) | Robust implementation of step chaining for AWS Lambda executions | 2026-05-06* |
-| [`oas-shared-fragments`](https://github.com/uk-gov-mirror/nhsdigital.oas-shared-fragments) |  | 2026-05-06* |
-| [`ord-api-cache`](https://github.com/uk-gov-mirror/nhsdigital.ord-api-cache) |  | 2026-05-06* |
-| [`pps-weight-management`](https://github.com/uk-gov-mirror/nhsdigital.pps-weight-management) | PPS Weight Management | 2026-05-06* |
-| [`prescriptions-for-patients`](https://github.com/uk-gov-mirror/nhsdigital.prescriptions-for-patients) |  | 2026-05-06* |
-| [`prescriptionsforpatients`](https://github.com/uk-gov-mirror/nhsdigital.prescriptionsforpatients) |  | 2026-05-06* |
-| [`prototype-ncrs-structured`](https://github.com/uk-gov-mirror/nhsdigital.prototype-ncrs-structured) | NHS Prototype of NCRS - structured for use with agentic workflows | 2026-05-06* |
-| [`repeat-encounter-service-poc-jwks`](https://github.com/uk-gov-mirror/nhsdigital.repeat-encounter-service-poc-jwks) | Public hosting of jwks for poc | 2026-05-06* |
-| [`rossbuggins`](https://github.com/uk-gov-mirror/nhsdigital.rossbuggins) |  | 2026-05-06* |
-| [`rossbugginsnhs-nhs-notify-repository-template`](https://github.com/uk-gov-mirror/nhsdigital.rossbugginsnhs-nhs-notify-repository-template) |  | 2026-05-06* |
-| [`secure-data-environment-import-prototype`](https://github.com/uk-gov-mirror/nhsdigital.secure-data-environment-import-prototype) |  | 2026-05-06* |
-| [`shared-flow-testing`](https://github.com/uk-gov-mirror/nhsdigital.shared-flow-testing) |  | 2026-05-06* |
-| [`splunk-monitor`](https://github.com/uk-gov-mirror/nhsdigital.splunk-monitor) |  | 2026-05-06* |
-| [`splunk-packaging-toolkit-whl`](https://github.com/uk-gov-mirror/nhsdigital.splunk-packaging-toolkit-whl) | just a place to package splunk packaging toolkit as a whl  https://pypi.org/project/splunk-packaging-toolkit | 2026-05-06* |
-| [`summary-care-record-api`](https://github.com/uk-gov-mirror/nhsdigital.summary-care-record-api) |  | 2026-05-06* |
-| [`sync-wrap`](https://github.com/uk-gov-mirror/nhsdigital.sync-wrap) | synchronously wrap async responses | 2026-05-06* |
-| [`terraform-aws-mesh-common`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-mesh-common) | Common AWS terraform modules for MESH | 2026-05-06* |
-| [`terraform-aws-odin-common`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-odin-common) | reusable terraform modules for odin | 2026-05-06* |
-| [`uec-account-mngt`](https://github.com/uk-gov-mirror/nhsdigital.uec-account-mngt) | Code repository for account related infrastructure and policies hosting the uec-dos and uec-cm suite of services | 2026-05-06* |
-| [`uec-cm-prototype`](https://github.com/uk-gov-mirror/nhsdigital.uec-cm-prototype) | Repository to hold prototype of new capacity management user interface | 2026-05-06* |
-| [`uec-dos`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos) | The UEC Directory of Services  | 2026-05-06* |
-| [`uec-dos-bluesky`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-bluesky) | Code repository for UEC DoS Bluesky development and exploration | 2026-05-06* |
-| [`uec-dos-integration`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-integration) | Repository for cross domain integration tests | 2026-05-06* |
-| [`uec-dos-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-management) | UEC DoS repository for general management of pipelines and modular code through the UEC DoS accounts | 2026-05-06* |
-| [`uec-dos-service-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-service-management) | Repository for the Service Management domain of the UEC Directory of Services application | 2026-05-06* |
-| [`uec-dos-service-search`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-service-search) | Repository for the Service Search domain of the UEC Directory of Services application | 2026-05-06* |
-| [`uec-dos-user-interfaces`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-user-interfaces) | Repository for the User Interface domain of the UEC Directory of Services application | 2026-05-06* |
-| [`uec-dos-user-management`](https://github.com/uk-gov-mirror/nhsdigital.uec-dos-user-management) | Repository for the User Management domain of the UEC Directory of Services application | 2026-05-06* |
-| [`vaccinations-app`](https://github.com/uk-gov-mirror/nhsdigital.vaccinations-app) | VitA Team: Vaccinations in the NHS app | 2026-05-06* |
-| [`validation-service-fhir-r4`](https://github.com/uk-gov-mirror/nhsdigital.validation-service-fhir-r4) |  | 2026-05-06* |
-| [`bcss-notifications`](https://github.com/uk-gov-mirror/nhsdigital.bcss-notifications) |  | 2026-05-02* |
-| [`native-nhsapp-ucd-team`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-ucd-team) | A repo for tracking native transformation design team work. | 2026-05-02* |
-| [`nhs-notify-app-response`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-app-response) |  | 2026-05-02* |
-| [`nhsapp-playbook`](https://github.com/uk-gov-mirror/nhsdigital.nhsapp-playbook) | Guidance for NHS England teams building services that live in the NHS App | 2026-05-02* |
-| [`nhsapp-prototype-notifications-messaging`](https://github.com/uk-gov-mirror/nhsdigital.nhsapp-prototype-notifications-messaging) | Notifications and Messaging prototype | 2026-05-02* |
-| [`clinical-data-gateway-api`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-gateway-api) | Code supporting the Clinical Data Sharing Gateway APIs | 2026-05-01* |
-| [`clinical-data-common`](https://github.com/uk-gov-mirror/nhsdigital.clinical-data-common) | Common code supporting the Clinical Data Sharing Gateway APIs & Clinical Data Pathology APIs | 2026-04-28* |
-| [`hometest-mgmt-terraform`](https://github.com/uk-gov-mirror/nhsdigital.hometest-mgmt-terraform) | Terraform to hold management account infrastructure code for Home Test | 2026-04-28* |
-| [`hometest-service`](https://github.com/uk-gov-mirror/nhsdigital.hometest-service) | Home Test service repository | 2026-04-28* |
-| [`address-quality-service-api`](https://github.com/uk-gov-mirror/nhsdigital.address-quality-service-api) |  | 2026-04-13* |
-| [`ftrs-directory-of-services`](https://github.com/uk-gov-mirror/nhsdigital.ftrs-directory-of-services) | The mono-repo for the FtRS team | 2026-03-24* |
-| [`nrlf-converter`](https://github.com/uk-gov-mirror/nhsdigital.nrlf-converter) |  | 2026-02-28* |
-| [`ai`](https://github.com/uk-gov-mirror/nhsdigital.ai) | NHS England AI Framework | 2025-11-07* |
-| [`native-nhsapp-ios-prototype`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-ios-prototype) |  | 2025-11-03* |
-| [`native-nhsapp-android-prototype`](https://github.com/uk-gov-mirror/nhsdigital.native-nhsapp-android-prototype) |  | 2025-10-31* |
-| [`api-management-utils-restored`](https://github.com/uk-gov-mirror/nhsdigital.api-management-utils-restored) | Restored backup for NHSDigital/api-management-utils taken on 202508290431 | 2025-10-13* |
-| [`test-delete-me`](https://github.com/uk-gov-mirror/nhsdigital.test-delete-me) |  | 2025-10-06* |
-| [`ravs-tests`](https://github.com/uk-gov-mirror/nhsdigital.ravs-tests) |  | 2025-09-29* |
-| [`identity-service-jwks-restored`](https://github.com/uk-gov-mirror/nhsdigital.identity-service-jwks-restored) | Restored backup for NHSDigital/identity-service-jwks taken on 202509030431 | 2025-08-28* |
-| [`digital-staff-passport-app-test`](https://github.com/uk-gov-mirror/nhsdigital.digital-staff-passport-app-test) | Automated iOS testing for Digital Staff Passport (DSP) unified journey app | 2025-04-16* |
-| [`dtos-participant-manager-prototype`](https://github.com/uk-gov-mirror/nhsdigital.dtos-participant-manager-prototype) | Prototype for Participant Manager. #screening-team-participant-manager | 2025-03-28* |
-| [`Screening-Infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.Screening-Infrastructure) |  | 2025-03-21* |
-| [`screening-ansible`](https://github.com/uk-gov-mirror/nhsdigital.screening-ansible) |  | 2025-03-11* |
-| [`dtos-playwright-csharp-template`](https://github.com/uk-gov-mirror/nhsdigital.dtos-playwright-csharp-template) | A blueprint for NHS England teams to use when adopting Playwright C# | 2025-02-17* |
-| [`uec-integration-test`](https://github.com/uk-gov-mirror/nhsdigital.uec-integration-test) |  | 2024-05-07* |
-| [`digitaluec_interopstandards.github.io`](https://github.com/uk-gov-mirror/nhsdigital.digitaluec_interopstandards.github.io) |  | 2024-01-16* |
-| [`genomic-test-directory-api`](https://github.com/uk-gov-mirror/nhsdigital.genomic-test-directory-api) |  | 2023-05-17* |
-| [`FHIR-R4-UKCORE-STAGING`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-STAGING) | Staging area for Simplifier.net to sync FHIR Assets and enable sharing of development work | 2021-05-13* |
-| [`NHSDigitial-FHIR-Clinical-ImplementationGuide`](https://github.com/uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-Clinical-ImplementationGuide) |  | 2021-05-13* |
-| [`generated-template`](https://github.com/uk-gov-mirror/nhsdigital.generated-template) |  | 2021-05-13* |
-| [`risk-stratification-service-api`](https://github.com/uk-gov-mirror/nhsdigital.risk-stratification-service-api) |  | 2021-05-13* |
-| [`api-management-slackbot`](https://github.com/uk-gov-mirror/nhsdigital.api-management-slackbot) | A slackbot for the API management team. | 2021-04-09* |
-| [`nhs-login-prototype-registration-paycasso-sdk`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-registration-paycasso-sdk) |  | 2021-03-26* |
-| [`FHIR-Pathology`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-Pathology) | FHIR Resources for the NHS Pathology Implementation Guide | 2021-02-04* |
-| [`nhs-login-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype) | The end-to-end NHS login registration journey | 2020-11-30* |
-| [`nhs-login-prototype-idchecker`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-prototype-idchecker) |  | 2020-11-20* |
-| [`api-platform-service-module`](https://github.com/uk-gov-mirror/nhsdigital.api-platform-service-module) | Terraform module for services on the API Management API Platform | 2020-10-28* |
-| [`manifest_validator`](https://github.com/uk-gov-mirror/nhsdigital.manifest_validator) | Validator for API Management API Manifests | 2020-10-27* |
-| [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
-| [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
 ## [SkillsFundingAgency](https://github.com/SkillsFundingAgency) (155)
 
@@ -2046,18 +2064,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
 | [`govuk-rota-generator`](https://github.com/uk-gov-mirror/alphagov.govuk-rota-generator) |  | 2025-11-04* |
 
-## [communitiesuk](https://github.com/communitiesuk) (3)
+## [communitiesuk](https://github.com/communitiesuk) (4)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`python-cookiecutter-uv`](https://github.com/uk-gov-mirror/communitiesuk.python-cookiecutter-uv) | uv cookiecutter template | 2026-09-10 |
 | [`cdp_core`](https://github.com/uk-gov-mirror/communitiesuk.cdp_core) |  | 2025-11-03* |
 | [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
 | [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
 
-## [digital-land](https://github.com/digital-land) (3)
+## [digital-land](https://github.com/digital-land) (4)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`spark-jobs`](https://github.com/uk-gov-mirror/digital-land.spark-jobs) | a repo to contain spark jobs. the repo will be synced to s3 including a copy of the python environment to be used. | 2026-09-10 |
 | [`performance-api`](https://github.com/uk-gov-mirror/digital-land.performance-api) | Provides performance metrics from the Data Collection Pipelines | 2026-09-09 |
 | [`performance-task`](https://github.com/uk-gov-mirror/digital-land.performance-task) | A repository to create performance datasets from data in our data lake. | 2026-09-09 |
 | [`manage-planning-data-prototype`](https://github.com/uk-gov-mirror/digital-land.manage-planning-data-prototype) |  | 2026-08-26 |
@@ -2108,6 +2128,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02) |  | 2026-09-03 |
+
+## [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`gca-cvt-backend`](https://github.com/uk-gov-mirror/Crown-Commercial-Service.gca-cvt-backend) | Commercial Value Tool backend | 2026-09-10 |
 
 ## [GSS-Cogs](https://github.com/GSS-Cogs) (1)
 

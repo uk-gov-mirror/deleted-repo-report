@@ -197,6 +197,16 @@
     "original_url": "https://github.com/Civil-Service-Human-Resources/prototype.replaced.2026-09-02"
   },
   {
+    "deleted_on": "2026-09-10",
+    "description": "Commercial Value Tool backend",
+    "full_name": "uk-gov-mirror/Crown-Commercial-Service.gca-cvt-backend",
+    "mirror_name": "Crown-Commercial-Service.gca-cvt-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/Crown-Commercial-Service.gca-cvt-backend",
+    "name": "gca-cvt-backend",
+    "org": "Crown-Commercial-Service",
+    "original_url": "https://github.com/Crown-Commercial-Service/gca-cvt-backend"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-25",
     "description": null,
@@ -5496,6 +5506,16 @@
     "original_url": "https://github.com/communitiesuk/prototype-funding-microservice-data-aggregator"
   },
   {
+    "deleted_on": "2026-09-10",
+    "description": "uv cookiecutter template",
+    "full_name": "uk-gov-mirror/communitiesuk.python-cookiecutter-uv",
+    "mirror_name": "communitiesuk.python-cookiecutter-uv",
+    "mirror_url": "https://github.com/uk-gov-mirror/communitiesuk.python-cookiecutter-uv",
+    "name": "python-cookiecutter-uv",
+    "org": "communitiesuk",
+    "original_url": "https://github.com/communitiesuk/python-cookiecutter-uv"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-10-10",
     "description": "Github repository for the DR automation ",
@@ -6500,6 +6520,16 @@
     "name": "performance-task",
     "org": "digital-land",
     "original_url": "https://github.com/digital-land/performance-task"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "a repo to contain spark jobs. the repo will be synced to s3 including a copy of the python environment to be used.",
+    "full_name": "uk-gov-mirror/digital-land.spark-jobs",
+    "mirror_name": "digital-land.spark-jobs",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.spark-jobs",
+    "name": "spark-jobs",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/spark-jobs"
   },
   {
     "deleted_on": "2026-08-21",
@@ -16358,6 +16388,36 @@
     "original_url": "https://github.com/nhsdigital/FHIR-Pathology"
   },
   {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-R4-AMBULANCE-DATA-SET",
+    "mirror_name": "nhsdigital.FHIR-R4-AMBULANCE-DATA-SET",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-AMBULANCE-DATA-SET",
+    "name": "FHIR-R4-AMBULANCE-DATA-SET",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-R4-AMBULANCE-DATA-SET"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS",
+    "mirror_name": "nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS",
+    "name": "FHIR-R4-CLINICAL-OBSERVATIONS",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-R4-CLINICAL-OBSERVATIONS"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "IOPS Repo for FHIR R4 UK Core Community Assets",
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS",
+    "mirror_name": "nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS",
+    "name": "FHIR-R4-UKCORE-COMMUNITYASSETS",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-R4-UKCORE-COMMUNITYASSETS"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-05-13",
     "description": "Staging area for Simplifier.net to sync FHIR Assets and enable sharing of development work",
@@ -16367,6 +16427,36 @@
     "name": "FHIR-R4-UKCORE-STAGING",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/FHIR-R4-UKCORE-STAGING"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "STU3 FHIR Assets and Care Connect Assets",
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-STU3-AND-CARE-CONNECT-ASSETS",
+    "mirror_name": "nhsdigital.FHIR-STU3-AND-CARE-CONNECT-ASSETS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-AND-CARE-CONNECT-ASSETS",
+    "name": "FHIR-STU3-AND-CARE-CONNECT-ASSETS",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-STU3-AND-CARE-CONNECT-ASSETS"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "Staging area",
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-STU3-CARECONNECT-STAGING",
+    "mirror_name": "nhsdigital.FHIR-STU3-CARECONNECT-STAGING",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-STU3-CARECONNECT-STAGING",
+    "name": "FHIR-STU3-CARECONNECT-STAGING",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-STU3-CARECONNECT-STAGING"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "A repo to hold FHIR test data for use for Hackathons. Validated against UK Core.",
+    "full_name": "uk-gov-mirror/nhsdigital.FHIR-Test-Data",
+    "mirror_name": "nhsdigital.FHIR-Test-Data",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.FHIR-Test-Data",
+    "name": "FHIR-Test-Data",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/FHIR-Test-Data"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -16390,6 +16480,26 @@
     "original_url": "https://github.com/nhsdigital/IOPS-FHIR-Integration-Engine"
   },
   {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-MHDS",
+    "mirror_name": "nhsdigital.IOPS-FHIR-MHDS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-MHDS",
+    "name": "IOPS-FHIR-MHDS",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-FHIR-MHDS"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-QEDm",
+    "mirror_name": "nhsdigital.IOPS-FHIR-QEDm",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-QEDm",
+    "name": "IOPS-FHIR-QEDm",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-FHIR-QEDm"
+  },
+  {
     "deleted_on": "2026-09-09",
     "description": "An API to work with CI/CD and FHIR Servers. Includes loading of FHIR Servers with reference data or examples and caching of inflated packages. ",
     "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-Utility",
@@ -16400,6 +16510,36 @@
     "original_url": "https://github.com/nhsdigital/IOPS-FHIR-Utility"
   },
   {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-FHIR-mCSD",
+    "mirror_name": "nhsdigital.IOPS-FHIR-mCSD",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-FHIR-mCSD",
+    "name": "IOPS-FHIR-mCSD",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-FHIR-mCSD"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-NHSEngland-ProviderAPI",
+    "mirror_name": "nhsdigital.IOPS-NHSEngland-ProviderAPI",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-NHSEngland-ProviderAPI",
+    "name": "IOPS-NHSEngland-ProviderAPI",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-NHSEngland-ProviderAPI"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.IOPS-Patient-Data-Repository",
+    "mirror_name": "nhsdigital.IOPS-Patient-Data-Repository",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.IOPS-Patient-Data-Repository",
+    "name": "IOPS-Patient-Data-Repository",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/IOPS-Patient-Data-Repository"
+  },
+  {
     "deleted_on": "2026-09-09",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.IOPS-openFHIR",
@@ -16408,6 +16548,26 @@
     "name": "IOPS-openFHIR",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/IOPS-openFHIR"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "NHS England Webpage for all profiles and resources",
+    "full_name": "uk-gov-mirror/nhsdigital.Interoperability-Standards-Registry",
+    "mirror_name": "nhsdigital.Interoperability-Standards-Registry",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.Interoperability-Standards-Registry",
+    "name": "Interoperability-Standards-Registry",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/Interoperability-Standards-Registry"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "Resource repository for the Genomic Medicine Service Implementation Guide",
+    "full_name": "uk-gov-mirror/nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide",
+    "mirror_name": "nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide",
+    "name": "NHSDigital-FHIR-Genomics-ImplementationGuide",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/NHSDigital-FHIR-Genomics-ImplementationGuide"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -16430,6 +16590,26 @@
     "name": "NHSDigitial-FHIR-Clinical-ImplementationGuide",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/NHSDigitial-FHIR-Clinical-ImplementationGuide"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": "Implementation Guide for NHS Digital APIs",
+    "full_name": "uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-ImplementationGuide",
+    "mirror_name": "nhsdigital.NHSDigitial-FHIR-ImplementationGuide",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.NHSDigitial-FHIR-ImplementationGuide",
+    "name": "NHSDigitial-FHIR-ImplementationGuide",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/NHSDigitial-FHIR-ImplementationGuide"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.RA-FHIR-API",
+    "mirror_name": "nhsdigital.RA-FHIR-API",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.RA-FHIR-API",
+    "name": "RA-FHIR-API",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/RA-FHIR-API"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -17107,6 +17287,16 @@
     "name": "eps-workflow-semantic-release",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/eps-workflow-semantic-release"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.fgm-fhir-api",
+    "mirror_name": "nhsdigital.fgm-fhir-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.fgm-fhir-api",
+    "name": "fgm-fhir-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/fgm-fhir-api"
   },
   {
     "deleted_on": "2026-09-09",
@@ -17890,6 +18080,16 @@
     "name": "nhs-notify-web-template-management",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/nhs-notify-web-template-management"
+  },
+  {
+    "deleted_on": "2026-09-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.nhs-website-content-api",
+    "mirror_name": "nhsdigital.nhs-website-content-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-website-content-api",
+    "name": "nhs-website-content-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhs-website-content-api"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
