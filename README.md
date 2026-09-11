@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1837**
+Total deleted repositories: **1876**
 Organisations affected: **70**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,7 +10,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**267**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.0% |
-| [nhsdigital](https://github.com/nhsdigital) | [**212**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 43.4% |
+| [nhsdigital](https://github.com/nhsdigital) | [**243**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.1% |
 | [hmrc](https://github.com/hmrc) | [**198**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.9% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -32,13 +32,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [**9**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 37.5% |
 | [nhsconnect](https://github.com/nhsconnect) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 4.0% |
-| [nhsengland](https://github.com/nhsengland) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 3.4% |
+| [nhsengland](https://github.com/nhsengland) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 3.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
+| [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
 | [jncc](https://github.com/jncc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22jncc.%22) | 8.1% |
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
@@ -48,12 +49,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 6.3% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
-| [digital-land](https://github.com/digital-land) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 1.4% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 4.8% |
+| [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.3% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
 | [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
@@ -77,7 +78,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 0.5% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
-| [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
 ## [ministryofjustice](https://github.com/ministryofjustice) (267)
@@ -352,10 +352,41 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (212)
+## [nhsdigital](https://github.com/nhsdigital) (243)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`ASC-Client-Level-Data-SALT-ASCOF-transformations`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations) |  | 2026-09-11 |
+| [`ASC-Safeguarding-Adults`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults) | Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts. | 2026-09-11 |
+| [`ASC-User-Survey`](https://github.com/uk-gov-mirror/nhsdigital.ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication | 2026-09-11 |
+| [`ASC-User_Survey_DQ_Report`](https://github.com/uk-gov-mirror/nhsdigital.ASC-User_Survey_DQ_Report) | This is the DQ report code for Adult Social Care Statistics Publication | 2026-09-11 |
+| [`Code-System-Browsers`](https://github.com/uk-gov-mirror/nhsdigital.Code-System-Browsers) | NHS Digital code system browser development | 2026-09-11 |
+| [`GDPPR_Analytical_Code`](https://github.com/uk-gov-mirror/nhsdigital.GDPPR_Analytical_Code) | Analytical code developed to use with the GDPPR extract | 2026-09-11 |
+| [`MauroTemplateManager`](https://github.com/uk-gov-mirror/nhsdigital.MauroTemplateManager) |  | 2026-09-11 |
+| [`NDOP-publication`](https://github.com/uk-gov-mirror/nhsdigital.NDOP-publication) |  | 2026-09-11 |
+| [`NHS-Staff-Earnings-Estimates`](https://github.com/uk-gov-mirror/nhsdigital.NHS-Staff-Earnings-Estimates) |  | 2026-09-11 |
+| [`POMI`](https://github.com/uk-gov-mirror/nhsdigital.POMI) | Code used to produce the Patient Online Management Information (POMI) publication. | 2026-09-11 |
+| [`Primary-care-code-release`](https://github.com/uk-gov-mirror/nhsdigital.Primary-care-code-release) | Primary care SNOMED code release creation and production of publication materials | 2026-09-11 |
+| [`TerminologyServerUses`](https://github.com/uk-gov-mirror/nhsdigital.TerminologyServerUses) | Code snippets and exemplars to demonstrate use cases for the NHS Digital Terminology Server | 2026-09-11 |
+| [`absence-rates`](https://github.com/uk-gov-mirror/nhsdigital.absence-rates) | Sickness absence rates publication: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates | 2026-09-11 |
+| [`activemodel-caution`](https://github.com/uk-gov-mirror/nhsdigital.activemodel-caution) | ActiveModel non-blocking warning gem | 2026-09-11 |
+| [`artificial-data-plug-and-play`](https://github.com/uk-gov-mirror/nhsdigital.artificial-data-plug-and-play) | Get up and running with experimenting on artificial NHS data! | 2026-09-11 |
+| [`autism_waiting_times`](https://github.com/uk-gov-mirror/nhsdigital.autism_waiting_times) | This repository contains all of code used to create the Autism Waiting Times publication. | 2026-09-11 |
+| [`automated_excel_publications`](https://github.com/uk-gov-mirror/nhsdigital.automated_excel_publications) | An example of a module used to automate the production of Excel files. | 2026-09-11 |
+| [`core-gp-contract`](https://github.com/uk-gov-mirror/nhsdigital.core-gp-contract) | Repository for code related to the Core GP Contract GPES extract | 2026-09-11 |
+| [`datadictionary-web-support-files`](https://github.com/uk-gov-mirror/nhsdigital.datadictionary-web-support-files) | Data Dictionary DDCNs HTML and PDFs | 2026-09-11 |
+| [`iif_indicators`](https://github.com/uk-gov-mirror/nhsdigital.iif_indicators) |  | 2026-09-11 |
+| [`ldhc_publication`](https://github.com/uk-gov-mirror/nhsdigital.ldhc_publication) | Code used to produce the Learning Disability Health Check Scheme publication | 2026-09-11 |
+| [`mental-health-act-annual-statistics`](https://github.com/uk-gov-mirror/nhsdigital.mental-health-act-annual-statistics) |  | 2026-09-11 |
+| [`mental-health-bulletin`](https://github.com/uk-gov-mirror/nhsdigital.mental-health-bulletin) | This repository contains all of code used to create the Mental Health Bulletin publication. | 2026-09-11 |
+| [`mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy`](https://github.com/uk-gov-mirror/nhsdigital.mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy) | Code to produce open data in the management information (MI) publication, Digitally identified individuals at highest risk from COVID-19 potentially eligible for non-hospital based COVID-19 treatment in England. | 2026-09-11 |
+| [`mps_diagnostics`](https://github.com/uk-gov-mirror/nhsdigital.mps_diagnostics) | Interpretable metadata for the results of NHS England record linkage | 2026-09-11 |
+| [`national-diabetes-audit`](https://github.com/uk-gov-mirror/nhsdigital.national-diabetes-audit) | Code repository for the National Diabetes Audit  | 2026-09-11 |
+| [`ndr_browser_timings`](https://github.com/uk-gov-mirror/nhsdigital.ndr_browser_timings) | Rails engine to performs client-side instrumentation and feeds back to the application. | 2026-09-11 |
+| [`ndr_import-helpers`](https://github.com/uk-gov-mirror/nhsdigital.ndr_import-helpers) |  | 2026-09-11 |
+| [`ndr_stats`](https://github.com/uk-gov-mirror/nhsdigital.ndr_stats) | Lightweight wrapper around statsd client for easy instrumentation of Rails | 2026-09-11 |
+| [`octo-repo-demo`](https://github.com/uk-gov-mirror/nhsdigital.octo-repo-demo) |  | 2026-09-11 |
+| [`typed_params`](https://github.com/uk-gov-mirror/nhsdigital.typed_params) |  | 2026-09-11 |
 | [`FHIR-R4-AMBULANCE-DATA-SET`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-AMBULANCE-DATA-SET) |  | 2026-09-10 |
 | [`FHIR-R4-CLINICAL-OBSERVATIONS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-CLINICAL-OBSERVATIONS) |  | 2026-09-10 |
 | [`FHIR-R4-UKCORE-COMMUNITYASSETS`](https://github.com/uk-gov-mirror/nhsdigital.FHIR-R4-UKCORE-COMMUNITYASSETS) | IOPS Repo for FHIR R4 UK Core Community Assets | 2026-09-10 |
@@ -1878,6 +1909,24 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`cvs-vtm-prototype`](https://github.com/uk-gov-mirror/dvsa.cvs-vtm-prototype) |  | 2020-09-10* |
 | [`motr-terraform`](https://github.com/uk-gov-mirror/dvsa.motr-terraform) | MOTR terraform code | 2020-09-06* |
 
+## [intellectual-property-office](https://github.com/intellectual-property-office) (13)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`fe-account-header`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header) |  | 2026-09-11 |
+| [`fe-cookie-banner`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner) |  | 2026-09-11 |
+| [`fe-dashboard-ui`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui) |  | 2026-09-11 |
+| [`fe-nextjs-gds-starter`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter) |  | 2026-09-11 |
+| [`ctc-company.replaced.2026-09-03`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03) | Open sourced code for IPO's CTC Company microservice | 2026-09-03 |
+| [`ctc-address.replaced.2026-08-20`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20) |  | 2026-08-21 |
+| [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
+| [`Frontend-Build-Tool`](https://github.com/uk-gov-mirror/intellectual-property-office.Frontend-Build-Tool) | UK Intellectual Property Office Frontend Build Tool | 2023-01-27* |
+| [`Graphics`](https://github.com/uk-gov-mirror/intellectual-property-office.Graphics) |  | 2023-01-27* |
+| [`HtmlHelpers`](https://github.com/uk-gov-mirror/intellectual-property-office.HtmlHelpers) | MVC Html Helpers to render GOV.UK styled controls | 2023-01-27* |
+| [`Outreach-Patents`](https://github.com/uk-gov-mirror/intellectual-property-office.Outreach-Patents) | UK Patents Alpha (Outreach SaaS) | 2023-01-27* |
+| [`PDF-Generator`](https://github.com/uk-gov-mirror/intellectual-property-office.PDF-Generator) | Source for  | 2023-01-27* |
+| [`Services`](https://github.com/uk-gov-mirror/intellectual-property-office.Services) | IPO Services | 2023-01-27* |
+
 ## [111online](https://github.com/111online) (12)
 
 | Repository | Description | Deleted On |
@@ -1927,20 +1976,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`uec-sf-sfrunner`](https://github.com/uk-gov-mirror/nhsd-exeter.uec-sf-sfrunner) | This is a docker image that contains everything needed to build, run, and test Direct Search (Service Finder) | 2026-05-02* |
 | [`service-finder-api-auth`](https://github.com/uk-gov-mirror/nhsd-exeter.service-finder-api-auth) | Repository for the service finder API authentication capability | 2026-05-01* |
 
-## [intellectual-property-office](https://github.com/intellectual-property-office) (9)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`ctc-company.replaced.2026-09-03`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03) | Open sourced code for IPO's CTC Company microservice | 2026-09-03 |
-| [`ctc-address.replaced.2026-08-20`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20) |  | 2026-08-21 |
-| [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
-| [`Frontend-Build-Tool`](https://github.com/uk-gov-mirror/intellectual-property-office.Frontend-Build-Tool) | UK Intellectual Property Office Frontend Build Tool | 2023-01-27* |
-| [`Graphics`](https://github.com/uk-gov-mirror/intellectual-property-office.Graphics) |  | 2023-01-27* |
-| [`HtmlHelpers`](https://github.com/uk-gov-mirror/intellectual-property-office.HtmlHelpers) | MVC Html Helpers to render GOV.UK styled controls | 2023-01-27* |
-| [`Outreach-Patents`](https://github.com/uk-gov-mirror/intellectual-property-office.Outreach-Patents) | UK Patents Alpha (Outreach SaaS) | 2023-01-27* |
-| [`PDF-Generator`](https://github.com/uk-gov-mirror/intellectual-property-office.PDF-Generator) | Source for  | 2023-01-27* |
-| [`Services`](https://github.com/uk-gov-mirror/intellectual-property-office.Services) | IPO Services | 2023-01-27* |
-
 ## [nhsconnect](https://github.com/nhsconnect) (8)
 
 | Repository | Description | Deleted On |
@@ -1978,6 +2013,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`Synthetic-Data-Exploration-Probabilistic-Graphical-Models`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Probabilistic-Graphical-Models) | NHSX PhD Internship Project | 2021-09-04* |
 | [`Synthetic-Data-Exploration-Text`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-Text) | NHSX PhD Internship Project | 2021-09-04* |
 | [`Synthetic-Data-Exploration-VAE`](https://github.com/uk-gov-mirror/NHSX.Synthetic-Data-Exploration-VAE) | NHSX PhD Internship Project | 2021-09-04* |
+
+## [digital-land](https://github.com/digital-land) (7)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`static-prototypes`](https://github.com/uk-gov-mirror/digital-land.static-prototypes) | An attempt to replicate our prototypes and the govuk prototype kit as a static site in github pages using eleventy. (This probably won't work)) | 2026-09-11 |
+| [`terraform-upgrade-test`](https://github.com/uk-gov-mirror/digital-land.terraform-upgrade-test) |  | 2026-09-11 |
+| [`validators`](https://github.com/uk-gov-mirror/digital-land.validators) | Make sure that data meets the specification for the collections. | 2026-09-11 |
+| [`spark-jobs`](https://github.com/uk-gov-mirror/digital-land.spark-jobs) | a repo to contain spark jobs. the repo will be synced to s3 including a copy of the python environment to be used. | 2026-09-10 |
+| [`performance-api`](https://github.com/uk-gov-mirror/digital-land.performance-api) | Provides performance metrics from the Data Collection Pipelines | 2026-09-09 |
+| [`performance-task`](https://github.com/uk-gov-mirror/digital-land.performance-task) | A repository to create performance datasets from data in our data lake. | 2026-09-09 |
+| [`manage-planning-data-prototype`](https://github.com/uk-gov-mirror/digital-land.manage-planning-data-prototype) |  | 2026-08-26 |
 
 ## [jncc](https://github.com/jncc) (7)
 
@@ -2073,15 +2120,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
 | [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
 
-## [digital-land](https://github.com/digital-land) (4)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`spark-jobs`](https://github.com/uk-gov-mirror/digital-land.spark-jobs) | a repo to contain spark jobs. the repo will be synced to s3 including a copy of the python environment to be used. | 2026-09-10 |
-| [`performance-api`](https://github.com/uk-gov-mirror/digital-land.performance-api) | Provides performance metrics from the Data Collection Pipelines | 2026-09-09 |
-| [`performance-task`](https://github.com/uk-gov-mirror/digital-land.performance-task) | A repository to create performance datasets from data in our data lake. | 2026-09-09 |
-| [`manage-planning-data-prototype`](https://github.com/uk-gov-mirror/digital-land.manage-planning-data-prototype) |  | 2026-08-26 |
-
 ## [FoodStandardsAgency](https://github.com/FoodStandardsAgency) (2)
 
 | Repository | Description | Deleted On |
@@ -2116,6 +2154,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
 | [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
+
+## [ukhsa-collaboration](https://github.com/ukhsa-collaboration) (2)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`data_management_system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ukhsa-collaboration.data_management_system.replaced.2026-09-03) | NDRS Data Management System | 2026-09-11 |
+| [`TICLR`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-05 |
 
 ## [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) (1)
 
@@ -2254,12 +2299,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`Testing.replaced.2026-08-20`](https://github.com/uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20) |  | 2026-08-21 |
-
-## [ukhsa-collaboration](https://github.com/ukhsa-collaboration) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`TICLR`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-05 |
 
 ## [uktrade](https://github.com/uktrade) (1)
 

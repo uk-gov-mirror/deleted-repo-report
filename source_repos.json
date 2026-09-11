@@ -6532,6 +6532,36 @@
     "original_url": "https://github.com/digital-land/spark-jobs"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": "An attempt to replicate our prototypes and the govuk prototype kit as a static site in github pages using eleventy. (This probably won't work))",
+    "full_name": "uk-gov-mirror/digital-land.static-prototypes",
+    "mirror_name": "digital-land.static-prototypes",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.static-prototypes",
+    "name": "static-prototypes",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/static-prototypes"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/digital-land.terraform-upgrade-test",
+    "mirror_name": "digital-land.terraform-upgrade-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.terraform-upgrade-test",
+    "name": "terraform-upgrade-test",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/terraform-upgrade-test"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Make sure that data meets the specification for the collections.",
+    "full_name": "uk-gov-mirror/digital-land.validators",
+    "mirror_name": "digital-land.validators",
+    "mirror_url": "https://github.com/uk-gov-mirror/digital-land.validators",
+    "name": "validators",
+    "org": "digital-land",
+    "original_url": "https://github.com/digital-land/validators"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment.",
     "full_name": "uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21",
@@ -12009,6 +12039,46 @@
     "original_url": "https://github.com/intellectual-property-office/ctc-helloworld"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-account-header",
+    "mirror_name": "intellectual-property-office.fe-account-header",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header",
+    "name": "fe-account-header",
+    "org": "intellectual-property-office",
+    "original_url": "https://github.com/intellectual-property-office/fe-account-header"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-cookie-banner",
+    "mirror_name": "intellectual-property-office.fe-cookie-banner",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner",
+    "name": "fe-cookie-banner",
+    "org": "intellectual-property-office",
+    "original_url": "https://github.com/intellectual-property-office/fe-cookie-banner"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-dashboard-ui",
+    "mirror_name": "intellectual-property-office.fe-dashboard-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui",
+    "name": "fe-dashboard-ui",
+    "org": "intellectual-property-office",
+    "original_url": "https://github.com/intellectual-property-office/fe-dashboard-ui"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter",
+    "mirror_name": "intellectual-property-office.fe-nextjs-gds-starter",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter",
+    "name": "fe-nextjs-gds-starter",
+    "org": "intellectual-property-office",
+    "original_url": "https://github.com/intellectual-property-office/fe-nextjs-gds-starter"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-12-05",
     "description": "Ansible based scripts for the set-up of the eo stack",
@@ -16367,6 +16437,56 @@
     "original_url": "https://github.com/nhsd-exeter/uec-sf-sfrunner"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations",
+    "mirror_name": "nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations",
+    "name": "ASC-Client-Level-Data-SALT-ASCOF-transformations",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ASC-Client-Level-Data-SALT-ASCOF-transformations"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts.",
+    "full_name": "uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults",
+    "mirror_name": "nhsdigital.ASC-Safeguarding-Adults",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults",
+    "name": "ASC-Safeguarding-Adults",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ASC-Safeguarding-Adults"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Code repository for the Personal Social Services Adult Social Care Survey publication",
+    "full_name": "uk-gov-mirror/nhsdigital.ASC-User-Survey",
+    "mirror_name": "nhsdigital.ASC-User-Survey",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ASC-User-Survey",
+    "name": "ASC-User-Survey",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ASC-User-Survey"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "This is the DQ report code for Adult Social Care Statistics Publication",
+    "full_name": "uk-gov-mirror/nhsdigital.ASC-User_Survey_DQ_Report",
+    "mirror_name": "nhsdigital.ASC-User_Survey_DQ_Report",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ASC-User_Survey_DQ_Report",
+    "name": "ASC-User_Survey_DQ_Report",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ASC-User_Survey_DQ_Report"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "NHS Digital code system browser development",
+    "full_name": "uk-gov-mirror/nhsdigital.Code-System-Browsers",
+    "mirror_name": "nhsdigital.Code-System-Browsers",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.Code-System-Browsers",
+    "name": "Code-System-Browsers",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/Code-System-Browsers"
+  },
+  {
     "deleted_on": "2026-09-09",
     "description": "A tool to compare elements between different packages",
     "full_name": "uk-gov-mirror/nhsdigital.FHIR-Package-Comparison-Tool",
@@ -16457,6 +16577,16 @@
     "name": "FHIR-Test-Data",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/FHIR-Test-Data"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Analytical code developed to use with the GDPPR extract",
+    "full_name": "uk-gov-mirror/nhsdigital.GDPPR_Analytical_Code",
+    "mirror_name": "nhsdigital.GDPPR_Analytical_Code",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.GDPPR_Analytical_Code",
+    "name": "GDPPR_Analytical_Code",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/GDPPR_Analytical_Code"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -16560,6 +16690,36 @@
     "original_url": "https://github.com/nhsdigital/Interoperability-Standards-Registry"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.MauroTemplateManager",
+    "mirror_name": "nhsdigital.MauroTemplateManager",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.MauroTemplateManager",
+    "name": "MauroTemplateManager",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/MauroTemplateManager"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.NDOP-publication",
+    "mirror_name": "nhsdigital.NDOP-publication",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.NDOP-publication",
+    "name": "NDOP-publication",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/NDOP-publication"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.NHS-Staff-Earnings-Estimates",
+    "mirror_name": "nhsdigital.NHS-Staff-Earnings-Estimates",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.NHS-Staff-Earnings-Estimates",
+    "name": "NHS-Staff-Earnings-Estimates",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/NHS-Staff-Earnings-Estimates"
+  },
+  {
     "deleted_on": "2026-09-10",
     "description": "Resource repository for the Genomic Medicine Service Implementation Guide",
     "full_name": "uk-gov-mirror/nhsdigital.NHSDigital-FHIR-Genomics-ImplementationGuide",
@@ -16602,6 +16762,26 @@
     "original_url": "https://github.com/nhsdigital/NHSDigitial-FHIR-ImplementationGuide"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": "Code used to produce the Patient Online Management Information (POMI) publication.",
+    "full_name": "uk-gov-mirror/nhsdigital.POMI",
+    "mirror_name": "nhsdigital.POMI",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.POMI",
+    "name": "POMI",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/POMI"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Primary care SNOMED code release creation and production of publication materials",
+    "full_name": "uk-gov-mirror/nhsdigital.Primary-care-code-release",
+    "mirror_name": "nhsdigital.Primary-care-code-release",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.Primary-care-code-release",
+    "name": "Primary-care-code-release",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/Primary-care-code-release"
+  },
+  {
     "deleted_on": "2026-09-10",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.RA-FHIR-API",
@@ -16621,6 +16801,36 @@
     "name": "Screening-Infrastructure",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/Screening-Infrastructure"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Code snippets and exemplars to demonstrate use cases for the NHS Digital Terminology Server",
+    "full_name": "uk-gov-mirror/nhsdigital.TerminologyServerUses",
+    "mirror_name": "nhsdigital.TerminologyServerUses",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.TerminologyServerUses",
+    "name": "TerminologyServerUses",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/TerminologyServerUses"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Sickness absence rates publication: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates",
+    "full_name": "uk-gov-mirror/nhsdigital.absence-rates",
+    "mirror_name": "nhsdigital.absence-rates",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.absence-rates",
+    "name": "absence-rates",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/absence-rates"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "ActiveModel non-blocking warning gem",
+    "full_name": "uk-gov-mirror/nhsdigital.activemodel-caution",
+    "mirror_name": "nhsdigital.activemodel-caution",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.activemodel-caution",
+    "name": "activemodel-caution",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/activemodel-caution"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -16733,6 +16943,16 @@
     "original_url": "https://github.com/nhsdigital/apim-test-utils"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": "Get up and running with experimenting on artificial NHS data!",
+    "full_name": "uk-gov-mirror/nhsdigital.artificial-data-plug-and-play",
+    "mirror_name": "nhsdigital.artificial-data-plug-and-play",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.artificial-data-plug-and-play",
+    "name": "artificial-data-plug-and-play",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/artificial-data-plug-and-play"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -16742,6 +16962,26 @@
     "name": "async-slowapp",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/async-slowapp"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "This repository contains all of code used to create the Autism Waiting Times publication.",
+    "full_name": "uk-gov-mirror/nhsdigital.autism_waiting_times",
+    "mirror_name": "nhsdigital.autism_waiting_times",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.autism_waiting_times",
+    "name": "autism_waiting_times",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/autism_waiting_times"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "An example of a module used to automate the production of Excel files.",
+    "full_name": "uk-gov-mirror/nhsdigital.automated_excel_publications",
+    "mirror_name": "nhsdigital.automated_excel_publications",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.automated_excel_publications",
+    "name": "automated_excel_publications",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/automated_excel_publications"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -16831,6 +17071,16 @@
     "original_url": "https://github.com/nhsdigital/connecting-party-manager"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": "Repository for code related to the Core GP Contract GPES extract",
+    "full_name": "uk-gov-mirror/nhsdigital.core-gp-contract",
+    "mirror_name": "nhsdigital.core-gp-contract",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.core-gp-contract",
+    "name": "core-gp-contract",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/core-gp-contract"
+  },
+  {
     "deleted_on": "2026-09-05",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext",
@@ -16849,6 +17099,16 @@
     "name": "cypkg-test-package",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/cypkg-test-package"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Data Dictionary DDCNs HTML and PDFs",
+    "full_name": "uk-gov-mirror/nhsdigital.datadictionary-web-support-files",
+    "mirror_name": "nhsdigital.datadictionary-web-support-files",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.datadictionary-web-support-files",
+    "name": "datadictionary-web-support-files",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/datadictionary-web-support-files"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17482,6 +17742,16 @@
     "original_url": "https://github.com/nhsdigital/identity-service-jwks-restored"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.iif_indicators",
+    "mirror_name": "nhsdigital.iif_indicators",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.iif_indicators",
+    "name": "iif_indicators",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/iif_indicators"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "A service enabling proxies to act on behalf of patients, regardless of their GP practice.",
@@ -17533,6 +17803,16 @@
     "name": "key-locator-api",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/key-locator-api"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Code used to produce the Learning Disability Health Check Scheme publication",
+    "full_name": "uk-gov-mirror/nhsdigital.ldhc_publication",
+    "mirror_name": "nhsdigital.ldhc_publication",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ldhc_publication",
+    "name": "ldhc_publication",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ldhc_publication"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -17590,6 +17870,36 @@
     "original_url": "https://github.com/nhsdigital/map-viewer"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.mental-health-act-annual-statistics",
+    "mirror_name": "nhsdigital.mental-health-act-annual-statistics",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mental-health-act-annual-statistics",
+    "name": "mental-health-act-annual-statistics",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mental-health-act-annual-statistics"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "This repository contains all of code used to create the Mental Health Bulletin publication.",
+    "full_name": "uk-gov-mirror/nhsdigital.mental-health-bulletin",
+    "mirror_name": "nhsdigital.mental-health-bulletin",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mental-health-bulletin",
+    "name": "mental-health-bulletin",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mental-health-bulletin"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Code to produce open data in the management information (MI) publication, Digitally identified individuals at highest risk from COVID-19 potentially eligible for non-hospital based COVID-19 treatment in England.",
+    "full_name": "uk-gov-mirror/nhsdigital.mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy",
+    "mirror_name": "nhsdigital.mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy",
+    "name": "mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -17633,6 +17943,16 @@
     "original_url": "https://github.com/nhsdigital/monitoring-service-discovery"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": "Interpretable metadata for the results of NHS England record linkage",
+    "full_name": "uk-gov-mirror/nhsdigital.mps_diagnostics",
+    "mirror_name": "nhsdigital.mps_diagnostics",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mps_diagnostics",
+    "name": "mps_diagnostics",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mps_diagnostics"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -17642,6 +17962,16 @@
     "name": "multicast-notification-service",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/multicast-notification-service"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Code repository for the National Diabetes Audit ",
+    "full_name": "uk-gov-mirror/nhsdigital.national-diabetes-audit",
+    "mirror_name": "nhsdigital.national-diabetes-audit",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.national-diabetes-audit",
+    "name": "national-diabetes-audit",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/national-diabetes-audit"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17719,6 +18049,36 @@
     "name": "nbs-appointments-management-service",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/nbs-appointments-management-service"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Rails engine to performs client-side instrumentation and feeds back to the application.",
+    "full_name": "uk-gov-mirror/nhsdigital.ndr_browser_timings",
+    "mirror_name": "nhsdigital.ndr_browser_timings",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ndr_browser_timings",
+    "name": "ndr_browser_timings",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ndr_browser_timings"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.ndr_import-helpers",
+    "mirror_name": "nhsdigital.ndr_import-helpers",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ndr_import-helpers",
+    "name": "ndr_import-helpers",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ndr_import-helpers"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "Lightweight wrapper around statsd client for easy instrumentation of Rails",
+    "full_name": "uk-gov-mirror/nhsdigital.ndr_stats",
+    "mirror_name": "nhsdigital.ndr_stats",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ndr_stats",
+    "name": "ndr_stats",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ndr_stats"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -18231,6 +18591,16 @@
     "original_url": "https://github.com/nhsdigital/oas-shared-fragments"
   },
   {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.octo-repo-demo",
+    "mirror_name": "nhsdigital.octo-repo-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.octo-repo-demo",
+    "name": "octo-repo-demo",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/octo-repo-demo"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -18510,6 +18880,16 @@
     "name": "test-delete-me",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/test-delete-me"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.typed_params",
+    "mirror_name": "nhsdigital.typed_params",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.typed_params",
+    "name": "typed_params",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/typed_params"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -19163,6 +19543,16 @@
     "name": "TICLR",
     "org": "ukhsa-collaboration",
     "original_url": "https://github.com/ukhsa-collaboration/TICLR"
+  },
+  {
+    "deleted_on": "2026-09-11",
+    "description": "NDRS Data Management System",
+    "full_name": "uk-gov-mirror/ukhsa-collaboration.data_management_system.replaced.2026-09-03",
+    "mirror_name": "ukhsa-collaboration.data_management_system.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/ukhsa-collaboration.data_management_system.replaced.2026-09-03",
+    "name": "data_management_system.replaced.2026-09-03",
+    "org": "ukhsa-collaboration",
+    "original_url": "https://github.com/ukhsa-collaboration/data_management_system.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
