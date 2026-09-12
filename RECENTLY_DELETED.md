@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`data-factory-core-s3-buckets`](https://github.com/uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets) | Data Factory Terraform module for core S3 bucket provisioning | 2026-09-12 |
 | [digital-land](https://github.com/digital-land) | [`static-prototypes`](https://github.com/uk-gov-mirror/digital-land.static-prototypes) | An attempt to replicate our prototypes and the govuk prototype kit as a static site in github pages using eleventy. (This probably won't work)) | 2026-09-11 |
 | [digital-land](https://github.com/digital-land) | [`terraform-upgrade-test`](https://github.com/uk-gov-mirror/digital-land.terraform-upgrade-test) |  | 2026-09-11 |
 | [digital-land](https://github.com/digital-land) | [`validators`](https://github.com/uk-gov-mirror/digital-land.validators) | Make sure that data meets the specification for the collections. | 2026-09-11 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-tasks`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-tasks) | Job profile what you will do (tasks) | 2022-05-05* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-relatedcareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-relatedcareers) | Composite applet for Related Careers | 2022-05-05* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-actionplans`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-actionplans) |  | 2022-05-04* |
-| [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [`nsi-azure-b2c`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.nsi-azure-b2c) |  | 2022-05-04* |

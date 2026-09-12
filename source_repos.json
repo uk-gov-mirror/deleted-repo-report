@@ -12429,6 +12429,16 @@
     "original_url": "https://github.com/ministryofjustice/data-docs-public.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-09-12",
+    "description": "Data Factory Terraform module for core S3 bucket provisioning",
+    "full_name": "uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets",
+    "mirror_name": "ministryofjustice.data-factory-core-s3-buckets",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets",
+    "name": "data-factory-core-s3-buckets",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/data-factory-core-s3-buckets"
+  },
+  {
     "deleted_on": "2026-09-09",
     "description": "Sandbox repo for learning and testing things",
     "full_name": "uk-gov-mirror/ministryofjustice.dave-learning",
