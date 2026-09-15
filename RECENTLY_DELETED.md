@@ -6,6 +6,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [hmrc](https://github.com/hmrc) | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
+| [hmrc](https://github.com/hmrc) | [`death-in-service-performance-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-performance-tests) |  | 2026-09-15 |
+| [hmrc](https://github.com/hmrc) | [`death-in-service-ui-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-ui-tests) |  | 2026-09-15 |
+| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [`gphs-annual-rap`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap) |  | 2026-09-15 |
+| [nhsdigital](https://github.com/nhsdigital) | [`booking-and-referral-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-fhir-api) |  | 2026-09-15 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`data-factory-core-s3-buckets`](https://github.com/uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets) | Data Factory Terraform module for core S3 bucket provisioning | 2026-09-12 |
 | [digital-land](https://github.com/digital-land) | [`static-prototypes`](https://github.com/uk-gov-mirror/digital-land.static-prototypes) | An attempt to replicate our prototypes and the govuk prototype kit as a static site in github pages using eleventy. (This probably won't work)) | 2026-09-11 |
 | [digital-land](https://github.com/digital-land) | [`terraform-upgrade-test`](https://github.com/uk-gov-mirror/digital-land.terraform-upgrade-test) |  | 2026-09-11 |
@@ -1001,8 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobgroups`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobgroups) |  | 2022-05-16* |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`cop-product-page`](https://github.com/uk-gov-mirror/UKHomeOffice.cop-product-page) | COP | 2022-05-11* |
 | [ukwa](https://github.com/ukwa) | [`ukwa-documentation`](https://github.com/uk-gov-mirror/ukwa.ukwa-documentation) | Public documentation about the technical architecture of the UK Web Archive | 2022-05-07* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-howtobecome`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-howtobecome) | Composite applet for How to Become | 2022-05-05* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-skills`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-skills) | Job profile what it takes | 2022-05-05* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-tasks`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-tasks) | Job profile what you will do (tasks) | 2022-05-05* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-relatedcareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-relatedcareers) | Composite applet for Related Careers | 2022-05-05* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-actionplans`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-actionplans) |  | 2022-05-04* |

@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1877**
+Total deleted repositories: **1882**
 Organisations affected: **70**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,8 +10,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**268**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.1% |
-| [nhsdigital](https://github.com/nhsdigital) | [**243**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.1% |
-| [hmrc](https://github.com/hmrc) | [**198**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 9.9% |
+| [nhsdigital](https://github.com/nhsdigital) | [**244**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.3% |
+| [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -49,11 +49,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 6.3% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
+| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 7.1% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
-| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 4.8% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.3% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
@@ -353,10 +353,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (243)
+## [nhsdigital](https://github.com/nhsdigital) (244)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`booking-and-referral-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-fhir-api) |  | 2026-09-15 |
 | [`ASC-Client-Level-Data-SALT-ASCOF-transformations`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations) |  | 2026-09-11 |
 | [`ASC-Safeguarding-Adults`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults) | Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts. | 2026-09-11 |
 | [`ASC-User-Survey`](https://github.com/uk-gov-mirror/nhsdigital.ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication | 2026-09-11 |
@@ -601,10 +602,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (198)
+## [hmrc](https://github.com/hmrc) (201)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
+| [`death-in-service-performance-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-performance-tests) |  | 2026-09-15 |
+| [`death-in-service-ui-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-ui-tests) |  | 2026-09-15 |
 | [`bank-account-insights-stub`](https://github.com/uk-gov-mirror/hmrc.bank-account-insights-stub) |  | 2026-09-09 |
 | [`nino-insights-stub`](https://github.com/uk-gov-mirror/hmrc.nino-insights-stub) |  | 2026-09-09 |
 | [`carf-management-ui-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/hmrc.carf-management-ui-tests.replaced.2026-09-02) |  | 2026-09-03 |
@@ -2121,6 +2125,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
 | [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
 
+## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (3)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`gphs-annual-rap`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap) |  | 2026-09-15 |
+| [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
+| [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
+
 ## [FoodStandardsAgency](https://github.com/FoodStandardsAgency) (2)
 
 | Repository | Description | Deleted On |
@@ -2148,13 +2160,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`eleatics.replaced.2026-09-02`](https://github.com/uk-gov-mirror/dstl.eleatics.replaced.2026-09-02) | Interfaces, interchange formats and data transformations to promote shared, collaborative and distributed knowledge representation and reasoning. | 2026-09-03 |
 | [`Human-Interface-Horizons.replaced.2026-08-21`](https://github.com/uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21) | A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment. | 2026-08-21 |
-
-## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (2)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
-| [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
 
 ## [ukhsa-collaboration](https://github.com/ukhsa-collaboration) (2)
 

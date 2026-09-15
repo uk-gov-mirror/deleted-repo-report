@@ -8460,6 +8460,36 @@
     "original_url": "https://github.com/hmrc/ddcops-terraform-ecs-fargate-poc"
   },
   {
+    "deleted_on": "2026-09-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.death-in-service-frontend",
+    "mirror_name": "hmrc.death-in-service-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend",
+    "name": "death-in-service-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/death-in-service-frontend"
+  },
+  {
+    "deleted_on": "2026-09-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.death-in-service-performance-tests",
+    "mirror_name": "hmrc.death-in-service-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.death-in-service-performance-tests",
+    "name": "death-in-service-performance-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/death-in-service-performance-tests"
+  },
+  {
+    "deleted_on": "2026-09-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.death-in-service-ui-tests",
+    "mirror_name": "hmrc.death-in-service-ui-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.death-in-service-ui-tests",
+    "name": "death-in-service-ui-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/death-in-service-ui-tests"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-20",
     "description": null,
@@ -15908,6 +15938,16 @@
     "original_url": "https://github.com/nhsbsa-data-analytics/dependence-forming-medicines"
   },
   {
+    "deleted_on": "2026-09-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap",
+    "mirror_name": "nhsbsa-data-analytics.gphs-annual-rap",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap",
+    "name": "gphs-annual-rap",
+    "org": "nhsbsa-data-analytics",
+    "original_url": "https://github.com/nhsbsa-data-analytics/gphs-annual-rap"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-08",
     "description": null,
@@ -17003,6 +17043,16 @@
     "name": "bcss-notifications",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/bcss-notifications"
+  },
+  {
+    "deleted_on": "2026-09-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.booking-and-referral-fhir-api",
+    "mirror_name": "nhsdigital.booking-and-referral-fhir-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-fhir-api",
+    "name": "booking-and-referral-fhir-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/booking-and-referral-fhir-api"
   },
   {
     "deleted_on": "2026-09-08",
