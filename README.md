@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1882**
-Organisations affected: **70**
+Total deleted repositories: **1884**
+Organisations affected: **71**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**268**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.1% |
-| [nhsdigital](https://github.com/nhsdigital) | [**244**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.3% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**268**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.0% |
+| [nhsdigital](https://github.com/nhsdigital) | [**244**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 52.8% |
 | [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -18,7 +18,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [**67**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
-| [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.5% |
+| [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
 | [companieshouse](https://github.com/companieshouse) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.1% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**41**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.6% |
@@ -49,7 +49,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 6.3% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
-| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 7.1% |
+| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 9.5% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
@@ -75,6 +75,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dfid](https://github.com/dfid) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dfid.%22) | 6.2% |
 | [forestresearch](https://github.com/forestresearch) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22forestresearch.%22) | 25.0% |
 | [govuk-one-login](https://github.com/govuk-one-login) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-one-login.%22) | 0.5% |
+| [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.7% |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 0.5% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
@@ -2125,10 +2126,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
 | [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
 
-## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (3)
+## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (4)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`Open-Data-Portal`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.Open-Data-Portal) | The NHSBSA Open Data roadmap | 2026-09-16 |
 | [`gphs-annual-rap`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap) |  | 2026-09-15 |
 | [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
 | [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
@@ -2287,6 +2289,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`di-lead-observable-notebook.replaced.2026-08-21`](https://github.com/uk-gov-mirror/govuk-one-login.di-lead-observable-notebook.replaced.2026-08-21) | An Observable notebook to help developers interrogate our tech stack - should never store data, only helpers that let you access data quickly if you have the right permissions already | 2026-08-21 |
+
+## [nhs-oa-community](https://github.com/nhs-oa-community) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`rap-committee`](https://github.com/uk-gov-mirror/nhs-oa-community.rap-committee) | Materials for the NHS-OA RAP committee | 2026-09-16 |
 
 ## [nhsuk-archive](https://github.com/nhsuk-archive) (1)
 

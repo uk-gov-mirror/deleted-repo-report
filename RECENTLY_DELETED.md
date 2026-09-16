@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [nhs-oa-community](https://github.com/nhs-oa-community) | [`rap-committee`](https://github.com/uk-gov-mirror/nhs-oa-community.rap-committee) | Materials for the NHS-OA RAP committee | 2026-09-16 |
+| [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [`Open-Data-Portal`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.Open-Data-Portal) | The NHSBSA Open Data roadmap | 2026-09-16 |
 | [hmrc](https://github.com/hmrc) | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
 | [hmrc](https://github.com/hmrc) | [`death-in-service-performance-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-performance-tests) |  | 2026-09-15 |
 | [hmrc](https://github.com/hmrc) | [`death-in-service-ui-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-ui-tests) |  | 2026-09-15 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [`ukwa-blacklight`](https://github.com/uk-gov-mirror/ukwa.ukwa-blacklight) | Experimenting with Blacklight | 2022-05-25* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofiles`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofiles) |  | 2022-05-18* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobgroups`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobgroups) |  | 2022-05-16* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`cop-product-page`](https://github.com/uk-gov-mirror/UKHomeOffice.cop-product-page) | COP | 2022-05-11* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-documentation`](https://github.com/uk-gov-mirror/ukwa.ukwa-documentation) | Public documentation about the technical architecture of the UK Web Archive | 2022-05-07* |

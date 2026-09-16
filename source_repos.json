@@ -15927,6 +15927,26 @@
     "original_url": "https://github.com/nhs-england-tools/versioning-reference-template"
   },
   {
+    "deleted_on": "2026-09-16",
+    "description": "Materials for the NHS-OA RAP committee",
+    "full_name": "uk-gov-mirror/nhs-oa-community.rap-committee",
+    "mirror_name": "nhs-oa-community.rap-committee",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhs-oa-community.rap-committee",
+    "name": "rap-committee",
+    "org": "nhs-oa-community",
+    "original_url": "https://github.com/nhs-oa-community/rap-committee"
+  },
+  {
+    "deleted_on": "2026-09-16",
+    "description": "The NHSBSA Open Data roadmap",
+    "full_name": "uk-gov-mirror/nhsbsa-data-analytics.Open-Data-Portal",
+    "mirror_name": "nhsbsa-data-analytics.Open-Data-Portal",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsbsa-data-analytics.Open-Data-Portal",
+    "name": "Open-Data-Portal",
+    "org": "nhsbsa-data-analytics",
+    "original_url": "https://github.com/nhsbsa-data-analytics/Open-Data-Portal"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-08",
     "description": null,
