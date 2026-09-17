@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1884**
+Total deleted repositories: **1888**
 Organisations affected: **71**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**268**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.0% |
-| [nhsdigital](https://github.com/nhsdigital) | [**244**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 52.8% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**269**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.1% |
+| [nhsdigital](https://github.com/nhsdigital) | [**247**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.5% |
 | [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -81,10 +81,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (268)
+## [ministryofjustice](https://github.com/ministryofjustice) (269)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-mandatory-drug-testing-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui) | HMPPS UI service for MDT. Provides the web interface for users to access and manage MDT. (bootstrapped 2026-08-07) (bootstrapped 2026-08-07) | 2026-09-17 |
 | [`data-factory-core-s3-buckets`](https://github.com/uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets) | Data Factory Terraform module for core S3 bucket provisioning | 2026-09-12 |
 | [`dave-learning`](https://github.com/uk-gov-mirror/ministryofjustice.dave-learning) | Sandbox repo for learning and testing things | 2026-09-09 |
 | [`hmpps-one-plan-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-one-plan-api) | HMPPS One Plan Manager API | 2026-09-08 |
@@ -354,10 +355,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (244)
+## [nhsdigital](https://github.com/nhsdigital) (247)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`gp-connect-access-record-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api) |  | 2026-09-17 |
+| [`integration-adaptor-actions`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-actions) | For github workflow actions shared between adaptors. | 2026-09-17 |
+| [`integration-adaptor-gpc-consumer`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-gpc-consumer) |  | 2026-09-17 |
 | [`booking-and-referral-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.booking-and-referral-fhir-api) |  | 2026-09-15 |
 | [`ASC-Client-Level-Data-SALT-ASCOF-transformations`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations) |  | 2026-09-11 |
 | [`ASC-Safeguarding-Adults`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults) | Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts. | 2026-09-11 |

@@ -13661,6 +13661,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-manage-supervisions"
   },
   {
+    "deleted_on": "2026-09-17",
+    "description": "HMPPS UI service for MDT. Provides the web interface for users to access and manage MDT. (bootstrapped 2026-08-07) (bootstrapped 2026-08-07)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui",
+    "mirror_name": "ministryofjustice.hmpps-mandatory-drug-testing-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui",
+    "name": "hmpps-mandatory-drug-testing-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-mandatory-drug-testing-ui"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "A place for Matomo Analytics (Boostrapped 10-Dec-2025)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-matomo-analytics",
@@ -17725,6 +17735,16 @@
     "original_url": "https://github.com/nhsdigital/governance"
   },
   {
+    "deleted_on": "2026-09-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api",
+    "mirror_name": "nhsdigital.gp-connect-access-record-fhir-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api",
+    "name": "gp-connect-access-record-fhir-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-connect-access-record-fhir-api"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.gp-registrations-management-information-api",
@@ -17852,6 +17872,26 @@
     "name": "imms_fhir_api_automation",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/imms_fhir_api_automation"
+  },
+  {
+    "deleted_on": "2026-09-17",
+    "description": "For github workflow actions shared between adaptors.",
+    "full_name": "uk-gov-mirror/nhsdigital.integration-adaptor-actions",
+    "mirror_name": "nhsdigital.integration-adaptor-actions",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-actions",
+    "name": "integration-adaptor-actions",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/integration-adaptor-actions"
+  },
+  {
+    "deleted_on": "2026-09-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.integration-adaptor-gpc-consumer",
+    "mirror_name": "nhsdigital.integration-adaptor-gpc-consumer",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-gpc-consumer",
+    "name": "integration-adaptor-gpc-consumer",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/integration-adaptor-gpc-consumer"
   },
   {
     "deleted_on": "2026-09-09",

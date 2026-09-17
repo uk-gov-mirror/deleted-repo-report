@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-mandatory-drug-testing-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui) | HMPPS UI service for MDT. Provides the web interface for users to access and manage MDT. (bootstrapped 2026-08-07) (bootstrapped 2026-08-07) | 2026-09-17 |
+| [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-access-record-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api) |  | 2026-09-17 |
+| [nhsdigital](https://github.com/nhsdigital) | [`integration-adaptor-actions`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-actions) | For github workflow actions shared between adaptors. | 2026-09-17 |
+| [nhsdigital](https://github.com/nhsdigital) | [`integration-adaptor-gpc-consumer`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-gpc-consumer) |  | 2026-09-17 |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [`rap-committee`](https://github.com/uk-gov-mirror/nhs-oa-community.rap-committee) | Materials for the NHS-OA RAP committee | 2026-09-16 |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [`Open-Data-Portal`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.Open-Data-Portal) | The NHSBSA Open Data roadmap | 2026-09-16 |
 | [hmrc](https://github.com/hmrc) | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [hmrc](https://github.com/hmrc) | [`ui-test-template.g8`](https://github.com/uk-gov-mirror/hmrc.ui-test-template.g8) |  | 2022-06-06* |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`evw-self-serve`](https://github.com/uk-gov-mirror/UKHomeOffice.evw-self-serve) | Self service micro-form for the Electronic Visa Waiver project | 2022-05-30* |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-logging-dns-dhcp-integration-tests`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-dns-dhcp-integration-tests) | Remote full stack integration tests currently run from Corsham test site. Services being tested include Security Logging, DHCP and DNS. | 2022-05-26* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-compui-app-template`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-compui-app-template) |  | 2022-05-25* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-blacklight`](https://github.com/uk-gov-mirror/ukwa.ukwa-blacklight) | Experimenting with Blacklight | 2022-05-25* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofiles`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofiles) |  | 2022-05-18* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobgroups`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobgroups) |  | 2022-05-16* |
