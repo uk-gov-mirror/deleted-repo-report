@@ -6,6 +6,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
+| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |
+| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-parent`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent) | Census 2031 FWMT: shared Maven parent BOM | 2026-09-18 |
+| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-storage-utils`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils) | Census 2031 FWMT: census31-fwmt-storage-utils (seeded from 2021, FMT-4) | 2026-09-18 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-provider-data-platform`](https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform) | The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules) | 2026-09-18 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-test-a-provider-data-ui`](https://github.com/uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui) |  | 2026-09-18 |
+| [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-second-generation`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation) |  | 2026-09-18 |
+| [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-update-record-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir) |  | 2026-09-18 |
+| [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-user-permissions`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-user-permissions) |  | 2026-09-18 |
+| [nhsdigital](https://github.com/nhsdigital) | [`pytest-jira-zephyr-reporter`](https://github.com/uk-gov-mirror/nhsdigital.pytest-jira-zephyr-reporter) | A python package to create tests and report test results to NHSD JIRA. | 2026-09-18 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-mandatory-drug-testing-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui) | HMPPS UI service for MDT. Provides the web interface for users to access and manage MDT. (bootstrapped 2026-08-07) (bootstrapped 2026-08-07) | 2026-09-17 |
 | [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-access-record-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api) |  | 2026-09-17 |
 | [nhsdigital](https://github.com/nhsdigital) | [`integration-adaptor-actions`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-actions) | For github workflow actions shared between adaptors. | 2026-09-17 |
@@ -994,15 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-currentopportunities`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-currentopportunities) |  | 2022-08-03* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-grafana`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-grafana) |  | 2022-08-01* |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`aws-trusted-advisor-to-github-issues`](https://github.com/uk-gov-mirror/ministryofjustice.aws-trusted-advisor-to-github-issues) | Automates creation of GitHub Issues from AWS Trusted Advisor checks | 2022-07-28* |
-| [insolvencyservice](https://github.com/insolvencyservice) | [`Jira-Service`](https://github.com/uk-gov-mirror/insolvencyservice.Jira-Service) | Microservice for Jira Webhooks | 2022-07-11* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-api-content`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-api-content) |  | 2022-06-28* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-pages`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-pages) |  | 2022-06-28* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`CFS-Prototype`](https://github.com/uk-gov-mirror/SkillsFundingAgency.CFS-Prototype) | Repository containing prototypes for the CFS project | 2022-06-27* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-infrastructure-monitoring`](https://github.com/uk-gov-mirror/ministryofjustice.staff-infrastructure-monitoring) | Terraform module that deploys the staff infrastructure monitoring solution. It has support for components like: Grafana, Prometheus, etc. | 2022-06-14* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-manage-supervisions`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-manage-supervisions) |  | 2022-06-11* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-explorecareers`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-explorecareers) |  | 2022-06-10* |
-| [hmrc](https://github.com/hmrc) | [`income-tax-subscription-eligibility-frontend`](https://github.com/uk-gov-mirror/hmrc.income-tax-subscription-eligibility-frontend) |  | 2022-06-06* |
-| [hmrc](https://github.com/hmrc) | [`platops-playbooks`](https://github.com/uk-gov-mirror/hmrc.platops-playbooks) |  | 2022-06-06* |
-| [hmrc](https://github.com/hmrc) | [`ui-test-template.g8`](https://github.com/uk-gov-mirror/hmrc.ui-test-template.g8) |  | 2022-06-06* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`evw-self-serve`](https://github.com/uk-gov-mirror/UKHomeOffice.evw-self-serve) | Self service micro-form for the Electronic Visa Waiver project | 2022-05-30* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-logging-dns-dhcp-integration-tests`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-dns-dhcp-integration-tests) | Remote full stack integration tests currently run from Corsham test site. Services being tested include Security Logging, DHCP and DNS. | 2022-05-26* |

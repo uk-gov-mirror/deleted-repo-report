@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1888**
-Organisations affected: **71**
+Total deleted repositories: **1900**
+Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -9,13 +9,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**269**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.1% |
-| [nhsdigital](https://github.com/nhsdigital) | [**247**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 53.5% |
-| [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
+| [nhsdigital](https://github.com/nhsdigital) | [**251**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 54.6% |
+| [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.0% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
-| [ONSdigital](https://github.com/ONSdigital) | [**67**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.3% |
+| [ONSdigital](https://github.com/ONSdigital) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.6% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
@@ -64,6 +64,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [NHSLeadership](https://github.com/NHSLeadership) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 3.7% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
 | [TransportForLondon](https://github.com/TransportForLondon) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22TransportForLondon.%22) | 7.7% |
 | [UKHO](https://github.com/UKHO) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHO.%22) | 0.8% |
@@ -81,10 +82,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (269)
+## [ministryofjustice](https://github.com/ministryofjustice) (272)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
+| [`laa-provider-data-platform`](https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform) | The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules) | 2026-09-18 |
+| [`laa-test-a-provider-data-ui`](https://github.com/uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui) |  | 2026-09-18 |
 | [`hmpps-mandatory-drug-testing-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-mandatory-drug-testing-ui) | HMPPS UI service for MDT. Provides the web interface for users to access and manage MDT. (bootstrapped 2026-08-07) (bootstrapped 2026-08-07) | 2026-09-17 |
 | [`data-factory-core-s3-buckets`](https://github.com/uk-gov-mirror/ministryofjustice.data-factory-core-s3-buckets) | Data Factory Terraform module for core S3 bucket provisioning | 2026-09-12 |
 | [`dave-learning`](https://github.com/uk-gov-mirror/ministryofjustice.dave-learning) | Sandbox repo for learning and testing things | 2026-09-09 |
@@ -355,10 +359,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (247)
+## [nhsdigital](https://github.com/nhsdigital) (251)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`gp-connect-second-generation`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation) |  | 2026-09-18 |
+| [`gp-connect-update-record-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir) |  | 2026-09-18 |
+| [`gp-connect-user-permissions`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-user-permissions) |  | 2026-09-18 |
+| [`pytest-jira-zephyr-reporter`](https://github.com/uk-gov-mirror/nhsdigital.pytest-jira-zephyr-reporter) | A python package to create tests and report test results to NHSD JIRA. | 2026-09-18 |
 | [`gp-connect-access-record-fhir-api`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-access-record-fhir-api) |  | 2026-09-17 |
 | [`integration-adaptor-actions`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-actions) | For github workflow actions shared between adaptors. | 2026-09-17 |
 | [`integration-adaptor-gpc-consumer`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptor-gpc-consumer) |  | 2026-09-17 |
@@ -1240,10 +1248,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`egar-parent`](https://github.com/uk-gov-mirror/UKHomeOffice.egar-parent) | Parent pom.xml file for project dependencies |  |
 | [`kube-pttg-euro-tlr-enquiry-form`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-pttg-euro-tlr-enquiry-form) | Kube project for pttg-euro-tlr-enquiry-form |  |
 
-## [ONSdigital](https://github.com/ONSdigital) (67)
+## [ONSdigital](https://github.com/ONSdigital) (71)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
+| [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |
+| [`census31-fwmt-parent`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent) | Census 2031 FWMT: shared Maven parent BOM | 2026-09-18 |
+| [`census31-fwmt-storage-utils`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils) | Census 2031 FWMT: census31-fwmt-storage-utils (seeded from 2021, FMT-4) | 2026-09-18 |
 | [`aims-address-parser.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03) |  | 2026-09-03 |
 | [`aims-create-address.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03) |  | 2026-09-03 |
 | [`blaise-api-rest.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03) |  | 2026-09-03 |
@@ -2227,6 +2239,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
+
+## [ScotGovAnalysis](https://github.com/ScotGovAnalysis) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
 
 ## [The-Strategy-Unit](https://github.com/The-Strategy-Unit) (1)
 

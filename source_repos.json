@@ -1086,6 +1086,46 @@
     "original_url": "https://github.com/ONSdigital/census-end-to-end-prototype"
   },
   {
+    "deleted_on": "2026-09-18",
+    "description": "Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-canonical",
+    "mirror_name": "ONSdigital.census31-fwmt-canonical",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical",
+    "name": "census31-fwmt-canonical",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-canonical"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-events",
+    "mirror_name": "ONSdigital.census31-fwmt-events",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events",
+    "name": "census31-fwmt-events",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-events"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "Census 2031 FWMT: shared Maven parent BOM",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-parent",
+    "mirror_name": "ONSdigital.census31-fwmt-parent",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent",
+    "name": "census31-fwmt-parent",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-parent"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "Census 2031 FWMT: census31-fwmt-storage-utils (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils",
+    "mirror_name": "ONSdigital.census31-fwmt-storage-utils",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils",
+    "name": "census31-fwmt-storage-utils",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-storage-utils"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-03",
     "description": null,
@@ -2107,6 +2147,16 @@
     "name": "template-service.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
     "original_url": "https://github.com/Planning-Inspectorate/template-service.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS).",
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.scjs",
+    "mirror_name": "ScotGovAnalysis.scjs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs",
+    "name": "scjs",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/scjs"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14401,6 +14451,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-cwa-feature-tests"
   },
   {
+    "deleted_on": "2026-09-18",
+    "description": "A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger.",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench",
+    "mirror_name": "ministryofjustice.laa-data-openapi-workbench",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench",
+    "name": "laa-data-openapi-workbench",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-openapi-workbench"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-17",
     "description": null,
@@ -14432,6 +14492,26 @@
     "name": "laa-nolasa",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-nolasa"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules)",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-provider-data-platform",
+    "mirror_name": "ministryofjustice.laa-provider-data-platform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform",
+    "name": "laa-provider-data-platform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-provider-data-platform"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui",
+    "mirror_name": "ministryofjustice.laa-test-a-provider-data-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui",
+    "name": "laa-test-a-provider-data-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-test-a-provider-data-ui"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -17745,6 +17825,36 @@
     "original_url": "https://github.com/nhsdigital/gp-connect-access-record-fhir-api"
   },
   {
+    "deleted_on": "2026-09-18",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-connect-second-generation",
+    "mirror_name": "nhsdigital.gp-connect-second-generation",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation",
+    "name": "gp-connect-second-generation",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-connect-second-generation"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir",
+    "mirror_name": "nhsdigital.gp-connect-update-record-fhir",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir",
+    "name": "gp-connect-update-record-fhir",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-connect-update-record-fhir"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-connect-user-permissions",
+    "mirror_name": "nhsdigital.gp-connect-user-permissions",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-connect-user-permissions",
+    "name": "gp-connect-user-permissions",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-connect-user-permissions"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.gp-registrations-management-information-api",
@@ -18815,6 +18925,16 @@
     "name": "prototype-nhs-caas",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/prototype-nhs-caas"
+  },
+  {
+    "deleted_on": "2026-09-18",
+    "description": "A python package to create tests and report test results to NHSD JIRA.",
+    "full_name": "uk-gov-mirror/nhsdigital.pytest-jira-zephyr-reporter",
+    "mirror_name": "nhsdigital.pytest-jira-zephyr-reporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.pytest-jira-zephyr-reporter",
+    "name": "pytest-jira-zephyr-reporter",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/pytest-jira-zephyr-reporter"
   },
   {
     "approximate_date_source": "last-git-activity",
