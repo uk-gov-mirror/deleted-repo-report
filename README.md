@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1900**
+Total deleted repositories: **1901**
 Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,7 +9,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**273**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
 | [nhsdigital](https://github.com/nhsdigital) | [**251**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 54.6% |
 | [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.0% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
@@ -82,10 +82,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (272)
+## [ministryofjustice](https://github.com/ministryofjustice) (273)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-sre-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-19 |
 | [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
 | [`laa-provider-data-platform`](https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform) | The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules) | 2026-09-18 |
 | [`laa-test-a-provider-data-ui`](https://github.com/uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui) |  | 2026-09-18 |
@@ -1935,10 +1936,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`fe-account-header`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header) |  | 2026-09-11 |
-| [`fe-cookie-banner`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner) |  | 2026-09-11 |
-| [`fe-dashboard-ui`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui) |  | 2026-09-11 |
-| [`fe-nextjs-gds-starter`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter) |  | 2026-09-11 |
+| [`fe-account-header.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18) |  | 2026-09-19 |
+| [`fe-cookie-banner.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18) |  | 2026-09-19 |
+| [`fe-dashboard-ui.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18) |  | 2026-09-19 |
+| [`fe-nextjs-gds-starter.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18) |  | 2026-09-19 |
 | [`ctc-company.replaced.2026-09-03`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-company.replaced.2026-09-03) | Open sourced code for IPO's CTC Company microservice | 2026-09-03 |
 | [`ctc-address.replaced.2026-08-20`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-address.replaced.2026-08-20) |  | 2026-08-21 |
 | [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
@@ -2183,8 +2184,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`TICLR.replaced.2026-09-18`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR.replaced.2026-09-18) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-19 |
 | [`data_management_system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ukhsa-collaboration.data_management_system.replaced.2026-09-03) | NDRS Data Management System | 2026-09-11 |
-| [`TICLR`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-05 |
 
 ## [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) (1)
 

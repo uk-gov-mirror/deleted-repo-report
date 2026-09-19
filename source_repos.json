@@ -12119,44 +12119,44 @@
     "original_url": "https://github.com/intellectual-property-office/ctc-helloworld"
   },
   {
-    "deleted_on": "2026-09-11",
+    "deleted_on": "2026-09-19",
     "description": null,
-    "full_name": "uk-gov-mirror/intellectual-property-office.fe-account-header",
-    "mirror_name": "intellectual-property-office.fe-account-header",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header",
-    "name": "fe-account-header",
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18",
+    "mirror_name": "intellectual-property-office.fe-account-header.replaced.2026-09-18",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18",
+    "name": "fe-account-header.replaced.2026-09-18",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/fe-account-header"
+    "original_url": "https://github.com/intellectual-property-office/fe-account-header.replaced.2026-09-18"
   },
   {
-    "deleted_on": "2026-09-11",
+    "deleted_on": "2026-09-19",
     "description": null,
-    "full_name": "uk-gov-mirror/intellectual-property-office.fe-cookie-banner",
-    "mirror_name": "intellectual-property-office.fe-cookie-banner",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner",
-    "name": "fe-cookie-banner",
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18",
+    "mirror_name": "intellectual-property-office.fe-cookie-banner.replaced.2026-09-18",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18",
+    "name": "fe-cookie-banner.replaced.2026-09-18",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/fe-cookie-banner"
+    "original_url": "https://github.com/intellectual-property-office/fe-cookie-banner.replaced.2026-09-18"
   },
   {
-    "deleted_on": "2026-09-11",
+    "deleted_on": "2026-09-19",
     "description": null,
-    "full_name": "uk-gov-mirror/intellectual-property-office.fe-dashboard-ui",
-    "mirror_name": "intellectual-property-office.fe-dashboard-ui",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui",
-    "name": "fe-dashboard-ui",
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18",
+    "mirror_name": "intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18",
+    "name": "fe-dashboard-ui.replaced.2026-09-18",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/fe-dashboard-ui"
+    "original_url": "https://github.com/intellectual-property-office/fe-dashboard-ui.replaced.2026-09-18"
   },
   {
-    "deleted_on": "2026-09-11",
+    "deleted_on": "2026-09-19",
     "description": null,
-    "full_name": "uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter",
-    "mirror_name": "intellectual-property-office.fe-nextjs-gds-starter",
-    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter",
-    "name": "fe-nextjs-gds-starter",
+    "full_name": "uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18",
+    "mirror_name": "intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18",
+    "mirror_url": "https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18",
+    "name": "fe-nextjs-gds-starter.replaced.2026-09-18",
     "org": "intellectual-property-office",
-    "original_url": "https://github.com/intellectual-property-office/fe-nextjs-gds-starter"
+    "original_url": "https://github.com/intellectual-property-office/fe-nextjs-gds-starter.replaced.2026-09-18"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -14241,6 +14241,16 @@
     "name": "hmpps-spring-boot-2.6-bug",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-spring-boot-2.6-bug"
+  },
+  {
+    "deleted_on": "2026-09-19",
+    "description": "A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib",
+    "mirror_name": "ministryofjustice.hmpps-sre-python-lib",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib",
+    "name": "hmpps-sre-python-lib",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-sre-python-lib"
   },
   {
     "deleted_on": "2026-08-22",
@@ -19775,14 +19785,14 @@
     "original_url": "https://github.com/ukforeignoffice/verify-apostille-smoke-tests"
   },
   {
-    "deleted_on": "2026-09-05",
+    "deleted_on": "2026-09-19",
     "description": "TICLR is a Timeline for Infection Clusters tool. ",
-    "full_name": "uk-gov-mirror/ukhsa-collaboration.TICLR",
-    "mirror_name": "ukhsa-collaboration.TICLR",
-    "mirror_url": "https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR",
-    "name": "TICLR",
+    "full_name": "uk-gov-mirror/ukhsa-collaboration.TICLR.replaced.2026-09-18",
+    "mirror_name": "ukhsa-collaboration.TICLR.replaced.2026-09-18",
+    "mirror_url": "https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR.replaced.2026-09-18",
+    "name": "TICLR.replaced.2026-09-18",
     "org": "ukhsa-collaboration",
-    "original_url": "https://github.com/ukhsa-collaboration/TICLR"
+    "original_url": "https://github.com/ukhsa-collaboration/TICLR.replaced.2026-09-18"
   },
   {
     "deleted_on": "2026-09-11",

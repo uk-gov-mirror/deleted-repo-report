@@ -6,6 +6,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-account-header.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18) |  | 2026-09-19 |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-cookie-banner.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18) |  | 2026-09-19 |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-dashboard-ui.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18) |  | 2026-09-19 |
+| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-nextjs-gds-starter.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18) |  | 2026-09-19 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-sre-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-19 |
+| [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [`TICLR.replaced.2026-09-18`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR.replaced.2026-09-18) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-19 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-parent`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent) | Census 2031 FWMT: shared Maven parent BOM | 2026-09-18 |
@@ -33,10 +39,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [digital-land](https://github.com/digital-land) | [`static-prototypes`](https://github.com/uk-gov-mirror/digital-land.static-prototypes) | An attempt to replicate our prototypes and the govuk prototype kit as a static site in github pages using eleventy. (This probably won't work)) | 2026-09-11 |
 | [digital-land](https://github.com/digital-land) | [`terraform-upgrade-test`](https://github.com/uk-gov-mirror/digital-land.terraform-upgrade-test) |  | 2026-09-11 |
 | [digital-land](https://github.com/digital-land) | [`validators`](https://github.com/uk-gov-mirror/digital-land.validators) | Make sure that data meets the specification for the collections. | 2026-09-11 |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-account-header`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header) |  | 2026-09-11 |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-cookie-banner`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner) |  | 2026-09-11 |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-dashboard-ui`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui) |  | 2026-09-11 |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-nextjs-gds-starter`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter) |  | 2026-09-11 |
 | [nhsdigital](https://github.com/nhsdigital) | [`ASC-Client-Level-Data-SALT-ASCOF-transformations`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Client-Level-Data-SALT-ASCOF-transformations) |  | 2026-09-11 |
 | [nhsdigital](https://github.com/nhsdigital) | [`ASC-Safeguarding-Adults`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults) | Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts. | 2026-09-11 |
 | [nhsdigital](https://github.com/nhsdigital) | [`ASC-User-Survey`](https://github.com/uk-gov-mirror/nhsdigital.ASC-User-Survey) | Code repository for the Personal Social Services Adult Social Care Survey publication | 2026-09-11 |
@@ -116,7 +118,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsdigital](https://github.com/nhsdigital) | [`cypkg-nextjs-opennext`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-nextjs-opennext) |  | 2026-09-05 |
 | [nhsdigital](https://github.com/nhsdigital) | [`cypkg-test-package`](https://github.com/uk-gov-mirror/nhsdigital.cypkg-test-package) |  | 2026-09-05 |
 | [nhsdigital](https://github.com/nhsdigital) | [`nhs-notify-release-tests`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-release-tests) | Automated functional release tests for NHS Notify  | 2026-09-05 |
-| [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [`TICLR`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-05 |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [`library-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03) |  | 2026-09-04 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`sturdy-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.sturdy-fishstick) |  | 2026-09-04 |
 | [nhsdigital](https://github.com/nhsdigital) | [`health-research-data-catalogue`](https://github.com/uk-gov-mirror/nhsdigital.health-research-data-catalogue) |  | 2026-09-04 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [`fco-enquiry-handling-styling`](https://github.com/uk-gov-mirror/ukforeignoffice.fco-enquiry-handling-styling) | Styling used to customise Dynamics portal pages for FCO enquiry handling | 2022-08-04* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-currentopportunities`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-currentopportunities) |  | 2022-08-03* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-grafana`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-grafana) |  | 2022-08-01* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`aws-trusted-advisor-to-github-issues`](https://github.com/uk-gov-mirror/ministryofjustice.aws-trusted-advisor-to-github-issues) | Automates creation of GitHub Issues from AWS Trusted Advisor checks | 2022-07-28* |
