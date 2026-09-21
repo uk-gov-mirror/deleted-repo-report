@@ -6,11 +6,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-account-header.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18) |  | 2026-09-19 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-cookie-banner.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18) |  | 2026-09-19 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-dashboard-ui.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-dashboard-ui.replaced.2026-09-18) |  | 2026-09-19 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-nextjs-gds-starter.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-nextjs-gds-starter.replaced.2026-09-18) |  | 2026-09-19 |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-sre-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-19 |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [`TICLR.replaced.2026-09-18`](https://github.com/uk-gov-mirror/ukhsa-collaboration.TICLR.replaced.2026-09-18) | TICLR is a Timeline for Infection Clusters tool.  | 2026-09-19 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |

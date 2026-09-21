@@ -14243,14 +14243,14 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-spring-boot-2.6-bug"
   },
   {
-    "deleted_on": "2026-09-19",
+    "deleted_on": "2026-09-21",
     "description": "A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14)",
-    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib",
-    "mirror_name": "ministryofjustice.hmpps-sre-python-lib",
-    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib",
-    "name": "hmpps-sre-python-lib",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20",
+    "mirror_name": "ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20",
+    "name": "hmpps-sre-python-lib.replaced.2026-09-20",
     "org": "ministryofjustice",
-    "original_url": "https://github.com/ministryofjustice/hmpps-sre-python-lib"
+    "original_url": "https://github.com/ministryofjustice/hmpps-sre-python-lib.replaced.2026-09-20"
   },
   {
     "deleted_on": "2026-08-22",

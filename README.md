@@ -86,7 +86,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`hmpps-sre-python-lib`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-19 |
+| [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
 | [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
 | [`laa-provider-data-platform`](https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform) | The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules) | 2026-09-18 |
 | [`laa-test-a-provider-data-ui`](https://github.com/uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui) |  | 2026-09-18 |
