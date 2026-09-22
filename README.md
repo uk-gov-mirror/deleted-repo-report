@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1901**
+Total deleted repositories: **1904**
 Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,8 +10,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**273**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**251**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 54.6% |
-| [hmrc](https://github.com/hmrc) | [**201**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.0% |
+| [nhsdigital](https://github.com/nhsdigital) | [**252**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 55.6% |
+| [hmrc](https://github.com/hmrc) | [**203**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -360,10 +360,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (251)
+## [nhsdigital](https://github.com/nhsdigital) (252)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`integration-adaptors-deployment`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment) | Deployment code for the National Integration Adaptors | 2026-09-22 |
 | [`gp-connect-second-generation`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation) |  | 2026-09-18 |
 | [`gp-connect-update-record-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir) |  | 2026-09-18 |
 | [`gp-connect-user-permissions`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-user-permissions) |  | 2026-09-18 |
@@ -616,10 +617,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (201)
+## [hmrc](https://github.com/hmrc) (203)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`init-service-test-v26-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend) |  | 2026-09-22 |
+| [`init-service-test-v27-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend) |  | 2026-09-22 |
 | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
 | [`death-in-service-performance-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-performance-tests) |  | 2026-09-15 |
 | [`death-in-service-ui-tests`](https://github.com/uk-gov-mirror/hmrc.death-in-service-ui-tests) |  | 2026-09-15 |

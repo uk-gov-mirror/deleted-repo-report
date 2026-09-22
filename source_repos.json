@@ -8910,6 +8910,26 @@
     "original_url": "https://github.com/hmrc/individuals-income-received-api"
   },
   {
+    "deleted_on": "2026-09-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.init-service-test-v26-frontend",
+    "mirror_name": "hmrc.init-service-test-v26-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend",
+    "name": "init-service-test-v26-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/init-service-test-v26-frontend"
+  },
+  {
+    "deleted_on": "2026-09-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.init-service-test-v27-frontend",
+    "mirror_name": "hmrc.init-service-test-v27-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend",
+    "name": "init-service-test-v27-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/init-service-test-v27-frontend"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-16",
     "description": null,
@@ -18012,6 +18032,16 @@
     "name": "integration-adaptor-gpc-consumer",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/integration-adaptor-gpc-consumer"
+  },
+  {
+    "deleted_on": "2026-09-22",
+    "description": "Deployment code for the National Integration Adaptors",
+    "full_name": "uk-gov-mirror/nhsdigital.integration-adaptors-deployment",
+    "mirror_name": "nhsdigital.integration-adaptors-deployment",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment",
+    "name": "integration-adaptors-deployment",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/integration-adaptors-deployment"
   },
   {
     "deleted_on": "2026-09-09",

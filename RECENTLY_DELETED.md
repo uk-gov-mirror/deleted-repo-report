@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [hmrc](https://github.com/hmrc) | [`init-service-test-v26-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend) |  | 2026-09-22 |
+| [hmrc](https://github.com/hmrc) | [`init-service-test-v27-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend) |  | 2026-09-22 |
+| [nhsdigital](https://github.com/nhsdigital) | [`integration-adaptors-deployment`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment) | Deployment code for the National Integration Adaptors | 2026-09-22 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-account-header.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-account-header.replaced.2026-09-18) |  | 2026-09-19 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`fe-cookie-banner.replaced.2026-09-18`](https://github.com/uk-gov-mirror/intellectual-property-office.fe-cookie-banner.replaced.2026-09-18) |  | 2026-09-19 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-findacourse`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-findacourse) | Composite app for find a course | 2022-09-21* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-prototypes`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-prototypes) |  | 2022-09-06* |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`probation-offender-search-indexer`](https://github.com/uk-gov-mirror/ministryofjustice.probation-offender-search-indexer) |  | 2022-08-10* |
-| [ukforeignoffice](https://github.com/ukforeignoffice) | [`fco-enquiry-handling-styling`](https://github.com/uk-gov-mirror/ukforeignoffice.fco-enquiry-handling-styling) | Styling used to customise Dynamics portal pages for FCO enquiry handling | 2022-08-04* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-currentopportunities`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-currentopportunities) |  | 2022-08-03* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-grafana`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-grafana) |  | 2022-08-01* |
