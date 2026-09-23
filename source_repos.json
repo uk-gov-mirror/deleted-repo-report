@@ -14513,6 +14513,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-maat-scheduled-tasks"
   },
   {
+    "deleted_on": "2026-09-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data",
+    "mirror_name": "ministryofjustice.laa-manage-a-providers-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data",
+    "name": "laa-manage-a-providers-data",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-manage-a-providers-data"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-09-18",
     "description": "Not on LIBRA Auto Search Application",
@@ -19075,6 +19085,16 @@
     "original_url": "https://github.com/nhsdigital/shared-flow-testing"
   },
   {
+    "deleted_on": "2026-09-23",
+    "description": "Guidance for the SPI App",
+    "full_name": "uk-gov-mirror/nhsdigital.spi-guidance-backup",
+    "mirror_name": "nhsdigital.spi-guidance-backup",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.spi-guidance-backup",
+    "name": "spi-guidance-backup",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/spi-guidance-backup"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -19409,6 +19429,26 @@
     "name": "nhs-notify-prototype.replaced.2026-09-02",
     "org": "nhsuk-archive",
     "original_url": "https://github.com/nhsuk-archive/nhs-notify-prototype.replaced.2026-09-02"
+  },
+  {
+    "deleted_on": "2026-09-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration",
+    "mirror_name": "nhsuk-archive.nhsuk-homepage-exploration",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration",
+    "name": "nhsuk-homepage-exploration",
+    "org": "nhsuk-archive",
+    "original_url": "https://github.com/nhsuk-archive/nhsuk-homepage-exploration"
+  },
+  {
+    "deleted_on": "2026-09-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration2",
+    "mirror_name": "nhsuk-archive.nhsuk-homepage-exploration2",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration2",
+    "name": "nhsuk-homepage-exploration2",
+    "org": "nhsuk-archive",
+    "original_url": "https://github.com/nhsuk-archive/nhsuk-homepage-exploration2"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

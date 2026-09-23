@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1904**
+Total deleted repositories: **1908**
 Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**273**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**252**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 55.6% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
+| [nhsdigital](https://github.com/nhsdigital) | [**253**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 55.8% |
 | [hmrc](https://github.com/hmrc) | [**203**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -50,6 +50,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 9.5% |
+| [nhsuk-archive](https://github.com/nhsuk-archive) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 1.6% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
@@ -77,15 +78,15 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [forestresearch](https://github.com/forestresearch) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22forestresearch.%22) | 25.0% |
 | [govuk-one-login](https://github.com/govuk-one-login) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-one-login.%22) | 0.5% |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.7% |
-| [nhsuk-archive](https://github.com/nhsuk-archive) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 0.5% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (273)
+## [ministryofjustice](https://github.com/ministryofjustice) (274)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`laa-manage-a-providers-data`](https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data) |  | 2026-09-23 |
 | [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
 | [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
 | [`laa-provider-data-platform`](https://github.com/uk-gov-mirror/ministryofjustice.laa-provider-data-platform) | The Provider Data API r2 will own data about provider firms and offices (and, later on, contracts and schedules) | 2026-09-18 |
@@ -360,10 +361,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (252)
+## [nhsdigital](https://github.com/nhsdigital) (253)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`spi-guidance-backup`](https://github.com/uk-gov-mirror/nhsdigital.spi-guidance-backup) | Guidance for the SPI App | 2026-09-23 |
 | [`integration-adaptors-deployment`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment) | Deployment code for the National Integration Adaptors | 2026-09-22 |
 | [`gp-connect-second-generation`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation) |  | 2026-09-18 |
 | [`gp-connect-update-record-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-update-record-fhir) |  | 2026-09-18 |
@@ -2155,6 +2157,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
 | [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
 
+## [nhsuk-archive](https://github.com/nhsuk-archive) (3)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`nhsuk-homepage-exploration`](https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration) |  | 2026-09-23 |
+| [`nhsuk-homepage-exploration2`](https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration2) |  | 2026-09-23 |
+| [`nhs-notify-prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02) | A prototype to test design assumptions for the NHS Notify service. | 2026-09-03 |
+
 ## [FoodStandardsAgency](https://github.com/FoodStandardsAgency) (2)
 
 | Repository | Description | Deleted On |
@@ -2321,12 +2331,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`rap-committee`](https://github.com/uk-gov-mirror/nhs-oa-community.rap-committee) | Materials for the NHS-OA RAP committee | 2026-09-16 |
-
-## [nhsuk-archive](https://github.com/nhsuk-archive) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`nhs-notify-prototype.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsuk-archive.nhs-notify-prototype.replaced.2026-09-02) | A prototype to test design assumptions for the NHS Notify service. | 2026-09-03 |
 
 ## [nottmhospitals](https://github.com/nottmhospitals) (1)
 

@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-manage-a-providers-data`](https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data) |  | 2026-09-23 |
+| [nhsdigital](https://github.com/nhsdigital) | [`spi-guidance-backup`](https://github.com/uk-gov-mirror/nhsdigital.spi-guidance-backup) | Guidance for the SPI App | 2026-09-23 |
+| [nhsuk-archive](https://github.com/nhsuk-archive) | [`nhsuk-homepage-exploration`](https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration) |  | 2026-09-23 |
+| [nhsuk-archive](https://github.com/nhsuk-archive) | [`nhsuk-homepage-exploration2`](https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration2) |  | 2026-09-23 |
 | [hmrc](https://github.com/hmrc) | [`init-service-test-v26-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend) |  | 2026-09-22 |
 | [hmrc](https://github.com/hmrc) | [`init-service-test-v27-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend) |  | 2026-09-22 |
 | [nhsdigital](https://github.com/nhsdigital) | [`integration-adaptors-deployment`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment) | Deployment code for the National Integration Adaptors | 2026-09-22 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [`ukwa-warc-server`](https://github.com/uk-gov-mirror/ukwa.ukwa-warc-server) | Serves our WARC files for playback, wherever they may lie. | 2023-01-05* |
 | [ukwa](https://github.com/ukwa) | [`webarchive-hadoop-utils`](https://github.com/uk-gov-mirror/ukwa.webarchive-hadoop-utils) | Utilities for working with WARC files stored on HDFS. | 2023-01-05* |
 | [nationalarchives](https://github.com/nationalarchives) | [`tdr-e2e-tests`](https://github.com/uk-gov-mirror/nationalarchives.tdr-e2e-tests) | End to end test for the TDR application | 2022-12-25* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`ghbfs-cms-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ghbfs-cms-prototype) |  | 2022-09-30* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-findacourse`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-findacourse) | Composite app for find a course | 2022-09-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-prototypes`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-prototypes) |  | 2022-09-06* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`probation-offender-search-indexer`](https://github.com/uk-gov-mirror/ministryofjustice.probation-offender-search-indexer) |  | 2022-08-10* |
