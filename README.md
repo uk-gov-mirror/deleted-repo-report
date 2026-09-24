@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1908**
+Total deleted repositories: **1912**
 Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,7 +10,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**253**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 55.8% |
+| [nhsdigital](https://github.com/nhsdigital) | [**257**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 56.9% |
 | [hmrc](https://github.com/hmrc) | [**203**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -361,10 +361,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (253)
+## [nhsdigital](https://github.com/nhsdigital) (257)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`ASC-Outcomes-Framework`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework) | This is the code repository for Adult Social Care Outcomes Framework (ASCOF) | 2026-09-24 |
+| [`national-proxy-service-integration-docs`](https://github.com/uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs) | Documentation to support integration activity with the National Proxy Service across clinical systems and patient-facing applications. It complements the formal API specifications, FHIR profiles, and message schemas. | 2026-09-24 |
+| [`sde_example_analysis`](https://github.com/uk-gov-mirror/nhsdigital.sde_example_analysis) | Example of what you can do in Databricks in the Secure Data Environment (SDE) using Python, SQL, and R. | 2026-09-24 |
+| [`terraform-aws-metrics-lambda`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-metrics-lambda) |  | 2026-09-24 |
 | [`spi-guidance-backup`](https://github.com/uk-gov-mirror/nhsdigital.spi-guidance-backup) | Guidance for the SPI App | 2026-09-23 |
 | [`integration-adaptors-deployment`](https://github.com/uk-gov-mirror/nhsdigital.integration-adaptors-deployment) | Deployment code for the National Integration Adaptors | 2026-09-22 |
 | [`gp-connect-second-generation`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-second-generation) |  | 2026-09-18 |

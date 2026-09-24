@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [nhsdigital](https://github.com/nhsdigital) | [`ASC-Outcomes-Framework`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework) | This is the code repository for Adult Social Care Outcomes Framework (ASCOF) | 2026-09-24 |
+| [nhsdigital](https://github.com/nhsdigital) | [`national-proxy-service-integration-docs`](https://github.com/uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs) | Documentation to support integration activity with the National Proxy Service across clinical systems and patient-facing applications. It complements the formal API specifications, FHIR profiles, and message schemas. | 2026-09-24 |
+| [nhsdigital](https://github.com/nhsdigital) | [`sde_example_analysis`](https://github.com/uk-gov-mirror/nhsdigital.sde_example_analysis) | Example of what you can do in Databricks in the Secure Data Environment (SDE) using Python, SQL, and R. | 2026-09-24 |
+| [nhsdigital](https://github.com/nhsdigital) | [`terraform-aws-metrics-lambda`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-metrics-lambda) |  | 2026-09-24 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-manage-a-providers-data`](https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data) |  | 2026-09-23 |
 | [nhsdigital](https://github.com/nhsdigital) | [`spi-guidance-backup`](https://github.com/uk-gov-mirror/nhsdigital.spi-guidance-backup) | Guidance for the SPI App | 2026-09-23 |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [`nhsuk-homepage-exploration`](https://github.com/uk-gov-mirror/nhsuk-archive.nhsuk-homepage-exploration) |  | 2026-09-23 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [`text-id`](https://github.com/uk-gov-mirror/ukwa.text-id) | Experiments in identifying text-based formats | 2023-01-05* |
 | [ukwa](https://github.com/ukwa) | [`ukwa-hadoop-tasks`](https://github.com/uk-gov-mirror/ukwa.ukwa-hadoop-tasks) | Tasks used to analyse the web archives, generating datasets, etc. | 2023-01-05* |
 | [ukwa](https://github.com/ukwa) | [`ukwa-player`](https://github.com/uk-gov-mirror/ukwa.ukwa-player) | Highly experimental sketch of a hi-fidelity web archive 'player' for proxy-based access | 2023-01-05* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-tasks`](https://github.com/uk-gov-mirror/ukwa.ukwa-tasks) | Luigi tasks for running Hadoop jobs and managing material held on HDFS | 2023-01-05* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-warc-server`](https://github.com/uk-gov-mirror/ukwa.ukwa-warc-server) | Serves our WARC files for playback, wherever they may lie. | 2023-01-05* |
-| [ukwa](https://github.com/ukwa) | [`webarchive-hadoop-utils`](https://github.com/uk-gov-mirror/ukwa.webarchive-hadoop-utils) | Utilities for working with WARC files stored on HDFS. | 2023-01-05* |
-| [nationalarchives](https://github.com/nationalarchives) | [`tdr-e2e-tests`](https://github.com/uk-gov-mirror/nationalarchives.tdr-e2e-tests) | End to end test for the TDR application | 2022-12-25* |

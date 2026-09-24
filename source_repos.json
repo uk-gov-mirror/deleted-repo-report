@@ -16647,6 +16647,16 @@
     "original_url": "https://github.com/nhsdigital/ASC-Client-Level-Data-SALT-ASCOF-transformations"
   },
   {
+    "deleted_on": "2026-09-24",
+    "description": "This is the code repository for Adult Social Care Outcomes Framework (ASCOF)",
+    "full_name": "uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework",
+    "mirror_name": "nhsdigital.ASC-Outcomes-Framework",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework",
+    "name": "ASC-Outcomes-Framework",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/ASC-Outcomes-Framework"
+  },
+  {
     "deleted_on": "2026-09-11",
     "description": "Safeguarding Adults is a legal obligation for English Councils responsible for Adult Social Services. It aims to protect vulnerable adults from abuse or neglect. The Safeguarding Adults Collection (SAC) gathers data from these councils, generating insights on national, regional, and local safeguarding efforts.",
     "full_name": "uk-gov-mirror/nhsdigital.ASC-Safeguarding-Adults",
@@ -18287,6 +18297,16 @@
     "original_url": "https://github.com/nhsdigital/national-imaging-repository-specification"
   },
   {
+    "deleted_on": "2026-09-24",
+    "description": "Documentation to support integration activity with the National Proxy Service across clinical systems and patient-facing applications. It complements the formal API specifications, FHIR profiles, and message schemas.",
+    "full_name": "uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs",
+    "mirror_name": "nhsdigital.national-proxy-service-integration-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs",
+    "name": "national-proxy-service-integration-docs",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/national-proxy-service-integration-docs"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-10-31",
     "description": null,
@@ -19063,6 +19083,16 @@
     "original_url": "https://github.com/nhsdigital/screening-ansible"
   },
   {
+    "deleted_on": "2026-09-24",
+    "description": "Example of what you can do in Databricks in the Secure Data Environment (SDE) using Python, SQL, and R.",
+    "full_name": "uk-gov-mirror/nhsdigital.sde_example_analysis",
+    "mirror_name": "nhsdigital.sde_example_analysis",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.sde_example_analysis",
+    "name": "sde_example_analysis",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/sde_example_analysis"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -19148,6 +19178,16 @@
     "name": "terraform-aws-mesh-common",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/terraform-aws-mesh-common"
+  },
+  {
+    "deleted_on": "2026-09-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.terraform-aws-metrics-lambda",
+    "mirror_name": "nhsdigital.terraform-aws-metrics-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-metrics-lambda",
+    "name": "terraform-aws-metrics-lambda",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/terraform-aws-metrics-lambda"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
