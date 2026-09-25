@@ -6,6 +6,26 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHSLeadership](https://github.com/NHSLeadership) | [`nhsl-ubuntu-php`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php) | Production Docker images for NHS LA sites. | 2026-09-25 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-AE-three-nations-comparison`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison) |  | 2026-09-25 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-monthly-AE-MI`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI) | Monthly management information processing | 2026-09-25 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-monthly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-sg-acute-beds-collection`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection) |  | 2026-09-25 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-weekly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [companieshouse](https://github.com/companieshouse) | [`infrastructure-packer-runner`](https://github.com/uk-gov-mirror/companieshouse.infrastructure-packer-runner) | Provides a Docker image to run packer builds | 2026-09-25 |
+| [hmrc](https://github.com/hmrc) | [`carf-reporting-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests) |  | 2026-09-25 |
+| [hmrc](https://github.com/hmrc) | [`customs-declaration-metrics-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test) |  | 2026-09-25 |
+| [hmrc](https://github.com/hmrc) | [`rds-datacache-proxy-performance-tests`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`Ronald-RSV-invite`](https://github.com/uk-gov-mirror/nhsdigital.Ronald-RSV-invite) | Ronald receives his RSV invite | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`elective-waiting-list-api`](https://github.com/uk-gov-mirror/nhsdigital.elective-waiting-list-api) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`gp-connect-appointments-management-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-appointments-management-fhir) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`immunisation-batch`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-batch) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`mmh-screening-and-vaccs`](https://github.com/uk-gov-mirror/nhsdigital.mmh-screening-and-vaccs) | Managing my health – first experiment | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`patient-care-aggregator-api`](https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-api) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`patient-care-aggregator-reporting`](https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-reporting) |  | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`risk-stratification-calculator`](https://github.com/uk-gov-mirror/nhsdigital.risk-stratification-calculator) | This contains the source code for the Calculator Tool from the NHSD Risk Stratification Programme | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`vaccs-service-ping`](https://github.com/uk-gov-mirror/nhsdigital.vaccs-service-ping) | A backing repo, cron and script to connect to Slack via Webhook and alert for VDS URLs being down | 2026-09-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`validated-relationships-service-api`](https://github.com/uk-gov-mirror/nhsdigital.validated-relationships-service-api) | RESTful FHIR API for the Validated Relationship Service | 2026-09-25 |
 | [nhsdigital](https://github.com/nhsdigital) | [`ASC-Outcomes-Framework`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework) | This is the code repository for Adult Social Care Outcomes Framework (ASCOF) | 2026-09-24 |
 | [nhsdigital](https://github.com/nhsdigital) | [`national-proxy-service-integration-docs`](https://github.com/uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs) | Documentation to support integration activity with the National Proxy Service across clinical systems and patient-facing applications. It complements the formal API specifications, FHIR profiles, and message schemas. | 2026-09-24 |
 | [nhsdigital](https://github.com/nhsdigital) | [`sde_example_analysis`](https://github.com/uk-gov-mirror/nhsdigital.sde_example_analysis) | Example of what you can do in Databricks in the Secure Data Environment (SDE) using Python, SQL, and R. | 2026-09-24 |
@@ -986,23 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [`membership`](https://github.com/uk-gov-mirror/LocalGovDigital.membership) | Documents relating to LocalGov Digital membership | 2023-01-27* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-overview`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-overview) | Composite applet for Job Profile Overview | 2023-01-27* |
-| [dvla](https://github.com/dvla) | [`vrm-retention-online`](https://github.com/uk-gov-mirror/dvla.vrm-retention-online) | Web application for the personalised registration service | 2023-01-27* |
-| [dwp](https://github.com/dwp) | [`compensation-recovery-unit`](https://github.com/uk-gov-mirror/dwp.compensation-recovery-unit) | This repo will house code for research prototypes for the Compensation Recovery Unit | 2023-01-27* |
-| [insolvencyservice](https://github.com/insolvencyservice) | [`github-subscribe`](https://github.com/uk-gov-mirror/insolvencyservice.github-subscribe) | Automate subscription of slack to GitHub repositories | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`Frontend-Build-Tool`](https://github.com/uk-gov-mirror/intellectual-property-office.Frontend-Build-Tool) | UK Intellectual Property Office Frontend Build Tool | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`Graphics`](https://github.com/uk-gov-mirror/intellectual-property-office.Graphics) |  | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`HtmlHelpers`](https://github.com/uk-gov-mirror/intellectual-property-office.HtmlHelpers) | MVC Html Helpers to render GOV.UK styled controls | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`Outreach-Patents`](https://github.com/uk-gov-mirror/intellectual-property-office.Outreach-Patents) | UK Patents Alpha (Outreach SaaS) | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`PDF-Generator`](https://github.com/uk-gov-mirror/intellectual-property-office.PDF-Generator) | Source for  | 2023-01-27* |
-| [intellectual-property-office](https://github.com/intellectual-property-office) | [`Services`](https://github.com/uk-gov-mirror/intellectual-property-office.Services) | IPO Services | 2023-01-27* |
-| [jncc](https://github.com/jncc) | [`marine-mapping`](https://github.com/uk-gov-mirror/jncc.marine-mapping) | Repository for Marine Mapping team collaboration. | 2023-01-27* |
-| [nhsconnect](https://github.com/nhsconnect) | [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
-| [nhsconnect](https://github.com/nhsconnect) | [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
-| [dwp](https://github.com/dwp) | [`carersallowance-prototype`](https://github.com/uk-gov-mirror/dwp.carersallowance-prototype) |  | 2023-01-18* |
-| [dwp](https://github.com/dwp) | [`ciaad-prototype`](https://github.com/uk-gov-mirror/dwp.ciaad-prototype) |  | 2023-01-18* |
-| [dwp](https://github.com/dwp) | [`pip-prototype`](https://github.com/uk-gov-mirror/dwp.pip-prototype) |  | 2023-01-18* |
-| [dwp](https://github.com/dwp) | [`send-fitnote-prototype`](https://github.com/uk-gov-mirror/dwp.send-fitnote-prototype) |  | 2023-01-18* |
-| [ukwa](https://github.com/ukwa) | [`text-id`](https://github.com/uk-gov-mirror/ukwa.text-id) | Experiments in identifying text-based formats | 2023-01-05* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-hadoop-tasks`](https://github.com/uk-gov-mirror/ukwa.ukwa-hadoop-tasks) | Tasks used to analyse the web archives, generating datasets, etc. | 2023-01-05* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-player`](https://github.com/uk-gov-mirror/ukwa.ukwa-player) | Highly experimental sketch of a hi-fidelity web archive 'player' for proxy-based access | 2023-01-05* |

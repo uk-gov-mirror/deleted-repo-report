@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1912**
+Total deleted repositories: **1932**
 Organisations affected: **72**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,8 +10,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**257**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 56.9% |
-| [hmrc](https://github.com/hmrc) | [**203**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.1% |
+| [nhsdigital](https://github.com/nhsdigital) | [**267**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 59.9% |
+| [hmrc](https://github.com/hmrc) | [**206**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
@@ -19,8 +19,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
+| [companieshouse](https://github.com/companieshouse) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.3% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
-| [companieshouse](https://github.com/companieshouse) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.1% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**41**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.6% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
@@ -43,6 +43,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [jncc](https://github.com/jncc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22jncc.%22) | 8.1% |
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 4.8% |
 | [homesengland](https://github.com/homesengland) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22homesengland.%22) | 100.0% |
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-england-tools.%22) | 27.3% |
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
@@ -54,6 +55,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
+| [NHSLeadership](https://github.com/NHSLeadership) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 7.4% |
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.3% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
@@ -62,10 +64,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
-| [NHSLeadership](https://github.com/NHSLeadership) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 3.7% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
-| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
 | [TransportForLondon](https://github.com/TransportForLondon) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22TransportForLondon.%22) | 7.7% |
 | [UKHO](https://github.com/UKHO) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHO.%22) | 0.8% |
@@ -361,10 +361,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (257)
+## [nhsdigital](https://github.com/nhsdigital) (267)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`Ronald-RSV-invite`](https://github.com/uk-gov-mirror/nhsdigital.Ronald-RSV-invite) | Ronald receives his RSV invite | 2026-09-25 |
+| [`elective-waiting-list-api`](https://github.com/uk-gov-mirror/nhsdigital.elective-waiting-list-api) |  | 2026-09-25 |
+| [`gp-connect-appointments-management-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-appointments-management-fhir) |  | 2026-09-25 |
+| [`immunisation-batch`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-batch) |  | 2026-09-25 |
+| [`mmh-screening-and-vaccs`](https://github.com/uk-gov-mirror/nhsdigital.mmh-screening-and-vaccs) | Managing my health – first experiment | 2026-09-25 |
+| [`patient-care-aggregator-api`](https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-api) |  | 2026-09-25 |
+| [`patient-care-aggregator-reporting`](https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-reporting) |  | 2026-09-25 |
+| [`risk-stratification-calculator`](https://github.com/uk-gov-mirror/nhsdigital.risk-stratification-calculator) | This contains the source code for the Calculator Tool from the NHSD Risk Stratification Programme | 2026-09-25 |
+| [`vaccs-service-ping`](https://github.com/uk-gov-mirror/nhsdigital.vaccs-service-ping) | A backing repo, cron and script to connect to Slack via Webhook and alert for VDS URLs being down | 2026-09-25 |
+| [`validated-relationships-service-api`](https://github.com/uk-gov-mirror/nhsdigital.validated-relationships-service-api) | RESTful FHIR API for the Validated Relationship Service | 2026-09-25 |
 | [`ASC-Outcomes-Framework`](https://github.com/uk-gov-mirror/nhsdigital.ASC-Outcomes-Framework) | This is the code repository for Adult Social Care Outcomes Framework (ASCOF) | 2026-09-24 |
 | [`national-proxy-service-integration-docs`](https://github.com/uk-gov-mirror/nhsdigital.national-proxy-service-integration-docs) | Documentation to support integration activity with the National Proxy Service across clinical systems and patient-facing applications. It complements the formal API specifications, FHIR profiles, and message schemas. | 2026-09-24 |
 | [`sde_example_analysis`](https://github.com/uk-gov-mirror/nhsdigital.sde_example_analysis) | Example of what you can do in Databricks in the Secure Data Environment (SDE) using Python, SQL, and R. | 2026-09-24 |
@@ -623,10 +633,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (203)
+## [hmrc](https://github.com/hmrc) (206)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`carf-reporting-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests) |  | 2026-09-25 |
+| [`customs-declaration-metrics-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test) |  | 2026-09-25 |
+| [`rds-datacache-proxy-performance-tests`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests) |  | 2026-09-25 |
 | [`init-service-test-v26-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend) |  | 2026-09-22 |
 | [`init-service-test-v27-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend) |  | 2026-09-22 |
 | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
@@ -1506,6 +1519,55 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`external-ci-users`](https://github.com/uk-gov-mirror/dwp.external-ci-users) | Repo to manage users from a third-party CI/CD tool | 2020-08-20* |
 | [`technow-dwp`](https://github.com/uk-gov-mirror/dwp.technow-dwp) | Prototype for TechNow research (December 2018 onwards). |  |
 
+## [companieshouse](https://github.com/companieshouse) (44)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`infrastructure-packer-runner`](https://github.com/uk-gov-mirror/companieshouse.infrastructure-packer-runner) | Provides a Docker image to run packer builds | 2026-09-25 |
+| [`bulk-outputs-aws.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws.replaced.2026-09-03) |  | 2026-09-03 |
+| [`ch-design-system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.ch-design-system.replaced.2026-09-03) | The Companies House design system and docs | 2026-09-03 |
+| [`node-web-starter.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.node-web-starter.replaced.2026-09-03) | A starter project for web applications built with Node | 2026-09-03 |
+| [`registers-data-api.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.registers-data-api.replaced.2026-09-03) | REST API handling the company register data set. | 2026-09-03 |
+| [`innovation-accounts-statistics-tool`](https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool) | A statistics tool for the company-accounts project | 2026-08-14 |
+| [`account-validator-web`](https://github.com/uk-gov-mirror/companieshouse.account-validator-web) | A web frontend for the account-validation service, allowing users to test XBRL validation on their accounts. | 2026-05-27* |
+| [`acsp-manage-users-web`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-web) |  | 2026-05-27* |
+| [`your-companies-web`](https://github.com/uk-gov-mirror/companieshouse.your-companies-web) | its a webapp to define your companies journey | 2026-05-27* |
+| [`certificates.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.certificates.orders.api.ch.gov.uk) | CH API handling CRUD operations on certificate items for the CH Ordering Service | 2026-04-28* |
+| [`certified-copies.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.certified-copies.orders.api.ch.gov.uk) | CHS API using Java Springboot to enable certified copies to be ordered. | 2026-04-28* |
+| [`missing-image-delivery.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.missing-image-delivery.orders.api.ch.gov.uk) | CHS API using Java Springboot to enable scan upon demand requests to be ordered. | 2026-04-28* |
+| [`orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.orders.api.ch.gov.uk) | API handling CRUD operations on CH Ordering Service | 2026-04-28* |
+| [`ansible-role-informix-db`](https://github.com/uk-gov-mirror/companieshouse.ansible-role-informix-db) | An Ansible Galaxy role for configuring IBM Informix databases, including initialising dbspaces and chunks | 2026-04-06* |
+| [`company-profile-api`](https://github.com/uk-gov-mirror/companieshouse.company-profile-api) | Company Profile API | 2026-04-06* |
+| [`weblate-test1`](https://github.com/uk-gov-mirror/companieshouse.weblate-test1) | temp repo to test weblate | 2026-03-09* |
+| [`company-links-consumer`](https://github.com/uk-gov-mirror/companieshouse.company-links-consumer) | company-links-consumer | 2025-11-11* |
+| [`efs-submission-web`](https://github.com/uk-gov-mirror/companieshouse.efs-submission-web) | The Emergency Filing Service web application allows users to file forms by uploading electronic documents. | 2025-11-11* |
+| [`psc-extensions-api`](https://github.com/uk-gov-mirror/companieshouse.psc-extensions-api) | psc-extensions-api is a Spring Boot REST API which forms part of the Identification Verification (IDV) service and is responsible for handling and processing PSC Extention requests. | 2025-11-10* |
+| [`onboarding-portal-cms`](https://github.com/uk-gov-mirror/companieshouse.onboarding-portal-cms) |  | 2025-10-24* |
+| [`ewf-terraform`](https://github.com/uk-gov-mirror/companieshouse.ewf-terraform) |  | 2025-10-16* |
+| [`unix-dev-terraform`](https://github.com/uk-gov-mirror/companieshouse.unix-dev-terraform) | Terraform AWS dev environment  | 2025-10-14* |
+| [`acsp-manage-users-api`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-api) | API to manage users and  roles for an ACSP | 2025-09-18* |
+| [`digital-certified-copy-processor`](https://github.com/uk-gov-mirror/companieshouse.digital-certified-copy-processor) | Consuming messages from the item-ordered-certified-copy Kafka topic | 2025-08-21* |
+| [`charges-delta-consumer`](https://github.com/uk-gov-mirror/companieshouse.charges-delta-consumer) | charges-delta-consumer is responsible for transforming charges data from the charges-delta kafka as part of chips and chs data sync | 2025-08-01* |
+| [`ddat-scoring-app`](https://github.com/uk-gov-mirror/companieshouse.ddat-scoring-app) | Simple Express App for producing | 2025-03-12* |
+| [`ch-account-ui`](https://github.com/uk-gov-mirror/companieshouse.ch-account-ui) |  | 2021-04-20* |
+| [`psc-discrepancies.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.api.ch.gov.uk) | The Companies House API for handling PSC discrepancies | 2021-04-19* |
+| [`psc-discrepancies.web.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.web.ch.gov.uk) | Web application to gather PSC discrepancies from obliged entities. | 2021-04-16* |
+| [`ocr-api-consumer`](https://github.com/uk-gov-mirror/companieshouse.ocr-api-consumer) | Service to consume requests for extraction of text from images and manage the requests to the OCR API | 2021-03-31* |
+| [`swagger-fixer`](https://github.com/uk-gov-mirror/companieshouse.swagger-fixer) | Fixer for invalid swagger 1.2 and swagger 2.0 specs | 2021-01-02* |
+| [`cypress-webfiling`](https://github.com/uk-gov-mirror/companieshouse.cypress-webfiling) | Webfiling - accessibility | 2020-12-27* |
+| [`taf-upload-poc`](https://github.com/uk-gov-mirror/companieshouse.taf-upload-poc) |  | 2020-12-23* |
+| [`ansible-role-aws-command-line-interface`](https://github.com/uk-gov-mirror/companieshouse.ansible-role-aws-command-line-interface) | An Ansible Galaxy role for installing the AWS Command Line Interface tool | 2020-12-21* |
+| [`mongo-to-s3-export`](https://github.com/uk-gov-mirror/companieshouse.mongo-to-s3-export) | Lambda to export mongodb to S3. | 2020-12-08* |
+| [`chs-prototype`](https://github.com/uk-gov-mirror/companieshouse.chs-prototype) | UX prototype for CHS | 2020-12-06* |
+| [`poc-js-logger`](https://github.com/uk-gov-mirror/companieshouse.poc-js-logger) | PoC for logging in JavaScript for Node.JS applications | 2020-12-05* |
+| [`HtmlToPdfConverterTestTool`](https://github.com/uk-gov-mirror/companieshouse.HtmlToPdfConverterTestTool) | A tool that allows testing of the conversion so that we can test in isolation and avoid using paper prints. | 2020-11-21* |
+| [`terraform-library-elasticsearch`](https://github.com/uk-gov-mirror/companieshouse.terraform-library-elasticsearch) | Terraform library providing Elastic Search Clusters | 2020-11-08* |
+| [`service-topology-web`](https://github.com/uk-gov-mirror/companieshouse.service-topology-web) |  | 2020-10-03* |
+| [`ci-perl-build-legacy`](https://github.com/uk-gov-mirror/companieshouse.ci-perl-build-legacy) |  | 2020-08-12* |
+| [`chl-database-terraform`](https://github.com/uk-gov-mirror/companieshouse.chl-database-terraform) |  | 2020-07-29* |
+| [`taf-bris`](https://github.com/uk-gov-mirror/companieshouse.taf-bris) | Automated tests for the BRIS project | 2020-02-10* |
+| [`webincs-reskin-prototype`](https://github.com/uk-gov-mirror/companieshouse.webincs-reskin-prototype) |  |  |
+
 ## [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) (43)
 
 | Repository | Description | Deleted On |
@@ -1553,54 +1615,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opss-zip-generator`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.opss-zip-generator) | Zip generator for multicomponent upload testsing |  |
 | [`ppr-acceptance-tests`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.ppr-acceptance-tests) | *DEPRECATED* Cucumber/Gherkin-base tests for the payment-practices-reporting site |  |
 | [`scorecard-data-loader`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.scorecard-data-loader) | Utility to load scorecard data into mongo |  |
-
-## [companieshouse](https://github.com/companieshouse) (43)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`bulk-outputs-aws.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.bulk-outputs-aws.replaced.2026-09-03) |  | 2026-09-03 |
-| [`ch-design-system.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.ch-design-system.replaced.2026-09-03) | The Companies House design system and docs | 2026-09-03 |
-| [`node-web-starter.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.node-web-starter.replaced.2026-09-03) | A starter project for web applications built with Node | 2026-09-03 |
-| [`registers-data-api.replaced.2026-09-03`](https://github.com/uk-gov-mirror/companieshouse.registers-data-api.replaced.2026-09-03) | REST API handling the company register data set. | 2026-09-03 |
-| [`innovation-accounts-statistics-tool`](https://github.com/uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool) | A statistics tool for the company-accounts project | 2026-08-14 |
-| [`account-validator-web`](https://github.com/uk-gov-mirror/companieshouse.account-validator-web) | A web frontend for the account-validation service, allowing users to test XBRL validation on their accounts. | 2026-05-27* |
-| [`acsp-manage-users-web`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-web) |  | 2026-05-27* |
-| [`your-companies-web`](https://github.com/uk-gov-mirror/companieshouse.your-companies-web) | its a webapp to define your companies journey | 2026-05-27* |
-| [`certificates.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.certificates.orders.api.ch.gov.uk) | CH API handling CRUD operations on certificate items for the CH Ordering Service | 2026-04-28* |
-| [`certified-copies.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.certified-copies.orders.api.ch.gov.uk) | CHS API using Java Springboot to enable certified copies to be ordered. | 2026-04-28* |
-| [`missing-image-delivery.orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.missing-image-delivery.orders.api.ch.gov.uk) | CHS API using Java Springboot to enable scan upon demand requests to be ordered. | 2026-04-28* |
-| [`orders.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.orders.api.ch.gov.uk) | API handling CRUD operations on CH Ordering Service | 2026-04-28* |
-| [`ansible-role-informix-db`](https://github.com/uk-gov-mirror/companieshouse.ansible-role-informix-db) | An Ansible Galaxy role for configuring IBM Informix databases, including initialising dbspaces and chunks | 2026-04-06* |
-| [`company-profile-api`](https://github.com/uk-gov-mirror/companieshouse.company-profile-api) | Company Profile API | 2026-04-06* |
-| [`weblate-test1`](https://github.com/uk-gov-mirror/companieshouse.weblate-test1) | temp repo to test weblate | 2026-03-09* |
-| [`company-links-consumer`](https://github.com/uk-gov-mirror/companieshouse.company-links-consumer) | company-links-consumer | 2025-11-11* |
-| [`efs-submission-web`](https://github.com/uk-gov-mirror/companieshouse.efs-submission-web) | The Emergency Filing Service web application allows users to file forms by uploading electronic documents. | 2025-11-11* |
-| [`psc-extensions-api`](https://github.com/uk-gov-mirror/companieshouse.psc-extensions-api) | psc-extensions-api is a Spring Boot REST API which forms part of the Identification Verification (IDV) service and is responsible for handling and processing PSC Extention requests. | 2025-11-10* |
-| [`onboarding-portal-cms`](https://github.com/uk-gov-mirror/companieshouse.onboarding-portal-cms) |  | 2025-10-24* |
-| [`ewf-terraform`](https://github.com/uk-gov-mirror/companieshouse.ewf-terraform) |  | 2025-10-16* |
-| [`unix-dev-terraform`](https://github.com/uk-gov-mirror/companieshouse.unix-dev-terraform) | Terraform AWS dev environment  | 2025-10-14* |
-| [`acsp-manage-users-api`](https://github.com/uk-gov-mirror/companieshouse.acsp-manage-users-api) | API to manage users and  roles for an ACSP | 2025-09-18* |
-| [`digital-certified-copy-processor`](https://github.com/uk-gov-mirror/companieshouse.digital-certified-copy-processor) | Consuming messages from the item-ordered-certified-copy Kafka topic | 2025-08-21* |
-| [`charges-delta-consumer`](https://github.com/uk-gov-mirror/companieshouse.charges-delta-consumer) | charges-delta-consumer is responsible for transforming charges data from the charges-delta kafka as part of chips and chs data sync | 2025-08-01* |
-| [`ddat-scoring-app`](https://github.com/uk-gov-mirror/companieshouse.ddat-scoring-app) | Simple Express App for producing | 2025-03-12* |
-| [`ch-account-ui`](https://github.com/uk-gov-mirror/companieshouse.ch-account-ui) |  | 2021-04-20* |
-| [`psc-discrepancies.api.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.api.ch.gov.uk) | The Companies House API for handling PSC discrepancies | 2021-04-19* |
-| [`psc-discrepancies.web.ch.gov.uk`](https://github.com/uk-gov-mirror/companieshouse.psc-discrepancies.web.ch.gov.uk) | Web application to gather PSC discrepancies from obliged entities. | 2021-04-16* |
-| [`ocr-api-consumer`](https://github.com/uk-gov-mirror/companieshouse.ocr-api-consumer) | Service to consume requests for extraction of text from images and manage the requests to the OCR API | 2021-03-31* |
-| [`swagger-fixer`](https://github.com/uk-gov-mirror/companieshouse.swagger-fixer) | Fixer for invalid swagger 1.2 and swagger 2.0 specs | 2021-01-02* |
-| [`cypress-webfiling`](https://github.com/uk-gov-mirror/companieshouse.cypress-webfiling) | Webfiling - accessibility | 2020-12-27* |
-| [`taf-upload-poc`](https://github.com/uk-gov-mirror/companieshouse.taf-upload-poc) |  | 2020-12-23* |
-| [`ansible-role-aws-command-line-interface`](https://github.com/uk-gov-mirror/companieshouse.ansible-role-aws-command-line-interface) | An Ansible Galaxy role for installing the AWS Command Line Interface tool | 2020-12-21* |
-| [`mongo-to-s3-export`](https://github.com/uk-gov-mirror/companieshouse.mongo-to-s3-export) | Lambda to export mongodb to S3. | 2020-12-08* |
-| [`chs-prototype`](https://github.com/uk-gov-mirror/companieshouse.chs-prototype) | UX prototype for CHS | 2020-12-06* |
-| [`poc-js-logger`](https://github.com/uk-gov-mirror/companieshouse.poc-js-logger) | PoC for logging in JavaScript for Node.JS applications | 2020-12-05* |
-| [`HtmlToPdfConverterTestTool`](https://github.com/uk-gov-mirror/companieshouse.HtmlToPdfConverterTestTool) | A tool that allows testing of the conversion so that we can test in isolation and avoid using paper prints. | 2020-11-21* |
-| [`terraform-library-elasticsearch`](https://github.com/uk-gov-mirror/companieshouse.terraform-library-elasticsearch) | Terraform library providing Elastic Search Clusters | 2020-11-08* |
-| [`service-topology-web`](https://github.com/uk-gov-mirror/companieshouse.service-topology-web) |  | 2020-10-03* |
-| [`ci-perl-build-legacy`](https://github.com/uk-gov-mirror/companieshouse.ci-perl-build-legacy) |  | 2020-08-12* |
-| [`chl-database-terraform`](https://github.com/uk-gov-mirror/companieshouse.chl-database-terraform) |  | 2020-07-29* |
-| [`taf-bris`](https://github.com/uk-gov-mirror/companieshouse.taf-bris) | Automated tests for the BRIS project | 2020-02-10* |
-| [`webincs-reskin-prototype`](https://github.com/uk-gov-mirror/companieshouse.webincs-reskin-prototype) |  |  |
 
 ## [DFE-Digital](https://github.com/DFE-Digital) (41)
 
@@ -2093,6 +2107,17 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`experts-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.experts-prototype) |  | 2025-06-17* |
 | [`ofqual-register-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.ofqual-register-prototype) | Repository for the Ofqual Register prototype (GDS prototype kit) | 2025-06-17* |
 
+## [ScotGovAnalysis](https://github.com/ScotGovAnalysis) (6)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`WSIA-UC-AE-three-nations-comparison`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison) |  | 2026-09-25 |
+| [`WSIA-UC-monthly-AE-MI`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI) | Monthly management information processing | 2026-09-25 |
+| [`WSIA-UC-monthly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [`WSIA-UC-sg-acute-beds-collection`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection) |  | 2026-09-25 |
+| [`WSIA-UC-weekly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
+
 ## [homesengland](https://github.com/homesengland) (6)
 
 | Repository | Description | Deleted On |
@@ -2190,6 +2215,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`brand-latex`](https://github.com/uk-gov-mirror/MetOffice.brand-latex) | LaTex templates to generate branded SA tech memo and presentations | 2021-03-17* |
 | [`Pest_RCode`](https://github.com/uk-gov-mirror/MetOffice.Pest_RCode) | repository to store plant pest code | 2020-12-09* |
 
+## [NHSLeadership](https://github.com/NHSLeadership) (2)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`nhsl-ubuntu-php`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php) | Production Docker images for NHS LA sites. | 2026-09-25 |
+| [`pdf`](https://github.com/uk-gov-mirror/NHSLeadership.pdf) | PDF rendering service | 2026-03-06* |
+
 ## [dstl](https://github.com/dstl) (2)
 
 | Repository | Description | Deleted On |
@@ -2240,12 +2272,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`IRDP`](https://github.com/uk-gov-mirror/NHS-Blood-and-Transplant.IRDP) | NHSBT's solution for maintaining the International Rare Blood Donor database on MS Dynamics CRM 365 | 2026-05-02* |
 
-## [NHSLeadership](https://github.com/NHSLeadership) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`pdf`](https://github.com/uk-gov-mirror/NHSLeadership.pdf) | PDF rendering service | 2026-03-06* |
-
 ## [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) (1)
 
 | Repository | Description | Deleted On |
@@ -2257,12 +2283,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
-
-## [ScotGovAnalysis](https://github.com/ScotGovAnalysis) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
 
 ## [The-Strategy-Unit](https://github.com/The-Strategy-Unit) (1)
 

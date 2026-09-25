@@ -806,6 +806,16 @@
     "original_url": "https://github.com/NHS-Blood-and-Transplant/IRDP"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": "Production Docker images for NHS LA sites.",
+    "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
+    "mirror_name": "NHSLeadership.nhsl-ubuntu-php",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
+    "name": "nhsl-ubuntu-php",
+    "org": "NHSLeadership",
+    "original_url": "https://github.com/NHSLeadership/nhsl-ubuntu-php"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-03-06",
     "description": "PDF rendering service",
@@ -2147,6 +2157,56 @@
     "name": "template-service.replaced.2026-09-03",
     "org": "Planning-Inspectorate",
     "original_url": "https://github.com/Planning-Inspectorate/template-service.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison",
+    "mirror_name": "ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison",
+    "name": "WSIA-UC-AE-three-nations-comparison",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/WSIA-UC-AE-three-nations-comparison"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": "Monthly management information processing",
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI",
+    "mirror_name": "ScotGovAnalysis.WSIA-UC-monthly-AE-MI",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI",
+    "name": "WSIA-UC-monthly-AE-MI",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/WSIA-UC-monthly-AE-MI"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing",
+    "mirror_name": "ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing",
+    "name": "WSIA-UC-monthly-AE-PRA-HSCA-briefing",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/WSIA-UC-monthly-AE-PRA-HSCA-briefing"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection",
+    "mirror_name": "ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection",
+    "name": "WSIA-UC-sg-acute-beds-collection",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/WSIA-UC-sg-acute-beds-collection"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing",
+    "mirror_name": "ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing",
+    "name": "WSIA-UC-weekly-AE-PRA-HSCA-briefing",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/WSIA-UC-weekly-AE-PRA-HSCA-briefing"
   },
   {
     "deleted_on": "2026-09-18",
@@ -5817,6 +5877,16 @@
     "original_url": "https://github.com/companieshouse/ewf-terraform"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": "Provides a Docker image to run packer builds",
+    "full_name": "uk-gov-mirror/companieshouse.infrastructure-packer-runner",
+    "mirror_name": "companieshouse.infrastructure-packer-runner",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.infrastructure-packer-runner",
+    "name": "infrastructure-packer-runner",
+    "org": "companieshouse",
+    "original_url": "https://github.com/companieshouse/infrastructure-packer-runner"
+  },
+  {
     "deleted_on": "2026-08-14",
     "description": "A statistics tool for the company-accounts project",
     "full_name": "uk-gov-mirror/companieshouse.innovation-accounts-statistics-tool",
@@ -8228,6 +8298,16 @@
     "original_url": "https://github.com/hmrc/carf-registration-performance-tests"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.carf-reporting-performance-tests",
+    "mirror_name": "hmrc.carf-reporting-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests",
+    "name": "carf-reporting-performance-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/carf-reporting-performance-tests"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/hmrc.carf-reporting-ui-tests.replaced.2026-09-02",
@@ -8390,6 +8470,16 @@
     "name": "customs-cash-account-performance-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/customs-cash-account-performance-tests"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test",
+    "mirror_name": "hmrc.customs-declaration-metrics-performance-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test",
+    "name": "customs-declaration-metrics-performance-test",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customs-declaration-metrics-performance-test"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -9716,6 +9806,16 @@
     "name": "professional-bodies-acceptance-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/professional-bodies-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests",
+    "mirror_name": "hmrc.rds-datacache-proxy-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests",
+    "name": "rds-datacache-proxy-performance-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/rds-datacache-proxy-performance-tests"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -17002,6 +17102,16 @@
     "original_url": "https://github.com/nhsdigital/RA-FHIR-API"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": "Ronald receives his RSV invite",
+    "full_name": "uk-gov-mirror/nhsdigital.Ronald-RSV-invite",
+    "mirror_name": "nhsdigital.Ronald-RSV-invite",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.Ronald-RSV-invite",
+    "name": "Ronald-RSV-invite",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/Ronald-RSV-invite"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-03-21",
     "description": null,
@@ -17437,6 +17547,16 @@
     "name": "duec-hack-24-symptom-search",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/duec-hack-24-symptom-search"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.elective-waiting-list-api",
+    "mirror_name": "nhsdigital.elective-waiting-list-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.elective-waiting-list-api",
+    "name": "elective-waiting-list-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/elective-waiting-list-api"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17875,6 +17995,16 @@
     "original_url": "https://github.com/nhsdigital/gp-connect-access-record-fhir-api"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.gp-connect-appointments-management-fhir",
+    "mirror_name": "nhsdigital.gp-connect-appointments-management-fhir",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.gp-connect-appointments-management-fhir",
+    "name": "gp-connect-appointments-management-fhir",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/gp-connect-appointments-management-fhir"
+  },
+  {
     "deleted_on": "2026-09-18",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.gp-connect-second-generation",
@@ -18034,6 +18164,16 @@
     "original_url": "https://github.com/nhsdigital/imms_fhir_api_automation"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.immunisation-batch",
+    "mirror_name": "nhsdigital.immunisation-batch",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.immunisation-batch",
+    "name": "immunisation-batch",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/immunisation-batch"
+  },
+  {
     "deleted_on": "2026-09-17",
     "description": "For github workflow actions shared between adaptors.",
     "full_name": "uk-gov-mirror/nhsdigital.integration-adaptor-actions",
@@ -18188,6 +18328,16 @@
     "name": "mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/mi-digitally-identified-individuals-at-highest-risk-from-covid-19-copy"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": "Managing my health \u2013 first experiment",
+    "full_name": "uk-gov-mirror/nhsdigital.mmh-screening-and-vaccs",
+    "mirror_name": "nhsdigital.mmh-screening-and-vaccs",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mmh-screening-and-vaccs",
+    "name": "mmh-screening-and-vaccs",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mmh-screening-and-vaccs"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -18922,6 +19072,26 @@
     "original_url": "https://github.com/nhsdigital/org-workflows"
   },
   {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.patient-care-aggregator-api",
+    "mirror_name": "nhsdigital.patient-care-aggregator-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-api",
+    "name": "patient-care-aggregator-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/patient-care-aggregator-api"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.patient-care-aggregator-reporting",
+    "mirror_name": "nhsdigital.patient-care-aggregator-reporting",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.patient-care-aggregator-reporting",
+    "name": "patient-care-aggregator-reporting",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/patient-care-aggregator-reporting"
+  },
+  {
     "deleted_on": "2026-09-04",
     "description": null,
     "full_name": "uk-gov-mirror/nhsdigital.poc-jwks-dos",
@@ -19037,6 +19207,16 @@
     "name": "repeat-encounter-service-poc-jwks",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/repeat-encounter-service-poc-jwks"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": "This contains the source code for the Calculator Tool from the NHSD Risk Stratification Programme",
+    "full_name": "uk-gov-mirror/nhsdigital.risk-stratification-calculator",
+    "mirror_name": "nhsdigital.risk-stratification-calculator",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.risk-stratification-calculator",
+    "name": "risk-stratification-calculator",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/risk-stratification-calculator"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -19362,6 +19542,26 @@
     "name": "vaccinations-app",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/vaccinations-app"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": "A backing repo, cron and script to connect to Slack via Webhook and alert for VDS URLs being down",
+    "full_name": "uk-gov-mirror/nhsdigital.vaccs-service-ping",
+    "mirror_name": "nhsdigital.vaccs-service-ping",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.vaccs-service-ping",
+    "name": "vaccs-service-ping",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/vaccs-service-ping"
+  },
+  {
+    "deleted_on": "2026-09-25",
+    "description": "RESTful FHIR API for the Validated Relationship Service",
+    "full_name": "uk-gov-mirror/nhsdigital.validated-relationships-service-api",
+    "mirror_name": "nhsdigital.validated-relationships-service-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.validated-relationships-service-api",
+    "name": "validated-relationships-service-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/validated-relationships-service-api"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
