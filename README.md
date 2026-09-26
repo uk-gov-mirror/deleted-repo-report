@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1932**
-Organisations affected: **72**
+Total deleted repositories: **1947**
+Organisations affected: **73**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -10,11 +10,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**267**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 59.9% |
-| [hmrc](https://github.com/hmrc) | [**206**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
+| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.4% |
+| [hmrc](https://github.com/hmrc) | [**207**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [**103**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 7.7% |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [**113**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.4% |
 | [ONSdigital](https://github.com/ONSdigital) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.6% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
@@ -64,6 +64,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
+| [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
@@ -361,10 +362,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (267)
+## [nhsdigital](https://github.com/nhsdigital) (270)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`immunisation-history-api`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-history-api) |  | 2026-09-26 |
+| [`nhsuk-frontend-stats`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-frontend-stats) |  | 2026-09-26 |
+| [`terraform-aws-backup`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-backup) |  | 2026-09-26 |
 | [`Ronald-RSV-invite`](https://github.com/uk-gov-mirror/nhsdigital.Ronald-RSV-invite) | Ronald receives his RSV invite | 2026-09-25 |
 | [`elective-waiting-list-api`](https://github.com/uk-gov-mirror/nhsdigital.elective-waiting-list-api) |  | 2026-09-25 |
 | [`gp-connect-appointments-management-fhir`](https://github.com/uk-gov-mirror/nhsdigital.gp-connect-appointments-management-fhir) |  | 2026-09-25 |
@@ -633,10 +637,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (206)
+## [hmrc](https://github.com/hmrc) (207)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`mobile-tax-credits-renewal`](https://github.com/uk-gov-mirror/hmrc.mobile-tax-credits-renewal) |  | 2026-09-26 |
 | [`carf-reporting-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests) |  | 2026-09-25 |
 | [`customs-declaration-metrics-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test) |  | 2026-09-25 |
 | [`rds-datacache-proxy-performance-tests`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests) |  | 2026-09-25 |
@@ -1163,10 +1168,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opsdroid-skill-slack-to-s3`](https://github.com/uk-gov-mirror/informatics-lab.opsdroid-skill-slack-to-s3) | 💬 A skill for opsdroid to backup slack files to S3 |  |
 | [`video-service-scheduler`](https://github.com/uk-gov-mirror/informatics-lab.video-service-scheduler) |  |  |
 
-## [UKHomeOffice](https://github.com/UKHomeOffice) (103)
+## [UKHomeOffice](https://github.com/UKHomeOffice) (113)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`core-cloud-appstream2-image-builder-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform) | Core Cloud Terraform Module for Appstream 2.0 ImageBuilder | 2026-09-26 |
+| [`core-cloud-appstream2-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-terraform) | Core Cloud AppStream2 Terraform Module | 2026-09-26 |
+| [`core-cloud-aws-waf-terraform.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-aws-waf-terraform.replaced.2026-09-03) | Terragrunt configurations for deploying and managing AWS WAF (Web Application Firewall) across Core Cloud environments | 2026-09-26 |
+| [`core-cloud-dns-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dns-terraform) | Core-cloud terraform module for dns config | 2026-09-26 |
+| [`core-cloud-firewall-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-firewall-terraform) | For core-cloud firewall modules development work | 2026-09-26 |
+| [`core-cloud-ingress-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-ingress-terraform) | Terraform repo for Core Cloud Ingress | 2026-09-26 |
+| [`core-cloud-network-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-network-terraform) | Terraform repo for Core Cloud Networking Resoures Outside Of LZA | 2026-09-26 |
+| [`core-cloud-pam-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-pam-terraform) | Terraform repo for Core Cloud PAM - TEAM | 2026-09-26 |
+| [`core-cloud-site-to-site-vpn-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-site-to-site-vpn-terraform) | Terraform repo for Core Cloud Networking Resoures Outside Of LZA | 2026-09-26 |
+| [`core-cloud-vpc-endpoint-tf-module`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-vpc-endpoint-tf-module) | core-cloud terraform module for vpc endpoint resources | 2026-09-26 |
 | [`dsa-kibana.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOffice.dsa-kibana.replaced.2026-09-03) | Kibana image for DSA project | 2026-09-03 |
 | [`hof-db-table-replacer`](https://github.com/uk-gov-mirror/UKHomeOffice.hof-db-table-replacer) |  | 2026-08-27 |
 | [`web-messengers`](https://github.com/uk-gov-mirror/UKHomeOffice.web-messengers) | Home Office web messengers service | 2026-08-26 |
@@ -2271,6 +2286,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`IRDP`](https://github.com/uk-gov-mirror/NHS-Blood-and-Transplant.IRDP) | NHSBT's solution for maintaining the International Rare Blood Donor database on MS Dynamics CRM 365 | 2026-05-02* |
+
+## [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`qs-live-automations-CTeS`](https://github.com/uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS) | Automations owned by CTeS | 2026-09-26 |
 
 ## [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) (1)
 

@@ -806,6 +806,16 @@
     "original_url": "https://github.com/NHS-Blood-and-Transplant/IRDP"
   },
   {
+    "deleted_on": "2026-09-26",
+    "description": "Automations owned by CTeS",
+    "full_name": "uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS",
+    "mirror_name": "NHS-Wales-CTeS.qs-live-automations-CTeS",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS",
+    "name": "qs-live-automations-CTeS",
+    "org": "NHS-Wales-CTeS",
+    "original_url": "https://github.com/NHS-Wales-CTeS/qs-live-automations-CTeS"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Production Docker images for NHS LA sites.",
     "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
@@ -4858,6 +4868,46 @@
     "original_url": "https://github.com/UKHomeOffice/cop-ui"
   },
   {
+    "deleted_on": "2026-09-26",
+    "description": "Core Cloud Terraform Module for Appstream 2.0 ImageBuilder",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-appstream2-image-builder-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform",
+    "name": "core-cloud-appstream2-image-builder-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-appstream2-image-builder-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Core Cloud AppStream2 Terraform Module",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-appstream2-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-terraform",
+    "name": "core-cloud-appstream2-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-appstream2-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Terragrunt configurations for deploying and managing AWS WAF (Web Application Firewall) across Core Cloud environments",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-aws-waf-terraform.replaced.2026-09-03",
+    "mirror_name": "UKHomeOffice.core-cloud-aws-waf-terraform.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-aws-waf-terraform.replaced.2026-09-03",
+    "name": "core-cloud-aws-waf-terraform.replaced.2026-09-03",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-aws-waf-terraform.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Core-cloud terraform module for dns config",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-dns-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-dns-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dns-terraform",
+    "name": "core-cloud-dns-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-dns-terraform"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-05-06",
     "description": "For core-cloud terraform module for dynatrace golden dashboards",
@@ -4867,6 +4917,66 @@
     "name": "core-cloud-dynatrace-golden-dashboards-terraform",
     "org": "UKHomeOffice",
     "original_url": "https://github.com/UKHomeOffice/core-cloud-dynatrace-golden-dashboards-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "For core-cloud firewall modules development work",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-firewall-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-firewall-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-firewall-terraform",
+    "name": "core-cloud-firewall-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-firewall-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Terraform repo for Core Cloud Ingress",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-ingress-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-ingress-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-ingress-terraform",
+    "name": "core-cloud-ingress-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-ingress-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Terraform repo for Core Cloud Networking Resoures Outside Of LZA",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-network-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-network-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-network-terraform",
+    "name": "core-cloud-network-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-network-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Terraform repo for Core Cloud PAM - TEAM",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-pam-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-pam-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-pam-terraform",
+    "name": "core-cloud-pam-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-pam-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "Terraform repo for Core Cloud Networking Resoures Outside Of LZA",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-site-to-site-vpn-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-site-to-site-vpn-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-site-to-site-vpn-terraform",
+    "name": "core-cloud-site-to-site-vpn-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-site-to-site-vpn-terraform"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": "core-cloud terraform module for vpc endpoint resources",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-vpc-endpoint-tf-module",
+    "mirror_name": "UKHomeOffice.core-cloud-vpc-endpoint-tf-module",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-vpc-endpoint-tf-module",
+    "name": "core-cloud-vpc-endpoint-tf-module",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-vpc-endpoint-tf-module"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -9204,6 +9314,16 @@
     "name": "mobile-task-scheduler",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/mobile-task-scheduler"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.mobile-tax-credits-renewal",
+    "mirror_name": "hmrc.mobile-tax-credits-renewal",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.mobile-tax-credits-renewal",
+    "name": "mobile-tax-credits-renewal",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/mobile-tax-credits-renewal"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -18174,6 +18294,16 @@
     "original_url": "https://github.com/nhsdigital/immunisation-batch"
   },
   {
+    "deleted_on": "2026-09-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.immunisation-history-api",
+    "mirror_name": "nhsdigital.immunisation-history-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.immunisation-history-api",
+    "name": "immunisation-history-api",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/immunisation-history-api"
+  },
+  {
     "deleted_on": "2026-09-17",
     "description": "For github workflow actions shared between adaptors.",
     "full_name": "uk-gov-mirror/nhsdigital.integration-adaptor-actions",
@@ -18975,6 +19105,16 @@
     "original_url": "https://github.com/nhsdigital/nhsuk-document-store"
   },
   {
+    "deleted_on": "2026-09-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.nhsuk-frontend-stats",
+    "mirror_name": "nhsdigital.nhsuk-frontend-stats",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhsuk-frontend-stats",
+    "name": "nhsuk-frontend-stats",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhsuk-frontend-stats"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": "NHS Notify Notifest Hackathon",
@@ -19347,6 +19487,16 @@
     "name": "sync-wrap",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/sync-wrap"
+  },
+  {
+    "deleted_on": "2026-09-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.terraform-aws-backup",
+    "mirror_name": "nhsdigital.terraform-aws-backup",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-backup",
+    "name": "terraform-aws-backup",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/terraform-aws-backup"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",

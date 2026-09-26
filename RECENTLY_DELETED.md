@@ -6,6 +6,21 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [`qs-live-automations-CTeS`](https://github.com/uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS) | Automations owned by CTeS | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-appstream2-image-builder-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform) | Core Cloud Terraform Module for Appstream 2.0 ImageBuilder | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-appstream2-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-terraform) | Core Cloud AppStream2 Terraform Module | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-aws-waf-terraform.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-aws-waf-terraform.replaced.2026-09-03) | Terragrunt configurations for deploying and managing AWS WAF (Web Application Firewall) across Core Cloud environments | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dns-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dns-terraform) | Core-cloud terraform module for dns config | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-firewall-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-firewall-terraform) | For core-cloud firewall modules development work | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-ingress-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-ingress-terraform) | Terraform repo for Core Cloud Ingress | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-network-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-network-terraform) | Terraform repo for Core Cloud Networking Resoures Outside Of LZA | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-pam-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-pam-terraform) | Terraform repo for Core Cloud PAM - TEAM | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-site-to-site-vpn-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-site-to-site-vpn-terraform) | Terraform repo for Core Cloud Networking Resoures Outside Of LZA | 2026-09-26 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-vpc-endpoint-tf-module`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-vpc-endpoint-tf-module) | core-cloud terraform module for vpc endpoint resources | 2026-09-26 |
+| [hmrc](https://github.com/hmrc) | [`mobile-tax-credits-renewal`](https://github.com/uk-gov-mirror/hmrc.mobile-tax-credits-renewal) |  | 2026-09-26 |
+| [nhsdigital](https://github.com/nhsdigital) | [`immunisation-history-api`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-history-api) |  | 2026-09-26 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhsuk-frontend-stats`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-frontend-stats) |  | 2026-09-26 |
+| [nhsdigital](https://github.com/nhsdigital) | [`terraform-aws-backup`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-backup) |  | 2026-09-26 |
 | [NHSLeadership](https://github.com/NHSLeadership) | [`nhsl-ubuntu-php`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php) | Production Docker images for NHS LA sites. | 2026-09-25 |
 | [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-AE-three-nations-comparison`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison) |  | 2026-09-25 |
 | [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`WSIA-UC-monthly-AE-MI`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI) | Monthly management information processing | 2026-09-25 |
@@ -991,18 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsdigital](https://github.com/nhsdigital) | [`genomic-test-directory-api`](https://github.com/uk-gov-mirror/nhsdigital.genomic-test-directory-api) |  | 2023-05-17* |
 | [ukwa](https://github.com/ukwa) | [`kevals`](https://github.com/uk-gov-mirror/ukwa.kevals) | Key-values data aggregator | 2023-05-05* |
 | [hmrc](https://github.com/hmrc) | [`nino-insights-stubs`](https://github.com/uk-gov-mirror/hmrc.nino-insights-stubs) |  | 2023-04-24* |
-| [nationalarchives](https://github.com/nationalarchives) | [`find-case-law-judiciary-docs`](https://github.com/uk-gov-mirror/nationalarchives.find-case-law-judiciary-docs) |  | 2023-04-20* |
-| [ukwa](https://github.com/ukwa) | [`blindex`](https://github.com/uk-gov-mirror/ukwa.blindex) | Indexer prototype | 2023-03-28* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`passports-prototype-v3`](https://github.com/uk-gov-mirror/UKHomeOffice.passports-prototype-v3) | Prototype for passport journeys. This is version 3 of the prototype. | 2023-03-21* |
-| [ukncsc](https://github.com/ukncsc) | [`MailCheck.Public.Mx`](https://github.com/uk-gov-mirror/ukncsc.MailCheck.Public.Mx) |  | 2023-03-06* |
-| [hmrc](https://github.com/hmrc) | [`mobile-feedback`](https://github.com/uk-gov-mirror/hmrc.mobile-feedback) |  | 2023-02-20* |
-| [defra](https://github.com/defra) | [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-personalisation-common-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-personalisation-common-pkg-netcore) |  | 2023-02-09* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-personalisation-domain-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-personalisation-domain-pkg-netcore) | Nuget package | 2023-02-09* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`login.dfe.saml-assertions`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml-assertions) |  | 2023-02-05* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-cwa-feature-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cwa-feature-tests) |  | 2023-01-31* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-api-client`](https://github.com/uk-gov-mirror/ukwa.ukwa-api-client) | Client tools for working with UKWA APIs | 2023-01-30* |
-| [111online](https://github.com/111online) | [`web-stack`](https://github.com/uk-gov-mirror/111online.web-stack) | NHS 111 Online Product | 2023-01-27* |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
-| [LocalGovDigital](https://github.com/LocalGovDigital) | [`membership`](https://github.com/uk-gov-mirror/LocalGovDigital.membership) | Documents relating to LocalGov Digital membership | 2023-01-27* |
