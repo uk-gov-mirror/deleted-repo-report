@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`ConsoleAppBQTest`](https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest) |  | 2026-09-29 |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`find-information-products-services-frontend`](https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend) |  | 2026-09-29 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`worm`](https://github.com/uk-gov-mirror/ministryofjustice.worm) | PHP tool for managing WordPress sites on CloudPlatform k8s clusters | 2026-09-29 |
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [`qs-live-automations-CTeS`](https://github.com/uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS) | Automations owned by CTeS | 2026-09-26 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-appstream2-image-builder-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform) | Core Cloud Terraform Module for Appstream 2.0 ImageBuilder | 2026-09-26 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-appstream2-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-terraform) | Core Cloud AppStream2 Terraform Module | 2026-09-26 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [datasciencecampus](https://github.com/datasciencecampus) | [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
 | [hmrc](https://github.com/hmrc) | [`mobile-task-scheduler`](https://github.com/uk-gov-mirror/hmrc.mobile-task-scheduler) |  | 2023-05-23* |
 | [datasciencecampus](https://github.com/datasciencecampus) | [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
-| [nhsdigital](https://github.com/nhsdigital) | [`genomic-test-directory-api`](https://github.com/uk-gov-mirror/nhsdigital.genomic-test-directory-api) |  | 2023-05-17* |
-| [ukwa](https://github.com/ukwa) | [`kevals`](https://github.com/uk-gov-mirror/ukwa.kevals) | Key-values data aggregator | 2023-05-05* |
-| [hmrc](https://github.com/hmrc) | [`nino-insights-stubs`](https://github.com/uk-gov-mirror/hmrc.nino-insights-stubs) |  | 2023-04-24* |

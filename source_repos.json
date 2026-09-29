@@ -207,6 +207,16 @@
     "original_url": "https://github.com/Crown-Commercial-Service/gca-cvt-backend"
   },
   {
+    "deleted_on": "2026-09-29",
+    "description": null,
+    "full_name": "uk-gov-mirror/DFE-Digital.ConsoleAppBQTest",
+    "mirror_name": "DFE-Digital.ConsoleAppBQTest",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest",
+    "name": "ConsoleAppBQTest",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/ConsoleAppBQTest"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-25",
     "description": null,
@@ -291,6 +301,16 @@
     "name": "ey-reform-prototype",
     "org": "DFE-Digital",
     "original_url": "https://github.com/DFE-Digital/ey-reform-prototype"
+  },
+  {
+    "deleted_on": "2026-09-29",
+    "description": null,
+    "full_name": "uk-gov-mirror/DFE-Digital.find-information-products-services-frontend",
+    "mirror_name": "DFE-Digital.find-information-products-services-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend",
+    "name": "find-information-products-services-frontend",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/find-information-products-services-frontend"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -15277,6 +15297,16 @@
     "name": "wordpress-base-docker",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/wordpress-base-docker"
+  },
+  {
+    "deleted_on": "2026-09-29",
+    "description": "PHP tool for managing WordPress sites on CloudPlatform k8s clusters",
+    "full_name": "uk-gov-mirror/ministryofjustice.worm",
+    "mirror_name": "ministryofjustice.worm",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.worm",
+    "name": "worm",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/worm"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

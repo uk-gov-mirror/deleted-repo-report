@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1947**
+Total deleted repositories: **1950**
 Organisations affected: **73**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.2% |
-| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.4% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**275**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.3% |
+| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.6% |
 | [hmrc](https://github.com/hmrc) | [**207**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -20,8 +20,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
 | [companieshouse](https://github.com/companieshouse) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.3% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.8% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**41**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.5% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
@@ -59,7 +59,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.3% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
-| [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
+| [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.1% |
 | [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
@@ -83,10 +83,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (274)
+## [ministryofjustice](https://github.com/ministryofjustice) (275)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`worm`](https://github.com/uk-gov-mirror/ministryofjustice.worm) | PHP tool for managing WordPress sites on CloudPlatform k8s clusters | 2026-09-29 |
 | [`laa-manage-a-providers-data`](https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data) |  | 2026-09-23 |
 | [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
 | [`laa-data-openapi-workbench`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench) | A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger. | 2026-09-18 |
@@ -1583,6 +1584,54 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`taf-bris`](https://github.com/uk-gov-mirror/companieshouse.taf-bris) | Automated tests for the BRIS project | 2020-02-10* |
 | [`webincs-reskin-prototype`](https://github.com/uk-gov-mirror/companieshouse.webincs-reskin-prototype) |  |  |
 
+## [DFE-Digital](https://github.com/DFE-Digital) (43)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`ConsoleAppBQTest`](https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest) |  | 2026-09-29 |
+| [`find-information-products-services-frontend`](https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend) |  | 2026-09-29 |
+| [`dau-rise-universal-hubs`](https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs) |  | 2026-09-09 |
+| [`dauPortalTools.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03) |  | 2026-09-03 |
+| [`login.dfe.validation.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03) |  | 2026-09-03 |
+| [`deprecated-login.dfe.saml-proxy`](https://github.com/uk-gov-mirror/DFE-Digital.deprecated-login.dfe.saml-proxy) | SAML proxy for use in the login.dfe service | 2026-04-28* |
+| [`login.dfe.applications`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.applications) | API for application consuming DfE Sign-in | 2026-04-28* |
+| [`login.dfe.devices`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.devices) | API for managing devices and validating user entered codes for devices | 2026-04-28* |
+| [`login.dfe.directories`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.directories) | Directories API for the login.dfe service | 2026-04-28* |
+| [`login.dfe.examples.angular-1x`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.examples.angular-1x) | Angular 1.x sample client | 2026-04-28* |
+| [`login.dfe.help`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.help) | User help section of DfE Sign-in | 2026-04-28* |
+| [`login.dfe.idams-dsi-migration`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.idams-dsi-migration) | This repo will hold the deployment artifacts, pipeline templates for the IDAMS-DSI Migration work | 2026-04-28* |
+| [`login.dfe.infrastructure`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.infrastructure) | DfE-Signin Azure infrastructure automation using ARM templates | 2026-04-28* |
+| [`login.dfe.manage`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.manage) | Login.DfE relying party for "Service Owners" to provision/manage DfE Sign-in details.  | 2026-04-28* |
+| [`login.dfe.node-boilerplate`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.node-boilerplate) | Boiler plate project for node projects | 2026-04-28* |
+| [`login.dfe.org-management.web`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.web) |  | 2026-04-28* |
+| [`login.dfe.organisations`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.organisations) |  | 2026-04-28* |
+| [`login.dfe.osa-api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.osa-api) |  | 2026-04-28* |
+| [`login.dfe.portal`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.portal) | Portal client application for login.dfe | 2026-04-28* |
+| [`login.dfe.public-api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.public-api) | API for external consumers to interact with DfE login | 2026-04-28* |
+| [`login.dfe.sa`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.sa) | Landing page to replace old Secure Access urls | 2026-04-28* |
+| [`login.dfe.samlclient`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.samlclient) | Example SAML client to connect to DfE Login SAML Proxy | 2026-04-28* |
+| [`login.dfe.search`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.search) | API for searching aggregated data with DfE Sign-in | 2026-04-28* |
+| [`login.dfe.services`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.services) | DfE Service launch pad | 2026-04-28* |
+| [`login.dfe.support`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.support) | Application for support staff to service user requests | 2026-04-28* |
+| [`dsi-platform`](https://github.com/uk-gov-mirror/DFE-Digital.dsi-platform) | This repository contains various projects to support the DfE Sign-in platform. | 2025-08-28* |
+| [`tra-backstage-poc`](https://github.com/uk-gov-mirror/DFE-Digital.tra-backstage-poc) |  | 2024-11-14* |
+| [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
+| [`login.dfe.saml-assertions`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml-assertions) |  | 2023-02-05* |
+| [`ghbfs-cms-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ghbfs-cms-prototype) |  | 2022-09-30* |
+| [`login.dfe.org-management.api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.api) |  | 2021-08-10* |
+| [`review-school-college-data`](https://github.com/uk-gov-mirror/DFE-Digital.review-school-college-data) | Department for Education's Review My School or College Data (RSCD) service (Private beta) | 2021-07-06* |
+| [`get-into-teaching-design-history`](https://github.com/uk-gov-mirror/DFE-Digital.get-into-teaching-design-history) | Design history for Get Into Teaching Website | 2021-05-06* |
+| [`login.dfe.saml-proxy`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml-proxy) | Thin proxy OIDC->SAML wrapper | 2021-04-28* |
+| [`login.dfe.saml.proxy`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml.proxy) |  | 2021-04-09* |
+| [`school-experience-env-dashboard`](https://github.com/uk-gov-mirror/DFE-Digital.school-experience-env-dashboard) |  | 2020-12-21* |
+| [`login.dfe.ncs-uis`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.ncs-uis) | A repo for the new UI for NCS | 2020-12-14* |
+| [`dfe-developer-tech-tests`](https://github.com/uk-gov-mirror/DFE-Digital.dfe-developer-tech-tests) |  | 2020-11-18* |
+| [`search-and-compare-language-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.search-and-compare-language-prototype) |  | 2020-10-30* |
+| [`claim-interface-restructure`](https://github.com/uk-gov-mirror/DFE-Digital.claim-interface-restructure) |  | 2020-10-25* |
+| [`content-designer-training`](https://github.com/uk-gov-mirror/DFE-Digital.content-designer-training) | This is intended for training content designers to use Git, ignore it! | 2020-09-19* |
+| [`login.dfe.uptime-test`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.uptime-test) |  | 2020-09-10* |
+| [`school-jobs-offline`](https://github.com/uk-gov-mirror/DFE-Digital.school-jobs-offline) | Static error page for Teaching Jobs served by https://github.com/DFE-Digital/teacher-vacancy-service | 2020-09-08* |
+
 ## [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) (43)
 
 | Repository | Description | Deleted On |
@@ -1630,52 +1679,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opss-zip-generator`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.opss-zip-generator) | Zip generator for multicomponent upload testsing |  |
 | [`ppr-acceptance-tests`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.ppr-acceptance-tests) | *DEPRECATED* Cucumber/Gherkin-base tests for the payment-practices-reporting site |  |
 | [`scorecard-data-loader`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.scorecard-data-loader) | Utility to load scorecard data into mongo |  |
-
-## [DFE-Digital](https://github.com/DFE-Digital) (41)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`dau-rise-universal-hubs`](https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs) |  | 2026-09-09 |
-| [`dauPortalTools.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.dauPortalTools.replaced.2026-09-03) |  | 2026-09-03 |
-| [`login.dfe.validation.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.validation.replaced.2026-09-03) |  | 2026-09-03 |
-| [`deprecated-login.dfe.saml-proxy`](https://github.com/uk-gov-mirror/DFE-Digital.deprecated-login.dfe.saml-proxy) | SAML proxy for use in the login.dfe service | 2026-04-28* |
-| [`login.dfe.applications`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.applications) | API for application consuming DfE Sign-in | 2026-04-28* |
-| [`login.dfe.devices`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.devices) | API for managing devices and validating user entered codes for devices | 2026-04-28* |
-| [`login.dfe.directories`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.directories) | Directories API for the login.dfe service | 2026-04-28* |
-| [`login.dfe.examples.angular-1x`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.examples.angular-1x) | Angular 1.x sample client | 2026-04-28* |
-| [`login.dfe.help`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.help) | User help section of DfE Sign-in | 2026-04-28* |
-| [`login.dfe.idams-dsi-migration`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.idams-dsi-migration) | This repo will hold the deployment artifacts, pipeline templates for the IDAMS-DSI Migration work | 2026-04-28* |
-| [`login.dfe.infrastructure`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.infrastructure) | DfE-Signin Azure infrastructure automation using ARM templates | 2026-04-28* |
-| [`login.dfe.manage`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.manage) | Login.DfE relying party for "Service Owners" to provision/manage DfE Sign-in details.  | 2026-04-28* |
-| [`login.dfe.node-boilerplate`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.node-boilerplate) | Boiler plate project for node projects | 2026-04-28* |
-| [`login.dfe.org-management.web`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.web) |  | 2026-04-28* |
-| [`login.dfe.organisations`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.organisations) |  | 2026-04-28* |
-| [`login.dfe.osa-api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.osa-api) |  | 2026-04-28* |
-| [`login.dfe.portal`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.portal) | Portal client application for login.dfe | 2026-04-28* |
-| [`login.dfe.public-api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.public-api) | API for external consumers to interact with DfE login | 2026-04-28* |
-| [`login.dfe.sa`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.sa) | Landing page to replace old Secure Access urls | 2026-04-28* |
-| [`login.dfe.samlclient`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.samlclient) | Example SAML client to connect to DfE Login SAML Proxy | 2026-04-28* |
-| [`login.dfe.search`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.search) | API for searching aggregated data with DfE Sign-in | 2026-04-28* |
-| [`login.dfe.services`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.services) | DfE Service launch pad | 2026-04-28* |
-| [`login.dfe.support`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.support) | Application for support staff to service user requests | 2026-04-28* |
-| [`dsi-platform`](https://github.com/uk-gov-mirror/DFE-Digital.dsi-platform) | This repository contains various projects to support the DfE Sign-in platform. | 2025-08-28* |
-| [`tra-backstage-poc`](https://github.com/uk-gov-mirror/DFE-Digital.tra-backstage-poc) |  | 2024-11-14* |
-| [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
-| [`login.dfe.saml-assertions`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml-assertions) |  | 2023-02-05* |
-| [`ghbfs-cms-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ghbfs-cms-prototype) |  | 2022-09-30* |
-| [`login.dfe.org-management.api`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.org-management.api) |  | 2021-08-10* |
-| [`review-school-college-data`](https://github.com/uk-gov-mirror/DFE-Digital.review-school-college-data) | Department for Education's Review My School or College Data (RSCD) service (Private beta) | 2021-07-06* |
-| [`get-into-teaching-design-history`](https://github.com/uk-gov-mirror/DFE-Digital.get-into-teaching-design-history) | Design history for Get Into Teaching Website | 2021-05-06* |
-| [`login.dfe.saml-proxy`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml-proxy) | Thin proxy OIDC->SAML wrapper | 2021-04-28* |
-| [`login.dfe.saml.proxy`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.saml.proxy) |  | 2021-04-09* |
-| [`school-experience-env-dashboard`](https://github.com/uk-gov-mirror/DFE-Digital.school-experience-env-dashboard) |  | 2020-12-21* |
-| [`login.dfe.ncs-uis`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.ncs-uis) | A repo for the new UI for NCS | 2020-12-14* |
-| [`dfe-developer-tech-tests`](https://github.com/uk-gov-mirror/DFE-Digital.dfe-developer-tech-tests) |  | 2020-11-18* |
-| [`search-and-compare-language-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.search-and-compare-language-prototype) |  | 2020-10-30* |
-| [`claim-interface-restructure`](https://github.com/uk-gov-mirror/DFE-Digital.claim-interface-restructure) |  | 2020-10-25* |
-| [`content-designer-training`](https://github.com/uk-gov-mirror/DFE-Digital.content-designer-training) | This is intended for training content designers to use Git, ignore it! | 2020-09-19* |
-| [`login.dfe.uptime-test`](https://github.com/uk-gov-mirror/DFE-Digital.login.dfe.uptime-test) |  | 2020-09-10* |
-| [`school-jobs-offline`](https://github.com/uk-gov-mirror/DFE-Digital.school-jobs-offline) | Static error page for Teaching Jobs served by https://github.com/DFE-Digital/teacher-vacancy-service | 2020-09-08* |
 
 ## [Planning-Inspectorate](https://github.com/Planning-Inspectorate) (40)
 
