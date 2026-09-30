@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1950**
-Organisations affected: **73**
+Total deleted repositories: **1951**
+Organisations affected: **74**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -20,7 +20,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
 | [companieshouse](https://github.com/companieshouse) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.3% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.8% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.7% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
@@ -61,6 +61,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.1% |
 | [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
+| [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Defra-Data-Science-Centre-of-Excellence.%22) | 2.3% |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
@@ -2271,6 +2272,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`gca-cvt-backend`](https://github.com/uk-gov-mirror/Crown-Commercial-Service.gca-cvt-backend) | Commercial Value Tool backend | 2026-09-10 |
+
+## [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`RShiny_hackathon`](https://github.com/uk-gov-mirror/Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon) |  | 2026-09-30 |
 
 ## [GSS-Cogs](https://github.com/GSS-Cogs) (1)
 

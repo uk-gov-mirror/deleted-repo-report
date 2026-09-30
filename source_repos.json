@@ -675,6 +675,16 @@
     "original_url": "https://github.com/DFE-Digital/tra-backstage-poc"
   },
   {
+    "deleted_on": "2026-09-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon",
+    "mirror_name": "Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon",
+    "mirror_url": "https://github.com/uk-gov-mirror/Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon",
+    "name": "RShiny_hackathon",
+    "org": "Defra-Data-Science-Centre-of-Excellence",
+    "original_url": "https://github.com/Defra-Data-Science-Centre-of-Excellence/RShiny_hackathon"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-02",
     "description": null,

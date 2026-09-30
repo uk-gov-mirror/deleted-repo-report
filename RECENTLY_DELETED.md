@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) | [`RShiny_hackathon`](https://github.com/uk-gov-mirror/Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon) |  | 2026-09-30 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`ConsoleAppBQTest`](https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest) |  | 2026-09-29 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`find-information-products-services-frontend`](https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend) |  | 2026-09-29 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`worm`](https://github.com/uk-gov-mirror/ministryofjustice.worm) | PHP tool for managing WordPress sites on CloudPlatform k8s clusters | 2026-09-29 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-logging-syslog-to-cloudwatch`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-syslog-to-cloudwatch) | Docker container to forward syslog events to CloudWatch | 2023-06-15* |
 | [datasciencecampus](https://github.com/datasciencecampus) | [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
 | [hmrc](https://github.com/hmrc) | [`mobile-task-scheduler`](https://github.com/uk-gov-mirror/hmrc.mobile-task-scheduler) |  | 2023-05-23* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
