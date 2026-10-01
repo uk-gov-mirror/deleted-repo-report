@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1951**
+Total deleted repositories: **1957**
 Organisations affected: **74**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**275**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.3% |
-| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.6% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**280**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.4% |
+| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.5% |
 | [hmrc](https://github.com/hmrc) | [**207**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -57,6 +57,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
 | [NHSLeadership](https://github.com/NHSLeadership) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 7.4% |
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
+| [nw-gmsa](https://github.com/nw-gmsa) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 22.2% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.3% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.1% |
@@ -81,13 +82,17 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [govuk-one-login](https://github.com/govuk-one-login) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-one-login.%22) | 0.5% |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.7% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
-| [nw-gmsa](https://github.com/nw-gmsa) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (275)
+## [ministryofjustice](https://github.com/ministryofjustice) (280)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
+| [`laa-assess-a-claim-frontend`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend) | Frontend application for the LAA Assess a Claim service | 2026-10-01 |
+| [`laa-claim-and-assess-notebooks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks) | AWS Jupyter notebooks including AI Spike code | 2026-10-01 |
+| [`laa-claim-for-payment`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment) | E2E Transformation provider claim service and api | 2026-10-01 |
+| [`laa-claim-for-payment-stubs`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment-stubs) | Set of stubs used in testing of both claims and assess | 2026-10-01 |
 | [`worm`](https://github.com/uk-gov-mirror/ministryofjustice.worm) | PHP tool for managing WordPress sites on CloudPlatform k8s clusters | 2026-09-29 |
 | [`laa-manage-a-providers-data`](https://github.com/uk-gov-mirror/ministryofjustice.laa-manage-a-providers-data) |  | 2026-09-23 |
 | [`hmpps-sre-python-lib.replaced.2026-09-20`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sre-python-lib.replaced.2026-09-20) | A library of commonly-used Python scripts and libraries for the SRE team (bootstrapped 2025-11-14) | 2026-09-21 |
@@ -2248,6 +2253,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`eleatics.replaced.2026-09-02`](https://github.com/uk-gov-mirror/dstl.eleatics.replaced.2026-09-02) | Interfaces, interchange formats and data transformations to promote shared, collaborative and distributed knowledge representation and reasoning. | 2026-09-03 |
 | [`Human-Interface-Horizons.replaced.2026-08-21`](https://github.com/uk-gov-mirror/dstl.Human-Interface-Horizons.replaced.2026-08-21) | A roadmap of HMI developments and the anticipated cognitive challenges associated with delivering these into the future defence and security operating environment. | 2026-08-21 |
 
+## [nw-gmsa](https://github.com/nw-gmsa) (2)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`nw-gmsa.github.com`](https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com) | North West Genomics HL7/IHE Implementation Guide | 2026-10-01 |
+| [`Testing.replaced.2026-08-20`](https://github.com/uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20) |  | 2026-08-21 |
+
 ## [ukhsa-collaboration](https://github.com/ukhsa-collaboration) (2)
 
 | Repository | Description | Deleted On |
@@ -2392,12 +2404,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`sqlMiner`](https://github.com/uk-gov-mirror/nottmhospitals.sqlMiner) | Discovers Database Relationships From Your Production SQL Code | 2026-05-02* |
-
-## [nw-gmsa](https://github.com/nw-gmsa) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`Testing.replaced.2026-08-20`](https://github.com/uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20) |  | 2026-08-21 |
 
 ## [uktrade](https://github.com/uktrade) (1)
 

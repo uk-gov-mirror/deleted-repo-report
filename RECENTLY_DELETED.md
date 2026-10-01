@@ -6,6 +6,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-assess-a-claim-frontend`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend) | Frontend application for the LAA Assess a Claim service | 2026-10-01 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-claim-and-assess-notebooks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks) | AWS Jupyter notebooks including AI Spike code | 2026-10-01 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-claim-for-payment`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment) | E2E Transformation provider claim service and api | 2026-10-01 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-claim-for-payment-stubs`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment-stubs) | Set of stubs used in testing of both claims and assess | 2026-10-01 |
+| [nw-gmsa](https://github.com/nw-gmsa) | [`nw-gmsa.github.com`](https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com) | North West Genomics HL7/IHE Implementation Guide | 2026-10-01 |
 | [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) | [`RShiny_hackathon`](https://github.com/uk-gov-mirror/Defra-Data-Science-Centre-of-Excellence.RShiny_hackathon) |  | 2026-09-30 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`ConsoleAppBQTest`](https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest) |  | 2026-09-29 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`find-information-products-services-frontend`](https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend) |  | 2026-09-29 |
@@ -1000,9 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [DFE-Digital](https://github.com/DFE-Digital) | [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`provision-ubuntu2004-on-wsl2`](https://github.com/uk-gov-mirror/ministryofjustice.provision-ubuntu2004-on-wsl2) | Automating provisoning ubuntu 20.04 with Ansible on WSL 2 | 2023-10-27* |
 | [nationalarchives](https://github.com/nationalarchives) | [`da-ayr-beta-search`](https://github.com/uk-gov-mirror/nationalarchives.da-ayr-beta-search) | Lambda to return response of open search result to front end application | 2023-10-11* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`consultation_nlp`](https://github.com/uk-gov-mirror/datasciencecampus.consultation_nlp) | Preliminary analysis for 2023 population transformation consultation | 2023-09-01* |
-| [ukwa](https://github.com/ukwa) | [`epub-streamer`](https://github.com/uk-gov-mirror/ukwa.epub-streamer) | A simple standalone service to stream the contents of zipped ePubs. | 2023-08-11* |
-| [nationalarchives](https://github.com/nationalarchives) | [`da-terraform-github-repositories`](https://github.com/uk-gov-mirror/nationalarchives.da-terraform-github-repositories) |  | 2023-06-29* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-logging-syslog-to-cloudwatch`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-logging-syslog-to-cloudwatch) | Docker container to forward syslog events to CloudWatch | 2023-06-15* |
-| [datasciencecampus](https://github.com/datasciencecampus) | [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
-| [hmrc](https://github.com/hmrc) | [`mobile-task-scheduler`](https://github.com/uk-gov-mirror/hmrc.mobile-task-scheduler) |  | 2023-05-23* |

@@ -12729,6 +12729,16 @@
     "original_url": "https://github.com/ministryofjustice/civil-enforcement-prototype"
   },
   {
+    "deleted_on": "2026-10-01",
+    "description": "Automated tests for claim and assess",
+    "full_name": "uk-gov-mirror/ministryofjustice.claim-assess-regression-tests",
+    "mirror_name": "ministryofjustice.claim-assess-regression-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests",
+    "name": "claim-assess-regression-tests",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/claim-assess-regression-tests"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Application to proxy requests to the Community API and authenticate based on OAuth roles.",
     "full_name": "uk-gov-mirror/ministryofjustice.community-proxy",
@@ -14687,6 +14697,26 @@
     "original_url": "https://github.com/ministryofjustice/laa-assess-a-claim"
   },
   {
+    "deleted_on": "2026-10-01",
+    "description": "Frontend application for the LAA Assess a Claim service",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend",
+    "mirror_name": "ministryofjustice.laa-assess-a-claim-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend",
+    "name": "laa-assess-a-claim-frontend",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-assess-a-claim-frontend"
+  },
+  {
+    "deleted_on": "2026-10-01",
+    "description": "AWS Jupyter notebooks including AI Spike code",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks",
+    "mirror_name": "ministryofjustice.laa-claim-and-assess-notebooks",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks",
+    "name": "laa-claim-and-assess-notebooks",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-claim-and-assess-notebooks"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-13",
     "description": null,
@@ -14696,6 +14726,26 @@
     "name": "laa-claim-crown-court-defence-prototype",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-claim-crown-court-defence-prototype"
+  },
+  {
+    "deleted_on": "2026-10-01",
+    "description": "E2E Transformation provider claim service and api",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-claim-for-payment",
+    "mirror_name": "ministryofjustice.laa-claim-for-payment",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment",
+    "name": "laa-claim-for-payment",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-claim-for-payment"
+  },
+  {
+    "deleted_on": "2026-10-01",
+    "description": "Set of stubs used in testing of both claims and assess",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-claim-for-payment-stubs",
+    "mirror_name": "ministryofjustice.laa-claim-for-payment-stubs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-for-payment-stubs",
+    "name": "laa-claim-for-payment-stubs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-claim-for-payment-stubs"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -20032,6 +20082,16 @@
     "name": "Testing.replaced.2026-08-20",
     "org": "nw-gmsa",
     "original_url": "https://github.com/nw-gmsa/Testing.replaced.2026-08-20"
+  },
+  {
+    "deleted_on": "2026-10-01",
+    "description": "North West Genomics HL7/IHE Implementation Guide",
+    "full_name": "uk-gov-mirror/nw-gmsa.nw-gmsa.github.com",
+    "mirror_name": "nw-gmsa.nw-gmsa.github.com",
+    "mirror_url": "https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com",
+    "name": "nw-gmsa.github.com",
+    "org": "nw-gmsa",
+    "original_url": "https://github.com/nw-gmsa/nw-gmsa.github.com"
   },
   {
     "deleted_on": null,
