@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1957**
+Total deleted repositories: **1959**
 Organisations affected: **74**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**280**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.4% |
-| [nhsdigital](https://github.com/nhsdigital) | [**270**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.5% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**281**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.5% |
+| [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
 | [hmrc](https://github.com/hmrc) | [**207**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -84,10 +84,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (280)
+## [ministryofjustice](https://github.com/ministryofjustice) (281)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`staff-identity-technical-documentation`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation) | Guidance for MoJ teams interacting with the EUCS IDAM Team and Entra ID  | 2026-10-02 |
 | [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
 | [`laa-assess-a-claim-frontend`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend) | Frontend application for the LAA Assess a Claim service | 2026-10-01 |
 | [`laa-claim-and-assess-notebooks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks) | AWS Jupyter notebooks including AI Spike code | 2026-10-01 |
@@ -369,10 +370,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [nhsdigital](https://github.com/nhsdigital) (270)
+## [nhsdigital](https://github.com/nhsdigital) (271)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`nhs-notify-digital-letters-onboarding`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding) |  | 2026-10-02 |
 | [`immunisation-history-api`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-history-api) |  | 2026-09-26 |
 | [`nhsuk-frontend-stats`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-frontend-stats) |  | 2026-09-26 |
 | [`terraform-aws-backup`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-backup) |  | 2026-09-26 |

@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`staff-identity-technical-documentation`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation) | Guidance for MoJ teams interacting with the EUCS IDAM Team and Entra ID  | 2026-10-02 |
+| [nhsdigital](https://github.com/nhsdigital) | [`nhs-notify-digital-letters-onboarding`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding) |  | 2026-10-02 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-assess-a-claim-frontend`](https://github.com/uk-gov-mirror/ministryofjustice.laa-assess-a-claim-frontend) | Frontend application for the LAA Assess a Claim service | 2026-10-01 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-claim-and-assess-notebooks`](https://github.com/uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks) | AWS Jupyter notebooks including AI Spike code | 2026-10-01 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-session-pkg-netstandard`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-session-pkg-netstandard) |  | 2023-11-23* |
 | [ukwa](https://github.com/ukwa) | [`docker-superset`](https://github.com/uk-gov-mirror/ukwa.docker-superset) | Dockerized Apache Superset including Solr module | 2023-11-16* |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`provision-ubuntu2004-on-wsl2`](https://github.com/uk-gov-mirror/ministryofjustice.provision-ubuntu2004-on-wsl2) | Automating provisoning ubuntu 20.04 with Ansible on WSL 2 | 2023-10-27* |
-| [nationalarchives](https://github.com/nationalarchives) | [`da-ayr-beta-search`](https://github.com/uk-gov-mirror/nationalarchives.da-ayr-beta-search) | Lambda to return response of open search result to front end application | 2023-10-11* |

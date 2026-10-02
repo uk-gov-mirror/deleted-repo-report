@@ -15254,6 +15254,16 @@
     "original_url": "https://github.com/ministryofjustice/staff-identity-idam-entra-infra"
   },
   {
+    "deleted_on": "2026-10-02",
+    "description": "Guidance for MoJ teams interacting with the EUCS IDAM Team and Entra ID ",
+    "full_name": "uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation",
+    "mirror_name": "ministryofjustice.staff-identity-technical-documentation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation",
+    "name": "staff-identity-technical-documentation",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/staff-identity-technical-documentation"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2022-06-14",
     "description": "Terraform module that deploys the staff infrastructure monitoring solution. It has support for components like: Grafana, Prometheus, etc.",
@@ -18957,6 +18967,16 @@
     "name": "nhs-notify-devcontainers",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/nhs-notify-devcontainers"
+  },
+  {
+    "deleted_on": "2026-10-02",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding",
+    "mirror_name": "nhsdigital.nhs-notify-digital-letters-onboarding",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding",
+    "name": "nhs-notify-digital-letters-onboarding",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/nhs-notify-digital-letters-onboarding"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
