@@ -846,6 +846,16 @@
     "original_url": "https://github.com/NHS-Wales-CTeS/qs-live-automations-CTeS"
   },
   {
+    "deleted_on": "2026-10-03",
+    "description": "This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text'",
+    "full_name": "uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP",
+    "mirror_name": "NHSE-NDRS.HSMA-Congenital-Condition-NLP",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP",
+    "name": "HSMA-Congenital-Condition-NLP",
+    "org": "NHSE-NDRS",
+    "original_url": "https://github.com/NHSE-NDRS/HSMA-Congenital-Condition-NLP"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Production Docker images for NHS LA sites.",
     "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
@@ -8417,6 +8427,16 @@
     "original_url": "https://github.com/hmrc/build-and-deploy-sup-test"
   },
   {
+    "deleted_on": "2026-10-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.carf-management",
+    "mirror_name": "hmrc.carf-management",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-management",
+    "name": "carf-management",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/carf-management"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/hmrc.carf-management-ui-tests.replaced.2026-09-02",
@@ -8599,6 +8619,16 @@
     "name": "ctc-traders-phase6-tis",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/ctc-traders-phase6-tis"
+  },
+  {
+    "deleted_on": "2026-10-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customer-contact-api-tests",
+    "mirror_name": "hmrc.customer-contact-api-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customer-contact-api-tests",
+    "name": "customer-contact-api-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customer-contact-api-tests"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -16427,6 +16457,36 @@
     "name": "medicines-used-in-mental-health",
     "org": "nhsbsa-data-analytics",
     "original_url": "https://github.com/nhsbsa-data-analytics/medicines-used-in-mental-health"
+  },
+  {
+    "deleted_on": "2026-10-03",
+    "description": "Additional project documents for the Care Connect project",
+    "full_name": "uk-gov-mirror/nhsconnect.CareConnectDocuments",
+    "mirror_name": "nhsconnect.CareConnectDocuments",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments",
+    "name": "CareConnectDocuments",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/CareConnectDocuments"
+  },
+  {
+    "deleted_on": "2026-10-03",
+    "description": "Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles)",
+    "full_name": "uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect",
+    "mirror_name": "nhsconnect.Demographic-Event-Messages-CareConnect",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect",
+    "name": "Demographic-Event-Messages-CareConnect",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Demographic-Event-Messages-CareConnect"
+  },
+  {
+    "deleted_on": "2026-10-03",
+    "description": "Implementation Guide for Digital Child Health (CareConnect) event messages",
+    "full_name": "uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect",
+    "mirror_name": "nhsconnect.Digital-Child-Health-CareConnect",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect",
+    "name": "Digital-Child-Health-CareConnect",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Digital-Child-Health-CareConnect"
   },
   {
     "approximate_date_source": "last-git-activity",

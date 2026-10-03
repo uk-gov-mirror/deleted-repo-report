@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1959**
-Organisations affected: **74**
+Total deleted repositories: **1965**
+Organisations affected: **75**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -11,14 +11,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**281**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.5% |
 | [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
-| [hmrc](https://github.com/hmrc) | [**207**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.3% |
+| [hmrc](https://github.com/hmrc) | [**209**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.4% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**113**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.4% |
 | [ONSdigital](https://github.com/ONSdigital) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.6% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
-| [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.4% |
+| [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
 | [companieshouse](https://github.com/companieshouse) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.3% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.7% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
@@ -35,8 +35,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
+| [nhsconnect](https://github.com/nhsconnect) | [**11**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 5.7% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
-| [nhsconnect](https://github.com/nhsconnect) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 4.0% |
 | [nhsengland](https://github.com/nhsengland) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 3.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
@@ -67,6 +67,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
+| [NHSE-NDRS](https://github.com/NHSE-NDRS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSE-NDRS.%22) | 8.3% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
@@ -646,10 +647,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (207)
+## [hmrc](https://github.com/hmrc) (209)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`carf-management`](https://github.com/uk-gov-mirror/hmrc.carf-management) |  | 2026-10-03 |
+| [`customer-contact-api-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-api-tests) |  | 2026-10-03 |
 | [`mobile-tax-credits-renewal`](https://github.com/uk-gov-mirror/hmrc.mobile-tax-credits-renewal) |  | 2026-09-26 |
 | [`carf-reporting-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests) |  | 2026-09-25 |
 | [`customs-declaration-metrics-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test) |  | 2026-09-25 |
@@ -2033,6 +2036,22 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`user-feedback-store`](https://github.com/uk-gov-mirror/nhsuk.user-feedback-store) | Backend API for use with the user-feedback-form frontend | 2025-04-06* |
 | [`select-people-for-invitations-design-history`](https://github.com/uk-gov-mirror/nhsuk.select-people-for-invitations-design-history) |  | 2025-03-05* |
 
+## [nhsconnect](https://github.com/nhsconnect) (11)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
+| [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
+| [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
+| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
+| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
+| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
+| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
+| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
+| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
+| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
+| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
+
 ## [nhsd-exeter](https://github.com/nhsd-exeter) (10)
 
 | Repository | Description | Deleted On |
@@ -2047,19 +2066,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`make-devops-example-continuous-integration`](https://github.com/uk-gov-mirror/nhsd-exeter.make-devops-example-continuous-integration) |  | 2026-05-02* |
 | [`uec-sf-sfrunner`](https://github.com/uk-gov-mirror/nhsd-exeter.uec-sf-sfrunner) | This is a docker image that contains everything needed to build, run, and test Direct Search (Service Finder) | 2026-05-02* |
 | [`service-finder-api-auth`](https://github.com/uk-gov-mirror/nhsd-exeter.service-finder-api-auth) | Repository for the service finder API authentication capability | 2026-05-01* |
-
-## [nhsconnect](https://github.com/nhsconnect) (8)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
-| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
-| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
-| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
-| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
-| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
-| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
-| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
 
 ## [nhsengland](https://github.com/nhsengland) (8)
 
@@ -2316,6 +2322,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`qs-live-automations-CTeS`](https://github.com/uk-gov-mirror/NHS-Wales-CTeS.qs-live-automations-CTeS) | Automations owned by CTeS | 2026-09-26 |
+
+## [NHSE-NDRS](https://github.com/NHSE-NDRS) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`HSMA-Congenital-Condition-NLP`](https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP) | This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text' | 2026-10-03 |
 
 ## [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) (1)
 

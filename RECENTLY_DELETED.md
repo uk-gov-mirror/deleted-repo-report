@@ -6,6 +6,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHSE-NDRS](https://github.com/NHSE-NDRS) | [`HSMA-Congenital-Condition-NLP`](https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP) | This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text' | 2026-10-03 |
+| [hmrc](https://github.com/hmrc) | [`carf-management`](https://github.com/uk-gov-mirror/hmrc.carf-management) |  | 2026-10-03 |
+| [hmrc](https://github.com/hmrc) | [`customer-contact-api-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-api-tests) |  | 2026-10-03 |
+| [nhsconnect](https://github.com/nhsconnect) | [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
+| [nhsconnect](https://github.com/nhsconnect) | [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
+| [nhsconnect](https://github.com/nhsconnect) | [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-identity-technical-documentation`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation) | Guidance for MoJ teams interacting with the EUCS IDAM Team and Entra ID  | 2026-10-02 |
 | [nhsdigital](https://github.com/nhsdigital) | [`nhs-notify-digital-letters-onboarding`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding) |  | 2026-10-02 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
@@ -1000,9 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-sharedresources`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-sharedresources) |  | 2023-12-21* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-tribalexporter`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-tribalexporter) | Exports data from the tribal backup into the new course directory | 2023-12-21* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-ukrlp`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-ukrlp) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-venues`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-venues) |  | 2023-12-21* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`juniper-mist-integration-spike`](https://github.com/uk-gov-mirror/ministryofjustice.juniper-mist-integration-spike) |  | 2023-12-12* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-content-pkg-netcore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-content-pkg-netcore) |  | 2023-11-23* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-session-pkg-netstandard`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-session-pkg-netstandard) |  | 2023-11-23* |
-| [ukwa](https://github.com/ukwa) | [`docker-superset`](https://github.com/uk-gov-mirror/ukwa.docker-superset) | Dockerized Apache Superset including Solr module | 2023-11-16* |
-| [DFE-Digital](https://github.com/DFE-Digital) | [`ey-reform-prototype`](https://github.com/uk-gov-mirror/DFE-Digital.ey-reform-prototype) |  | 2023-11-14* |
