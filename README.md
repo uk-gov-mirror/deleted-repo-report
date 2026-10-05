@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **1965**
+Total deleted repositories: **1971**
 Organisations affected: **75**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -31,11 +31,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
+| [nhsconnect](https://github.com/nhsconnect) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 8.8% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
-| [nhsconnect](https://github.com/nhsconnect) | [**11**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 5.7% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
 | [nhsengland](https://github.com/nhsengland) | [**8**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 3.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
@@ -1964,6 +1964,28 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`ods-compile-content`](https://github.com/uk-gov-mirror/insolvencyservice.ods-compile-content) |  | 2020-09-17* |
 | [`cas-prototypes`](https://github.com/uk-gov-mirror/insolvencyservice.cas-prototypes) |  | 2020-09-10* |
 
+## [nhsconnect](https://github.com/nhsconnect) (17)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`CareConnect-API-Core`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Core) | The Care Connect Core API Specification | 2026-10-05 |
+| [`CareConnect-API-Documents`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Documents) | Care Connect API - Document  API | 2026-10-05 |
+| [`Demographic-Event-Messages`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages) | Demographic Update Event Messages | 2026-10-05 |
+| [`Dose-Syntax-Implementation`](https://github.com/uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation) | Guidance for Implementation of Dose Syntax for FHIR   | 2026-10-05 |
+| [`FHIR-ADW-Messaging`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging) | Warning: This version of the ADW specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://data.developer.nhs.uk/specifications/sc-fhir-5/Chapter.1.About/index.html You may browse this development version for information only at  | 2026-10-05 |
+| [`FHIR-ATFS`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ATFS) | Audit Transparency Foundation Service | 2026-10-05 |
+| [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
+| [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
+| [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
+| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
+| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
+| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
+| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
+| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
+| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
+| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
+| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
+
 ## [dvsa](https://github.com/dvsa) (15)
 
 | Repository | Description | Deleted On |
@@ -2035,22 +2057,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`nhsuk.platform.poc.green-app-demo`](https://github.com/uk-gov-mirror/nhsuk.nhsuk.platform.poc.green-app-demo) |  | 2025-04-30* |
 | [`user-feedback-store`](https://github.com/uk-gov-mirror/nhsuk.user-feedback-store) | Backend API for use with the user-feedback-form frontend | 2025-04-06* |
 | [`select-people-for-invitations-design-history`](https://github.com/uk-gov-mirror/nhsuk.select-people-for-invitations-design-history) |  | 2025-03-05* |
-
-## [nhsconnect](https://github.com/nhsconnect) (11)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
-| [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
-| [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
-| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
-| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
-| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
-| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
-| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
-| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
-| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
-| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
 
 ## [nhsd-exeter](https://github.com/nhsd-exeter) (10)
 

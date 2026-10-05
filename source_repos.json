@@ -16459,6 +16459,26 @@
     "original_url": "https://github.com/nhsbsa-data-analytics/medicines-used-in-mental-health"
   },
   {
+    "deleted_on": "2026-10-05",
+    "description": "The Care Connect Core API Specification",
+    "full_name": "uk-gov-mirror/nhsconnect.CareConnect-API-Core",
+    "mirror_name": "nhsconnect.CareConnect-API-Core",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Core",
+    "name": "CareConnect-API-Core",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/CareConnect-API-Core"
+  },
+  {
+    "deleted_on": "2026-10-05",
+    "description": "Care Connect API - Document  API",
+    "full_name": "uk-gov-mirror/nhsconnect.CareConnect-API-Documents",
+    "mirror_name": "nhsconnect.CareConnect-API-Documents",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Documents",
+    "name": "CareConnect-API-Documents",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/CareConnect-API-Documents"
+  },
+  {
     "deleted_on": "2026-10-03",
     "description": "Additional project documents for the Care Connect project",
     "full_name": "uk-gov-mirror/nhsconnect.CareConnectDocuments",
@@ -16467,6 +16487,16 @@
     "name": "CareConnectDocuments",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/CareConnectDocuments"
+  },
+  {
+    "deleted_on": "2026-10-05",
+    "description": "Demographic Update Event Messages",
+    "full_name": "uk-gov-mirror/nhsconnect.Demographic-Event-Messages",
+    "mirror_name": "nhsconnect.Demographic-Event-Messages",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages",
+    "name": "Demographic-Event-Messages",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Demographic-Event-Messages"
   },
   {
     "deleted_on": "2026-10-03",
@@ -16487,6 +16517,36 @@
     "name": "Digital-Child-Health-CareConnect",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/Digital-Child-Health-CareConnect"
+  },
+  {
+    "deleted_on": "2026-10-05",
+    "description": "Guidance for Implementation of Dose Syntax for FHIR  ",
+    "full_name": "uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation",
+    "mirror_name": "nhsconnect.Dose-Syntax-Implementation",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation",
+    "name": "Dose-Syntax-Implementation",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Dose-Syntax-Implementation"
+  },
+  {
+    "deleted_on": "2026-10-05",
+    "description": "Warning: This version of the ADW specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://data.developer.nhs.uk/specifications/sc-fhir-5/Chapter.1.About/index.html You may browse this development version for information only at ",
+    "full_name": "uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging",
+    "mirror_name": "nhsconnect.FHIR-ADW-Messaging",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging",
+    "name": "FHIR-ADW-Messaging",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/FHIR-ADW-Messaging"
+  },
+  {
+    "deleted_on": "2026-10-05",
+    "description": "Audit Transparency Foundation Service",
+    "full_name": "uk-gov-mirror/nhsconnect.FHIR-ATFS",
+    "mirror_name": "nhsconnect.FHIR-ATFS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.FHIR-ATFS",
+    "name": "FHIR-ATFS",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/FHIR-ATFS"
   },
   {
     "approximate_date_source": "last-git-activity",

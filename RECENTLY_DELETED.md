@@ -6,6 +6,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [nhsconnect](https://github.com/nhsconnect) | [`CareConnect-API-Core`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Core) | The Care Connect Core API Specification | 2026-10-05 |
+| [nhsconnect](https://github.com/nhsconnect) | [`CareConnect-API-Documents`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Documents) | Care Connect API - Document  API | 2026-10-05 |
+| [nhsconnect](https://github.com/nhsconnect) | [`Demographic-Event-Messages`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages) | Demographic Update Event Messages | 2026-10-05 |
+| [nhsconnect](https://github.com/nhsconnect) | [`Dose-Syntax-Implementation`](https://github.com/uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation) | Guidance for Implementation of Dose Syntax for FHIR   | 2026-10-05 |
+| [nhsconnect](https://github.com/nhsconnect) | [`FHIR-ADW-Messaging`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging) | Warning: This version of the ADW specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://data.developer.nhs.uk/specifications/sc-fhir-5/Chapter.1.About/index.html You may browse this development version for information only at  | 2026-10-05 |
+| [nhsconnect](https://github.com/nhsconnect) | [`FHIR-ATFS`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ATFS) | Audit Transparency Foundation Service | 2026-10-05 |
 | [NHSE-NDRS](https://github.com/NHSE-NDRS) | [`HSMA-Congenital-Condition-NLP`](https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP) | This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text' | 2026-10-03 |
 | [hmrc](https://github.com/hmrc) | [`carf-management`](https://github.com/uk-gov-mirror/hmrc.carf-management) |  | 2026-10-03 |
 | [hmrc](https://github.com/hmrc) | [`customer-contact-api-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-api-tests) |  | 2026-10-03 |
@@ -1000,9 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-coursetext`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-coursetext) |  | 2023-12-21* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-fileprocessor`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-fileprocessor) |  | 2023-12-21* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-findacourse`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-findacourse) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-findanapprenticeship`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-findanapprenticeship) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-lars`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-lars) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-referencedata`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-referencedata) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-sharedresources`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-sharedresources) |  | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-tribalexporter`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-tribalexporter) | Exports data from the tribal backup into the new course directory | 2023-12-21* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal-ukrlp`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal-ukrlp) |  | 2023-12-21* |
