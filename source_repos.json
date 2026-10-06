@@ -9062,6 +9062,16 @@
     "original_url": "https://github.com/hmrc/ia-frontend"
   },
   {
+    "deleted_on": "2026-10-06",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.iht-decommission-frontend",
+    "mirror_name": "hmrc.iht-decommission-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.iht-decommission-frontend",
+    "name": "iht-decommission-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/iht-decommission-frontend"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-06-24",
     "description": null,
@@ -16549,6 +16559,146 @@
     "original_url": "https://github.com/nhsconnect/FHIR-ATFS"
   },
   {
+    "deleted_on": "2026-10-06",
+    "description": "FHIR End of Life API",
+    "full_name": "uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API",
+    "mirror_name": "nhsconnect.FHIR-END-OF-LIFE-API",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API",
+    "name": "FHIR-END-OF-LIFE-API",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/FHIR-END-OF-LIFE-API"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Maternity Record",
+    "full_name": "uk-gov-mirror/nhsconnect.FHIR-Maternity-Record",
+    "mirror_name": "nhsconnect.FHIR-Maternity-Record",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.FHIR-Maternity-Record",
+    "name": "FHIR-Maternity-Record",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/FHIR-Maternity-Record"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "FHIR Reasonable Adjustments API ",
+    "full_name": "uk-gov-mirror/nhsconnect.FHIR-ReasonableAdjustments-API",
+    "mirror_name": "nhsconnect.FHIR-ReasonableAdjustments-API",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.FHIR-ReasonableAdjustments-API",
+    "name": "FHIR-ReasonableAdjustments-API",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/FHIR-ReasonableAdjustments-API"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "This is a test repo for development of alternative implementation Guidance ",
+    "full_name": "uk-gov-mirror/nhsconnect.Generic-Test-Repo",
+    "mirror_name": "nhsconnect.Generic-Test-Repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Generic-Test-Repo",
+    "name": "Generic-Test-Repo",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Generic-Test-Repo"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "ITK Document Reference using DSTU2 of FHIR",
+    "full_name": "uk-gov-mirror/nhsconnect.ITK-DocumentReference",
+    "mirror_name": "nhsconnect.ITK-DocumentReference",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.ITK-DocumentReference",
+    "name": "ITK-DocumentReference",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/ITK-DocumentReference"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Warning: This version of the ITK3 EC eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at  ",
+    "full_name": "uk-gov-mirror/nhsconnect.ITK-FHIR-Emergency-Care-eDischarge",
+    "mirror_name": "nhsconnect.ITK-FHIR-Emergency-Care-eDischarge",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Emergency-Care-eDischarge",
+    "name": "ITK-FHIR-Emergency-Care-eDischarge",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/ITK-FHIR-Emergency-Care-eDischarge"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Warning: This version of the ITK3 MH eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at  ",
+    "full_name": "uk-gov-mirror/nhsconnect.ITK-FHIR-Mental-Health-eDischarge",
+    "mirror_name": "nhsconnect.ITK-FHIR-Mental-Health-eDischarge",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Mental-Health-eDischarge",
+    "name": "ITK-FHIR-Mental-Health-eDischarge",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/ITK-FHIR-Mental-Health-eDischarge"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Warning: This version of the ITK3 eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at  ",
+    "full_name": "uk-gov-mirror/nhsconnect.ITK-FHIR-eDischarge",
+    "mirror_name": "nhsconnect.ITK-FHIR-eDischarge",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-eDischarge",
+    "name": "ITK-FHIR-eDischarge",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/ITK-FHIR-eDischarge"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Warning: This version of the ITK3 specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/interoperability-tool-kit-itk-specification-versions. You may browse this development version for information only at  ",
+    "full_name": "uk-gov-mirror/nhsconnect.ITK3-FHIR-Messaging-Distribution",
+    "mirror_name": "nhsconnect.ITK3-FHIR-Messaging-Distribution",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.ITK3-FHIR-Messaging-Distribution",
+    "name": "ITK3-FHIR-Messaging-Distribution",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/ITK3-FHIR-Messaging-Distribution"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Integrated-Urgent-Care Interoperability Implementation Guide",
+    "full_name": "uk-gov-mirror/nhsconnect.Integrated-Urgent-Care",
+    "mirror_name": "nhsconnect.Integrated-Urgent-Care",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Integrated-Urgent-Care",
+    "name": "Integrated-Urgent-Care",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Integrated-Urgent-Care"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Digital Diagnostics Services FHIR DMS",
+    "full_name": "uk-gov-mirror/nhsconnect.NHS-FHIR-DDS",
+    "mirror_name": "nhsconnect.NHS-FHIR-DDS",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS",
+    "name": "NHS-FHIR-DDS",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/NHS-FHIR-DDS"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Digital Diagnostics Services Genomics FHIR DMS",
+    "full_name": "uk-gov-mirror/nhsconnect.NHS-FHIR-DDS-Genomics",
+    "mirror_name": "nhsconnect.NHS-FHIR-DDS-Genomics",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS-Genomics",
+    "name": "NHS-FHIR-DDS-Genomics",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/NHS-FHIR-DDS-Genomics"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "NHS National Population Failsafe Management",
+    "full_name": "uk-gov-mirror/nhsconnect.National-Failsafe",
+    "mirror_name": "nhsconnect.National-Failsafe",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.National-Failsafe",
+    "name": "National-Failsafe",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/National-Failsafe"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.Terminology-Test",
+    "mirror_name": "nhsconnect.Terminology-Test",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.Terminology-Test",
+    "name": "Terminology-Test",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/Terminology-Test"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-20",
     "description": "a test repo",
@@ -16569,6 +16719,16 @@
     "name": "gpconnect-appointment-checker",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/gpconnect-appointment-checker"
+  },
+  {
+    "deleted_on": "2026-10-06",
+    "description": "Architecture spec pages published on developer network",
+    "full_name": "uk-gov-mirror/nhsconnect.itk-architecture",
+    "mirror_name": "nhsconnect.itk-architecture",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.itk-architecture",
+    "name": "itk-architecture",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/itk-architecture"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
