@@ -6,6 +6,19 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dynatrace-environment-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-environment-terraform) | Repository for the Dynatrace Environment resources used by the Core Cloud team | 2026-10-07 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dynatrace-iam-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-iam-terraform) | Terraform module to implement Dynatrace IAM resources. | 2026-10-07 |
+| [britishcouncil](https://github.com/britishcouncil) | [`pact-testing-setup`](https://github.com/uk-gov-mirror/britishcouncil.pact-testing-setup) | Pact testing setup and configuration for GEEP project | 2026-10-07 |
+| [hmcts](https://github.com/hmcts) | [`cft-workspace`](https://github.com/uk-gov-mirror/hmcts.cft-workspace) |  | 2026-10-07 |
+| [hmrc](https://github.com/hmrc) | [`customer-contact-cip-test-frontend`](https://github.com/uk-gov-mirror/hmrc.customer-contact-cip-test-frontend) |  | 2026-10-07 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`glad-platform`](https://github.com/uk-gov-mirror/ministryofjustice.glad-platform) | A Software Bill of Materials repo to manage common dependencies for the GLAD repos centrally | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`Diabetes_git_testing`](https://github.com/uk-gov-mirror/nhsengland.Diabetes_git_testing) |  | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`PaPI`](https://github.com/uk-gov-mirror/nhsengland.PaPI) |  | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`an-existing-project`](https://github.com/uk-gov-mirror/nhsengland.an-existing-project) | An existing project we want to move into FDP. | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`demo`](https://github.com/uk-gov-mirror/nhsengland.demo) | This is a regional template for the South West Intelligence and Analytics Team.  It is a demo. | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`elective-analysis-rap`](https://github.com/uk-gov-mirror/nhsengland.elective-analysis-rap) | (we can rename this later) | 2026-10-07 |
+| [nhsengland](https://github.com/nhsengland) | [`new_test_repo`](https://github.com/uk-gov-mirror/nhsengland.new_test_repo) | Test repo | 2026-10-07 |
+| [ukparliament](https://github.com/ukparliament) | [`chefcookbook.template`](https://github.com/uk-gov-mirror/ukparliament.chefcookbook.template) |  | 2026-10-07 |
 | [hmrc](https://github.com/hmrc) | [`iht-decommission-frontend`](https://github.com/uk-gov-mirror/hmrc.iht-decommission-frontend) |  | 2026-10-06 |
 | [nhsconnect](https://github.com/nhsconnect) | [`FHIR-END-OF-LIFE-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API) | FHIR End of Life API | 2026-10-06 |
 | [nhsconnect](https://github.com/nhsconnect) | [`FHIR-Maternity-Record`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-Maternity-Record) | Maternity Record | 2026-10-06 |
@@ -993,16 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-servicetaxonomy-shared`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-servicetaxonomy-shared) |  | 2024-03-18* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal) |  | 2024-03-15* |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [`a11ycharts`](https://github.com/uk-gov-mirror/moj-analytical-services.a11ycharts) |  | 2024-02-29* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`govdatasci-graphs-networks-community`](https://github.com/uk-gov-mirror/moj-analytical-services.govdatasci-graphs-networks-community) | #graphs-networks-community portal | 2024-02-23* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`ruby-on-rails-demo`](https://github.com/uk-gov-mirror/ministryofjustice.ruby-on-rails-demo) | A simple hello world app, in order for the team to learn Ruby on rails | 2024-02-21* |
-| [ukwa](https://github.com/ukwa) | [`ukwa-notebook-apps`](https://github.com/uk-gov-mirror/ukwa.ukwa-notebook-apps) | UKWA web apps for working with internal APIs, build on Jupyter notebooks and Voila. | 2024-01-31* |
-| [ukwa](https://github.com/ukwa) | [`crawl-log-viewer`](https://github.com/uk-gov-mirror/ukwa.crawl-log-viewer) | A simple web service for viewing crawl logs. | 2024-01-30* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`opgstats`](https://github.com/uk-gov-mirror/moj-analytical-services.opgstats) |  | 2024-01-25* |
-| [nhsdigital](https://github.com/nhsdigital) | [`digitaluec_interopstandards.github.io`](https://github.com/uk-gov-mirror/nhsdigital.digitaluec_interopstandards.github.io) |  | 2024-01-16* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`D3_presentation`](https://github.com/uk-gov-mirror/moj-analytical-services.D3_presentation) | A presentation into D3, that covers why and when to use it with examples of how it works. | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`DefCalc`](https://github.com/uk-gov-mirror/moj-analytical-services.DefCalc) | The deflator calculator.  | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`People_Survey_2023`](https://github.com/uk-gov-mirror/moj-analytical-services.People_Survey_2023) |  | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`Rdbtools_test`](https://github.com/uk-gov-mirror/moj-analytical-services.Rdbtools_test) |  | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`airflow-murad-ali-j-test`](https://github.com/uk-gov-mirror/moj-analytical-services.airflow-murad-ali-j-test) |  | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`crc_remedy`](https://github.com/uk-gov-mirror/moj-analytical-services.crc_remedy) |  | 2024-01-11* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`data-engineering-and-modelling-applicant-data`](https://github.com/uk-gov-mirror/moj-analytical-services.data-engineering-and-modelling-applicant-data) | data for interviews | 2024-01-11* |

@@ -4948,6 +4948,16 @@
     "original_url": "https://github.com/UKHomeOffice/core-cloud-dns-terraform"
   },
   {
+    "deleted_on": "2026-10-07",
+    "description": "Repository for the Dynatrace Environment resources used by the Core Cloud team",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-environment-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-dynatrace-environment-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-environment-terraform",
+    "name": "core-cloud-dynatrace-environment-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-dynatrace-environment-terraform"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-05-06",
     "description": "For core-cloud terraform module for dynatrace golden dashboards",
@@ -4957,6 +4967,16 @@
     "name": "core-cloud-dynatrace-golden-dashboards-terraform",
     "org": "UKHomeOffice",
     "original_url": "https://github.com/UKHomeOffice/core-cloud-dynatrace-golden-dashboards-terraform"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "Terraform module to implement Dynatrace IAM resources.",
+    "full_name": "uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-iam-terraform",
+    "mirror_name": "UKHomeOffice.core-cloud-dynatrace-iam-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-iam-terraform",
+    "name": "core-cloud-dynatrace-iam-terraform",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/core-cloud-dynatrace-iam-terraform"
   },
   {
     "deleted_on": "2026-09-26",
@@ -5720,6 +5740,16 @@
     "name": "spike-crossplane-db-roles-management",
     "org": "alphagov",
     "original_url": "https://github.com/alphagov/spike-crossplane-db-roles-management"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "Pact testing setup and configuration for GEEP project",
+    "full_name": "uk-gov-mirror/britishcouncil.pact-testing-setup",
+    "mirror_name": "britishcouncil.pact-testing-setup",
+    "mirror_url": "https://github.com/uk-gov-mirror/britishcouncil.pact-testing-setup",
+    "name": "pact-testing-setup",
+    "org": "britishcouncil",
+    "original_url": "https://github.com/britishcouncil/pact-testing-setup"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -7889,6 +7919,16 @@
     "original_url": "https://github.com/hmcts/bulk-scan-java-client.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmcts.cft-workspace",
+    "mirror_name": "hmcts.cft-workspace",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.cft-workspace",
+    "name": "cft-workspace",
+    "org": "hmcts",
+    "original_url": "https://github.com/hmcts/cft-workspace"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-06",
     "description": "Helm chart for Send Letter product",
@@ -8629,6 +8669,16 @@
     "name": "customer-contact-api-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/customer-contact-api-tests"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customer-contact-cip-test-frontend",
+    "mirror_name": "hmrc.customer-contact-cip-test-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customer-contact-cip-test-frontend",
+    "name": "customer-contact-cip-test-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customer-contact-cip-test-frontend"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -12919,6 +12969,16 @@
     "name": "dv-frontend-app-dev",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/dv-frontend-app-dev"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "A Software Bill of Materials repo to manage common dependencies for the GLAD repos centrally",
+    "full_name": "uk-gov-mirror/ministryofjustice.glad-platform",
+    "mirror_name": "ministryofjustice.glad-platform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.glad-platform",
+    "name": "glad-platform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/glad-platform"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -20125,6 +20185,16 @@
     "original_url": "https://github.com/nhsengland/AIF_Allocation_Populations.replaced.2026-09-02"
   },
   {
+    "deleted_on": "2026-10-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsengland.Diabetes_git_testing",
+    "mirror_name": "nhsengland.Diabetes_git_testing",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.Diabetes_git_testing",
+    "name": "Diabetes_git_testing",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/Diabetes_git_testing"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions.",
     "full_name": "uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02",
@@ -20168,6 +20238,16 @@
     "original_url": "https://github.com/nhsengland/PIFU_MI"
   },
   {
+    "deleted_on": "2026-10-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsengland.PaPI",
+    "mirror_name": "nhsengland.PaPI",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.PaPI",
+    "name": "PaPI",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/PaPI"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2026-05-02",
     "description": null,
@@ -20199,6 +20279,46 @@
     "name": "WTE-Playground",
     "org": "nhsengland",
     "original_url": "https://github.com/nhsengland/WTE-Playground"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "An existing project we want to move into FDP.",
+    "full_name": "uk-gov-mirror/nhsengland.an-existing-project",
+    "mirror_name": "nhsengland.an-existing-project",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.an-existing-project",
+    "name": "an-existing-project",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/an-existing-project"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "This is a regional template for the South West Intelligence and Analytics Team.  It is a demo.",
+    "full_name": "uk-gov-mirror/nhsengland.demo",
+    "mirror_name": "nhsengland.demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.demo",
+    "name": "demo",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/demo"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "(we can rename this later)",
+    "full_name": "uk-gov-mirror/nhsengland.elective-analysis-rap",
+    "mirror_name": "nhsengland.elective-analysis-rap",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.elective-analysis-rap",
+    "name": "elective-analysis-rap",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/elective-analysis-rap"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": "Test repo",
+    "full_name": "uk-gov-mirror/nhsengland.new_test_repo",
+    "mirror_name": "nhsengland.new_test_repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.new_test_repo",
+    "name": "new_test_repo",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/new_test_repo"
   },
   {
     "deleted_on": "2026-09-03",
@@ -20740,6 +20860,16 @@
     "name": "MailCheck.Public.TlsRpt",
     "org": "ukncsc",
     "original_url": "https://github.com/ukncsc/MailCheck.Public.TlsRpt"
+  },
+  {
+    "deleted_on": "2026-10-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/ukparliament.chefcookbook.template",
+    "mirror_name": "ukparliament.chefcookbook.template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ukparliament.chefcookbook.template",
+    "name": "chefcookbook.template",
+    "org": "ukparliament",
+    "original_url": "https://github.com/ukparliament/chefcookbook.template"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
