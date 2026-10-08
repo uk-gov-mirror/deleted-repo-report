@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2000**
-Organisations affected: **77**
+Total deleted repositories: **2007**
+Organisations affected: **78**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**282**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.5% |
-| [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**286**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.7% |
+| [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.6% |
 | [hmrc](https://github.com/hmrc) | [**211**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.5% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -32,8 +32,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
+| [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.7% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
-| [nhsengland](https://github.com/nhsengland) | [**14**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 5.8% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
@@ -68,6 +68,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
 | [NHSE-NDRS](https://github.com/NHSE-NDRS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSE-NDRS.%22) | 8.3% |
+| [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NISRA-Tech-Lab.%22) | 2.5% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
@@ -87,10 +88,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (282)
+## [ministryofjustice](https://github.com/ministryofjustice) (286)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`laa-civil-manage`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage) | Frontend service to allow legal providers to manage their applications for civil legal aid. | 2026-10-08 |
+| [`laa-civil-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage-api) | API to allow legal providers to manage their applications for civil legal aid.  | 2026-10-08 |
+| [`laa-criminal-applications-testing`](https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-applications-testing) | Testing  | 2026-10-08 |
+| [`laa-data-claims-certificated-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-certificated-api) | Legal Aid Certified Claims API | 2026-10-08 |
 | [`glad-platform`](https://github.com/uk-gov-mirror/ministryofjustice.glad-platform) | A Software Bill of Materials repo to manage common dependencies for the GLAD repos centrally | 2026-10-07 |
 | [`staff-identity-technical-documentation`](https://github.com/uk-gov-mirror/ministryofjustice.staff-identity-technical-documentation) | Guidance for MoJ teams interacting with the EUCS IDAM Team and Entra ID  | 2026-10-02 |
 | [`claim-assess-regression-tests`](https://github.com/uk-gov-mirror/ministryofjustice.claim-assess-regression-tests) | Automated tests for claim and assess | 2026-10-01 |
@@ -2009,6 +2014,27 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`ods-compile-content`](https://github.com/uk-gov-mirror/insolvencyservice.ods-compile-content) |  | 2020-09-17* |
 | [`cas-prototypes`](https://github.com/uk-gov-mirror/insolvencyservice.cas-prototypes) |  | 2020-09-10* |
 
+## [nhsengland](https://github.com/nhsengland) (16)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`MRAT_Code_Library`](https://github.com/uk-gov-mirror/nhsengland.MRAT_Code_Library) | Sharing code for Midlands Regional Analytical Team | 2026-10-08 |
+| [`futurenhs-infra`](https://github.com/uk-gov-mirror/nhsengland.futurenhs-infra) |  | 2026-10-08 |
+| [`Diabetes_git_testing`](https://github.com/uk-gov-mirror/nhsengland.Diabetes_git_testing) |  | 2026-10-07 |
+| [`PaPI`](https://github.com/uk-gov-mirror/nhsengland.PaPI) |  | 2026-10-07 |
+| [`an-existing-project`](https://github.com/uk-gov-mirror/nhsengland.an-existing-project) | An existing project we want to move into FDP. | 2026-10-07 |
+| [`demo`](https://github.com/uk-gov-mirror/nhsengland.demo) | This is a regional template for the South West Intelligence and Analytics Team.  It is a demo. | 2026-10-07 |
+| [`elective-analysis-rap`](https://github.com/uk-gov-mirror/nhsengland.elective-analysis-rap) | (we can rename this later) | 2026-10-07 |
+| [`new_test_repo`](https://github.com/uk-gov-mirror/nhsengland.new_test_repo) | Test repo | 2026-10-07 |
+| [`AIF_Allocation_Populations.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations.replaced.2026-09-02) | Development work in AIF (Analysis and Insight for Finance) Allocations Team , to calculate populations for use in allocations | 2026-09-03 |
+| [`ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02) | This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions. | 2026-09-03 |
+| [`MHS-ingestion-for-Outpatients`](https://github.com/uk-gov-mirror/nhsengland.MHS-ingestion-for-Outpatients) |  | 2026-05-06* |
+| [`PIFU-Data-Quality-Checks`](https://github.com/uk-gov-mirror/nhsengland.PIFU-Data-Quality-Checks) |  | 2026-05-06* |
+| [`PIFU_MI`](https://github.com/uk-gov-mirror/nhsengland.PIFU_MI) |  | 2026-05-06* |
+| [`SEROC-Master-Ref`](https://github.com/uk-gov-mirror/nhsengland.SEROC-Master-Ref) | Creating tables to form a master hierarchy organisation table | 2026-05-06* |
+| [`WTE-Playground`](https://github.com/uk-gov-mirror/nhsengland.WTE-Playground) | A playground for members of the WTE team. | 2026-05-06* |
+| [`QISA-Regional-Quality-Scorecard-BAU`](https://github.com/uk-gov-mirror/nhsengland.QISA-Regional-Quality-Scorecard-BAU) |  | 2026-05-02* |
+
 ## [dvsa](https://github.com/dvsa) (15)
 
 | Repository | Description | Deleted On |
@@ -2028,25 +2054,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`cvs-tsk-new-repo`](https://github.com/uk-gov-mirror/dvsa.cvs-tsk-new-repo) |  | 2020-09-15* |
 | [`cvs-vtm-prototype`](https://github.com/uk-gov-mirror/dvsa.cvs-vtm-prototype) |  | 2020-09-10* |
 | [`motr-terraform`](https://github.com/uk-gov-mirror/dvsa.motr-terraform) | MOTR terraform code | 2020-09-06* |
-
-## [nhsengland](https://github.com/nhsengland) (14)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`Diabetes_git_testing`](https://github.com/uk-gov-mirror/nhsengland.Diabetes_git_testing) |  | 2026-10-07 |
-| [`PaPI`](https://github.com/uk-gov-mirror/nhsengland.PaPI) |  | 2026-10-07 |
-| [`an-existing-project`](https://github.com/uk-gov-mirror/nhsengland.an-existing-project) | An existing project we want to move into FDP. | 2026-10-07 |
-| [`demo`](https://github.com/uk-gov-mirror/nhsengland.demo) | This is a regional template for the South West Intelligence and Analytics Team.  It is a demo. | 2026-10-07 |
-| [`elective-analysis-rap`](https://github.com/uk-gov-mirror/nhsengland.elective-analysis-rap) | (we can rename this later) | 2026-10-07 |
-| [`new_test_repo`](https://github.com/uk-gov-mirror/nhsengland.new_test_repo) | Test repo | 2026-10-07 |
-| [`AIF_Allocation_Populations.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.AIF_Allocation_Populations.replaced.2026-09-02) | Development work in AIF (Analysis and Insight for Finance) Allocations Team , to calculate populations for use in allocations | 2026-09-03 |
-| [`ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02`](https://github.com/uk-gov-mirror/nhsengland.ICB_Place_Based_Tool_2627-2829.replaced.2026-09-02) | This tool was built to provide insight into smaller area (place) level variation underlying Integrated Care Boards (ICBs) resource allocation. The intention of the tool is to provide insights that may help inform ICB-level allocations and contribute to evidence-based resource decisions. | 2026-09-03 |
-| [`MHS-ingestion-for-Outpatients`](https://github.com/uk-gov-mirror/nhsengland.MHS-ingestion-for-Outpatients) |  | 2026-05-06* |
-| [`PIFU-Data-Quality-Checks`](https://github.com/uk-gov-mirror/nhsengland.PIFU-Data-Quality-Checks) |  | 2026-05-06* |
-| [`PIFU_MI`](https://github.com/uk-gov-mirror/nhsengland.PIFU_MI) |  | 2026-05-06* |
-| [`SEROC-Master-Ref`](https://github.com/uk-gov-mirror/nhsengland.SEROC-Master-Ref) | Creating tables to form a master hierarchy organisation table | 2026-05-06* |
-| [`WTE-Playground`](https://github.com/uk-gov-mirror/nhsengland.WTE-Playground) | A playground for members of the WTE team. | 2026-05-06* |
-| [`QISA-Regional-Quality-Scorecard-BAU`](https://github.com/uk-gov-mirror/nhsengland.QISA-Regional-Quality-Scorecard-BAU) |  | 2026-05-02* |
 
 ## [intellectual-property-office](https://github.com/intellectual-property-office) (13)
 
@@ -2363,6 +2370,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`HSMA-Congenital-Condition-NLP`](https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP) | This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text' | 2026-10-03 |
+
+## [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
 
 ## [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) (1)
 

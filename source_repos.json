@@ -954,6 +954,16 @@
     "original_url": "https://github.com/NHSX/Synthetic-Data-Exploration-VAE"
   },
   {
+    "deleted_on": "2026-10-08",
+    "description": null,
+    "full_name": "uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation",
+    "mirror_name": "NISRA-Tech-Lab.128-csu-mi-automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation",
+    "name": "128-csu-mi-automation",
+    "org": "NISRA-Tech-Lab",
+    "original_url": "https://github.com/NISRA-Tech-Lab/128-csu-mi-automation"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "The IPO's common reusable components.",
     "full_name": "uk-gov-mirror/Network-Rail-Business-Systems.common.replaced.2026-08-20",
@@ -14807,6 +14817,26 @@
     "original_url": "https://github.com/ministryofjustice/laa-assess-a-claim-frontend"
   },
   {
+    "deleted_on": "2026-10-08",
+    "description": "Frontend service to allow legal providers to manage their applications for civil legal aid.",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-civil-manage",
+    "mirror_name": "ministryofjustice.laa-civil-manage",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage",
+    "name": "laa-civil-manage",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-civil-manage"
+  },
+  {
+    "deleted_on": "2026-10-08",
+    "description": "API to allow legal providers to manage their applications for civil legal aid. ",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-civil-manage-api",
+    "mirror_name": "ministryofjustice.laa-civil-manage-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage-api",
+    "name": "laa-civil-manage-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-civil-manage-api"
+  },
+  {
     "deleted_on": "2026-10-01",
     "description": "AWS Jupyter notebooks including AI Spike code",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks",
@@ -14870,6 +14900,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-crime-court-message-processor"
   },
   {
+    "deleted_on": "2026-10-08",
+    "description": "Testing ",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-criminal-applications-testing",
+    "mirror_name": "ministryofjustice.laa-criminal-applications-testing",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-applications-testing",
+    "name": "laa-criminal-applications-testing",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-criminal-applications-testing"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2023-01-31",
     "description": null,
@@ -14879,6 +14919,16 @@
     "name": "laa-cwa-feature-tests",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-cwa-feature-tests"
+  },
+  {
+    "deleted_on": "2026-10-08",
+    "description": "Legal Aid Certified Claims API",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-certificated-api",
+    "mirror_name": "ministryofjustice.laa-data-claims-certificated-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-certificated-api",
+    "name": "laa-data-claims-certificated-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-certificated-api"
   },
   {
     "deleted_on": "2026-09-18",
@@ -20216,6 +20266,16 @@
     "original_url": "https://github.com/nhsengland/MHS-ingestion-for-Outpatients"
   },
   {
+    "deleted_on": "2026-10-08",
+    "description": "Sharing code for Midlands Regional Analytical Team",
+    "full_name": "uk-gov-mirror/nhsengland.MRAT_Code_Library",
+    "mirror_name": "nhsengland.MRAT_Code_Library",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.MRAT_Code_Library",
+    "name": "MRAT_Code_Library",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/MRAT_Code_Library"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2026-05-06",
     "description": null,
@@ -20309,6 +20369,16 @@
     "name": "elective-analysis-rap",
     "org": "nhsengland",
     "original_url": "https://github.com/nhsengland/elective-analysis-rap"
+  },
+  {
+    "deleted_on": "2026-10-08",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsengland.futurenhs-infra",
+    "mirror_name": "nhsengland.futurenhs-infra",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsengland.futurenhs-infra",
+    "name": "futurenhs-infra",
+    "org": "nhsengland",
+    "original_url": "https://github.com/nhsengland/futurenhs-infra"
   },
   {
     "deleted_on": "2026-10-07",

@@ -6,6 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-civil-manage`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage) | Frontend service to allow legal providers to manage their applications for civil legal aid. | 2026-10-08 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-civil-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage-api) | API to allow legal providers to manage their applications for civil legal aid.  | 2026-10-08 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-criminal-applications-testing`](https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-applications-testing) | Testing  | 2026-10-08 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-claims-certificated-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-certificated-api) | Legal Aid Certified Claims API | 2026-10-08 |
+| [nhsengland](https://github.com/nhsengland) | [`MRAT_Code_Library`](https://github.com/uk-gov-mirror/nhsengland.MRAT_Code_Library) | Sharing code for Midlands Regional Analytical Team | 2026-10-08 |
+| [nhsengland](https://github.com/nhsengland) | [`futurenhs-infra`](https://github.com/uk-gov-mirror/nhsengland.futurenhs-infra) |  | 2026-10-08 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dynatrace-environment-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-environment-terraform) | Repository for the Dynatrace Environment resources used by the Core Cloud team | 2026-10-07 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dynatrace-iam-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-iam-terraform) | Terraform module to implement Dynatrace IAM resources. | 2026-10-07 |
 | [britishcouncil](https://github.com/britishcouncil) | [`pact-testing-setup`](https://github.com/uk-gov-mirror/britishcouncil.pact-testing-setup) | Pact testing setup and configuration for GEEP project | 2026-10-07 |
@@ -999,10 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhsdigital](https://github.com/nhsdigital) | [`uec-integration-test`](https://github.com/uk-gov-mirror/nhsdigital.uec-integration-test) |  | 2024-05-07* |
 | [hmrc](https://github.com/hmrc) | [`health-indicators`](https://github.com/uk-gov-mirror/hmrc.health-indicators) |  | 2024-05-03* |
 | [ukwa](https://github.com/ukwa) | [`docker-airflow`](https://github.com/uk-gov-mirror/ukwa.docker-airflow) | Apache Airflow with a few additional dependencies | 2024-04-24* |
-| [ukwa](https://github.com/ukwa) | [`docker-robot-framework`](https://github.com/uk-gov-mirror/ukwa.docker-robot-framework) | A Dockerised Robot Framework execution environment. | 2024-04-24* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-composite-sharedresources`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-composite-sharedresources) |  | 2024-04-09* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-futureaccessmodel-shared`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-futureaccessmodel-shared) |  | 2024-04-09* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`mojstats`](https://github.com/uk-gov-mirror/moj-analytical-services.mojstats) |  | 2024-03-26* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-servicetaxonomy-shared`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-servicetaxonomy-shared) |  | 2024-03-18* |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-providerportal`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-providerportal) |  | 2024-03-15* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`a11ycharts`](https://github.com/uk-gov-mirror/moj-analytical-services.a11ycharts) |  | 2024-02-29* |
