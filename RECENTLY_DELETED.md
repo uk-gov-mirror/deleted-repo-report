@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [HistoricEngland](https://github.com/HistoricEngland) | [`arches-mini-hack-25`](https://github.com/uk-gov-mirror/HistoricEngland.arches-mini-hack-25) | An Arches project that captures the output of the mini hack Feb 25. Requires Arches for HER v1.0.0 and Arches 7.5.5 | 2026-10-09 |
 | [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-civil-manage`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage) | Frontend service to allow legal providers to manage their applications for civil legal aid. | 2026-10-08 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-civil-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage-api) | API to allow legal providers to manage their applications for civil legal aid.  | 2026-10-08 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [`SWAP-git-demo`](https://github.com/uk-gov-mirror/moj-analytical-services.SWAP-git-demo) |  | 2024-05-09* |
 | [nhsdigital](https://github.com/nhsdigital) | [`uec-integration-test`](https://github.com/uk-gov-mirror/nhsdigital.uec-integration-test) |  | 2024-05-07* |
 | [hmrc](https://github.com/hmrc) | [`health-indicators`](https://github.com/uk-gov-mirror/hmrc.health-indicators) |  | 2024-05-03* |
-| [ukwa](https://github.com/ukwa) | [`docker-airflow`](https://github.com/uk-gov-mirror/ukwa.docker-airflow) | Apache Airflow with a few additional dependencies | 2024-04-24* |

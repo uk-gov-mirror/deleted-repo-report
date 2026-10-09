@@ -770,6 +770,16 @@
     "original_url": "https://github.com/GSS-Cogs/prototypes.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-09",
+    "description": "An Arches project that captures the output of the mini hack Feb 25. Requires Arches for HER v1.0.0 and Arches 7.5.5",
+    "full_name": "uk-gov-mirror/HistoricEngland.arches-mini-hack-25",
+    "mirror_name": "HistoricEngland.arches-mini-hack-25",
+    "mirror_url": "https://github.com/uk-gov-mirror/HistoricEngland.arches-mini-hack-25",
+    "name": "arches-mini-hack-25",
+    "org": "HistoricEngland",
+    "original_url": "https://github.com/HistoricEngland/arches-mini-hack-25"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-16",
     "description": null,
