@@ -10,7 +10,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**286**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.6% |
-| [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.6% |
+| [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.5% |
 | [hmrc](https://github.com/hmrc) | [**211**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.5% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
