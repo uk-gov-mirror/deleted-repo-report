@@ -5721,6 +5721,16 @@
     "original_url": "https://github.com/UKHomeOfficeForms/hof-template-mixins.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-13",
+    "description": "Service for generating and storing random test company data",
+    "full_name": "uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03",
+    "mirror_name": "VMDDTE.test-data-generator.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03",
+    "name": "test-data-generator.replaced.2026-09-03",
+    "org": "VMDDTE",
+    "original_url": "https://github.com/VMDDTE/test-data-generator.replaced.2026-09-03"
+  },
+  {
     "deleted_on": "2026-09-07",
     "description": "Security Attack data for GDS-Next-Gen-SOC",
     "full_name": "uk-gov-mirror/alphagov.gds-next-gen-soc-development-security-attack-data",
@@ -8709,6 +8719,26 @@
     "name": "customer-contact-cip-test-frontend",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/customer-contact-cip-test-frontend"
+  },
+  {
+    "deleted_on": "2026-10-13",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customer-contact-performance-tests",
+    "mirror_name": "hmrc.customer-contact-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customer-contact-performance-tests",
+    "name": "customer-contact-performance-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customer-contact-performance-tests"
+  },
+  {
+    "deleted_on": "2026-10-13",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customer-contact-stubs",
+    "mirror_name": "hmrc.customer-contact-stubs",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customer-contact-stubs",
+    "name": "customer-contact-stubs",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customer-contact-stubs"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14949,6 +14979,16 @@
     "name": "laa-data-claims-certificated-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-data-claims-certificated-api"
+  },
+  {
+    "deleted_on": "2026-10-13",
+    "description": "Java service to generate claims reports",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service",
+    "mirror_name": "ministryofjustice.laa-data-claims-reporting-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service",
+    "name": "laa-data-claims-reporting-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-reporting-service"
   },
   {
     "deleted_on": "2026-09-18",

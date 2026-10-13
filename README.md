@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2009**
-Organisations affected: **79**
+Total deleted repositories: **2013**
+Organisations affected: **80**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -9,9 +9,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**286**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.6% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**287**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 10.7% |
 | [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.5% |
-| [hmrc](https://github.com/hmrc) | [**211**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.5% |
+| [hmrc](https://github.com/hmrc) | [**213**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.5% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**115**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.5% |
@@ -36,7 +36,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
-| [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
+| [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
@@ -76,6 +76,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [TransportForLondon](https://github.com/TransportForLondon) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22TransportForLondon.%22) | 7.7% |
 | [UKHO](https://github.com/UKHO) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHO.%22) | 0.8% |
 | [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOfficeForms.%22) | 2.3% |
+| [VMDDTE](https://github.com/VMDDTE) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22VMDDTE.%22) | 16.7% |
 | [britishcouncil](https://github.com/britishcouncil) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22britishcouncil.%22) | 6.7% |
 | [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.9% |
 | [co-cddo](https://github.com/co-cddo) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22co-cddo.%22) | 0.7% |
@@ -89,10 +90,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (286)
+## [ministryofjustice](https://github.com/ministryofjustice) (287)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`laa-data-claims-reporting-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service) | Java service to generate claims reports | 2026-10-13 |
 | [`laa-civil-manage`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage) | Frontend service to allow legal providers to manage their applications for civil legal aid. | 2026-10-08 |
 | [`laa-civil-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-civil-manage-api) | API to allow legal providers to manage their applications for civil legal aid.  | 2026-10-08 |
 | [`laa-criminal-applications-testing`](https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-applications-testing) | Testing  | 2026-10-08 |
@@ -656,10 +658,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (211)
+## [hmrc](https://github.com/hmrc) (213)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`customer-contact-performance-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-performance-tests) |  | 2026-10-13 |
+| [`customer-contact-stubs`](https://github.com/uk-gov-mirror/hmrc.customer-contact-stubs) |  | 2026-10-13 |
 | [`customer-contact-cip-test-frontend`](https://github.com/uk-gov-mirror/hmrc.customer-contact-cip-test-frontend) |  | 2026-10-07 |
 | [`iht-decommission-frontend`](https://github.com/uk-gov-mirror/hmrc.iht-decommission-frontend) |  | 2026-10-06 |
 | [`carf-management`](https://github.com/uk-gov-mirror/hmrc.carf-management) |  | 2026-10-03 |
@@ -2420,6 +2424,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`hof-template-mixins.replaced.2026-09-03`](https://github.com/uk-gov-mirror/UKHomeOfficeForms.hof-template-mixins.replaced.2026-09-03) | Egar HOF Template mixins | 2026-09-03 |
+
+## [VMDDTE](https://github.com/VMDDTE) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`test-data-generator.replaced.2026-09-03`](https://github.com/uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03) | Service for generating and storing random test company data | 2026-10-13 |
 
 ## [britishcouncil](https://github.com/britishcouncil) (1)
 

@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [VMDDTE](https://github.com/VMDDTE) | [`test-data-generator.replaced.2026-09-03`](https://github.com/uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03) | Service for generating and storing random test company data | 2026-10-13 |
+| [hmrc](https://github.com/hmrc) | [`customer-contact-performance-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-performance-tests) |  | 2026-10-13 |
+| [hmrc](https://github.com/hmrc) | [`customer-contact-stubs`](https://github.com/uk-gov-mirror/hmrc.customer-contact-stubs) |  | 2026-10-13 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-claims-reporting-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service) | Java service to generate claims reports | 2026-10-13 |
 | [companieshouse](https://github.com/companieshouse) | [`insolvency-poc`](https://github.com/uk-gov-mirror/companieshouse.insolvency-poc) |  | 2026-10-10 |
 | [HistoricEngland](https://github.com/HistoricEngland) | [`arches-mini-hack-25`](https://github.com/uk-gov-mirror/HistoricEngland.arches-mini-hack-25) | An Arches project that captures the output of the mini hack Feb 25. Requires Arches for HER v1.0.0 and Arches 7.5.5 | 2026-10-09 |
 | [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-dhcp-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dhcp-server) | The ISC KEA server for serving DHCP requests (via a Docker image) | 2024-06-10* |
 | [nationalarchives](https://github.com/nationalarchives) | [`disaster-recovery-frontend`](https://github.com/uk-gov-mirror/nationalarchives.disaster-recovery-frontend) |  | 2024-06-06* |
 | [defra](https://github.com/defra) | [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
-| [ukwa](https://github.com/ukwa) | [`docker-clamd`](https://github.com/uk-gov-mirror/ukwa.docker-clamd) | ClamD in a container | 2024-05-20* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`athena-hash-performance`](https://github.com/uk-gov-mirror/moj-analytical-services.athena-hash-performance) |  | 2024-05-14* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`SWAP-git-demo`](https://github.com/uk-gov-mirror/moj-analytical-services.SWAP-git-demo) |  | 2024-05-09* |
-| [nhsdigital](https://github.com/nhsdigital) | [`uec-integration-test`](https://github.com/uk-gov-mirror/nhsdigital.uec-integration-test) |  | 2024-05-07* |
