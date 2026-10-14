@@ -866,6 +866,16 @@
     "original_url": "https://github.com/NHSE-NDRS/HSMA-Congenital-Condition-NLP"
   },
   {
+    "deleted_on": "2026-10-14",
+    "description": null,
+    "full_name": "uk-gov-mirror/NHSISL.LondonFhirService",
+    "mirror_name": "NHSISL.LondonFhirService",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSISL.LondonFhirService",
+    "name": "LondonFhirService",
+    "org": "NHSISL",
+    "original_url": "https://github.com/NHSISL/LondonFhirService"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Production Docker images for NHS LA sites.",
     "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
@@ -6639,6 +6649,16 @@
     "name": "charging-module-api",
     "org": "defra",
     "original_url": "https://github.com/defra/charging-module-api"
+  },
+  {
+    "deleted_on": "2026-10-14",
+    "description": "Git repository for Digital Waste Tracking API Documentation",
+    "full_name": "uk-gov-mirror/defra.digital-waste-tracking-api-docs",
+    "mirror_name": "defra.digital-waste-tracking-api-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs",
+    "name": "digital-waste-tracking-api-docs",
+    "org": "defra",
+    "original_url": "https://github.com/defra/digital-waste-tracking-api-docs"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

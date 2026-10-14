@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2013**
-Organisations affected: **80**
+Total deleted repositories: **2015**
+Organisations affected: **81**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -27,12 +27,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
+| [defra](https://github.com/defra) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.1% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
-| [defra](https://github.com/defra) | [**22**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.1% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
-| [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.7% |
+| [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.6% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
@@ -69,6 +69,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
 | [NHSE-NDRS](https://github.com/NHSE-NDRS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSE-NDRS.%22) | 8.3% |
+| [NHSISL](https://github.com/NHSISL) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSISL.%22) | 9.1% |
 | [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NISRA-Tech-Lab.%22) | 2.5% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
@@ -78,7 +79,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOfficeForms.%22) | 2.3% |
 | [VMDDTE](https://github.com/VMDDTE) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22VMDDTE.%22) | 16.7% |
 | [britishcouncil](https://github.com/britishcouncil) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22britishcouncil.%22) | 6.7% |
-| [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.9% |
+| [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.8% |
 | [co-cddo](https://github.com/co-cddo) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22co-cddo.%22) | 0.7% |
 | [defencedigital](https://github.com/defencedigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defencedigital.%22) | 1.5% |
 | [department-for-transport-BODS](https://github.com/department-for-transport-BODS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22department-for-transport-BODS.%22) | 6.2% |
@@ -1892,6 +1893,34 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
 | [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
 
+## [defra](https://github.com/defra) (23)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
+| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
+| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
+| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
+| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
+| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
+| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
+| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
+| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
+| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
+| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
+| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
+| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
+| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
+| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
+| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
+| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
+| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
+| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
+| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
+| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
+| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
+| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
+
 ## [ukforeignoffice](https://github.com/ukforeignoffice) (23)
 
 | Repository | Description | Deleted On |
@@ -1919,33 +1948,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`etd-document-upload`](https://github.com/uk-gov-mirror/ukforeignoffice.etd-document-upload) |  | 2020-02-20* |
 | [`ETD-prototype-upload`](https://github.com/uk-gov-mirror/ukforeignoffice.ETD-prototype-upload) |  |  |
 | [`legalisation-prototype`](https://github.com/uk-gov-mirror/ukforeignoffice.legalisation-prototype) | Legalisation prototype |  |
-
-## [defra](https://github.com/defra) (22)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
-| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
-| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
-| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
-| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
-| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
-| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
-| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
-| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
-| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
-| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
-| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
-| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
-| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
-| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
-| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
-| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
-| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
-| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
-| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
-| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
-| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
 
 ## [datasciencecampus](https://github.com/datasciencecampus) (21)
 
@@ -2382,6 +2384,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`HSMA-Congenital-Condition-NLP`](https://github.com/uk-gov-mirror/NHSE-NDRS.HSMA-Congenital-Condition-NLP) | This repo is for the HSMA Inception Project: 'Applying Natural Language Processing to automate the extraction and classification of congenital conditions from free text' | 2026-10-03 |
+
+## [NHSISL](https://github.com/NHSISL) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`LondonFhirService`](https://github.com/uk-gov-mirror/NHSISL.LondonFhirService) |  | 2026-10-14 |
 
 ## [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) (1)
 

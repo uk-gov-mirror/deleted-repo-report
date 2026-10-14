@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHSISL](https://github.com/NHSISL) | [`LondonFhirService`](https://github.com/uk-gov-mirror/NHSISL.LondonFhirService) |  | 2026-10-14 |
+| [defra](https://github.com/defra) | [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
 | [VMDDTE](https://github.com/VMDDTE) | [`test-data-generator.replaced.2026-09-03`](https://github.com/uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03) | Service for generating and storing random test company data | 2026-10-13 |
 | [hmrc](https://github.com/hmrc) | [`customer-contact-performance-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-performance-tests) |  | 2026-10-13 |
 | [hmrc](https://github.com/hmrc) | [`customer-contact-stubs`](https://github.com/uk-gov-mirror/hmrc.customer-contact-stubs) |  | 2026-10-13 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-app-jobprofile-refreshsegments`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-app-jobprofile-refreshsegments) | To refresh segments data in Azure Redis | 2024-06-12* |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [`dfc-eventstore`](https://github.com/uk-gov-mirror/SkillsFundingAgency.dfc-eventstore) |  | 2024-06-12* |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`staff-device-dhcp-server`](https://github.com/uk-gov-mirror/ministryofjustice.staff-device-dhcp-server) | The ISC KEA server for serving DHCP requests (via a Docker image) | 2024-06-10* |
-| [nationalarchives](https://github.com/nationalarchives) | [`disaster-recovery-frontend`](https://github.com/uk-gov-mirror/nationalarchives.disaster-recovery-frontend) |  | 2024-06-06* |
-| [defra](https://github.com/defra) | [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
