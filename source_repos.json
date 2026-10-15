@@ -8547,6 +8547,16 @@
     "original_url": "https://github.com/hmrc/carf-management-ui-tests.replaced.2026-09-02"
   },
   {
+    "deleted_on": "2026-10-15",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.carf-registration",
+    "mirror_name": "hmrc.carf-registration",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-registration",
+    "name": "carf-registration",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/carf-registration"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-09-08",
     "description": null,
