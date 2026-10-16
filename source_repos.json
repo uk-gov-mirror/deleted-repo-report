@@ -143,6 +143,16 @@
     "original_url": "https://github.com/Birmingham-and-Solihull-ICS/Unsupervised-Clustering-Practices"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "Prototypes for AI tests",
+    "full_name": "uk-gov-mirror/CPS-Innovation.AI-prototype",
+    "mirror_name": "CPS-Innovation.AI-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype",
+    "name": "AI-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/AI-prototype"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2023-01-27",
     "description": null,
@@ -165,6 +175,46 @@
     "original_url": "https://github.com/CPS-Innovation/RumpolePipeline"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "prototype of the case locking tools",
+    "full_name": "uk-gov-mirror/CPS-Innovation.case-locking-prototype",
+    "mirror_name": "CPS-Innovation.case-locking-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype",
+    "name": "case-locking-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/case-locking-prototype"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "court scheduling and rotas",
+    "full_name": "uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype",
+    "mirror_name": "CPS-Innovation.court-scheduling-and-rotas-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype",
+    "name": "court-scheduling-and-rotas-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/court-scheduling-and-rotas-prototype"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.cps-design-resources",
+    "mirror_name": "CPS-Innovation.cps-design-resources",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.cps-design-resources",
+    "name": "cps-design-resources",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/cps-design-resources"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "For prototype versions of the global navigation",
+    "full_name": "uk-gov-mirror/CPS-Innovation.global-navigation-prototype",
+    "mirror_name": "CPS-Innovation.global-navigation-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.global-navigation-prototype",
+    "name": "global-navigation-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/global-navigation-prototype"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-29",
     "description": null,
@@ -185,6 +235,26 @@
     "name": "large-and-complex-cases-pipeline-templates",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/large-and-complex-cases-pipeline-templates"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "A place to document and share our design decisions",
+    "full_name": "uk-gov-mirror/CPS-Innovation.new-design-history",
+    "mirror_name": "CPS-Innovation.new-design-history",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.new-design-history",
+    "name": "new-design-history",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/new-design-history"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype",
+    "mirror_name": "CPS-Innovation.prepare-for-hearing-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype",
+    "name": "prepare-for-hearing-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/prepare-for-hearing-prototype"
   },
   {
     "deleted_on": "2026-09-03",
@@ -7937,6 +8007,16 @@
     "original_url": "https://github.com/govuk-one-login/di-lead-observable-notebook.replaced.2026-08-21"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "GitHub organisation migration validation test repository",
+    "full_name": "uk-gov-mirror/govuk-pay.pay-migration-test-1",
+    "mirror_name": "govuk-pay.pay-migration-test-1",
+    "mirror_url": "https://github.com/uk-gov-mirror/govuk-pay.pay-migration-test-1",
+    "name": "pay-migration-test-1",
+    "org": "govuk-pay",
+    "original_url": "https://github.com/govuk-pay/pay-migration-test-1"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-02-17",
     "description": null,
@@ -12846,6 +12926,16 @@
     "original_url": "https://github.com/ministryofjustice/bh-frontend-app-dev"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "Brookhouse Wordpress Theme",
+    "full_name": "uk-gov-mirror/ministryofjustice.brookhouse",
+    "mirror_name": "ministryofjustice.brookhouse",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.brookhouse",
+    "name": "brookhouse",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/brookhouse"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Prototypes for the Calculate release dates service",
     "full_name": "uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype",
@@ -12887,6 +12977,16 @@
     "name": "cccd-spike-sns",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/cccd-spike-sns"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Because your data needs a roundhouse kick before it meets the model.",
+    "full_name": "uk-gov-mirror/ministryofjustice.chunk-norris",
+    "mirror_name": "ministryofjustice.chunk-norris",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.chunk-norris",
+    "name": "chunk-norris",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/chunk-norris"
   },
   {
     "deleted_on": "2026-08-21",
@@ -13059,6 +13159,16 @@
     "name": "dv-frontend-app-dev",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/dv-frontend-app-dev"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Microservice that takes an XML job feed and converts it to JSON. This is then hosted in an s3 bucket, used by WordPress FeedImporter plugin.",
+    "full_name": "uk-gov-mirror/ministryofjustice.feed-parser",
+    "mirror_name": "ministryofjustice.feed-parser",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.feed-parser",
+    "name": "feed-parser",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/feed-parser"
   },
   {
     "deleted_on": "2026-10-07",
@@ -14845,6 +14955,16 @@
     "original_url": "https://github.com/ministryofjustice/iis"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "IMB Members Wordpress Theme",
+    "full_name": "uk-gov-mirror/ministryofjustice.imbmembers",
+    "mirror_name": "ministryofjustice.imbmembers",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.imbmembers",
+    "name": "imbmembers",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/imbmembers"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "my first attempt at creating a kotlin app (bootstrapped 2025-06-17)",
     "full_name": "uk-gov-mirror/ministryofjustice.james-kotlin-test.replaced.2026-09-03",
@@ -14864,6 +14984,16 @@
     "name": "juniper-mist-integration-spike",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/juniper-mist-integration-spike"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "A statically generated site, serving the JOTW team's technical documentation.",
+    "full_name": "uk-gov-mirror/ministryofjustice.justice-on-the-web",
+    "mirror_name": "ministryofjustice.justice-on-the-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.justice-on-the-web",
+    "name": "justice-on-the-web",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/justice-on-the-web"
   },
   {
     "deleted_on": "2026-08-22",
@@ -15092,6 +15222,16 @@
     "name": "laa-test-a-provider-data-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-test-a-provider-data-ui"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Wordpress theme for the Law Commission",
+    "full_name": "uk-gov-mirror/ministryofjustice.lawcom",
+    "mirror_name": "ministryofjustice.lawcom",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.lawcom",
+    "name": "lawcom",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/lawcom"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -15406,6 +15546,16 @@
     "original_url": "https://github.com/ministryofjustice/setup-kd"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "SIFOCC Wordpress Theme",
+    "full_name": "uk-gov-mirror/ministryofjustice.sifocc",
+    "mirror_name": "ministryofjustice.sifocc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.sifocc",
+    "name": "sifocc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/sifocc"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2024-06-10",
     "description": "The ISC KEA server for serving DHCP requests (via a Docker image)",
@@ -15598,6 +15748,16 @@
     "original_url": "https://github.com/ministryofjustice/vcms-performance"
   },
   {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress AWS Site Manager. Manage MOJ Digital WordPress instances running in AWS.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wasm",
+    "mirror_name": "ministryofjustice.wasm",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wasm",
+    "name": "wasm",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wasm"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-02-05",
     "description": "A base WordPress image for use in the Publishing Platform.",
@@ -15617,6 +15777,386 @@
     "name": "worm",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/worm"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for the Accounting Centre of Excellence",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-accountingcofe",
+    "mirror_name": "ministryofjustice.wp-accountingcofe",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-accountingcofe",
+    "name": "wp-accountingcofe",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-accountingcofe"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Tools to help with hosting WordPress in AWS.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-aws-tools",
+    "mirror_name": "ministryofjustice.wp-aws-tools",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-aws-tools",
+    "name": "wp-aws-tools",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-aws-tools"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Website for Brook House Special Investigation",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-brookhouse",
+    "mirror_name": "ministryofjustice.wp-brookhouse",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-brookhouse",
+    "name": "wp-brookhouse",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-brookhouse"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for Criminal Case Review Commission",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-ccrc",
+    "mirror_name": "ministryofjustice.wp-ccrc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-ccrc",
+    "name": "wp-ccrc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-ccrc"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "A WordPress parent theme for creating Centre of Excellence websites.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-centreofexcellence",
+    "mirror_name": "ministryofjustice.wp-centreofexcellence",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-centreofexcellence",
+    "name": "wp-centreofexcellence",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-centreofexcellence"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WP theme for DESIGN102",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-design102",
+    "mirror_name": "ministryofjustice.wp-design102",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-design102",
+    "name": "wp-design102",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-design102"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Tools for working with WordPress instances in ECS",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-ecs-tools",
+    "mirror_name": "ministryofjustice.wp-ecs-tools",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-ecs-tools",
+    "name": "wp-ecs-tools",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-ecs-tools"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-hillsborough",
+    "mirror_name": "ministryofjustice.wp-hillsborough",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-hillsborough",
+    "name": "wp-hillsborough",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-hillsborough"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for HMCTS blog",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-hmcts-blog",
+    "mirror_name": "ministryofjustice.wp-hmcts-blog",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-hmcts-blog",
+    "name": "wp-hmcts-blog",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-hmcts-blog"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Independent Monitoring Board Wordpress theme",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-imb",
+    "mirror_name": "ministryofjustice.wp-imb",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-imb",
+    "name": "wp-imb",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-imb"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress application for IMB Members.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-imbmembers",
+    "mirror_name": "ministryofjustice.wp-imbmembers",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-imbmembers",
+    "name": "wp-imbmembers",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-imbmembers"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-intranet-joi",
+    "mirror_name": "ministryofjustice.wp-intranet-joi",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-intranet-joi",
+    "name": "wp-intranet-joi",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-intranet-joi"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-intranet-lawcom",
+    "mirror_name": "ministryofjustice.wp-intranet-lawcom",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-intranet-lawcom",
+    "name": "wp-intranet-lawcom",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-intranet-lawcom"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for Official Solicitor and Public Trustee Intranet migrated from Red Dot",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-intranet-ospt",
+    "mirror_name": "ministryofjustice.wp-intranet-ospt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-intranet-ospt",
+    "name": "wp-intranet-ospt",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-intranet-ospt"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for the Judicial Conduct Investigations Office",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-jcio",
+    "mirror_name": "ministryofjustice.wp-jcio",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-jcio",
+    "name": "wp-jcio",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-jcio"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress blog for the Judicial Office.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-joblog",
+    "mirror_name": "ministryofjustice.wp-joblog",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-joblog",
+    "name": "wp-joblog",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-joblog"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Justice On The Web content team WordPress multisite build files.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-jotw-public",
+    "mirror_name": "ministryofjustice.wp-jotw-public",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-jotw-public",
+    "name": "wp-jotw-public",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-jotw-public"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WP build and theme for Justice Jobs",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-justicejobs",
+    "mirror_name": "ministryofjustice.wp-justicejobs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-justicejobs",
+    "name": "wp-justicejobs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-justicejobs"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for a weekly update site for MOJ Digital",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-knowthething",
+    "mirror_name": "ministryofjustice.wp-knowthething",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-knowthething",
+    "name": "wp-knowthething",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-knowthething"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Experimenting with Lambda CodePipeline function",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-lambda-deploy",
+    "mirror_name": "ministryofjustice.wp-lambda-deploy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-lambda-deploy",
+    "name": "wp-lambda-deploy",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-lambda-deploy"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for Law Commission",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-lawcom",
+    "mirror_name": "ministryofjustice.wp-lawcom",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-lawcom",
+    "name": "wp-lawcom",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-lawcom"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for the Lay Observers website.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-layobservers",
+    "mirror_name": "ministryofjustice.wp-layobservers",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-layobservers",
+    "name": "wp-layobservers",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-layobservers"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "A base docker image for running 12 factor Multisite WordPress applications.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-multisite-base-docker",
+    "mirror_name": "ministryofjustice.wp-multisite-base-docker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-multisite-base-docker",
+    "name": "wp-multisite-base-docker",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-multisite-base-docker"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "UNUSED. WordPress theme for Natalie Ceeney's blog.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-natalieceeney",
+    "mirror_name": "ministryofjustice.wp-natalieceeney",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-natalieceeney",
+    "name": "wp-natalieceeney",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-natalieceeney"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "NCES Blog",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-ncesblog",
+    "mirror_name": "ministryofjustice.wp-ncesblog",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-ncesblog",
+    "name": "wp-ncesblog",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-ncesblog"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for National Preventative Mechanism",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-npm",
+    "mirror_name": "ministryofjustice.wp-npm",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-npm",
+    "name": "wp-npm",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-npm"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Website template for the Public Defender Service",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-pds",
+    "mirror_name": "ministryofjustice.wp-pds",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-pds",
+    "name": "wp-pds",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-pds"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Prisons and Probation Ombudsman website (Wordpress)",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-ppo",
+    "mirror_name": "ministryofjustice.wp-ppo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-ppo",
+    "name": "wp-ppo",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-ppo"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Application to capture and display a dashboard of information about WordPress installs in the Publishing Platform.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-registry",
+    "mirror_name": "ministryofjustice.wp-registry",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-registry",
+    "name": "wp-registry",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-registry"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress plugin for WP Registry",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-registry-client",
+    "mirror_name": "ministryofjustice.wp-registry-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-registry-client",
+    "name": "wp-registry-client",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-registry-client"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress build and theme for SIFOCC site.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-sifocc",
+    "mirror_name": "ministryofjustice.wp-sifocc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-sifocc",
+    "name": "wp-sifocc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-sifocc"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "This utility provides a collection of bash scripts that can be used for a variety of tasks such as; applying software updates to website dependencies located in a bedrock structured website. It also contains helper commands to assist in local development.",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-sumu",
+    "mirror_name": "ministryofjustice.wp-sumu",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-sumu",
+    "name": "wp-sumu",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-sumu"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress site for the Tax Centre of Excellence",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-taxcentreofexcellence",
+    "mirror_name": "ministryofjustice.wp-taxcentreofexcellence",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-taxcentreofexcellence",
+    "name": "wp-taxcentreofexcellence",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-taxcentreofexcellence"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "A starter project for WordPress in MOJ using docker",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-template",
+    "mirror_name": "ministryofjustice.wp-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-template",
+    "name": "wp-template",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-template"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress plugin to create typically required user roles for MOJ Digital",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-user-roles",
+    "mirror_name": "ministryofjustice.wp-user-roles",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-user-roles",
+    "name": "wp-user-roles",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-user-roles"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "This is prototype for a Tactical Products wide user feedback tool",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-userfeedback",
+    "mirror_name": "ministryofjustice.wp-userfeedback",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-userfeedback",
+    "name": "wp-userfeedback",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-userfeedback"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "WordPress theme for Victims Commissioner",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-victcomm",
+    "mirror_name": "ministryofjustice.wp-victcomm",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-victcomm",
+    "name": "wp-victcomm",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-victcomm"
+  },
+  {
+    "deleted_on": "2026-10-16",
+    "description": "Victims' Commissioner WP theme",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-victcomm2",
+    "mirror_name": "ministryofjustice.wp-victcomm2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-victcomm2",
+    "name": "wp-victcomm2",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-victcomm2"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
