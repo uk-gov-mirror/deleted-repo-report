@@ -153,6 +153,16 @@
     "original_url": "https://github.com/CPS-Innovation/AI-prototype"
   },
   {
+    "deleted_on": "2026-10-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.EndToEnd",
+    "mirror_name": "CPS-Innovation.EndToEnd",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd",
+    "name": "EndToEnd",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/EndToEnd"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2023-01-27",
     "description": null,
@@ -224,6 +234,16 @@
     "name": "hk-cwa-web-component-poc-example-app",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/hk-cwa-web-component-poc-example-app"
+  },
+  {
+    "deleted_on": "2026-10-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.housekeeping-prototype",
+    "mirror_name": "CPS-Innovation.housekeeping-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype",
+    "name": "housekeeping-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/housekeeping-prototype"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -14965,6 +14985,16 @@
     "original_url": "https://github.com/ministryofjustice/imbmembers"
   },
   {
+    "deleted_on": "2026-10-17",
+    "description": "my first attempt at creating a kotlin app (bootstrapped 2025-06-17) (bootstrapped 2026-01-26)",
+    "full_name": "uk-gov-mirror/ministryofjustice.james-kotlin-test",
+    "mirror_name": "ministryofjustice.james-kotlin-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test",
+    "name": "james-kotlin-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/james-kotlin-test"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "my first attempt at creating a kotlin app (bootstrapped 2025-06-17)",
     "full_name": "uk-gov-mirror/ministryofjustice.james-kotlin-test.replaced.2026-09-03",
@@ -17429,6 +17459,26 @@
     "original_url": "https://github.com/nhsconnect/National-Failsafe"
   },
   {
+    "deleted_on": "2026-10-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases",
+    "mirror_name": "nhsconnect.PFS-Prescriptions-Manual-Test-Cases",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases",
+    "name": "PFS-Prescriptions-Manual-Test-Cases",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/PFS-Prescriptions-Manual-Test-Cases"
+  },
+  {
+    "deleted_on": "2026-10-17",
+    "description": "TKW-x config for GP_CONNECT",
+    "full_name": "uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs",
+    "mirror_name": "nhsconnect.TKW_GP_CONNECT_configs",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs",
+    "name": "TKW_GP_CONNECT_configs",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/TKW_GP_CONNECT_configs"
+  },
+  {
     "deleted_on": "2026-10-06",
     "description": null,
     "full_name": "uk-gov-mirror/nhsconnect.Terminology-Test",
@@ -17469,6 +17519,16 @@
     "name": "itk-architecture",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/itk-architecture"
+  },
+  {
+    "deleted_on": "2026-10-17",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.nrl-responder-stub",
+    "mirror_name": "nhsconnect.nrl-responder-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.nrl-responder-stub",
+    "name": "nrl-responder-stub",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/nrl-responder-stub"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17535,6 +17595,16 @@
     "name": "prm-gp2gp-support-infra",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/prm-gp2gp-support-infra"
+  },
+  {
+    "deleted_on": "2026-10-17",
+    "description": "record-locator-specification",
+    "full_name": "uk-gov-mirror/nhsconnect.record-locator-specification",
+    "mirror_name": "nhsconnect.record-locator-specification",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.record-locator-specification",
+    "name": "record-locator-specification",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/record-locator-specification"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

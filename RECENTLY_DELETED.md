@@ -6,6 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`EndToEnd`](https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd) |  | 2026-10-17 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`housekeeping-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype) |  | 2026-10-17 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`james-kotlin-test`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) (bootstrapped 2026-01-26) | 2026-10-17 |
+| [nhsconnect](https://github.com/nhsconnect) | [`PFS-Prescriptions-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases) |  | 2026-10-17 |
+| [nhsconnect](https://github.com/nhsconnect) | [`TKW_GP_CONNECT_configs`](https://github.com/uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs) | TKW-x config for GP_CONNECT | 2026-10-17 |
+| [nhsconnect](https://github.com/nhsconnect) | [`nrl-responder-stub`](https://github.com/uk-gov-mirror/nhsconnect.nrl-responder-stub) |  | 2026-10-17 |
+| [nhsconnect](https://github.com/nhsconnect) | [`record-locator-specification`](https://github.com/uk-gov-mirror/nhsconnect.record-locator-specification) | record-locator-specification | 2026-10-17 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`AI-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype) | Prototypes for AI tests | 2026-10-16 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`case-locking-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype) | prototype of the case locking tools | 2026-10-16 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`court-scheduling-and-rotas-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype) | court scheduling and rotas | 2026-10-16 |
@@ -999,10 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [`s3browser`](https://github.com/uk-gov-mirror/moj-analytical-services.s3browser) | A R Studio Addin that allows you to browse the files you have access to in S3 | 2025-04-14* |
 | [ONSdigital](https://github.com/ONSdigital) | [`response-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.response-management-ui) | Response Operations user interface for Response Management. | 2025-04-13* |
 | [nhsuk](https://github.com/nhsuk) | [`user-feedback-store`](https://github.com/uk-gov-mirror/nhsuk.user-feedback-store) | Backend API for use with the user-feedback-form frontend | 2025-04-06* |
-| [nhsdigital](https://github.com/nhsdigital) | [`dtos-participant-manager-prototype`](https://github.com/uk-gov-mirror/nhsdigital.dtos-participant-manager-prototype) | Prototype for Participant Manager. #screening-team-participant-manager | 2025-03-28* |
-| [nhsdigital](https://github.com/nhsdigital) | [`Screening-Infrastructure`](https://github.com/uk-gov-mirror/nhsdigital.Screening-Infrastructure) |  | 2025-03-21* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`datahub_mlflow_testing`](https://github.com/uk-gov-mirror/moj-analytical-services.datahub_mlflow_testing) | Testing the integration from MLFlow to DataHub | 2025-03-14* |
-| [companieshouse](https://github.com/companieshouse) | [`ddat-scoring-app`](https://github.com/uk-gov-mirror/companieshouse.ddat-scoring-app) | Simple Express App for producing | 2025-03-12* |
-| [nhsdigital](https://github.com/nhsdigital) | [`screening-ansible`](https://github.com/uk-gov-mirror/nhsdigital.screening-ansible) |  | 2025-03-11* |
-| [nhsuk](https://github.com/nhsuk) | [`select-people-for-invitations-design-history`](https://github.com/uk-gov-mirror/nhsuk.select-people-for-invitations-design-history) |  | 2025-03-05* |
-| [ukncsc](https://github.com/ukncsc) | [`MailCheck.Public`](https://github.com/uk-gov-mirror/ukncsc.MailCheck.Public) |  | 2025-03-05* |

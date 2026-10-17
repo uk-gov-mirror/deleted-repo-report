@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2070**
+Total deleted repositories: **2077**
 Organisations affected: **82**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,7 +9,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**333**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 12.4% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**334**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 12.5% |
 | [nhsdigital](https://github.com/nhsdigital) | [**271**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.5% |
 | [hmrc](https://github.com/hmrc) | [**214**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.8% |
@@ -23,7 +23,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.7% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
-| [nhsconnect](https://github.com/nhsconnect) | [**32**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 17.3% |
+| [nhsconnect](https://github.com/nhsconnect) | [**36**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 20.1% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
@@ -34,10 +34,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
 | [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.6% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 24.1% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [**11**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 20.0% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
@@ -92,10 +92,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (333)
+## [ministryofjustice](https://github.com/ministryofjustice) (334)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`james-kotlin-test`](https://github.com/uk-gov-mirror/ministryofjustice.james-kotlin-test) | my first attempt at creating a kotlin app (bootstrapped 2025-06-17) (bootstrapped 2026-01-26) | 2026-10-17 |
 | [`brookhouse`](https://github.com/uk-gov-mirror/ministryofjustice.brookhouse) | Brookhouse Wordpress Theme | 2026-10-16 |
 | [`chunk-norris`](https://github.com/uk-gov-mirror/ministryofjustice.chunk-norris) | Because your data needs a roundhouse kick before it meets the model. | 2026-10-16 |
 | [`feed-parser`](https://github.com/uk-gov-mirror/ministryofjustice.feed-parser) | Microservice that takes an XML job feed and converts it to JSON. This is then hosted in an s3 bucket, used by WordPress FeedImporter plugin. | 2026-10-16 |
@@ -1803,10 +1804,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
 
-## [nhsconnect](https://github.com/nhsconnect) (32)
+## [nhsconnect](https://github.com/nhsconnect) (36)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`PFS-Prescriptions-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases) |  | 2026-10-17 |
+| [`TKW_GP_CONNECT_configs`](https://github.com/uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs) | TKW-x config for GP_CONNECT | 2026-10-17 |
+| [`nrl-responder-stub`](https://github.com/uk-gov-mirror/nhsconnect.nrl-responder-stub) |  | 2026-10-17 |
+| [`record-locator-specification`](https://github.com/uk-gov-mirror/nhsconnect.record-locator-specification) | record-locator-specification | 2026-10-17 |
 | [`FHIR-END-OF-LIFE-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API) | FHIR End of Life API | 2026-10-06 |
 | [`FHIR-Maternity-Record`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-Maternity-Record) | Maternity Record | 2026-10-06 |
 | [`FHIR-ReasonableAdjustments-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ReasonableAdjustments-API) | FHIR Reasonable Adjustments API  | 2026-10-06 |
@@ -2111,6 +2116,24 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`cvs-vtm-prototype`](https://github.com/uk-gov-mirror/dvsa.cvs-vtm-prototype) |  | 2020-09-10* |
 | [`motr-terraform`](https://github.com/uk-gov-mirror/dvsa.motr-terraform) | MOTR terraform code | 2020-09-06* |
 
+## [CPS-Innovation](https://github.com/CPS-Innovation) (13)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`EndToEnd`](https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd) |  | 2026-10-17 |
+| [`housekeeping-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype) |  | 2026-10-17 |
+| [`AI-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype) | Prototypes for AI tests | 2026-10-16 |
+| [`case-locking-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype) | prototype of the case locking tools | 2026-10-16 |
+| [`court-scheduling-and-rotas-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype) | court scheduling and rotas | 2026-10-16 |
+| [`cps-design-resources`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-design-resources) |  | 2026-10-16 |
+| [`global-navigation-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.global-navigation-prototype) | For prototype versions of the global navigation | 2026-10-16 |
+| [`new-design-history`](https://github.com/uk-gov-mirror/CPS-Innovation.new-design-history) | A place to document and share our design decisions | 2026-10-16 |
+| [`prepare-for-hearing-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype) |  | 2026-10-16 |
+| [`hk-cwa-web-component-poc-example-app`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc-example-app) |  | 2025-07-29* |
+| [`large-and-complex-cases-pipeline-templates`](https://github.com/uk-gov-mirror/CPS-Innovation.large-and-complex-cases-pipeline-templates) |  | 2025-04-25* |
+| [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
+| [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
+
 ## [intellectual-property-office](https://github.com/intellectual-property-office) (13)
 
 | Repository | Description | Deleted On |
@@ -2162,22 +2185,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`nhsuk.platform.poc.green-app-demo`](https://github.com/uk-gov-mirror/nhsuk.nhsuk.platform.poc.green-app-demo) |  | 2025-04-30* |
 | [`user-feedback-store`](https://github.com/uk-gov-mirror/nhsuk.user-feedback-store) | Backend API for use with the user-feedback-form frontend | 2025-04-06* |
 | [`select-people-for-invitations-design-history`](https://github.com/uk-gov-mirror/nhsuk.select-people-for-invitations-design-history) |  | 2025-03-05* |
-
-## [CPS-Innovation](https://github.com/CPS-Innovation) (11)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`AI-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype) | Prototypes for AI tests | 2026-10-16 |
-| [`case-locking-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype) | prototype of the case locking tools | 2026-10-16 |
-| [`court-scheduling-and-rotas-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype) | court scheduling and rotas | 2026-10-16 |
-| [`cps-design-resources`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-design-resources) |  | 2026-10-16 |
-| [`global-navigation-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.global-navigation-prototype) | For prototype versions of the global navigation | 2026-10-16 |
-| [`new-design-history`](https://github.com/uk-gov-mirror/CPS-Innovation.new-design-history) | A place to document and share our design decisions | 2026-10-16 |
-| [`prepare-for-hearing-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype) |  | 2026-10-16 |
-| [`hk-cwa-web-component-poc-example-app`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc-example-app) |  | 2025-07-29* |
-| [`large-and-complex-cases-pipeline-templates`](https://github.com/uk-gov-mirror/CPS-Innovation.large-and-complex-cases-pipeline-templates) |  | 2025-04-25* |
-| [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
-| [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
 
 ## [nhsd-exeter](https://github.com/nhsd-exeter) (10)
 
