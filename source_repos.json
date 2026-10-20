@@ -18382,6 +18382,16 @@
     "original_url": "https://github.com/nhsdigital/NHSDigitial-FHIR-ImplementationGuide"
   },
   {
+    "deleted_on": "2026-10-20",
+    "description": "A Sandbox for Interoperability Standards Team FHIR R4 assets",
+    "full_name": "uk-gov-mirror/nhsdigital.NHSEngland-FHIR-Sandbox",
+    "mirror_name": "nhsdigital.NHSEngland-FHIR-Sandbox",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.NHSEngland-FHIR-Sandbox",
+    "name": "NHSEngland-FHIR-Sandbox",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/NHSEngland-FHIR-Sandbox"
+  },
+  {
     "deleted_on": "2026-09-11",
     "description": "Code used to produce the Patient Online Management Information (POMI) publication.",
     "full_name": "uk-gov-mirror/nhsdigital.POMI",
