@@ -6899,6 +6899,16 @@
     "original_url": "https://github.com/defra/water-abstraction-admin-ui"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": "Investigate using the test framework AVA by the water-abstraction-team",
+    "full_name": "uk-gov-mirror/defra.water-abstraction-ava",
+    "mirror_name": "defra.water-abstraction-ava",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.water-abstraction-ava",
+    "name": "water-abstraction-ava",
+    "org": "defra",
+    "original_url": "https://github.com/defra/water-abstraction-ava"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-29",
     "description": "A prototype to test options for a maximum quantities calculator for water abstraction licences",
@@ -6908,6 +6918,16 @@
     "name": "water-abstraction-conditions",
     "org": "defra",
     "original_url": "https://github.com/defra/water-abstraction-conditions"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Investigate using the node test runner by the water-abstraction-team",
+    "full_name": "uk-gov-mirror/defra.water-abstraction-node-test",
+    "mirror_name": "defra.water-abstraction-node-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.water-abstraction-node-test",
+    "name": "water-abstraction-node-test",
+    "org": "defra",
+    "original_url": "https://github.com/defra/water-abstraction-node-test"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -8829,6 +8849,16 @@
     "name": "ctc-traders-phase6-tis",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/ctc-traders-phase6-tis"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.customer-contact",
+    "mirror_name": "hmrc.customer-contact",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.customer-contact",
+    "name": "customer-contact",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/customer-contact"
   },
   {
     "deleted_on": "2026-10-03",
@@ -13201,6 +13231,16 @@
     "original_url": "https://github.com/ministryofjustice/glad-platform"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": "Find a Rubber Duck Hackathon training",
+    "full_name": "uk-gov-mirror/ministryofjustice.hackathon-FARD",
+    "mirror_name": "ministryofjustice.hackathon-FARD",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hackathon-FARD",
+    "name": "hackathon-FARD",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hackathon-FARD"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-17",
     "description": "Hillsborough Inquests",
@@ -15057,6 +15097,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-assess-a-claim-frontend"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-certificated-fee-scheme-api",
+    "mirror_name": "ministryofjustice.laa-certificated-fee-scheme-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-certificated-fee-scheme-api",
+    "name": "laa-certificated-fee-scheme-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-certificated-fee-scheme-api"
+  },
+  {
     "deleted_on": "2026-10-08",
     "description": "Frontend service to allow legal providers to manage their applications for civil legal aid.",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-civil-manage",
@@ -15368,6 +15418,56 @@
     "original_url": "https://github.com/ministryofjustice/offloc-server"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": "OPG AWS Identity Key Rotation Scheduler App: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-key-rotation-scheduler-app",
+    "mirror_name": "ministryofjustice.opg-aws-key-rotation-scheduler-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-key-rotation-scheduler-app",
+    "name": "opg-aws-key-rotation-scheduler-app",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-aws-key-rotation-scheduler-app"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Migration of CasRec data into Sirius: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-data-casrec-migration",
+    "mirror_name": "ministryofjustice.opg-data-casrec-migration",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-data-casrec-migration",
+    "name": "opg-data-casrec-migration",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-data-casrec-migration"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Mappings automation and versioning for CasRec migration: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-data-casrec-migration-mappings",
+    "mirror_name": "ministryofjustice.opg-data-casrec-migration-mappings",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-data-casrec-migration-mappings",
+    "name": "opg-data-casrec-migration-mappings",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-data-casrec-migration-mappings"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "OPG Infrastructure Costs: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-infra-costs",
+    "mirror_name": "ministryofjustice.opg-infra-costs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs",
+    "name": "opg-infra-costs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-infra-costs"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Github action to generate AWS cost data: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-infra-costs-action",
+    "mirror_name": "ministryofjustice.opg-infra-costs-action",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs-action",
+    "name": "opg-infra-costs-action",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-infra-costs-action"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "OPG Infrastructure Costs: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.opg-infra-costs.replaced.2026-09-03",
@@ -15378,6 +15478,16 @@
     "original_url": "https://github.com/ministryofjustice/opg-infra-costs.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-loadtest",
+    "mirror_name": "ministryofjustice.opg-loadtest",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-loadtest",
+    "name": "opg-loadtest",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-loadtest"
+  },
+  {
     "deleted_on": "2026-08-20",
     "description": "The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.opg-make-lpa",
@@ -15386,6 +15496,36 @@
     "name": "opg-make-lpa",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-make-lpa"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "OPG PHP FPM Stats Exporter: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-php-fpm-stats-exporter",
+    "mirror_name": "ministryofjustice.opg-php-fpm-stats-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-php-fpm-stats-exporter",
+    "name": "opg-php-fpm-stats-exporter",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-php-fpm-stats-exporter"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Publish ECR scan results to Slack: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-publish-ecr-scan-results-to-slack",
+    "mirror_name": "ministryofjustice.opg-publish-ecr-scan-results-to-slack",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-publish-ecr-scan-results-to-slack",
+    "name": "opg-publish-ecr-scan-results-to-slack",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-publish-ecr-scan-results-to-slack"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Standard OPG AWS Network Module: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-terraform-aws-network",
+    "mirror_name": "ministryofjustice.opg-terraform-aws-network",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-terraform-aws-network",
+    "name": "opg-terraform-aws-network",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-terraform-aws-network"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -15584,6 +15724,16 @@
     "name": "sifocc",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/sifocc"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.specialist-provider-proto",
+    "mirror_name": "ministryofjustice.specialist-provider-proto",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.specialist-provider-proto",
+    "name": "specialist-provider-proto",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/specialist-provider-proto"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17359,6 +17509,26 @@
     "original_url": "https://github.com/nhsconnect/FHIR-ReasonableAdjustments-API"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": "Automation framework to test the patient permissions API",
+    "full_name": "uk-gov-mirror/nhsconnect.GPConnect-Patient-Permissions-Automation-Framework",
+    "mirror_name": "nhsconnect.GPConnect-Patient-Permissions-Automation-Framework",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.GPConnect-Patient-Permissions-Automation-Framework",
+    "name": "GPConnect-Patient-Permissions-Automation-Framework",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/GPConnect-Patient-Permissions-Automation-Framework"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests",
+    "mirror_name": "nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests",
+    "name": "GPConnect.PatientFacingService.Provider.AcceptanceTests",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/GPConnect.PatientFacingService.Provider.AcceptanceTests"
+  },
+  {
     "deleted_on": "2026-10-06",
     "description": "This is a test repo for development of alternative implementation Guidance ",
     "full_name": "uk-gov-mirror/nhsconnect.Generic-Test-Repo",
@@ -17459,6 +17629,16 @@
     "original_url": "https://github.com/nhsconnect/National-Failsafe"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.PFS-Acess-Record-Manual-Test-Cases",
+    "mirror_name": "nhsconnect.PFS-Acess-Record-Manual-Test-Cases",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.PFS-Acess-Record-Manual-Test-Cases",
+    "name": "PFS-Acess-Record-Manual-Test-Cases",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/PFS-Acess-Record-Manual-Test-Cases"
+  },
+  {
     "deleted_on": "2026-10-17",
     "description": null,
     "full_name": "uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases",
@@ -17500,6 +17680,36 @@
     "original_url": "https://github.com/nhsconnect/Uk-Core-Test"
   },
   {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.gpc-consumer-support-archive",
+    "mirror_name": "nhsconnect.gpc-consumer-support-archive",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpc-consumer-support-archive",
+    "name": "gpc-consumer-support-archive",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpc-consumer-support-archive"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.gpc-end-user-support",
+    "mirror_name": "nhsconnect.gpc-end-user-support",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpc-end-user-support",
+    "name": "gpc-end-user-support",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpc-end-user-support"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.gpconnect-analytics",
+    "mirror_name": "nhsconnect.gpconnect-analytics",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpconnect-analytics",
+    "name": "gpconnect-analytics",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpconnect-analytics"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-05-23",
     "description": "GP Connect Appointment Checker",
@@ -17509,6 +17719,36 @@
     "name": "gpconnect-appointment-checker",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/gpconnect-appointment-checker"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.gpconnect-emergency-codes",
+    "mirror_name": "nhsconnect.gpconnect-emergency-codes",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpconnect-emergency-codes",
+    "name": "gpconnect-emergency-codes",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpconnect-emergency-codes"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.gpconnect-postman",
+    "mirror_name": "nhsconnect.gpconnect-postman",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpconnect-postman",
+    "name": "gpconnect-postman",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpconnect-postman"
+  },
+  {
+    "deleted_on": "2026-10-21",
+    "description": "Swagger UI for GP Connect",
+    "full_name": "uk-gov-mirror/nhsconnect.gpconnect-swagger",
+    "mirror_name": "nhsconnect.gpconnect-swagger",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.gpconnect-swagger",
+    "name": "gpconnect-swagger",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/gpconnect-swagger"
   },
   {
     "deleted_on": "2026-10-06",

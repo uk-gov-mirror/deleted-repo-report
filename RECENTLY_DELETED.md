@@ -6,6 +6,30 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [defra](https://github.com/defra) | [`water-abstraction-ava`](https://github.com/uk-gov-mirror/defra.water-abstraction-ava) | Investigate using the test framework AVA by the water-abstraction-team | 2026-10-21 |
+| [defra](https://github.com/defra) | [`water-abstraction-node-test`](https://github.com/uk-gov-mirror/defra.water-abstraction-node-test) | Investigate using the node test runner by the water-abstraction-team | 2026-10-21 |
+| [hmrc](https://github.com/hmrc) | [`customer-contact`](https://github.com/uk-gov-mirror/hmrc.customer-contact) |  | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hackathon-FARD`](https://github.com/uk-gov-mirror/ministryofjustice.hackathon-FARD) | Find a Rubber Duck Hackathon training | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-certificated-fee-scheme-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-certificated-fee-scheme-api) |  | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-aws-key-rotation-scheduler-app`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-key-rotation-scheduler-app) | OPG AWS Identity Key Rotation Scheduler App: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-data-casrec-migration`](https://github.com/uk-gov-mirror/ministryofjustice.opg-data-casrec-migration) | Migration of CasRec data into Sirius: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-data-casrec-migration-mappings`](https://github.com/uk-gov-mirror/ministryofjustice.opg-data-casrec-migration-mappings) | Mappings automation and versioning for CasRec migration: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-infra-costs`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs) | OPG Infrastructure Costs: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-infra-costs-action`](https://github.com/uk-gov-mirror/ministryofjustice.opg-infra-costs-action) | Github action to generate AWS cost data: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-loadtest`](https://github.com/uk-gov-mirror/ministryofjustice.opg-loadtest) |  | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-php-fpm-stats-exporter`](https://github.com/uk-gov-mirror/ministryofjustice.opg-php-fpm-stats-exporter) | OPG PHP FPM Stats Exporter: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-publish-ecr-scan-results-to-slack`](https://github.com/uk-gov-mirror/ministryofjustice.opg-publish-ecr-scan-results-to-slack) | Publish ECR scan results to Slack: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`opg-terraform-aws-network`](https://github.com/uk-gov-mirror/ministryofjustice.opg-terraform-aws-network) | Standard OPG AWS Network Module: Managed by opg-org-infra & Terraform | 2026-10-21 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`specialist-provider-proto`](https://github.com/uk-gov-mirror/ministryofjustice.specialist-provider-proto) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`GPConnect-Patient-Permissions-Automation-Framework`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect-Patient-Permissions-Automation-Framework) | Automation framework to test the patient permissions API | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`GPConnect.PatientFacingService.Provider.AcceptanceTests`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`PFS-Acess-Record-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Acess-Record-Manual-Test-Cases) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpc-consumer-support-archive`](https://github.com/uk-gov-mirror/nhsconnect.gpc-consumer-support-archive) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpc-end-user-support`](https://github.com/uk-gov-mirror/nhsconnect.gpc-end-user-support) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpconnect-analytics`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-analytics) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpconnect-emergency-codes`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-emergency-codes) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpconnect-postman`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-postman) |  | 2026-10-21 |
+| [nhsconnect](https://github.com/nhsconnect) | [`gpconnect-swagger`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-swagger) | Swagger UI for GP Connect | 2026-10-21 |
 | [nhsdigital](https://github.com/nhsdigital) | [`NHSEngland-FHIR-Sandbox`](https://github.com/uk-gov-mirror/nhsdigital.NHSEngland-FHIR-Sandbox) | A Sandbox for Interoperability Standards Team FHIR R4 assets | 2026-10-20 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`EndToEnd`](https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd) |  | 2026-10-17 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`housekeeping-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype) |  | 2026-10-17 |
@@ -982,27 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [co-cddo](https://github.com/co-cddo) | [`domains-data-share-client`](https://github.com/uk-gov-mirror/co-cddo.domains-data-share-client) |  | 2025-07-07* |
 | [insolvencyservice](https://github.com/insolvencyservice) | [`RPS-Process-Improvement-Project`](https://github.com/uk-gov-mirror/insolvencyservice.RPS-Process-Improvement-Project) | This is to improve RPS Digital Services process | 2025-07-04* |
 | [dvsa](https://github.com/dvsa) | [`mes-api-definitions`](https://github.com/uk-gov-mirror/dvsa.mes-api-definitions) | DVSA Mobile Examiner Services - REST API schema definitions | 2025-06-30* |
-| [ukwa](https://github.com/ukwa) | [`cdx-install`](https://github.com/uk-gov-mirror/ukwa.cdx-install) |  | 2025-06-28* |
-| [ukwa](https://github.com/ukwa) | [`node_exporter-install`](https://github.com/uk-gov-mirror/ukwa.node_exporter-install) |  | 2025-06-28* |
-| [ukwa](https://github.com/ukwa) | [`pywb-install`](https://github.com/uk-gov-mirror/ukwa.pywb-install) |  | 2025-06-28* |
-| [LandRegistry](https://github.com/LandRegistry) | [`ap-production-prototype`](https://github.com/uk-gov-mirror/LandRegistry.ap-production-prototype) | Prototype for final work on AP going into production to be used for demonstration purposes | 2025-06-27* |
-| [OfqualGovUK](https://github.com/OfqualGovUK) | [`experts-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.experts-prototype) |  | 2025-06-17* |
-| [OfqualGovUK](https://github.com/OfqualGovUK) | [`ofqual-register-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.ofqual-register-prototype) | Repository for the Ofqual Register prototype (GDS prototype kit) | 2025-06-17* |
-| [hmrc](https://github.com/hmrc) | [`tdr-customs-declarations`](https://github.com/uk-gov-mirror/hmrc.tdr-customs-declarations) |  | 2025-06-12* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`se-training-sandpit`](https://github.com/uk-gov-mirror/moj-analytical-services.se-training-sandpit) | A repo for me to store projects intended for my personal development mainly for Data Science related skills.  Data to be obtained from kaggle and other online sources. | 2025-06-12* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`live-de`](https://github.com/uk-gov-mirror/ministryofjustice.live-de) |  | 2025-06-09* |
-| [hmcts](https://github.com/hmcts) | [`dtspo-weekly-prs`](https://github.com/uk-gov-mirror/hmcts.dtspo-weekly-prs) | Weekly PR check for DTS Platform Operations teams | 2025-06-03* |
-| [hmrc](https://github.com/hmrc) | [`reauth-performance-tests`](https://github.com/uk-gov-mirror/hmrc.reauth-performance-tests) |  | 2025-05-30* |
-| [hmrc](https://github.com/hmrc) | [`sa-pre-pop-api-tests`](https://github.com/uk-gov-mirror/hmrc.sa-pre-pop-api-tests) |  | 2025-05-30* |
-| [nhsconnect](https://github.com/nhsconnect) | [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`seo-de`](https://github.com/uk-gov-mirror/ministryofjustice.seo-de) |  | 2025-05-07* |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [`core-cloud-dynatrace-golden-dashboards-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-golden-dashboards-terraform) | For core-cloud terraform module for dynatrace golden dashboards | 2025-05-06* |
-| [nhsuk](https://github.com/nhsuk) | [`nhsuk.platform.poc.green-app-demo`](https://github.com/uk-gov-mirror/nhsuk.nhsuk.platform.poc.green-app-demo) |  | 2025-04-30* |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [`large-and-complex-cases-pipeline-templates`](https://github.com/uk-gov-mirror/CPS-Innovation.large-and-complex-cases-pipeline-templates) |  | 2025-04-25* |
-| [nhsdigital](https://github.com/nhsdigital) | [`digital-staff-passport-app-test`](https://github.com/uk-gov-mirror/nhsdigital.digital-staff-passport-app-test) | Automated iOS testing for Digital Staff Passport (DSP) unified journey app | 2025-04-16* |
-| [nationalarchives](https://github.com/nationalarchives) | [`ds-discovery-taxonomy-classifier`](https://github.com/uk-gov-mirror/nationalarchives.ds-discovery-taxonomy-classifier) | Discovery taxonomy classifier client application | 2025-04-15* |
-| [hmcts](https://github.com/hmcts) | [`civil-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-sdk) |  | 2025-04-14* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`dlt-workshop-20250224`](https://github.com/uk-gov-mirror/moj-analytical-services.dlt-workshop-20250224) |  | 2025-04-14* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`mojap-airflow-tools`](https://github.com/uk-gov-mirror/moj-analytical-services.mojap-airflow-tools) | A few wrappers and tools to use airflow on AP | 2025-04-14* |
-| [moj-analytical-services](https://github.com/moj-analytical-services) | [`s3browser`](https://github.com/uk-gov-mirror/moj-analytical-services.s3browser) | A R Studio Addin that allows you to browse the files you have access to in S3 | 2025-04-14* |
-| [ONSdigital](https://github.com/ONSdigital) | [`response-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.response-management-ui) | Response Operations user interface for Response Management. | 2025-04-13* |
