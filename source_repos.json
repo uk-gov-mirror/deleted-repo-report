@@ -5636,6 +5636,16 @@
     "original_url": "https://github.com/UKHomeOffice/kube-pttg-euro-tlr-enquiry-form"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/UKHomeOffice.laravel-tech-test-interview-template",
+    "mirror_name": "UKHomeOffice.laravel-tech-test-interview-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.laravel-tech-test-interview-template",
+    "name": "laravel-tech-test-interview-template",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/laravel-tech-test-interview-template"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-13",
     "description": "Provides the service to store and manage the data within the report modern slavery application",
@@ -12849,6 +12859,16 @@
     "original_url": "https://github.com/ministryofjustice/CCCD-prototype-kit-ext"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.MinkExtension",
+    "mirror_name": "ministryofjustice.MinkExtension",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.MinkExtension",
+    "name": "MinkExtension",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/MinkExtension"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-12",
     "description": "Advocate Defence Payments Interactive Prototype",
@@ -12858,6 +12878,16 @@
     "name": "adp-prototype",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/adp-prototype"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Alchemy is an AWS Lambda for converting documents: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.alchemy",
+    "mirror_name": "ministryofjustice.alchemy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.alchemy",
+    "name": "alchemy",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/alchemy"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -13049,6 +13079,16 @@
     "original_url": "https://github.com/ministryofjustice/chux-dev-typescript"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": "OPG CircleCI Orbs: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.circleci-orbs",
+    "mirror_name": "ministryofjustice.circleci-orbs",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.circleci-orbs",
+    "name": "circleci-orbs",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/circleci-orbs"
+  },
+  {
     "deleted_on": null,
     "description": "Citizen facing application prototype for Civil Enforcement",
     "full_name": "uk-gov-mirror/ministryofjustice.civil-enforcement-prototype",
@@ -13137,6 +13177,16 @@
     "name": "dave-learning",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/dave-learning"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Digideps Infrastructure: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.digideps-infrastructure",
+    "mirror_name": "ministryofjustice.digideps-infrastructure",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.digideps-infrastructure",
+    "name": "digideps-infrastructure",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/digideps-infrastructure"
   },
   {
     "deleted_on": "2026-08-22",
@@ -15004,6 +15054,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-workforce-prototype"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Homebrew Formulas: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.homebrew-opg",
+    "mirror_name": "ministryofjustice.homebrew-opg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.homebrew-opg",
+    "name": "homebrew-opg",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/homebrew-opg"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2022-03-30",
     "description": "Historical Prisoners Application UI",
@@ -15064,6 +15124,16 @@
     "name": "justice-on-the-web",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/justice-on-the-web"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Module to provide JWT token support to Laminas framework MVC applications",
+    "full_name": "uk-gov-mirror/ministryofjustice.jwt-laminas-auth",
+    "mirror_name": "ministryofjustice.jwt-laminas-auth",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.jwt-laminas-auth",
+    "name": "jwt-laminas-auth",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/jwt-laminas-auth"
   },
   {
     "deleted_on": "2026-08-22",
@@ -15418,6 +15488,26 @@
     "original_url": "https://github.com/ministryofjustice/offloc-server"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-admins-formula",
+    "mirror_name": "ministryofjustice.opg-admins-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-admins-formula",
+    "name": "opg-admins-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-admins-formula"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG AWS Config Service: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-config-service",
+    "mirror_name": "ministryofjustice.opg-aws-config-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-config-service",
+    "name": "opg-aws-config-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-aws-config-service"
+  },
+  {
     "deleted_on": "2026-10-21",
     "description": "OPG AWS Identity Key Rotation Scheduler App: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-key-rotation-scheduler-app",
@@ -15426,6 +15516,96 @@
     "name": "opg-aws-key-rotation-scheduler-app",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-aws-key-rotation-scheduler-app"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG AWS Reports.: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-reporting",
+    "mirror_name": "ministryofjustice.opg-aws-reporting",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-reporting",
+    "name": "opg-aws-reporting",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-aws-reporting"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Lambda to sync secrets across regions: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-secret-sync",
+    "mirror_name": "ministryofjustice.opg-aws-secret-sync",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-secret-sync",
+    "name": "opg-aws-secret-sync",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-aws-secret-sync"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "GitHub repo to learn Terraform and AWS: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-aws-whitepaper",
+    "mirror_name": "ministryofjustice.opg-aws-whitepaper",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-whitepaper",
+    "name": "opg-aws-whitepaper",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-aws-whitepaper"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-behat-test-statistics",
+    "mirror_name": "ministryofjustice.opg-behat-test-statistics",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-behat-test-statistics",
+    "name": "opg-behat-test-statistics",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-behat-test-statistics"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Where we put the minimal set of Document and Data Capture files for the Review and all the XSDs",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-core-ddc-essentials",
+    "mirror_name": "ministryofjustice.opg-core-ddc-essentials",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-core-ddc-essentials",
+    "name": "opg-core-ddc-essentials",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-core-ddc-essentials"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Runs a health check on the server for OPG Core Backend",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-core-health-check",
+    "mirror_name": "ministryofjustice.opg-core-health-check",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-core-health-check",
+    "name": "opg-core-health-check",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-core-health-check"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-core-pentaho",
+    "mirror_name": "ministryofjustice.opg-core-pentaho",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-core-pentaho",
+    "name": "opg-core-pentaho",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-core-pentaho"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "cotton fork used at OPG",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-cotton",
+    "mirror_name": "ministryofjustice.opg-cotton",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-cotton",
+    "name": "opg-cotton",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-cotton"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Saltstack formula for managing crontabs via pillar data",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-cron-formula",
+    "mirror_name": "ministryofjustice.opg-cron-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-cron-formula",
+    "name": "opg-cron-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-cron-formula"
   },
   {
     "deleted_on": "2026-10-21",
@@ -15446,6 +15626,166 @@
     "name": "opg-data-casrec-migration-mappings",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-data-casrec-migration-mappings"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Court Appointed Deputies online tool prototype",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-deputies",
+    "mirror_name": "ministryofjustice.opg-deputies",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-deputies",
+    "name": "opg-deputies",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-deputies"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-digi-deps-api",
+    "mirror_name": "ministryofjustice.opg-digi-deps-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-api",
+    "name": "opg-digi-deps-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-digi-deps-api"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-digi-deps-client",
+    "mirror_name": "ministryofjustice.opg-digi-deps-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-client",
+    "name": "opg-digi-deps-client",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-digi-deps-client"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-digi-deps-data-dashboard",
+    "mirror_name": "ministryofjustice.opg-digi-deps-data-dashboard",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-data-dashboard",
+    "name": "opg-digi-deps-data-dashboard",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-digi-deps-data-dashboard"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Maintenance for Digi-Deps",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-digi-deps-maintenance",
+    "mirror_name": "ministryofjustice.opg-digi-deps-maintenance",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-maintenance",
+    "name": "opg-digi-deps-maintenance",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-digi-deps-maintenance"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-digi-deps-notebooks",
+    "mirror_name": "ministryofjustice.opg-digi-deps-notebooks",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-notebooks",
+    "name": "opg-digi-deps-notebooks",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-digi-deps-notebooks"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Xenial Base images for OPG Projects",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-docker-1604",
+    "mirror_name": "ministryofjustice.opg-docker-1604",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-1604",
+    "name": "opg-docker-1604",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-docker-1604"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-docker-formula",
+    "mirror_name": "ministryofjustice.opg-docker-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-formula",
+    "name": "opg-docker-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-docker-formula"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Salt formula for deploying and configuring the docker-compose project from opg-docker-monitoring",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-docker-monitoring-formula",
+    "mirror_name": "ministryofjustice.opg-docker-monitoring-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-monitoring-formula",
+    "name": "opg-docker-monitoring-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-docker-monitoring-formula"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-dora-metrics",
+    "mirror_name": "ministryofjustice.opg-dora-metrics",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-dora-metrics",
+    "name": "opg-dora-metrics",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-dora-metrics"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-feedback",
+    "mirror_name": "ministryofjustice.opg-feedback",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-feedback",
+    "name": "opg-feedback",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-feedback"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-flask-apps",
+    "mirror_name": "ministryofjustice.opg-flask-apps",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-flask-apps",
+    "name": "opg-flask-apps",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-flask-apps"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-go-healthcheck",
+    "mirror_name": "ministryofjustice.opg-go-healthcheck",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-go-healthcheck",
+    "name": "opg-go-healthcheck",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-go-healthcheck"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Details of MoJ hackathon",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-hackathon",
+    "mirror_name": "ministryofjustice.opg-hackathon",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-hackathon",
+    "name": "opg-hackathon",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-hackathon"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Runs a Heroku dyno redirecting request to a new host: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-heroku-redirect",
+    "mirror_name": "ministryofjustice.opg-heroku-redirect",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-heroku-redirect",
+    "name": "opg-heroku-redirect",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-heroku-redirect"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG HugeRTE Angular Wrapper Distribution Repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-hugerte-angular-dist",
+    "mirror_name": "ministryofjustice.opg-hugerte-angular-dist",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-hugerte-angular-dist",
+    "name": "opg-hugerte-angular-dist",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-hugerte-angular-dist"
   },
   {
     "deleted_on": "2026-10-21",
@@ -15488,6 +15828,56 @@
     "original_url": "https://github.com/ministryofjustice/opg-loadtest"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": "API server component for the lasting power of attorney service: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-lpa-api",
+    "mirror_name": "ministryofjustice.opg-lpa-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-api",
+    "name": "opg-lpa-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-lpa-api"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-lpa-api-ruby-test",
+    "mirror_name": "ministryofjustice.opg-lpa-api-ruby-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-api-ruby-test",
+    "name": "opg-lpa-api-ruby-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-lpa-api-ruby-test"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "PHP data models that represent a Lasting Power of Attorney",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-lpa-datamodels",
+    "mirror_name": "ministryofjustice.opg-lpa-datamodels",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-datamodels",
+    "name": "opg-lpa-datamodels",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-lpa-datamodels"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "LPA Site Under Maintenance Page",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-lpa-maintenance",
+    "mirror_name": "ministryofjustice.opg-lpa-maintenance",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-maintenance",
+    "name": "opg-lpa-maintenance",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-lpa-maintenance"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Mainstream Content for Modernising LPA: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-make-and-register-lpa-mainstream-content",
+    "mirror_name": "ministryofjustice.opg-make-and-register-lpa-mainstream-content",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-make-and-register-lpa-mainstream-content",
+    "name": "opg-make-and-register-lpa-mainstream-content",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-make-and-register-lpa-mainstream-content"
+  },
+  {
     "deleted_on": "2026-08-20",
     "description": "The Office of the Public Guardian Make a Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.opg-make-lpa",
@@ -15496,6 +15886,36 @@
     "name": "opg-make-lpa",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-make-lpa"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "The Office of the Public Guardian metrics service: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-metrics",
+    "mirror_name": "ministryofjustice.opg-metrics",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-metrics",
+    "name": "opg-metrics",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-metrics"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Paper Identity: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-paper-identity",
+    "mirror_name": "ministryofjustice.opg-paper-identity",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-paper-identity",
+    "name": "opg-paper-identity",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-paper-identity"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-performance-analytics",
+    "mirror_name": "ministryofjustice.opg-performance-analytics",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-performance-analytics",
+    "name": "opg-performance-analytics",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-performance-analytics"
   },
   {
     "deleted_on": "2026-10-21",
@@ -15508,6 +15928,36 @@
     "original_url": "https://github.com/ministryofjustice/opg-php-fpm-stats-exporter"
   },
   {
+    "deleted_on": "2026-10-22",
+    "description": "Report high memory usage PHPUnit tests: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-phpunit-memory-usage",
+    "mirror_name": "ministryofjustice.opg-phpunit-memory-usage",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-phpunit-memory-usage",
+    "name": "opg-phpunit-memory-usage",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-phpunit-memory-usage"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Pods Hackday: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-pods-hackday",
+    "mirror_name": "ministryofjustice.opg-pods-hackday",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-pods-hackday",
+    "name": "opg-pods-hackday",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-pods-hackday"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Pre-Commit Hooks: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-pre-commit-hooks",
+    "mirror_name": "ministryofjustice.opg-pre-commit-hooks",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-pre-commit-hooks",
+    "name": "opg-pre-commit-hooks",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-pre-commit-hooks"
+  },
+  {
     "deleted_on": "2026-10-21",
     "description": "Publish ECR scan results to Slack: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.opg-publish-ecr-scan-results-to-slack",
@@ -15516,6 +15966,116 @@
     "name": "opg-publish-ecr-scan-results-to-slack",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-publish-ecr-scan-results-to-slack"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Historic Refunds: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-refunds",
+    "mirror_name": "ministryofjustice.opg-refunds",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds",
+    "name": "opg-refunds",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-refunds"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Datamodels for the refunds project",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-refunds-caseworker-datamodels",
+    "mirror_name": "ministryofjustice.opg-refunds-caseworker-datamodels",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds-caseworker-datamodels",
+    "name": "opg-refunds-caseworker-datamodels",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-refunds-caseworker-datamodels"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Common logging component for OPG Refunds",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-refunds-logger",
+    "mirror_name": "ministryofjustice.opg-refunds-logger",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds-logger",
+    "name": "opg-refunds-logger",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-refunds-logger"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-repository-reporting",
+    "mirror_name": "ministryofjustice.opg-repository-reporting",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-repository-reporting",
+    "name": "opg-repository-reporting",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-repository-reporting"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Development repository: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-repository-scanner",
+    "mirror_name": "ministryofjustice.opg-repository-scanner",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-repository-scanner",
+    "name": "opg-repository-scanner",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-repository-scanner"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Fork of Monzo's real-time incident response and reporting tool \u26a1\ufe0f",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-response",
+    "mirror_name": "ministryofjustice.opg-response",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-response",
+    "name": "opg-response",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-response"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG API Gateway into Sirius: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-sirius-api-gateway",
+    "mirror_name": "ministryofjustice.opg-sirius-api-gateway",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-api-gateway",
+    "name": "opg-sirius-api-gateway",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-sirius-api-gateway"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Sirius Failover CLI: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-sirius-failover",
+    "mirror_name": "ministryofjustice.opg-sirius-failover",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-failover",
+    "name": "opg-sirius-failover",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-sirius-failover"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Sirius Membrane API: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-sirius-membrane",
+    "mirror_name": "ministryofjustice.opg-sirius-membrane",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-membrane",
+    "name": "opg-sirius-membrane",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-sirius-membrane"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG sirius supervision pro deputy hub: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-sirius-supervision-pro-deputy-hub",
+    "mirror_name": "ministryofjustice.opg-sirius-supervision-pro-deputy-hub",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-supervision-pro-deputy-hub",
+    "name": "opg-sirius-supervision-pro-deputy-hub",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-sirius-supervision-pro-deputy-hub"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "Technical guidance and standards for OPG projects.",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-tech-standards",
+    "mirror_name": "ministryofjustice.opg-tech-standards",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-tech-standards",
+    "name": "opg-tech-standards",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-tech-standards"
   },
   {
     "deleted_on": "2026-10-21",
@@ -15537,6 +16097,26 @@
     "name": "opg-test-branch-protection",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-test-branch-protection"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Weblate: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-weblate",
+    "mirror_name": "ministryofjustice.opg-weblate",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-weblate",
+    "name": "opg-weblate",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-weblate"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "OPG Weblate Demo Translation Project: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-weblate-demo-translation-project",
+    "mirror_name": "ministryofjustice.opg-weblate-demo-translation-project",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-weblate-demo-translation-project",
+    "name": "opg-weblate-demo-translation-project",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-weblate-demo-translation-project"
   },
   {
     "deleted_on": "2026-08-11",
@@ -16217,6 +16797,16 @@
     "name": "wp-npm",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/wp-npm"
+  },
+  {
+    "deleted_on": "2026-10-22",
+    "description": "WordPress theme for the OPG Senior Leaders blog",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-opgsenior",
+    "mirror_name": "ministryofjustice.wp-opgsenior",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-opgsenior",
+    "name": "wp-opgsenior",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-opgsenior"
   },
   {
     "deleted_on": "2026-10-16",

@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2102**
+Total deleted repositories: **2161**
 Organisations affected: **82**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,12 +9,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**346**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 12.9% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**404**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.2% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**215**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
-| [UKHomeOffice](https://github.com/UKHomeOffice) | [**115**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.5% |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [**116**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.6% |
 | [ONSdigital](https://github.com/ONSdigital) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.5% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
@@ -92,10 +92,68 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (346)
+## [ministryofjustice](https://github.com/ministryofjustice) (404)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`MinkExtension`](https://github.com/uk-gov-mirror/ministryofjustice.MinkExtension) |  | 2026-10-22 |
+| [`alchemy`](https://github.com/uk-gov-mirror/ministryofjustice.alchemy) | Alchemy is an AWS Lambda for converting documents: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`circleci-orbs`](https://github.com/uk-gov-mirror/ministryofjustice.circleci-orbs) | OPG CircleCI Orbs: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`digideps-infrastructure`](https://github.com/uk-gov-mirror/ministryofjustice.digideps-infrastructure) | Digideps Infrastructure: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`homebrew-opg`](https://github.com/uk-gov-mirror/ministryofjustice.homebrew-opg) | OPG Homebrew Formulas: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`jwt-laminas-auth`](https://github.com/uk-gov-mirror/ministryofjustice.jwt-laminas-auth) | Module to provide JWT token support to Laminas framework MVC applications | 2026-10-22 |
+| [`opg-admins-formula`](https://github.com/uk-gov-mirror/ministryofjustice.opg-admins-formula) |  | 2026-10-22 |
+| [`opg-aws-config-service`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-config-service) | OPG AWS Config Service: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-aws-reporting`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-reporting) | OPG AWS Reports.: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-aws-secret-sync`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-secret-sync) | Lambda to sync secrets across regions: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-aws-whitepaper`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-whitepaper) | GitHub repo to learn Terraform and AWS: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-behat-test-statistics`](https://github.com/uk-gov-mirror/ministryofjustice.opg-behat-test-statistics) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-core-ddc-essentials`](https://github.com/uk-gov-mirror/ministryofjustice.opg-core-ddc-essentials) | Where we put the minimal set of Document and Data Capture files for the Review and all the XSDs | 2026-10-22 |
+| [`opg-core-health-check`](https://github.com/uk-gov-mirror/ministryofjustice.opg-core-health-check) | Runs a health check on the server for OPG Core Backend | 2026-10-22 |
+| [`opg-core-pentaho`](https://github.com/uk-gov-mirror/ministryofjustice.opg-core-pentaho) |  | 2026-10-22 |
+| [`opg-cotton`](https://github.com/uk-gov-mirror/ministryofjustice.opg-cotton) | cotton fork used at OPG | 2026-10-22 |
+| [`opg-cron-formula`](https://github.com/uk-gov-mirror/ministryofjustice.opg-cron-formula) | Saltstack formula for managing crontabs via pillar data | 2026-10-22 |
+| [`opg-deputies`](https://github.com/uk-gov-mirror/ministryofjustice.opg-deputies) | Court Appointed Deputies online tool prototype | 2026-10-22 |
+| [`opg-digi-deps-api`](https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-api) |  | 2026-10-22 |
+| [`opg-digi-deps-client`](https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-client) |  | 2026-10-22 |
+| [`opg-digi-deps-data-dashboard`](https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-data-dashboard) |  | 2026-10-22 |
+| [`opg-digi-deps-maintenance`](https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-maintenance) | Maintenance for Digi-Deps | 2026-10-22 |
+| [`opg-digi-deps-notebooks`](https://github.com/uk-gov-mirror/ministryofjustice.opg-digi-deps-notebooks) |  | 2026-10-22 |
+| [`opg-docker-1604`](https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-1604) | Xenial Base images for OPG Projects | 2026-10-22 |
+| [`opg-docker-formula`](https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-formula) |  | 2026-10-22 |
+| [`opg-docker-monitoring-formula`](https://github.com/uk-gov-mirror/ministryofjustice.opg-docker-monitoring-formula) | Salt formula for deploying and configuring the docker-compose project from opg-docker-monitoring | 2026-10-22 |
+| [`opg-dora-metrics`](https://github.com/uk-gov-mirror/ministryofjustice.opg-dora-metrics) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-feedback`](https://github.com/uk-gov-mirror/ministryofjustice.opg-feedback) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-flask-apps`](https://github.com/uk-gov-mirror/ministryofjustice.opg-flask-apps) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-go-healthcheck`](https://github.com/uk-gov-mirror/ministryofjustice.opg-go-healthcheck) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-hackathon`](https://github.com/uk-gov-mirror/ministryofjustice.opg-hackathon) | Details of MoJ hackathon | 2026-10-22 |
+| [`opg-heroku-redirect`](https://github.com/uk-gov-mirror/ministryofjustice.opg-heroku-redirect) | Runs a Heroku dyno redirecting request to a new host: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-hugerte-angular-dist`](https://github.com/uk-gov-mirror/ministryofjustice.opg-hugerte-angular-dist) | OPG HugeRTE Angular Wrapper Distribution Repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-lpa-api`](https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-api) | API server component for the lasting power of attorney service: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-lpa-api-ruby-test`](https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-api-ruby-test) |  | 2026-10-22 |
+| [`opg-lpa-datamodels`](https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-datamodels) | PHP data models that represent a Lasting Power of Attorney | 2026-10-22 |
+| [`opg-lpa-maintenance`](https://github.com/uk-gov-mirror/ministryofjustice.opg-lpa-maintenance) | LPA Site Under Maintenance Page | 2026-10-22 |
+| [`opg-make-and-register-lpa-mainstream-content`](https://github.com/uk-gov-mirror/ministryofjustice.opg-make-and-register-lpa-mainstream-content) | OPG Mainstream Content for Modernising LPA: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-metrics`](https://github.com/uk-gov-mirror/ministryofjustice.opg-metrics) | The Office of the Public Guardian metrics service: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-paper-identity`](https://github.com/uk-gov-mirror/ministryofjustice.opg-paper-identity) | Paper Identity: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-performance-analytics`](https://github.com/uk-gov-mirror/ministryofjustice.opg-performance-analytics) |  | 2026-10-22 |
+| [`opg-phpunit-memory-usage`](https://github.com/uk-gov-mirror/ministryofjustice.opg-phpunit-memory-usage) | Report high memory usage PHPUnit tests: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-pods-hackday`](https://github.com/uk-gov-mirror/ministryofjustice.opg-pods-hackday) | OPG Pods Hackday: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-pre-commit-hooks`](https://github.com/uk-gov-mirror/ministryofjustice.opg-pre-commit-hooks) | OPG Pre-Commit Hooks: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-refunds`](https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds) | OPG Historic Refunds: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-refunds-caseworker-datamodels`](https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds-caseworker-datamodels) | Datamodels for the refunds project | 2026-10-22 |
+| [`opg-refunds-logger`](https://github.com/uk-gov-mirror/ministryofjustice.opg-refunds-logger) | Common logging component for OPG Refunds | 2026-10-22 |
+| [`opg-repository-reporting`](https://github.com/uk-gov-mirror/ministryofjustice.opg-repository-reporting) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-repository-scanner`](https://github.com/uk-gov-mirror/ministryofjustice.opg-repository-scanner) | Development repository: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-response`](https://github.com/uk-gov-mirror/ministryofjustice.opg-response) | Fork of Monzo's real-time incident response and reporting tool ⚡️ | 2026-10-22 |
+| [`opg-sirius-api-gateway`](https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-api-gateway) | OPG API Gateway into Sirius: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-sirius-failover`](https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-failover) | Sirius Failover CLI: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-sirius-membrane`](https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-membrane) | Sirius Membrane API: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-sirius-supervision-pro-deputy-hub`](https://github.com/uk-gov-mirror/ministryofjustice.opg-sirius-supervision-pro-deputy-hub) | OPG sirius supervision pro deputy hub: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-tech-standards`](https://github.com/uk-gov-mirror/ministryofjustice.opg-tech-standards) | Technical guidance and standards for OPG projects. | 2026-10-22 |
+| [`opg-weblate`](https://github.com/uk-gov-mirror/ministryofjustice.opg-weblate) | OPG Weblate: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`opg-weblate-demo-translation-project`](https://github.com/uk-gov-mirror/ministryofjustice.opg-weblate-demo-translation-project) | OPG Weblate Demo Translation Project: Managed by opg-org-infra & Terraform | 2026-10-22 |
+| [`wp-opgsenior`](https://github.com/uk-gov-mirror/ministryofjustice.wp-opgsenior) | WordPress theme for the OPG Senior Leaders blog | 2026-10-22 |
 | [`hackathon-FARD`](https://github.com/uk-gov-mirror/ministryofjustice.hackathon-FARD) | Find a Rubber Duck Hackathon training | 2026-10-21 |
 | [`laa-certificated-fee-scheme-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-certificated-fee-scheme-api) |  | 2026-10-21 |
 | [`opg-aws-key-rotation-scheduler-app`](https://github.com/uk-gov-mirror/ministryofjustice.opg-aws-key-rotation-scheduler-app) | OPG AWS Identity Key Rotation Scheduler App: Managed by opg-org-infra & Terraform | 2026-10-21 |
@@ -1259,10 +1317,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`opsdroid-skill-slack-to-s3`](https://github.com/uk-gov-mirror/informatics-lab.opsdroid-skill-slack-to-s3) | 💬 A skill for opsdroid to backup slack files to S3 |  |
 | [`video-service-scheduler`](https://github.com/uk-gov-mirror/informatics-lab.video-service-scheduler) |  |  |
 
-## [UKHomeOffice](https://github.com/UKHomeOffice) (115)
+## [UKHomeOffice](https://github.com/UKHomeOffice) (116)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`laravel-tech-test-interview-template`](https://github.com/uk-gov-mirror/UKHomeOffice.laravel-tech-test-interview-template) |  | 2026-10-22 |
 | [`core-cloud-dynatrace-environment-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-environment-terraform) | Repository for the Dynatrace Environment resources used by the Core Cloud team | 2026-10-07 |
 | [`core-cloud-dynatrace-iam-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-dynatrace-iam-terraform) | Terraform module to implement Dynatrace IAM resources. | 2026-10-07 |
 | [`core-cloud-appstream2-image-builder-terraform`](https://github.com/uk-gov-mirror/UKHomeOffice.core-cloud-appstream2-image-builder-terraform) | Core Cloud Terraform Module for Appstream 2.0 ImageBuilder | 2026-09-26 |
