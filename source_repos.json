@@ -277,6 +277,16 @@
     "original_url": "https://github.com/CPS-Innovation/prepare-for-hearing-prototype"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "QuinCe is an online tool for processing and quality control of data from scientific instruments, with a primary focus on oceanic data.",
+    "full_name": "uk-gov-mirror/CefasRepRes.QuinCe",
+    "mirror_name": "CefasRepRes.QuinCe",
+    "mirror_url": "https://github.com/uk-gov-mirror/CefasRepRes.QuinCe",
+    "name": "QuinCe",
+    "org": "CefasRepRes",
+    "original_url": "https://github.com/CefasRepRes/QuinCe"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/Civil-Service-Human-Resources.prototype.replaced.2026-09-02",
@@ -1084,6 +1094,56 @@
     "original_url": "https://github.com/Network-Rail-Business-Systems/common.replaced.2026-08-20"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Analysis of the risk of Long Covid in breakthrough infections vs. unvaccinated, using data from the COVID-19 Infection Survey",
+    "full_name": "uk-gov-mirror/ONS-Health-modelling-hub.long_covid_breakthrough_infection",
+    "mirror_name": "ONS-Health-modelling-hub.long_covid_breakthrough_infection",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_breakthrough_infection",
+    "name": "long_covid_breakthrough_infection",
+    "org": "ONS-Health-modelling-hub",
+    "original_url": "https://github.com/ONS-Health-modelling-hub/long_covid_breakthrough_infection"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Analysis of the employment outcomes of Long Covid using fixed effects modelling of data from the COVID-19 Infection Survey",
+    "full_name": "uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_fixed_effects",
+    "mirror_name": "ONS-Health-modelling-hub.long_covid_employment_fixed_effects",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_fixed_effects",
+    "name": "long_covid_employment_fixed_effects",
+    "org": "ONS-Health-modelling-hub",
+    "original_url": "https://github.com/ONS-Health-modelling-hub/long_covid_employment_fixed_effects"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Analysis of the employment outcomes of Long Covid using survival modelling of COVID-19 Infection Survey data",
+    "full_name": "uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_survival_modelling",
+    "mirror_name": "ONS-Health-modelling-hub.long_covid_employment_survival_modelling",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_survival_modelling",
+    "name": "long_covid_employment_survival_modelling",
+    "org": "ONS-Health-modelling-hub",
+    "original_url": "https://github.com/ONS-Health-modelling-hub/long_covid_employment_survival_modelling"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Long Covid prevalence up to three years post-infection, using the finalised CIS dataset (to March 2023)",
+    "full_name": "uk-gov-mirror/ONS-Health-modelling-hub.long_covid_final_cis_trajectories",
+    "mirror_name": "ONS-Health-modelling-hub.long_covid_final_cis_trajectories",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_final_cis_trajectories",
+    "name": "long_covid_final_cis_trajectories",
+    "org": "ONS-Health-modelling-hub",
+    "original_url": "https://github.com/ONS-Health-modelling-hub/long_covid_final_cis_trajectories"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Analysis of the risk of Long Covid after post-infection vaccination, using data from the COVID-19 Infection Survey",
+    "full_name": "uk-gov-mirror/ONS-Health-modelling-hub.long_covid_postinfection_vaccination",
+    "mirror_name": "ONS-Health-modelling-hub.long_covid_postinfection_vaccination",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_postinfection_vaccination",
+    "name": "long_covid_postinfection_vaccination",
+    "org": "ONS-Health-modelling-hub",
+    "original_url": "https://github.com/ONS-Health-modelling-hub/long_covid_postinfection_vaccination"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "just testting",
     "full_name": "uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03",
@@ -1092,6 +1152,516 @@
     "name": "Test1.replaced.2026-09-03",
     "org": "ONS-Innovation",
     "original_url": "https://github.com/ONS-Innovation/Test1.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "evisos",
+    "full_name": "uk-gov-mirror/ONS-Innovation.airflow-example",
+    "mirror_name": "ONS-Innovation.airflow-example",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.airflow-example",
+    "name": "airflow-example",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/airflow-example"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This repository should pass every SoundCheck in Backstage.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.backstage-perfect-repo",
+    "mirror_name": "ONS-Innovation.backstage-perfect-repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.backstage-perfect-repo",
+    "name": "backstage-perfect-repo",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/backstage-perfect-repo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "System template for the RAP Project.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.backstage-system-template",
+    "mirror_name": "ONS-Innovation.backstage-system-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.backstage-system-template",
+    "name": "backstage-system-template",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/backstage-system-template"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "First repository to for the backstage trial",
+    "full_name": "uk-gov-mirror/ONS-Innovation.backstage-trial",
+    "mirror_name": "ONS-Innovation.backstage-trial",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.backstage-trial",
+    "name": "backstage-trial",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/backstage-trial"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "demo-repo",
+    "full_name": "uk-gov-mirror/ONS-Innovation.demo-repo",
+    "mirror_name": "ONS-Innovation.demo-repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.demo-repo",
+    "name": "demo-repo",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/demo-repo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "check Dependabot updates",
+    "full_name": "uk-gov-mirror/ONS-Innovation.dependabot-check",
+    "mirror_name": "ONS-Innovation.dependabot-check",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-check",
+    "name": "dependabot-check",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/dependabot-check"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test to raise Dependabot PRs on template repo",
+    "full_name": "uk-gov-mirror/ONS-Innovation.dependabot-raiser-2",
+    "mirror_name": "ONS-Innovation.dependabot-raiser-2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-raiser-2",
+    "name": "dependabot-raiser-2",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/dependabot-raiser-2"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test",
+    "full_name": "uk-gov-mirror/ONS-Innovation.etl-template-static-test-1",
+    "mirror_name": "ONS-Innovation.etl-template-static-test-1",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.etl-template-static-test-1",
+    "name": "etl-template-static-test-1",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/etl-template-static-test-1"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-Innovation.example-pipeline-module-template",
+    "mirror_name": "ONS-Innovation.example-pipeline-module-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.example-pipeline-module-template",
+    "name": "example-pipeline-module-template",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/example-pipeline-module-template"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test",
+    "full_name": "uk-gov-mirror/ONS-Innovation.fahad_demo",
+    "mirror_name": "ONS-Innovation.fahad_demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.fahad_demo",
+    "name": "fahad_demo",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/fahad_demo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Python package used to interact with the GitHub RESTful API",
+    "full_name": "uk-gov-mirror/ONS-Innovation.github-api-package",
+    "mirror_name": "ONS-Innovation.github-api-package",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.github-api-package",
+    "name": "github-api-package",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/github-api-package"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Python utility used to archive old, unused GitHub repositories from an organisation.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.github-repository-archive-script",
+    "mirror_name": "ONS-Innovation.github-repository-archive-script",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.github-repository-archive-script",
+    "name": "github-repository-archive-script",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/github-repository-archive-script"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.govcookietest_1",
+    "mirror_name": "ONS-Innovation.govcookietest_1",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.govcookietest_1",
+    "name": "govcookietest_1",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/govcookietest_1"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test of code coverage check",
+    "full_name": "uk-gov-mirror/ONS-Innovation.joe-coverage-test",
+    "mirror_name": "ONS-Innovation.joe-coverage-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.joe-coverage-test",
+    "name": "joe-coverage-test",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/joe-coverage-test"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test",
+    "full_name": "uk-gov-mirror/ONS-Innovation.jp-airflow-test",
+    "mirror_name": "ONS-Innovation.jp-airflow-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.jp-airflow-test",
+    "name": "jp-airflow-test",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/jp-airflow-test"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This is a Lambda function for the weekly retrieval of GitHub usernames and Organisation verified email addresses.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-address-book-lambda",
+    "mirror_name": "ONS-Innovation.keh-address-book-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-address-book-lambda",
+    "name": "keh-address-book-lambda",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-address-book-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "KEH AWS alarm proof-of-concept",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-aws-alarm-poc",
+    "mirror_name": "ONS-Innovation.keh-aws-alarm-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-aws-alarm-poc",
+    "name": "keh-aws-alarm-poc",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-aws-alarm-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A tool used to audit GitHub Organisations for compliance with ONS' GitHub Usage Policy.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-github-policy-audit",
+    "mirror_name": "ONS-Innovation.keh-github-policy-audit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-policy-audit",
+    "name": "keh-github-policy-audit",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-github-policy-audit"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Python script to collect data on repositories within the organisation to be used on the Digital Landscape.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-github-statistics-scraper",
+    "mirror_name": "ONS-Innovation.keh-github-statistics-scraper",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-statistics-scraper",
+    "name": "keh-github-statistics-scraper",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-github-statistics-scraper"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A series of functions used to check adherence to the GitHub Usage Policy.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-policy-methods-library",
+    "mirror_name": "ONS-Innovation.keh-policy-methods-library",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-policy-methods-library",
+    "name": "keh-policy-methods-library",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-policy-methods-library"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Backstage System component to assign components to system.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-system",
+    "mirror_name": "ONS-Innovation.keh-system",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-system",
+    "name": "keh-system",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-system"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Flask application, designed to gather and report information on technologies used within ONS.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool",
+    "mirror_name": "ONS-Innovation.keh-tech-audit-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool",
+    "name": "keh-tech-audit-tool",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-tech-audit-tool"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An API for the Tech Audit Tool, designed to gather and report information on technologies used within ONS.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool-api",
+    "mirror_name": "ONS-Innovation.keh-tech-audit-tool-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool-api",
+    "name": "keh-tech-audit-tool-api",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-tech-audit-tool-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A template repository for all new KEH repositories.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.keh-template-repo",
+    "mirror_name": "ONS-Innovation.keh-template-repo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.keh-template-repo",
+    "name": "keh-template-repo",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/keh-template-repo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "labour_market_indicators_sbt",
+    "full_name": "uk-gov-mirror/ONS-Innovation.labour_market_indicators_sbt",
+    "mirror_name": "ONS-Innovation.labour_market_indicators_sbt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.labour_market_indicators_sbt",
+    "name": "labour_market_indicators_sbt",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/labour_market_indicators_sbt"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Cleans and validates raw input data, handling missing values, misspellings, and joins across sources like IDBR and survey returns.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.preprocessing_stage_sbt",
+    "mirror_name": "ONS-Innovation.preprocessing_stage_sbt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.preprocessing_stage_sbt",
+    "name": "preprocessing_stage_sbt",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/preprocessing_stage_sbt"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "ETL template that deploys results to MkDocs GitHub pages.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.python-etl-github-pages-template",
+    "mirror_name": "ONS-Innovation.python-etl-github-pages-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.python-etl-github-pages-template",
+    "name": "python-etl-github-pages-template",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/python-etl-github-pages-template"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-Innovation.python-rap-template",
+    "mirror_name": "ONS-Innovation.python-rap-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.python-rap-template",
+    "name": "python-rap-template",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/python-rap-template"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "System for the RAP Project.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.rap-project-system",
+    "mirror_name": "ONS-Innovation.rap-project-system",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.rap-project-system",
+    "name": "rap-project-system",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/rap-project-system"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.seb_test_1",
+    "mirror_name": "ONS-Innovation.seb_test_1",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_1",
+    "name": "seb_test_1",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/seb_test_1"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.seb_test_2",
+    "mirror_name": "ONS-Innovation.seb_test_2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_2",
+    "name": "seb_test_2",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/seb_test_2"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.seb_test_3",
+    "mirror_name": "ONS-Innovation.seb_test_3",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_3",
+    "name": "seb_test_3",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/seb_test_3"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.seb_test_4",
+    "mirror_name": "ONS-Innovation.seb_test_4",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_4",
+    "name": "seb_test_4",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/seb_test_4"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.seb_test_5",
+    "mirror_name": "ONS-Innovation.seb_test_5",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_5",
+    "name": "seb_test_5",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/seb_test_5"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_1",
+    "mirror_name": "ONS-Innovation.sebtheo_test_1",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_1",
+    "name": "sebtheo_test_1",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_1"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_2",
+    "mirror_name": "ONS-Innovation.sebtheo_test_2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_2",
+    "name": "sebtheo_test_2",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_2"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_3",
+    "mirror_name": "ONS-Innovation.sebtheo_test_3",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_3",
+    "name": "sebtheo_test_3",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_3"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_4",
+    "mirror_name": "ONS-Innovation.sebtheo_test_4",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_4",
+    "name": "sebtheo_test_4",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_4"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "testing",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_5",
+    "mirror_name": "ONS-Innovation.sebtheo_test_5",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_5",
+    "name": "sebtheo_test_5",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_5"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "test",
+    "full_name": "uk-gov-mirror/ONS-Innovation.sebtheo_test_6",
+    "mirror_name": "ONS-Innovation.sebtheo_test_6",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_6",
+    "name": "sebtheo_test_6",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/sebtheo_test_6"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A test repository to collect the team effort to solve some of the puzzels from the Advent of Code from last year (2024) using Backstage.",
+    "full_name": "uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt",
+    "mirror_name": "ONS-Innovation.teazy-peazy-advent-of-code-bt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt",
+    "name": "teazy-peazy-advent-of-code-bt",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/teazy-peazy-advent-of-code-bt"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-OpenData.cmd-api-pipeline",
+    "mirror_name": "ONS-OpenData.cmd-api-pipeline",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.cmd-api-pipeline",
+    "name": "cmd-api-pipeline",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/cmd-api-pipeline"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-OpenData.data-dictionary",
+    "mirror_name": "ONS-OpenData.data-dictionary",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.data-dictionary",
+    "name": "data-dictionary",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/data-dictionary"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Holding repo for code (principally lambda functions) relating to the automated transform and upload of datasets to the CMD platform.",
+    "full_name": "uk-gov-mirror/ONS-OpenData.dp-opendata-upload",
+    "mirror_name": "ONS-OpenData.dp-opendata-upload",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.dp-opendata-upload",
+    "name": "dp-opendata-upload",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/dp-opendata-upload"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Packaged dashboard to facilitate fitting a dynamic population model (DPM) using accountTMB. Allows for running single runs or for running comparisons between data model selections.",
+    "full_name": "uk-gov-mirror/ONSBigData.dpm.dash",
+    "mirror_name": "ONSBigData.dpm.dash",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSBigData.dpm.dash",
+    "name": "dpm.dash",
+    "org": "ONSBigData",
+    "original_url": "https://github.com/ONSBigData/dpm.dash"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A tool to automatically populate the GDD CPD log from Cambridge Sparks OTJ log. ",
+    "full_name": "uk-gov-mirror/ONSdigital.CS_OTJ_to_CDP",
+    "mirror_name": "ONSdigital.CS_OTJ_to_CDP",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.CS_OTJ_to_CDP",
+    "name": "CS_OTJ_to_CDP",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/CS_OTJ_to_CDP"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.TakeOn-VP-Wrangler",
+    "mirror_name": "ONSdigital.TakeOn-VP-Wrangler",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.TakeOn-VP-Wrangler",
+    "name": "TakeOn-VP-Wrangler",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/TakeOn-VP-Wrangler"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.Takeon-Wrangler-Go",
+    "mirror_name": "ONSdigital.Takeon-Wrangler-Go",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.Takeon-Wrangler-Go",
+    "name": "Takeon-Wrangler-Go",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/Takeon-Wrangler-Go"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Exploring agent based modelling in Python and packages that facilitate it.",
+    "full_name": "uk-gov-mirror/ONSdigital.abm-exploration",
+    "mirror_name": "ONSdigital.abm-exploration",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.abm-exploration",
+    "name": "abm-exploration",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/abm-exploration"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Acceptance tests for the Address Index project",
+    "full_name": "uk-gov-mirror/ONSdigital.address-index-acceptance-tests",
+    "mirror_name": "ONSdigital.address-index-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-index-acceptance-tests",
+    "name": "address-index-acceptance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-index-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Selenium tests to be run under SauceLabs for Address Index API",
+    "full_name": "uk-gov-mirror/ONSdigital.address-index-api-tests",
+    "mirror_name": "ONSdigital.address-index-api-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-index-api-tests",
+    "name": "address-index-api-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-index-api-tests"
   },
   {
     "deleted_on": "2026-08-21",
@@ -1104,6 +1674,46 @@
     "original_url": "https://github.com/ONSdigital/address-index-developers"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.address-index-performance-tests",
+    "mirror_name": "ONSdigital.address-index-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-index-performance-tests",
+    "name": "address-index-performance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-index-performance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "User interface website for the Address Index API",
+    "full_name": "uk-gov-mirror/ONSdigital.address-index-ui.replaced.2026-08-20",
+    "mirror_name": "ONSdigital.address-index-ui.replaced.2026-08-20",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-index-ui.replaced.2026-08-20",
+    "name": "address-index-ui.replaced.2026-08-20",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-index-ui.replaced.2026-08-20"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Address Index Acceptance tests",
+    "full_name": "uk-gov-mirror/ONSdigital.ai-acceptance-tests",
+    "mirror_name": "ONSdigital.ai-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ai-acceptance-tests",
+    "name": "ai-acceptance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ai-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aims-address-parser",
+    "mirror_name": "ONSdigital.aims-address-parser",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser",
+    "name": "aims-address-parser",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aims-address-parser"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03",
@@ -1112,6 +1722,36 @@
     "name": "aims-address-parser.replaced.2026-09-03",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/aims-address-parser.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aims-bulk-scheduler",
+    "mirror_name": "ONSdigital.aims-bulk-scheduler",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-bulk-scheduler",
+    "name": "aims-bulk-scheduler",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aims-bulk-scheduler"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Spring Boot Microservice for AIMS bulk match solution",
+    "full_name": "uk-gov-mirror/ONSdigital.aims-bulk-service",
+    "mirror_name": "ONSdigital.aims-bulk-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-bulk-service",
+    "name": "aims-bulk-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aims-bulk-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aims-create-address",
+    "mirror_name": "ONSdigital.aims-create-address",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-create-address",
+    "name": "aims-create-address",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aims-create-address"
   },
   {
     "deleted_on": "2026-09-03",
@@ -1124,6 +1764,16 @@
     "original_url": "https://github.com/ONSdigital/aims-create-address.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aims-pubsub-publisher",
+    "mirror_name": "ONSdigital.aims-pubsub-publisher",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aims-pubsub-publisher",
+    "name": "aims-pubsub-publisher",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aims-pubsub-publisher"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2024-06-13",
     "description": "Terraform project that creates the infrastructure for the EQ project alpha.",
@@ -1133,6 +1783,76 @@
     "name": "alpha-eq-terraform",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/alpha-eq-terraform"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aws-ingest-management-process-poc",
+    "mirror_name": "ONSdigital.aws-ingest-management-process-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aws-ingest-management-process-poc",
+    "name": "aws-ingest-management-process-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aws-ingest-management-process-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aws-manifest-creator",
+    "mirror_name": "ONSdigital.aws-manifest-creator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aws-manifest-creator",
+    "name": "aws-manifest-creator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aws-manifest-creator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aws-manifest-creator-terraform",
+    "mirror_name": "ONSdigital.aws-manifest-creator-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aws-manifest-creator-terraform",
+    "name": "aws-manifest-creator-terraform",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aws-manifest-creator-terraform"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aws-uploader",
+    "mirror_name": "ONSdigital.aws-uploader",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aws-uploader",
+    "name": "aws-uploader",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aws-uploader"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.aws-uploader-performance-tests",
+    "mirror_name": "ONSdigital.aws-uploader-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.aws-uploader-performance-tests",
+    "name": "aws-uploader-performance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/aws-uploader-performance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-api-node-client",
+    "mirror_name": "ONSdigital.blaise-api-node-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-api-node-client",
+    "name": "blaise-api-node-client",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-api-node-client"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-api-rest",
+    "mirror_name": "ONSdigital.blaise-api-rest",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest",
+    "name": "blaise-api-rest",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-api-rest"
   },
   {
     "deleted_on": "2026-09-03",
@@ -1154,6 +1874,16 @@
     "name": "blaise-app-engine-default",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/blaise-app-engine-default"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-azure-pipelines",
+    "mirror_name": "ONSdigital.blaise-azure-pipelines",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-azure-pipelines",
+    "name": "blaise-azure-pipelines",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-azure-pipelines"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1189,6 +1919,156 @@
     "original_url": "https://github.com/ONSdigital/blaise-cloudsql-backup"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-cma-functions",
+    "mirror_name": "ONSdigital.blaise-cma-functions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-cma-functions",
+    "name": "blaise-cma-functions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-cma-functions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-dashboard",
+    "mirror_name": "ONSdigital.blaise-dashboard",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-dashboard",
+    "name": "blaise-dashboard",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-dashboard"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-data-delivery",
+    "mirror_name": "ONSdigital.blaise-data-delivery",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery",
+    "name": "blaise-data-delivery",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-data-delivery"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Slack alerts for data delivery issues",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-data-delivery-alerts",
+    "mirror_name": "ONSdigital.blaise-data-delivery-alerts",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-alerts",
+    "name": "blaise-data-delivery-alerts",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-data-delivery-alerts"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-data-delivery-management",
+    "mirror_name": "ONSdigital.blaise-data-delivery-management",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-management",
+    "name": "blaise-data-delivery-management",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-data-delivery-management"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-data-delivery-status",
+    "mirror_name": "ONSdigital.blaise-data-delivery-status",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-status",
+    "name": "blaise-data-delivery-status",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-data-delivery-status"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A python client for the blaise-data-delivery-status API",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-data-delivery-status-client",
+    "mirror_name": "ONSdigital.blaise-data-delivery-status-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-status-client",
+    "name": "blaise-data-delivery-status-client",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-data-delivery-status-client"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-deploy-questionnaire-service",
+    "mirror_name": "ONSdigital.blaise-deploy-questionnaire-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-deploy-questionnaire-service",
+    "name": "blaise-deploy-questionnaire-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-deploy-questionnaire-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "React component implementations of the ONS Design system components.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-design-system-react-components",
+    "mirror_name": "ONSdigital.blaise-design-system-react-components",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-design-system-react-components",
+    "name": "blaise-design-system-react-components",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-design-system-react-components"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Cloud functions for the Blaise editing service",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-editing-functions",
+    "mirror_name": "ONSdigital.blaise-editing-functions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-editing-functions",
+    "name": "blaise-editing-functions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-editing-functions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-editing-service",
+    "mirror_name": "ONSdigital.blaise-editing-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-editing-service",
+    "name": "blaise-editing-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-editing-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-export-reporting-tool",
+    "mirror_name": "ONSdigital.blaise-export-reporting-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-export-reporting-tool",
+    "name": "blaise-export-reporting-tool",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-export-reporting-tool"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-file-upload-alien",
+    "mirror_name": "ONSdigital.blaise-file-upload-alien",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-file-upload-alien",
+    "name": "blaise-file-upload-alien",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-file-upload-alien"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Provides a generic IAP provider for NodeJS.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-iap-node-provider",
+    "mirror_name": "ONSdigital.blaise-iap-node-provider",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-iap-node-provider",
+    "name": "blaise-iap-node-provider",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-iap-node-provider"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-ingest",
+    "mirror_name": "ONSdigital.blaise-ingest",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-ingest",
+    "name": "blaise-ingest",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-ingest"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2020-10-26",
     "description": null,
@@ -1198,6 +2078,86 @@
     "name": "blaise-instrument-checker",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/blaise-instrument-checker"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-instrument-metadata-service",
+    "mirror_name": "ONSdigital.blaise-instrument-metadata-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-instrument-metadata-service",
+    "name": "blaise-instrument-metadata-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-instrument-metadata-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-integration-tests",
+    "mirror_name": "ONSdigital.blaise-integration-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-integration-tests",
+    "name": "blaise-integration-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-integration-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-interviewer-training-service",
+    "mirror_name": "ONSdigital.blaise-interviewer-training-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-interviewer-training-service",
+    "name": "blaise-interviewer-training-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-interviewer-training-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A little Jupyter Notebook set up to quickly get started when extracting information out of logs",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-log-investigation-tools",
+    "mirror_name": "ONSdigital.blaise-log-investigation-tools",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-log-investigation-tools",
+    "name": "blaise-log-investigation-tools",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-log-investigation-tools"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-login-react",
+    "mirror_name": "ONSdigital.blaise-login-react",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-login-react",
+    "name": "blaise-login-react",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-login-react"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-nifi-encrypt",
+    "mirror_name": "ONSdigital.blaise-nifi-encrypt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-nifi-encrypt",
+    "name": "blaise-nifi-encrypt",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-nifi-encrypt"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Cloud function service for processing receipts from NiFi",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-nifi-receipt",
+    "mirror_name": "ONSdigital.blaise-nifi-receipt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-nifi-receipt",
+    "name": "blaise-nifi-receipt",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-nifi-receipt"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Service to copy survey instruments from the NISRA SFTP server to a GCP storage bucket.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-nisra-case-mover",
+    "mirror_name": "ONSdigital.blaise-nisra-case-mover",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-nisra-case-mover",
+    "name": "blaise-nisra-case-mover",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-nisra-case-mover"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -1211,6 +2171,26 @@
     "original_url": "https://github.com/ONSdigital/blaise-nisra-case-processor"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-nuget-api",
+    "mirror_name": "ONSdigital.blaise-nuget-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-nuget-api",
+    "name": "blaise-nuget-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-nuget-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Publish file metadata to Sub/Sub topic when uploaded to bucket.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-publish-bucket-metadata",
+    "mirror_name": "ONSdigital.blaise-publish-bucket-metadata",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-publish-bucket-metadata",
+    "name": "blaise-publish-bucket-metadata",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-publish-bucket-metadata"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2020-08-28",
     "description": null,
@@ -1220,6 +2200,16 @@
     "name": "blaise-pubsub-functions",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/blaise-pubsub-functions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Cloud Function to perform questionnaire data point-in-time restore",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-questionnaire-point-in-time-restore",
+    "mirror_name": "ONSdigital.blaise-questionnaire-point-in-time-restore",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-questionnaire-point-in-time-restore",
+    "name": "blaise-questionnaire-point-in-time-restore",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-questionnaire-point-in-time-restore"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1233,6 +2223,56 @@
     "original_url": "https://github.com/ONSdigital/blaise-serverpark-terraform-module"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Send logging messages from GCP to Slack",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-slack-alerter",
+    "mirror_name": "ONSdigital.blaise-slack-alerter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-slack-alerter",
+    "name": "blaise-slack-alerter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-slack-alerter"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Services for interacting with Totalmobile's APIs.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-totalmobile-services",
+    "mirror_name": "ONSdigital.blaise-totalmobile-services",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-totalmobile-services",
+    "name": "blaise-totalmobile-services",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-totalmobile-services"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-uac-service",
+    "mirror_name": "ONSdigital.blaise-uac-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service",
+    "name": "blaise-uac-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-uac-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Provides a node client to communicate securely to the Blaise UAC Service",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-uac-service-node-client",
+    "mirror_name": "ONSdigital.blaise-uac-service-node-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service-node-client",
+    "name": "blaise-uac-service-node-client",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-uac-service-node-client"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-uac-service-ui",
+    "mirror_name": "ONSdigital.blaise-uac-service-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service-ui",
+    "name": "blaise-uac-service-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-uac-service-ui"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-03-03",
     "description": "POC - NodeJS Cloud Functions. Connect to Blaise Rest API to and write data to JSON file in GCP Bucket",
@@ -1242,6 +2282,46 @@
     "name": "blaise-user-backup",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/blaise-user-backup"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Azure Pipeline to backup Blaise users from local SQLite DB",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-user-backup-pipeline",
+    "mirror_name": "ONSdigital.blaise-user-backup-pipeline",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-user-backup-pipeline",
+    "name": "blaise-user-backup-pipeline",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-user-backup-pipeline"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Dashboard for managing Blaise users.",
+    "full_name": "uk-gov-mirror/ONSdigital.blaise-user-management",
+    "mirror_name": "ONSdigital.blaise-user-management",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.blaise-user-management",
+    "name": "blaise-user-management",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/blaise-user-management"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Email to BPM gateway for AWS lambda",
+    "full_name": "uk-gov-mirror/ONSdigital.bpm-mail-lambda",
+    "mirror_name": "ONSdigital.bpm-mail-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.bpm-mail-lambda",
+    "name": "bpm-mail-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/bpm-mail-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Stores files in S3 bucket and generates cryptographic URL",
+    "full_name": "uk-gov-mirror/ONSdigital.bpm-store-attachment",
+    "mirror_name": "ONSdigital.bpm-store-attachment",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.bpm-store-attachment",
+    "name": "bpm-store-attachment",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/bpm-store-attachment"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1266,6 +2346,66 @@
     "original_url": "https://github.com/ONSdigital/census-end-to-end-prototype"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census-rm-action-processor",
+    "mirror_name": "ONSdigital.census-rm-action-processor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census-rm-action-processor",
+    "name": "census-rm-action-processor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census-rm-action-processor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A benchmarking tool for Census EQ Questionnaire Runner",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-benchmark",
+    "mirror_name": "ONSdigital.census31-eq-questionnaire-runner-benchmark",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-benchmark",
+    "name": "census31-eq-questionnaire-runner-benchmark",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-eq-questionnaire-runner-benchmark"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Definitions and specifications for the 2031 Census EQ interfaces",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-interface-definitions",
+    "mirror_name": "ONSdigital.census31-eq-questionnaire-runner-interface-definitions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-interface-definitions",
+    "name": "census31-eq-questionnaire-runner-interface-definitions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-eq-questionnaire-runner-interface-definitions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An API for validating survey schemas",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-eq-questionnaire-validator",
+    "mirror_name": "ONSdigital.census31-eq-questionnaire-validator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-validator",
+    "name": "census31-eq-questionnaire-validator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-eq-questionnaire-validator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Scripts for translating eq-questionnaire-runner surveys",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-eq-translations",
+    "mirror_name": "ONSdigital.census31-eq-translations",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-eq-translations",
+    "name": "census31-eq-translations",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-eq-translations"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-acceptance-tests (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-acceptance-tests",
+    "mirror_name": "ONSdigital.census31-fwmt-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-acceptance-tests",
+    "name": "census31-fwmt-acceptance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-acceptance-tests"
+  },
+  {
     "deleted_on": "2026-09-18",
     "description": "Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4)",
     "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-canonical",
@@ -1274,6 +2414,26 @@
     "name": "census31-fwmt-canonical",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/census31-fwmt-canonical"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-common (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-common",
+    "mirror_name": "ONSdigital.census31-fwmt-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-common",
+    "name": "census31-fwmt-common",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-common"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-csv-service (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-csv-service",
+    "mirror_name": "ONSdigital.census31-fwmt-csv-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-csv-service",
+    "name": "census31-fwmt-csv-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-csv-service"
   },
   {
     "deleted_on": "2026-09-18",
@@ -1286,6 +2446,46 @@
     "original_url": "https://github.com/ONSdigital/census31-fwmt-events"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-fulfillment-event-service (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-fulfillment-event-service",
+    "mirror_name": "ONSdigital.census31-fwmt-fulfillment-event-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-fulfillment-event-service",
+    "name": "census31-fwmt-fulfillment-event-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-fulfillment-event-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
+    "mirror_name": "ONSdigital.census31-fwmt-gateway-version-tracker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
+    "name": "census31-fwmt-gateway-version-tracker",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-gateway-version-tracker"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-job-service (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-job-service",
+    "mirror_name": "ONSdigital.census31-fwmt-job-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-job-service",
+    "name": "census31-fwmt-job-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-job-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-outcome-service (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-outcome-service",
+    "mirror_name": "ONSdigital.census31-fwmt-outcome-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-outcome-service",
+    "name": "census31-fwmt-outcome-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-outcome-service"
+  },
+  {
     "deleted_on": "2026-09-18",
     "description": "Census 2031 FWMT: shared Maven parent BOM",
     "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-parent",
@@ -1294,6 +2494,26 @@
     "name": "census31-fwmt-parent",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/census31-fwmt-parent"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-perf-msg-builder (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-perf-msg-builder",
+    "mirror_name": "ONSdigital.census31-fwmt-perf-msg-builder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-perf-msg-builder",
+    "name": "census31-fwmt-perf-msg-builder",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-perf-msg-builder"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-performance-tests (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-performance-tests",
+    "mirror_name": "ONSdigital.census31-fwmt-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-performance-tests",
+    "name": "census31-fwmt-performance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-performance-tests"
   },
   {
     "deleted_on": "2026-09-18",
@@ -1306,6 +2526,126 @@
     "original_url": "https://github.com/ONSdigital/census31-fwmt-storage-utils"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Census 2031 FWMT: census31-fwmt-tm-mock (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-tm-mock",
+    "mirror_name": "ONSdigital.census31-fwmt-tm-mock",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-tm-mock",
+    "name": "census31-fwmt-tm-mock",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-tm-mock"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "RM Census acceptance tests",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-acceptance-tests",
+    "mirror_name": "ONSdigital.census31-rm-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-acceptance-tests",
+    "name": "census31-rm-acceptance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-case-api",
+    "mirror_name": "ONSdigital.census31-rm-case-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-case-api",
+    "name": "census31-rm-case-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-case-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-case-processor",
+    "mirror_name": "ONSdigital.census31-rm-case-processor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-case-processor",
+    "name": "census31-rm-case-processor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-case-processor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-dockerfiles",
+    "mirror_name": "ONSdigital.census31-rm-dockerfiles",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-dockerfiles",
+    "name": "census31-rm-dockerfiles",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-dockerfiles"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-exception-manager",
+    "mirror_name": "ONSdigital.census31-rm-exception-manager",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-exception-manager",
+    "name": "census31-rm-exception-manager",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-exception-manager"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An message adapter service for the Census RM services to communicate with the FWMTG",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-fieldwork-adapter",
+    "mirror_name": "ONSdigital.census31-rm-fieldwork-adapter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-fieldwork-adapter",
+    "name": "census31-rm-fieldwork-adapter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-fieldwork-adapter"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-job-processor",
+    "mirror_name": "ONSdigital.census31-rm-job-processor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-job-processor",
+    "name": "census31-rm-job-processor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-job-processor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-notify-service",
+    "mirror_name": "ONSdigital.census31-rm-notify-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-notify-service",
+    "name": "census31-rm-notify-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-notify-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-shared-sample-validation",
+    "mirror_name": "ONSdigital.census31-rm-shared-sample-validation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-shared-sample-validation",
+    "name": "census31-rm-shared-sample-validation",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-shared-sample-validation"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-rm-support-tool",
+    "mirror_name": "ONSdigital.census31-rm-support-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-rm-support-tool",
+    "name": "census31-rm-support-tool",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-rm-support-tool"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.census31-static-assets",
+    "mirror_name": "ONSdigital.census31-static-assets",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-static-assets",
+    "name": "census31-static-assets",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-static-assets"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-03",
     "description": null,
@@ -1315,6 +2655,106 @@
     "name": "charts-alpha",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/charts-alpha"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Posts Slack alerts from status feeds.",
+    "full_name": "uk-gov-mirror/ONSdigital.cloud-status-alerter",
+    "mirror_name": "ONSdigital.cloud-status-alerter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.cloud-status-alerter",
+    "name": "cloud-status-alerter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/cloud-status-alerter"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Enhance the documenting capabilities of Confluence",
+    "full_name": "uk-gov-mirror/ONSdigital.confluence-enhancer",
+    "mirror_name": "ONSdigital.confluence-enhancer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.confluence-enhancer",
+    "name": "confluence-enhancer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/confluence-enhancer"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "CRFSuite Tagger",
+    "full_name": "uk-gov-mirror/ONSdigital.crftagger",
+    "mirror_name": "ONSdigital.crftagger",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.crftagger",
+    "name": "crftagger",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/crftagger"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The package for general CSEW analysis",
+    "full_name": "uk-gov-mirror/ONSdigital.crimetables",
+    "mirror_name": "ONSdigital.crimetables",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.crimetables",
+    "name": "crimetables",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/crimetables"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This is a demo R pipeline for to use the `crvs.pkg` functionality to process and analyse data into publication ready tables.",
+    "full_name": "uk-gov-mirror/ONSdigital.crvs_pkg_demo",
+    "mirror_name": "ONSdigital.crvs_pkg_demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.crvs_pkg_demo",
+    "name": "crvs_pkg_demo",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/crvs_pkg_demo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "POC middleware to forward GitHub Dependabot alerts",
+    "full_name": "uk-gov-mirror/ONSdigital.dap-sit-alerter-poc",
+    "mirror_name": "ONSdigital.dap-sit-alerter-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dap-sit-alerter-poc",
+    "name": "dap-sit-alerter-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dap-sit-alerter-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dap-sit-inventory-prototype",
+    "mirror_name": "ONSdigital.dap-sit-inventory-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dap-sit-inventory-prototype",
+    "name": "dap-sit-inventory-prototype",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dap-sit-inventory-prototype"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "ONS Data Engineering Learning Pathway",
+    "full_name": "uk-gov-mirror/ONSdigital.data_engineer_learning_pathway",
+    "mirror_name": "ONSdigital.data_engineer_learning_pathway",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.data_engineer_learning_pathway",
+    "name": "data_engineer_learning_pathway",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/data_engineer_learning_pathway"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This project is demo of design system implemenented in Python and Flask.",
+    "full_name": "uk-gov-mirror/ONSdigital.design-system-python-flask-demo",
+    "mirror_name": "ONSdigital.design-system-python-flask-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.design-system-python-flask-demo",
+    "name": "design-system-python-flask-demo",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/design-system-python-flask-demo"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "React implementation of the ONS Design System (work in progress).",
+    "full_name": "uk-gov-mirror/ONSdigital.design-system-react",
+    "mirror_name": "ONSdigital.design-system-react",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.design-system-react",
+    "name": "design-system-react",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/design-system-react"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1381,6 +2821,16 @@
     "name": "dp-florence-cmd-prototype",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-florence-cmd-prototype"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Digital Publishing controller for managing cookies.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-cookie-controller",
+    "mirror_name": "ONSdigital.dp-frontend-cookie-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-cookie-controller",
+    "name": "dp-frontend-cookie-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-cookie-controller"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1460,6 +2910,36 @@
     "original_url": "https://github.com/ONSdigital/dp-test-generation-api"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dpmaccpf",
+    "mirror_name": "ONSdigital.dpmaccpf",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dpmaccpf",
+    "name": "dpmaccpf",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dpmaccpf"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Install and run all steps of the dynamic population model (DPM). Step 1- initial unbalanced demographic account. Step 2 - cohort-level estimation of consistent demographic accounts. Step 3 - splitting of combined migration flows to full origin destination matrix.",
+    "full_name": "uk-gov-mirror/ONSdigital.dpmall",
+    "mirror_name": "ONSdigital.dpmall",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dpmall",
+    "name": "dpmall",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dpmall"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Particle filters for estimating Bayesian demographic accounts",
+    "full_name": "uk-gov-mirror/ONSdigital.dpmpf",
+    "mirror_name": "ONSdigital.dpmpf",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dpmpf",
+    "name": "dpmpf",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dpmpf"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2024-06-13",
     "description": "Author has moved to",
@@ -1469,6 +2949,156 @@
     "name": "eq-author",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/eq-author"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The Author API has moved to",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-api",
+    "mirror_name": "ONSdigital.eq-author-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-api",
+    "name": "eq-author-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-benchmarks",
+    "mirror_name": "ONSdigital.eq-author-benchmarks",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-benchmarks",
+    "name": "eq-author-benchmarks",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-benchmarks"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An utility for exporting author questionnaire data.",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-data-export",
+    "mirror_name": "ONSdigital.eq-author-data-export",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-data-export",
+    "name": "eq-author-data-export",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-data-export"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Web application to author a survey",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-deprecated",
+    "mirror_name": "ONSdigital.eq-author-deprecated",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-deprecated",
+    "name": "eq-author-deprecated",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-deprecated"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The GraphQL schema has moved to",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-graphql-schema",
+    "mirror_name": "ONSdigital.eq-author-graphql-schema",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-graphql-schema",
+    "name": "eq-author-graphql-schema",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-graphql-schema"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-terraform-documentdb",
+    "mirror_name": "ONSdigital.eq-author-terraform-documentdb",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-documentdb",
+    "name": "eq-author-terraform-documentdb",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-terraform-documentdb"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "DynamoDB terraform configuration for EQ Author",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-terraform-dynamodb",
+    "mirror_name": "ONSdigital.eq-author-terraform-dynamodb",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-dynamodb",
+    "name": "eq-author-terraform-dynamodb",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-terraform-dynamodb"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The repo is the terraform to setup author in GCP.",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-terraform-gcp",
+    "mirror_name": "ONSdigital.eq-author-terraform-gcp",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-gcp",
+    "name": "eq-author-terraform-gcp",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-terraform-gcp"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-update-node",
+    "mirror_name": "ONSdigital.eq-author-update-node",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-update-node",
+    "name": "eq-author-update-node",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-update-node"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A library for performing validation within Author",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-author-validator",
+    "mirror_name": "ONSdigital.eq-author-validator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-author-validator",
+    "name": "eq-author-validator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-author-validator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This project is Collection Instrument Registry. It will manage the storage and versioning of Electronic Questionnaires used but the EQ services.",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-cir-fastapi",
+    "mirror_name": "ONSdigital.eq-cir-fastapi",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-cir-fastapi",
+    "name": "eq-cir-fastapi",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-cir-fastapi"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A repository used to deploy an instance of `eq-questionnaire-launcher` to GCP",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-deploy-author-launcher",
+    "mirror_name": "ONSdigital.eq-deploy-author-launcher",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-deploy-author-launcher",
+    "name": "eq-deploy-author-launcher",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-deploy-author-launcher"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A repository used to deploy an instance of `eq-questionnaire-runner` to GCP",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-deploy-author-runner",
+    "mirror_name": "ONSdigital.eq-deploy-author-runner",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-deploy-author-runner",
+    "name": "eq-deploy-author-runner",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-deploy-author-runner"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Get a list of questions and descriptions from json file",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-extract-questions",
+    "mirror_name": "ONSdigital.eq-extract-questions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-extract-questions",
+    "name": "eq-extract-questions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-extract-questions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A new version of `eq-publisher` for translating questionnaires built in Author into Runner V3 format",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-publisher-v3",
+    "mirror_name": "ONSdigital.eq-publisher-v3",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-publisher-v3",
+    "name": "eq-publisher-v3",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-publisher-v3"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -1482,6 +3112,76 @@
     "original_url": "https://github.com/ONSdigital/es-GenData"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Sand and Gravel Aggregation Module.",
+    "full_name": "uk-gov-mirror/ONSdigital.es-aggregation-sg",
+    "mirror_name": "ONSdigital.es-aggregation-sg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-aggregation-sg",
+    "name": "es-aggregation-sg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-aggregation-sg"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Common library for economic statistics algorithms (statistical methods)",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-common",
+    "mirror_name": "ONSdigital.es-algo-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-common",
+    "name": "es-algo-common",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-common"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Helloworld Algorithmia algorithm in Java",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-helloworld-java",
+    "mirror_name": "ONSdigital.es-algo-helloworld-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-helloworld-java",
+    "name": "es-algo-helloworld-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-helloworld-java"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Helloworld Algorithmia algorithm in Scala",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-helloworld-scala",
+    "mirror_name": "ONSdigital.es-algo-helloworld-scala",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-helloworld-scala",
+    "name": "es-algo-helloworld-scala",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-helloworld-scala"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Shared library for Algorithmia Jenkins pipelines",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-jenkins-lib",
+    "mirror_name": "ONSdigital.es-algo-jenkins-lib",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-jenkins-lib",
+    "name": "es-algo-jenkins-lib",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-jenkins-lib"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Common library for testing economic statistics algorithms (statistical methods)",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-test-common",
+    "mirror_name": "ONSdigital.es-algo-test-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-test-common",
+    "name": "es-algo-test-common",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-test-common"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Calculates Top 'x' number of entries for a tabular dataset based on supplied ordering and grouping parameters",
+    "full_name": "uk-gov-mirror/ONSdigital.es-algo-topx",
+    "mirror_name": "ONSdigital.es-algo-topx",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-algo-topx",
+    "name": "es-algo-topx",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-algo-topx"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-03-21",
     "description": null,
@@ -1493,6 +3193,16 @@
     "original_url": "https://github.com/ONSdigital/es-bmi-step-functions"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-concourse-deploy",
+    "mirror_name": "ONSdigital.es-concourse-deploy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-concourse-deploy",
+    "name": "es-concourse-deploy",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-concourse-deploy"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-03-21",
     "description": null,
@@ -1502,6 +3212,66 @@
     "name": "es-config-loader",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/es-config-loader"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-demo-java",
+    "mirror_name": "ONSdigital.es-demo-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-demo-java",
+    "name": "es-demo-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-demo-java"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-demo-python",
+    "mirror_name": "ONSdigital.es-demo-python",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-demo-python",
+    "name": "es-demo-python",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-demo-python"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-demo-scala",
+    "mirror_name": "ONSdigital.es-demo-scala",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-demo-scala",
+    "name": "es-demo-scala",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-demo-scala"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Generic DevOps scripts for Economic Statistics",
+    "full_name": "uk-gov-mirror/ONSdigital.es-devops-scripts",
+    "mirror_name": "ONSdigital.es-devops-scripts",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-devops-scripts",
+    "name": "es-devops-scripts",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-devops-scripts"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-disclosure-sg",
+    "mirror_name": "ONSdigital.es-disclosure-sg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-disclosure-sg",
+    "name": "es-disclosure-sg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-disclosure-sg"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-enrichment-sg",
+    "mirror_name": "ONSdigital.es-enrichment-sg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-enrichment-sg",
+    "name": "es-enrichment-sg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-enrichment-sg"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -1526,6 +3296,36 @@
     "original_url": "https://github.com/ONSdigital/es-functions"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Static data for geographical counties and regions",
+    "full_name": "uk-gov-mirror/ONSdigital.es-geography-data",
+    "mirror_name": "ONSdigital.es-geography-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-geography-data",
+    "name": "es-geography-data",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-geography-data"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Proof of concept of the CI pipeline for Algorithmia",
+    "full_name": "uk-gov-mirror/ONSdigital.es-helloworld",
+    "mirror_name": "ONSdigital.es-helloworld",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-helloworld",
+    "name": "es-helloworld",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-helloworld"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Sand & Gravel Imputation - Python Lambdas.",
+    "full_name": "uk-gov-mirror/ONSdigital.es-imputation-sg",
+    "mirror_name": "ONSdigital.es-imputation-sg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-imputation-sg",
+    "name": "es-imputation-sg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-imputation-sg"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-03-21",
     "description": null,
@@ -1535,6 +3335,106 @@
     "name": "es-ingest-takeon-data",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/es-ingest-takeon-data"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-java-poc",
+    "mirror_name": "ONSdigital.es-java-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-java-poc",
+    "name": "es-java-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-java-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-java-poc2",
+    "mirror_name": "ONSdigital.es-java-poc2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-java-poc2",
+    "name": "es-java-poc2",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-java-poc2"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Disclosure Method",
+    "full_name": "uk-gov-mirror/ONSdigital.es-method-disclosure",
+    "mirror_name": "ONSdigital.es-method-disclosure",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-method-disclosure",
+    "name": "es-method-disclosure",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-method-disclosure"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Economic Statistics - Algorithmia POC enrichment Algorithm",
+    "full_name": "uk-gov-mirror/ONSdigital.es-method-enrichment",
+    "mirror_name": "ONSdigital.es-method-enrichment",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-method-enrichment",
+    "name": "es-method-enrichment",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-method-enrichment"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Economic Stats - Algorithmia POC imputation algorithm",
+    "full_name": "uk-gov-mirror/ONSdigital.es-method-imputation",
+    "mirror_name": "ONSdigital.es-method-imputation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-method-imputation",
+    "name": "es-method-imputation",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-method-imputation"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-nigels-java",
+    "mirror_name": "ONSdigital.es-nigels-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-nigels-java",
+    "name": "es-nigels-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-nigels-java"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-python-poc",
+    "mirror_name": "ONSdigital.es-python-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-python-poc",
+    "name": "es-python-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-python-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-scala-poc",
+    "mirror_name": "ONSdigital.es-scala-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-scala-poc",
+    "name": "es-scala-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-scala-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-sonar",
+    "mirror_name": "ONSdigital.es-sonar",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-sonar",
+    "name": "es-sonar",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-sonar"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.es-strata-sg",
+    "mirror_name": "ONSdigital.es-strata-sg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-strata-sg",
+    "name": "es-strata-sg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-strata-sg"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -1559,6 +3459,76 @@
     "original_url": "https://github.com/ONSdigital/es-system-of-record"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Validation Value Change VET",
+    "full_name": "uk-gov-mirror/ONSdigital.es-vet-value-change",
+    "mirror_name": "ONSdigital.es-vet-value-change",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-change",
+    "name": "es-vet-value-change",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-vet-value-change"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Validation Value Comparison",
+    "full_name": "uk-gov-mirror/ONSdigital.es-vet-value-comparison",
+    "mirror_name": "ONSdigital.es-vet-value-comparison",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-comparison",
+    "name": "es-vet-value-comparison",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-vet-value-comparison"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Validation Value Present VET",
+    "full_name": "uk-gov-mirror/ONSdigital.es-vet-value-present",
+    "mirror_name": "ONSdigital.es-vet-value-present",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-present",
+    "name": "es-vet-value-present",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-vet-value-present"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Validation Zero Continuity VET",
+    "full_name": "uk-gov-mirror/ONSdigital.es-vet-zero-continuity",
+    "mirror_name": "ONSdigital.es-vet-zero-continuity",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es-vet-zero-continuity",
+    "name": "es-vet-zero-continuity",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es-vet-zero-continuity"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Contributor Management database for the IBM clerical resolution alpha.",
+    "full_name": "uk-gov-mirror/ONSdigital.es_contributor_management_db",
+    "mirror_name": "ONSdigital.es_contributor_management_db",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.es_contributor_management_db",
+    "name": "es_contributor_management_db",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/es_contributor_management_db"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "eslint rules for eq-author ",
+    "full_name": "uk-gov-mirror/ONSdigital.eslint-config-eq-author",
+    "mirror_name": "ONSdigital.eslint-config-eq-author",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eslint-config-eq-author",
+    "name": "eslint-config-eq-author",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eslint-config-eq-author"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Public repository for the ESPRESSO Python pipeline",
+    "full_name": "uk-gov-mirror/ONSdigital.espresso-public",
+    "mirror_name": "ONSdigital.espresso-public",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.espresso-public",
+    "name": "espresso-public",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/espresso-public"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-13",
     "description": null,
@@ -1568,6 +3538,56 @@
     "name": "find-an-answer-alpha",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/find-an-answer-alpha"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Service to create staff and delete staff.",
+    "full_name": "uk-gov-mirror/ONSdigital.fwmt-staff-service",
+    "mirror_name": "ONSdigital.fwmt-staff-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.fwmt-staff-service",
+    "name": "fwmt-staff-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/fwmt-staff-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A dashboard that displays useful information from multiple GCP projects.",
+    "full_name": "uk-gov-mirror/ONSdigital.gcp-projects-dashboard",
+    "mirror_name": "ONSdigital.gcp-projects-dashboard",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.gcp-projects-dashboard",
+    "name": "gcp-projects-dashboard",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/gcp-projects-dashboard"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.gdhi_adj",
+    "mirror_name": "ONSdigital.gdhi_adj",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.gdhi_adj",
+    "name": "gdhi_adj",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/gdhi_adj"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A repository for the code supporting the paper \"Are Multilateral Methods the Holy Grail of Price Measurement? A Critical Examination of Their Promises and Practical Performance in Dynamic Datasets\", covering the perturbation test used in the paper.",
+    "full_name": "uk-gov-mirror/ONSdigital.geks-perturb-window",
+    "mirror_name": "ONSdigital.geks-perturb-window",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.geks-perturb-window",
+    "name": "geks-perturb-window",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/geks-perturb-window"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A web application that provides insights into GitHub organisations to make managing them easier.",
+    "full_name": "uk-gov-mirror/ONSdigital.github-explorer",
+    "mirror_name": "ONSdigital.github-explorer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.github-explorer",
+    "name": "github-explorer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/github-explorer"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1581,6 +3601,16 @@
     "original_url": "https://github.com/ONSdigital/idp-accounts-config"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Package to use for assessment for international training.",
+    "full_name": "uk-gov-mirror/ONSdigital.int.train.pckg",
+    "mirror_name": "ONSdigital.int.train.pckg",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.int.train.pckg",
+    "name": "int.train.pckg",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/int.train.pckg"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-11",
     "description": null,
@@ -1590,6 +3620,76 @@
     "name": "ips_aws_terraform",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/ips_aws_terraform"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An internally developed Digital Landscape platform that presents the organisation\u2019s repositories, projects, technology stack and GitHub Copilot usage.",
+    "full_name": "uk-gov-mirror/ONSdigital.keh-digital-landscape",
+    "mirror_name": "ONSdigital.keh-digital-landscape",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.keh-digital-landscape",
+    "name": "keh-digital-landscape",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/keh-digital-landscape"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A repository for the code supporting the paper \"Practical Decompositions of Mean-Spliced on Published Indices\"",
+    "full_name": "uk-gov-mirror/ONSdigital.mean-splice-decomposition",
+    "mirror_name": "ONSdigital.mean-splice-decomposition",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.mean-splice-decomposition",
+    "name": "mean-splice-decomposition",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/mean-splice-decomposition"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Standards and guidance for using Power Platform and related services.",
+    "full_name": "uk-gov-mirror/ONSdigital.ons-power-platform",
+    "mirror_name": "ONSdigital.ons-power-platform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ons-power-platform",
+    "name": "ons-power-platform",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ons-power-platform"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Example of how to set-up a repositary",
+    "full_name": "uk-gov-mirror/ONSdigital.ons-template",
+    "mirror_name": "ONSdigital.ons-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ons-template",
+    "name": "ons-template",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ons-template"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.onsrap",
+    "mirror_name": "ONSdigital.onsrap",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.onsrap",
+    "name": "onsrap",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/onsrap"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "An interactive linkage notebook. This goes through an entire linkage pipeline, encouraging participants to alter match thresholds and variable weighting to maximise linkage quality.",
+    "full_name": "uk-gov-mirror/ONSdigital.practitioner-linkage-exercise",
+    "mirror_name": "ONSdigital.practitioner-linkage-exercise",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.practitioner-linkage-exercise",
+    "name": "practitioner-linkage-exercise",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/practitioner-linkage-exercise"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Template that can be used when creating a new prototype-kit project.",
+    "full_name": "uk-gov-mirror/ONSdigital.prototype-kit-template",
+    "mirror_name": "ONSdigital.prototype-kit-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.prototype-kit-template",
+    "name": "prototype-kit-template",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/prototype-kit-template"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1611,6 +3711,186 @@
     "name": "python_rap_demo.replaced.2026-09-03",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/python_rap_demo.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The ONS respondent account service 'collection instrument' micro service.",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-collection-instrument",
+    "mirror_name": "ONSdigital.ras-collection-instrument",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-collection-instrument",
+    "name": "ras-collection-instrument",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-collection-instrument"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "RAS CD pipeline",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-deploy",
+    "mirror_name": "ONSdigital.ras-deploy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-deploy",
+    "name": "ras-deploy",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-deploy"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "RAS maintenance page static files",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-maintenance-page",
+    "mirror_name": "ONSdigital.ras-maintenance-page",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-maintenance-page",
+    "name": "ras-maintenance-page",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-maintenance-page"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-party",
+    "mirror_name": "ONSdigital.ras-party",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-party",
+    "name": "ras-party",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-party"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-auth-service",
+    "mirror_name": "ONSdigital.ras-rm-auth-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-auth-service",
+    "name": "ras-rm-auth-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-auth-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-banner",
+    "mirror_name": "ONSdigital.ras-rm-banner",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-banner",
+    "name": "ras-rm-banner",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-banner"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A benchmarking tool for RASRM",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-benchmark",
+    "mirror_name": "ONSdigital.ras-rm-benchmark",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-benchmark",
+    "name": "ras-rm-benchmark",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-benchmark"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-csv-worker",
+    "mirror_name": "ONSdigital.ras-rm-csv-worker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-csv-worker",
+    "name": "ras-rm-csv-worker",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-csv-worker"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-integration-test-action",
+    "mirror_name": "ONSdigital.ras-rm-integration-test-action",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-integration-test-action",
+    "name": "ras-rm-integration-test-action",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-integration-test-action"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Mock EQ for rasrm dev testing",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-mock-eq",
+    "mirror_name": "ONSdigital.ras-rm-mock-eq",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-mock-eq",
+    "name": "ras-rm-mock-eq",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-mock-eq"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The party service rewritten in Golang",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-party",
+    "mirror_name": "ONSdigital.ras-rm-party",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-party",
+    "name": "ras-rm-party",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-party"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Performance Test Scripts",
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-performance-tests",
+    "mirror_name": "ONSdigital.ras-rm-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-performance-tests",
+    "name": "ras-rm-performance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-performance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-print-file",
+    "mirror_name": "ONSdigital.ras-rm-print-file",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-print-file",
+    "name": "ras-rm-print-file",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-print-file"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-sample",
+    "mirror_name": "ONSdigital.ras-rm-sample",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample",
+    "name": "ras-rm-sample",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-sample"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-sample-file-uploader",
+    "mirror_name": "ONSdigital.ras-rm-sample-file-uploader",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample-file-uploader",
+    "name": "ras-rm-sample-file-uploader",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-sample-file-uploader"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-spinnaker-action",
+    "mirror_name": "ONSdigital.ras-rm-spinnaker-action",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-spinnaker-action",
+    "name": "ras-rm-spinnaker-action",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-spinnaker-action"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ras-rm-survey",
+    "mirror_name": "ONSdigital.ras-rm-survey",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ras-rm-survey",
+    "name": "ras-rm-survey",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ras-rm-survey"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Rudimentary performance tests for sbr-api and sbr-control-api",
+    "full_name": "uk-gov-mirror/ONSdigital.registers-performance-tests",
+    "mirror_name": "ONSdigital.registers-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.registers-performance-tests",
+    "name": "registers-performance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/registers-performance-tests"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1635,6 +3915,186 @@
     "original_url": "https://github.com/ONSdigital/rjstat"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.rm-reporting",
+    "mirror_name": "ONSdigital.rm-reporting",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.rm-reporting",
+    "name": "rm-reporting",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/rm-reporting"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This microservice manages surveys.",
+    "full_name": "uk-gov-mirror/ONSdigital.rm-survey-service",
+    "mirror_name": "ONSdigital.rm-survey-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.rm-survey-service",
+    "name": "rm-survey-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/rm-survey-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A collection of tests for the SBR APIs using ScalaTest",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-api-sys-test",
+    "mirror_name": "ONSdigital.sbr-api-sys-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-api-sys-test",
+    "name": "sbr-api-sys-test",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-api-sys-test"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-assembler-calculations",
+    "mirror_name": "ONSdigital.sbr-assembler-calculations",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-calculations",
+    "name": "sbr-assembler-calculations",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-assembler-calculations"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Common objects for enterprise-assembler and enterprise-calculations",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-assembler-common",
+    "mirror_name": "ONSdigital.sbr-assembler-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-common",
+    "name": "sbr-assembler-common",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-assembler-common"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "encapsulates data validation processes",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-data-validator",
+    "mirror_name": "ONSdigital.sbr-data-validator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-data-validator",
+    "name": "sbr-data-validator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-data-validator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Connector to the the SBR HBase operational data store",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-hbase-connector",
+    "mirror_name": "ONSdigital.sbr-hbase-connector",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-hbase-connector",
+    "name": "sbr-hbase-connector",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-hbase-connector"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Loads extract files from IDBR into SBR",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-idbr-data-load",
+    "mirror_name": "ONSdigital.sbr-idbr-data-load",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-idbr-data-load",
+    "name": "sbr-idbr-data-load",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-idbr-data-load"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-int-test",
+    "mirror_name": "ONSdigital.sbr-int-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-int-test",
+    "name": "sbr-int-test",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-int-test"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "API for analytical querying of the read only SBR",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-query-api",
+    "mirror_name": "ONSdigital.sbr-query-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-query-api",
+    "name": "sbr-query-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-query-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "SBR analytical user interface",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-query-ui",
+    "mirror_name": "ONSdigital.sbr-query-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-query-ui",
+    "name": "sbr-query-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-query-ui"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Statistical Business Register User Interface",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-react-ui",
+    "mirror_name": "ONSdigital.sbr-react-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-react-ui",
+    "name": "sbr-react-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-react-ui"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Sampling service that creates a sample from a given Hive Table (Frame)",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-sampling-service",
+    "mirror_name": "ONSdigital.sbr-sampling-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-sampling-service",
+    "name": "sbr-sampling-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-sampling-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Schema creation for SBR",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-schema",
+    "mirror_name": "ONSdigital.sbr-schema",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-schema",
+    "name": "sbr-schema",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-schema"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "API for searching statistical units",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-search-api",
+    "mirror_name": "ONSdigital.sbr-search-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-search-api",
+    "name": "sbr-search-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-search-api"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-sequence",
+    "mirror_name": "ONSdigital.sbr-sequence",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-sequence",
+    "name": "sbr-sequence",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-sequence"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "SBR SQL database connector",
+    "full_name": "uk-gov-mirror/ONSdigital.sbr-sql-connector",
+    "mirror_name": "ONSdigital.sbr-sql-connector",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sbr-sql-connector",
+    "name": "sbr-sql-connector",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sbr-sql-connector"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Common code for SDC services that use JWE ",
+    "full_name": "uk-gov-mirror/ONSdigital.sdc-cryptography",
+    "mirror_name": "ONSdigital.sdc-cryptography",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdc-cryptography",
+    "name": "sdc-cryptography",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdc-cryptography"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "Code for updating SDG data files",
     "full_name": "uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03",
@@ -1643,6 +4103,196 @@
     "name": "sdg_data_updates.replaced.2026-09-03",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/sdg_data_updates.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sds-acceptance-tests",
+    "mirror_name": "ONSdigital.sds-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-acceptance-tests",
+    "name": "sds-acceptance-tests",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Repository for Google Cloud Functions used with SDS",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-cloud-functions",
+    "mirror_name": "ONSdigital.sds-cloud-functions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-cloud-functions",
+    "name": "sds-cloud-functions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-cloud-functions"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "sds-common is a Python library for common functionality used to interact with SDS",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-common",
+    "mirror_name": "ONSdigital.sds-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-common",
+    "name": "sds-common",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-common"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A service for loading data into the Supplementary Data Service (SDS).",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-loader",
+    "mirror_name": "ONSdigital.sds-loader",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-loader",
+    "name": "sds-loader",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-loader"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "This repository contains the locust performance testing components for the SDS application.",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-locustio",
+    "mirror_name": "ONSdigital.sds-locustio",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-locustio",
+    "name": "sds-locustio",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-locustio"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "SDS repo for setting up triggers/workflows and test tagging for schemas",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-prototype-schema",
+    "mirror_name": "ONSdigital.sds-prototype-schema",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-prototype-schema",
+    "name": "sds-prototype-schema",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-prototype-schema"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-cleanup",
+    "mirror_name": "ONSdigital.sdx-cleanup",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-cleanup",
+    "name": "sdx-cleanup",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-cleanup"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-collate",
+    "mirror_name": "ONSdigital.sdx-collate",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-collate",
+    "name": "sdx-collate",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-collate"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A boilerplate for creating fastapi services",
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-fastapi-boilerplate",
+    "mirror_name": "ONSdigital.sdx-fastapi-boilerplate",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-fastapi-boilerplate",
+    "name": "sdx-fastapi-boilerplate",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-fastapi-boilerplate"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-image",
+    "mirror_name": "ONSdigital.sdx-image",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-image",
+    "name": "sdx-image",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-image"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-seft",
+    "mirror_name": "ONSdigital.sdx-seft",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-seft",
+    "name": "sdx-seft",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-seft"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-survey",
+    "mirror_name": "ONSdigital.sdx-survey",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-survey",
+    "name": "sdx-survey",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-survey"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-tester",
+    "mirror_name": "ONSdigital.sdx-tester",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-tester",
+    "name": "sdx-tester",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-tester"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sdx-transformer",
+    "mirror_name": "ONSdigital.sdx-transformer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sdx-transformer",
+    "name": "sdx-transformer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sdx-transformer"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.sml-aws-glue-test-harness",
+    "mirror_name": "ONSdigital.sml-aws-glue-test-harness",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sml-aws-glue-test-harness",
+    "name": "sml-aws-glue-test-harness",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sml-aws-glue-test-harness"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.spp-cognito-auth",
+    "mirror_name": "ONSdigital.spp-cognito-auth",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-auth",
+    "name": "spp-cognito-auth",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/spp-cognito-auth"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.spp-cognito-poc",
+    "mirror_name": "ONSdigital.spp-cognito-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-poc",
+    "name": "spp-cognito-poc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/spp-cognito-poc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A library to make testing contracts between components of SPP seamless",
+    "full_name": "uk-gov-mirror/ONSdigital.spp-contract-testing",
+    "mirror_name": "ONSdigital.spp-contract-testing",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.spp-contract-testing",
+    "name": "spp-contract-testing",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/spp-contract-testing"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.spp-crosscutting-intercom",
+    "mirror_name": "ONSdigital.spp-crosscutting-intercom",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.spp-crosscutting-intercom",
+    "name": "spp-crosscutting-intercom",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/spp-crosscutting-intercom"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -1678,6 +4328,156 @@
     "original_url": "https://github.com/ONSdigital/spp-rsi-lambda-scripts"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Microservice to automatically process sample jobs ",
+    "full_name": "uk-gov-mirror/ONSdigital.srm-autoprocessor",
+    "mirror_name": "ONSdigital.srm-autoprocessor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.srm-autoprocessor",
+    "name": "srm-autoprocessor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/srm-autoprocessor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "User Interface for respondents to access ONS Survey Data Collection questionnaires and services",
+    "full_name": "uk-gov-mirror/ONSdigital.srm-rh-ui",
+    "mirror_name": "ONSdigital.srm-rh-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.srm-rh-ui",
+    "name": "srm-rh-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/srm-rh-ui"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rh-service",
+    "mirror_name": "ONSdigital.ssdc-rh-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rh-service",
+    "name": "ssdc-rh-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rh-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-caseprocessor",
+    "mirror_name": "ONSdigital.ssdc-rm-caseprocessor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-caseprocessor",
+    "name": "ssdc-rm-caseprocessor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-caseprocessor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-ddl",
+    "mirror_name": "ONSdigital.ssdc-rm-ddl",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-ddl",
+    "name": "ssdc-rm-ddl",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-ddl"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-docker-dev",
+    "mirror_name": "ONSdigital.ssdc-rm-docker-dev",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-docker-dev",
+    "name": "ssdc-rm-docker-dev",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-docker-dev"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-dockerfiles",
+    "mirror_name": "ONSdigital.ssdc-rm-dockerfiles",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-dockerfiles",
+    "name": "ssdc-rm-dockerfiles",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-dockerfiles"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-exception-manager",
+    "mirror_name": "ONSdigital.ssdc-rm-exception-manager",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-exception-manager",
+    "name": "ssdc-rm-exception-manager",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-exception-manager"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-job-processor",
+    "mirror_name": "ONSdigital.ssdc-rm-job-processor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-job-processor",
+    "name": "ssdc-rm-job-processor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-job-processor"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-notify-service",
+    "mirror_name": "ONSdigital.ssdc-rm-notify-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-notify-service",
+    "name": "ssdc-rm-notify-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-notify-service"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-rm-support-tool",
+    "mirror_name": "ONSdigital.ssdc-rm-support-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-support-tool",
+    "name": "ssdc-rm-support-tool",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-rm-support-tool"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Shared/common classes which are used to validate sample data for Survey Collection & Ingestion",
+    "full_name": "uk-gov-mirror/ONSdigital.ssdc-shared-sample-validation",
+    "mirror_name": "ONSdigital.ssdc-shared-sample-validation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ssdc-shared-sample-validation",
+    "name": "ssdc-shared-sample-validation",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ssdc-shared-sample-validation"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A general purpose static website generator that can render static content and optionally content pulled from a Craft CMS instance.",
+    "full_name": "uk-gov-mirror/ONSdigital.static-website-generator",
+    "mirror_name": "ONSdigital.static-website-generator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.static-website-generator",
+    "name": "static-website-generator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/static-website-generator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "User interface for accessing Survey Assist backend",
+    "full_name": "uk-gov-mirror/ONSdigital.survey-assist-ui",
+    "mirror_name": "ONSdigital.survey-assist-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.survey-assist-ui",
+    "name": "survey-assist-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/survey-assist-ui"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-API-validation-response",
+    "mirror_name": "ONSdigital.takeon-API-validation-response",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-API-validation-response",
+    "name": "takeon-API-validation-response",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-API-validation-response"
+  },
+  {
     "deleted_on": null,
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens",
@@ -1686,6 +4486,16 @@
     "name": "takeon-ServerlessUI-multiplescreens",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/takeon-ServerlessUI-multiplescreens"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Authorization Lambda",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-authorization-lambda",
+    "mirror_name": "ONSdigital.takeon-authorization-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-authorization-lambda",
+    "name": "takeon-authorization-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-authorization-lambda"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -1710,6 +4520,66 @@
     "original_url": "https://github.com/ONSdigital/takeon-csv-to-pck"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-data-prep-lambda-main",
+    "mirror_name": "ONSdigital.takeon-data-prep-lambda-main",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-data-prep-lambda-main",
+    "name": "takeon-data-prep-lambda-main",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-data-prep-lambda-main"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-data-prep-py-lambda",
+    "mirror_name": "ONSdigital.takeon-data-prep-py-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-data-prep-py-lambda",
+    "name": "takeon-data-prep-py-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-data-prep-py-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-databases",
+    "mirror_name": "ONSdigital.takeon-databases",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-databases",
+    "name": "takeon-databases",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-databases"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-db-export-lambda",
+    "mirror_name": "ONSdigital.takeon-db-export-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-db-export-lambda",
+    "name": "takeon-db-export-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-db-export-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Terraform to create a new dev environment in aws",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-dev-vpc",
+    "mirror_name": "ONSdigital.takeon-dev-vpc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-dev-vpc",
+    "name": "takeon-dev-vpc",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-dev-vpc"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Python scripts for the creation of \"meaningful\" dummy data",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-dummy-data",
+    "mirror_name": "ONSdigital.takeon-dummy-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-dummy-data",
+    "name": "takeon-dummy-data",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-dummy-data"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-13",
     "description": "A pipeline that runs all of the egestion code for the takeon team",
@@ -1719,6 +4589,16 @@
     "name": "takeon-egestion",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/takeon-egestion"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Helm Charts for Kubernetes Deployment",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-helm-charts",
+    "mirror_name": "ONSdigital.takeon-helm-charts",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-helm-charts",
+    "name": "takeon-helm-charts",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-helm-charts"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1765,6 +4645,46 @@
     "original_url": "https://github.com/ONSdigital/takeon-persistence-layer"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-results-to-DB",
+    "mirror_name": "ONSdigital.takeon-results-to-DB",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-results-to-DB",
+    "name": "takeon-results-to-DB",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-results-to-DB"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-serverlessUI-helloworld",
+    "mirror_name": "ONSdigital.takeon-serverlessUI-helloworld",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-serverlessUI-helloworld",
+    "name": "takeon-serverlessUI-helloworld",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-serverlessUI-helloworld"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A Template repository having various Integration and Services",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-template-repository",
+    "mirror_name": "ONSdigital.takeon-template-repository",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-template-repository",
+    "name": "takeon-template-repository",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-template-repository"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "The takeon team exploration of TDD/BDD/Design",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-testing-sessions",
+    "mirror_name": "ONSdigital.takeon-testing-sessions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-testing-sessions",
+    "name": "takeon-testing-sessions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-testing-sessions"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-07-07",
     "description": null,
@@ -1787,6 +4707,16 @@
     "original_url": "https://github.com/ONSdigital/takeon-ui-pipeline"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Core validation service/API",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-validation-archive",
+    "mirror_name": "ONSdigital.takeon-validation-archive",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-archive",
+    "name": "takeon-validation-archive",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-validation-archive"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-04",
     "description": "Core engine of the validation process. Evaluates each formula and returns the response.",
@@ -1796,6 +4726,16 @@
     "name": "takeon-validation-formula-evaluator",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/takeon-validation-formula-evaluator"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-validation-persistence-layer",
+    "mirror_name": "ONSdigital.takeon-validation-persistence-layer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-persistence-layer",
+    "name": "takeon-validation-persistence-layer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-validation-persistence-layer"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -1842,6 +4782,46 @@
     "original_url": "https://github.com/ONSdigital/takeon-value-present-lambda"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "POC service showing a vanilla Spring Boot app deployed as a lambda",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-vanilla-springboot-with-lambda",
+    "mirror_name": "ONSdigital.takeon-vanilla-springboot-with-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-vanilla-springboot-with-lambda",
+    "name": "takeon-vanilla-springboot-with-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-vanilla-springboot-with-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-vp-lambda-python",
+    "mirror_name": "ONSdigital.takeon-vp-lambda-python",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-vp-lambda-python",
+    "name": "takeon-vp-lambda-python",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-vp-lambda-python"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-wrangler-lambda",
+    "mirror_name": "ONSdigital.takeon-wrangler-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-wrangler-lambda",
+    "name": "takeon-wrangler-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-wrangler-lambda"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Validation method that checks for larger than expected period on period question value movements, to and from zero",
+    "full_name": "uk-gov-mirror/ONSdigital.takeon-zero-continuity-lambda",
+    "mirror_name": "ONSdigital.takeon-zero-continuity-lambda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.takeon-zero-continuity-lambda",
+    "name": "takeon-zero-continuity-lambda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/takeon-zero-continuity-lambda"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-15",
     "description": "Provision AWS accounts within an organisation ",
@@ -1853,6 +4833,46 @@
     "original_url": "https://github.com/ONSdigital/terraform-aws-account"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "tidysheet takes messy Excel data and converts it to tidy data with a single  value per row.",
+    "full_name": "uk-gov-mirror/ONSdigital.tidysheet",
+    "mirror_name": "ONSdigital.tidysheet",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.tidysheet",
+    "name": "tidysheet",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/tidysheet"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.tlfs_legacy_toolkit",
+    "mirror_name": "ONSdigital.tlfs_legacy_toolkit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.tlfs_legacy_toolkit",
+    "name": "tlfs_legacy_toolkit",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/tlfs_legacy_toolkit"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Netlify deployment of the towns and cities selector tool",
+    "full_name": "uk-gov-mirror/ONSdigital.towns-and-cities-tool-netlify",
+    "mirror_name": "ONSdigital.towns-and-cities-tool-netlify",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.towns-and-cities-tool-netlify",
+    "name": "towns-and-cities-tool-netlify",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/towns-and-cities-tool-netlify"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.wbi-fleet-upgrade",
+    "mirror_name": "ONSdigital.wbi-fleet-upgrade",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.wbi-fleet-upgrade",
+    "name": "wbi-fleet-upgrade",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/wbi-fleet-upgrade"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-17",
     "description": "This has been superseded by https://github.com/ONSdigital/dp-prototyping-kit",
@@ -1862,6 +4882,16 @@
     "name": "website-prototype-kit",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/website-prototype-kit"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "A working-level exercise in data linkage, demonstrating how to clean and link data in Python",
+    "full_name": "uk-gov-mirror/ONSdigital.working-linkage-exercise",
+    "mirror_name": "ONSdigital.working-linkage-exercise",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.working-linkage-exercise",
+    "name": "working-linkage-exercise",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/working-linkage-exercise"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -5882,6 +8912,16 @@
     "original_url": "https://github.com/alphagov/spike-crossplane-db-roles-management"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "RAP minimum standard guidance for the Office for National Statistics",
+    "full_name": "uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP",
+    "mirror_name": "best-practice-and-impact.ONS_minimum_RAP",
+    "mirror_url": "https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP",
+    "name": "ONS_minimum_RAP",
+    "org": "best-practice-and-impact",
+    "original_url": "https://github.com/best-practice-and-impact/ONS_minimum_RAP"
+  },
+  {
     "deleted_on": "2026-10-07",
     "description": "Pact testing setup and configuration for GEEP project",
     "full_name": "uk-gov-mirror/britishcouncil.pact-testing-setup",
@@ -6554,6 +9594,16 @@
     "original_url": "https://github.com/datasciencecampus/autodoc-llm"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "A minimalist demonstration repo to facilitate trying out the ClassifAI package via myBinder",
+    "full_name": "uk-gov-mirror/datasciencecampus.classifai_demo",
+    "mirror_name": "datasciencecampus.classifai_demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/datasciencecampus.classifai_demo",
+    "name": "classifai_demo",
+    "org": "datasciencecampus",
+    "original_url": "https://github.com/datasciencecampus/classifai_demo"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-10-05",
     "description": "A public repository to hold resources and notes from ONS Coffee & Coding sessions in London",
@@ -6609,6 +9659,16 @@
     "original_url": "https://github.com/datasciencecampus/gcp-function-deployment"
   },
   {
+    "deleted_on": "2026-10-23",
+    "description": "Python SDK for GitHub REST and GraphQL APIs, built for government organisations. Provides tools for org administration, repository governance, issue operations, and workflow automation.",
+    "full_name": "uk-gov-mirror/datasciencecampus.gov-gh",
+    "mirror_name": "datasciencecampus.gov-gh",
+    "mirror_url": "https://github.com/uk-gov-mirror/datasciencecampus.gov-gh",
+    "name": "gov-gh",
+    "org": "datasciencecampus",
+    "original_url": "https://github.com/datasciencecampus/gov-gh"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2023-05-19",
     "description": "DSC visualisation app for the UK fishing industry",
@@ -6618,6 +9678,16 @@
     "name": "kamino",
     "org": "datasciencecampus",
     "original_url": "https://github.com/datasciencecampus/kamino"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Measuring engagement with nature project. Work completed in collaboration with DEFRA",
+    "full_name": "uk-gov-mirror/datasciencecampus.natural_spaces",
+    "mirror_name": "datasciencecampus.natural_spaces",
+    "mirror_url": "https://github.com/uk-gov-mirror/datasciencecampus.natural_spaces",
+    "name": "natural_spaces",
+    "org": "datasciencecampus",
+    "original_url": "https://github.com/datasciencecampus/natural_spaces"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -6770,6 +9840,16 @@
     "name": "dracoe",
     "org": "defra",
     "original_url": "https://github.com/defra/dracoe"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Git repository for service grants-ui-dal-stub",
+    "full_name": "uk-gov-mirror/defra.grants-ui-dal-stub",
+    "mirror_name": "defra.grants-ui-dal-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-dal-stub",
+    "name": "grants-ui-dal-stub",
+    "org": "defra",
+    "original_url": "https://github.com/defra/grants-ui-dal-stub"
   },
   {
     "deleted_on": "2026-08-19",
@@ -10532,6 +13612,26 @@
     "name": "trade-reporting-extracts.replaced.2026-09-02",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/trade-reporting-extracts.replaced.2026-09-02"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.transaction-risking",
+    "mirror_name": "hmrc.transaction-risking",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.transaction-risking",
+    "name": "transaction-risking",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/transaction-risking"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.transaction-risking-performance-tests",
+    "mirror_name": "hmrc.transaction-risking-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.transaction-risking-performance-tests",
+    "name": "transaction-risking-performance-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/transaction-risking-performance-tests"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -22393,6 +25493,16 @@
     "name": "data_management_system.replaced.2026-09-03",
     "org": "ukhsa-collaboration",
     "original_url": "https://github.com/ukhsa-collaboration/data_management_system.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-23",
+    "description": "Surveys and study rules for Flusurvey",
+    "full_name": "uk-gov-mirror/ukhsa-flusurvey.study-definition",
+    "mirror_name": "ukhsa-flusurvey.study-definition",
+    "mirror_url": "https://github.com/uk-gov-mirror/ukhsa-flusurvey.study-definition",
+    "name": "study-definition",
+    "org": "ukhsa-flusurvey",
+    "original_url": "https://github.com/ukhsa-flusurvey/study-definition"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

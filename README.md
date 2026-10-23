@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2161**
-Organisations affected: **82**
+Total deleted repositories: **2472**
+Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -10,26 +10,27 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**404**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.2% |
+| [ONSdigital](https://github.com/ONSdigital) | [**323**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 21.4% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
-| [hmrc](https://github.com/hmrc) | [**215**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
+| [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**116**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.6% |
-| [ONSdigital](https://github.com/ONSdigital) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 4.5% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [companieshouse](https://github.com/companieshouse) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.4% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
 | [nhsconnect](https://github.com/nhsconnect) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.2% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.7% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.6% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
+| [ONS-Innovation](https://github.com/ONS-Innovation) | [**42**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 36.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
+| [defra](https://github.com/defra) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.3% |
 | [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
-| [defra](https://github.com/defra) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.2% |
+| [datasciencecampus](https://github.com/datasciencecampus) | [**24**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 38.7% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
-| [datasciencecampus](https://github.com/datasciencecampus) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 33.3% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
 | [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.6% |
@@ -37,20 +38,22 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 24.1% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
-| [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 52.2% |
+| [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
 | [jncc](https://github.com/jncc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22jncc.%22) | 8.1% |
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
-| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 4.7% |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 4.6% |
 | [homesengland](https://github.com/homesengland) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22homesengland.%22) | 100.0% |
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-england-tools.%22) | 27.3% |
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
+| [ONS-Health-modelling-hub](https://github.com/ONS-Health-modelling-hub) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Health-modelling-hub.%22) | 19.2% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
 | [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 9.5% |
+| [ONS-OpenData](https://github.com/ONS-OpenData) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 6.2% |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 1.6% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
@@ -60,7 +63,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nw-gmsa](https://github.com/nw-gmsa) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 22.2% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.2% |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Birmingham-and-Solihull-ICS.%22) | 100.0% |
-| [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.2% |
+| [CefasRepRes](https://github.com/CefasRepRes) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CefasRepRes.%22) | 1.3% |
+| [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.1% |
 | [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
 | [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Defra-Data-Science-Centre-of-Excellence.%22) | 2.3% |
 | [GSS-Cogs](https://github.com/GSS-Cogs) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22GSS-Cogs.%22) | 0.5% |
@@ -72,12 +76,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [NHSISL](https://github.com/NHSISL) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSISL.%22) | 7.7% |
 | [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NISRA-Tech-Lab.%22) | 2.5% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 0.8% |
+| [ONSBigData](https://github.com/ONSBigData) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSBigData.%22) | 2.6% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
 | [TransportForLondon](https://github.com/TransportForLondon) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22TransportForLondon.%22) | 7.7% |
 | [UKHO](https://github.com/UKHO) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHO.%22) | 0.8% |
 | [UKHomeOfficeForms](https://github.com/UKHomeOfficeForms) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOfficeForms.%22) | 2.3% |
 | [VMDDTE](https://github.com/VMDDTE) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22VMDDTE.%22) | 16.7% |
+| [best-practice-and-impact](https://github.com/best-practice-and-impact) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22best-practice-and-impact.%22) | 3.0% |
 | [britishcouncil](https://github.com/britishcouncil) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22britishcouncil.%22) | 6.7% |
 | [cabinetoffice](https://github.com/cabinetoffice) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22cabinetoffice.%22) | 0.8% |
 | [co-cddo](https://github.com/co-cddo) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22co-cddo.%22) | 0.7% |
@@ -89,6 +94,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [govuk-pay](https://github.com/govuk-pay) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-pay.%22) | 1.1% |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.6% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
+| [ukhsa-flusurvey](https://github.com/ukhsa-flusurvey) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-flusurvey.%22) | 50.0% |
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
@@ -501,6 +507,334 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
+## [ONSdigital](https://github.com/ONSdigital) (323)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`CS_OTJ_to_CDP`](https://github.com/uk-gov-mirror/ONSdigital.CS_OTJ_to_CDP) | A tool to automatically populate the GDD CPD log from Cambridge Sparks OTJ log.  | 2026-10-23 |
+| [`TakeOn-VP-Wrangler`](https://github.com/uk-gov-mirror/ONSdigital.TakeOn-VP-Wrangler) |  | 2026-10-23 |
+| [`Takeon-Wrangler-Go`](https://github.com/uk-gov-mirror/ONSdigital.Takeon-Wrangler-Go) |  | 2026-10-23 |
+| [`abm-exploration`](https://github.com/uk-gov-mirror/ONSdigital.abm-exploration) | Exploring agent based modelling in Python and packages that facilitate it. | 2026-10-23 |
+| [`address-index-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.address-index-acceptance-tests) | Acceptance tests for the Address Index project | 2026-10-23 |
+| [`address-index-api-tests`](https://github.com/uk-gov-mirror/ONSdigital.address-index-api-tests) | Selenium tests to be run under SauceLabs for Address Index API | 2026-10-23 |
+| [`address-index-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.address-index-performance-tests) |  | 2026-10-23 |
+| [`address-index-ui.replaced.2026-08-20`](https://github.com/uk-gov-mirror/ONSdigital.address-index-ui.replaced.2026-08-20) | User interface website for the Address Index API | 2026-10-23 |
+| [`ai-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.ai-acceptance-tests) | Address Index Acceptance tests | 2026-10-23 |
+| [`aims-address-parser`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser) |  | 2026-10-23 |
+| [`aims-bulk-scheduler`](https://github.com/uk-gov-mirror/ONSdigital.aims-bulk-scheduler) |  | 2026-10-23 |
+| [`aims-bulk-service`](https://github.com/uk-gov-mirror/ONSdigital.aims-bulk-service) | Spring Boot Microservice for AIMS bulk match solution | 2026-10-23 |
+| [`aims-create-address`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address) |  | 2026-10-23 |
+| [`aims-pubsub-publisher`](https://github.com/uk-gov-mirror/ONSdigital.aims-pubsub-publisher) |  | 2026-10-23 |
+| [`aws-ingest-management-process-poc`](https://github.com/uk-gov-mirror/ONSdigital.aws-ingest-management-process-poc) |  | 2026-10-23 |
+| [`aws-manifest-creator`](https://github.com/uk-gov-mirror/ONSdigital.aws-manifest-creator) |  | 2026-10-23 |
+| [`aws-manifest-creator-terraform`](https://github.com/uk-gov-mirror/ONSdigital.aws-manifest-creator-terraform) |  | 2026-10-23 |
+| [`aws-uploader`](https://github.com/uk-gov-mirror/ONSdigital.aws-uploader) |  | 2026-10-23 |
+| [`aws-uploader-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.aws-uploader-performance-tests) |  | 2026-10-23 |
+| [`blaise-api-node-client`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-node-client) |  | 2026-10-23 |
+| [`blaise-api-rest`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest) |  | 2026-10-23 |
+| [`blaise-azure-pipelines`](https://github.com/uk-gov-mirror/ONSdigital.blaise-azure-pipelines) |  | 2026-10-23 |
+| [`blaise-cma-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-cma-functions) |  | 2026-10-23 |
+| [`blaise-dashboard`](https://github.com/uk-gov-mirror/ONSdigital.blaise-dashboard) |  | 2026-10-23 |
+| [`blaise-data-delivery`](https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery) |  | 2026-10-23 |
+| [`blaise-data-delivery-alerts`](https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-alerts) | Slack alerts for data delivery issues | 2026-10-23 |
+| [`blaise-data-delivery-management`](https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-management) |  | 2026-10-23 |
+| [`blaise-data-delivery-status`](https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-status) |  | 2026-10-23 |
+| [`blaise-data-delivery-status-client`](https://github.com/uk-gov-mirror/ONSdigital.blaise-data-delivery-status-client) | A python client for the blaise-data-delivery-status API | 2026-10-23 |
+| [`blaise-deploy-questionnaire-service`](https://github.com/uk-gov-mirror/ONSdigital.blaise-deploy-questionnaire-service) |  | 2026-10-23 |
+| [`blaise-design-system-react-components`](https://github.com/uk-gov-mirror/ONSdigital.blaise-design-system-react-components) | React component implementations of the ONS Design system components. | 2026-10-23 |
+| [`blaise-editing-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-editing-functions) | Cloud functions for the Blaise editing service | 2026-10-23 |
+| [`blaise-editing-service`](https://github.com/uk-gov-mirror/ONSdigital.blaise-editing-service) |  | 2026-10-23 |
+| [`blaise-export-reporting-tool`](https://github.com/uk-gov-mirror/ONSdigital.blaise-export-reporting-tool) |  | 2026-10-23 |
+| [`blaise-file-upload-alien`](https://github.com/uk-gov-mirror/ONSdigital.blaise-file-upload-alien) |  | 2026-10-23 |
+| [`blaise-iap-node-provider`](https://github.com/uk-gov-mirror/ONSdigital.blaise-iap-node-provider) | Provides a generic IAP provider for NodeJS. | 2026-10-23 |
+| [`blaise-ingest`](https://github.com/uk-gov-mirror/ONSdigital.blaise-ingest) |  | 2026-10-23 |
+| [`blaise-instrument-metadata-service`](https://github.com/uk-gov-mirror/ONSdigital.blaise-instrument-metadata-service) |  | 2026-10-23 |
+| [`blaise-integration-tests`](https://github.com/uk-gov-mirror/ONSdigital.blaise-integration-tests) |  | 2026-10-23 |
+| [`blaise-interviewer-training-service`](https://github.com/uk-gov-mirror/ONSdigital.blaise-interviewer-training-service) |  | 2026-10-23 |
+| [`blaise-log-investigation-tools`](https://github.com/uk-gov-mirror/ONSdigital.blaise-log-investigation-tools) | A little Jupyter Notebook set up to quickly get started when extracting information out of logs | 2026-10-23 |
+| [`blaise-login-react`](https://github.com/uk-gov-mirror/ONSdigital.blaise-login-react) |  | 2026-10-23 |
+| [`blaise-nifi-encrypt`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nifi-encrypt) |  | 2026-10-23 |
+| [`blaise-nifi-receipt`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nifi-receipt) | A Cloud function service for processing receipts from NiFi | 2026-10-23 |
+| [`blaise-nisra-case-mover`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nisra-case-mover) | Service to copy survey instruments from the NISRA SFTP server to a GCP storage bucket. | 2026-10-23 |
+| [`blaise-nuget-api`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nuget-api) |  | 2026-10-23 |
+| [`blaise-publish-bucket-metadata`](https://github.com/uk-gov-mirror/ONSdigital.blaise-publish-bucket-metadata) | Publish file metadata to Sub/Sub topic when uploaded to bucket. | 2026-10-23 |
+| [`blaise-questionnaire-point-in-time-restore`](https://github.com/uk-gov-mirror/ONSdigital.blaise-questionnaire-point-in-time-restore) | Cloud Function to perform questionnaire data point-in-time restore | 2026-10-23 |
+| [`blaise-slack-alerter`](https://github.com/uk-gov-mirror/ONSdigital.blaise-slack-alerter) | Send logging messages from GCP to Slack | 2026-10-23 |
+| [`blaise-totalmobile-services`](https://github.com/uk-gov-mirror/ONSdigital.blaise-totalmobile-services) | Services for interacting with Totalmobile's APIs. | 2026-10-23 |
+| [`blaise-uac-service`](https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service) |  | 2026-10-23 |
+| [`blaise-uac-service-node-client`](https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service-node-client) | Provides a node client to communicate securely to the Blaise UAC Service | 2026-10-23 |
+| [`blaise-uac-service-ui`](https://github.com/uk-gov-mirror/ONSdigital.blaise-uac-service-ui) |  | 2026-10-23 |
+| [`blaise-user-backup-pipeline`](https://github.com/uk-gov-mirror/ONSdigital.blaise-user-backup-pipeline) | Azure Pipeline to backup Blaise users from local SQLite DB | 2026-10-23 |
+| [`blaise-user-management`](https://github.com/uk-gov-mirror/ONSdigital.blaise-user-management) | Dashboard for managing Blaise users. | 2026-10-23 |
+| [`bpm-mail-lambda`](https://github.com/uk-gov-mirror/ONSdigital.bpm-mail-lambda) | Email to BPM gateway for AWS lambda | 2026-10-23 |
+| [`bpm-store-attachment`](https://github.com/uk-gov-mirror/ONSdigital.bpm-store-attachment) | Stores files in S3 bucket and generates cryptographic URL | 2026-10-23 |
+| [`census-rm-action-processor`](https://github.com/uk-gov-mirror/ONSdigital.census-rm-action-processor) |  | 2026-10-23 |
+| [`census31-eq-questionnaire-runner-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-benchmark) | A benchmarking tool for Census EQ Questionnaire Runner | 2026-10-23 |
+| [`census31-eq-questionnaire-runner-interface-definitions`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-interface-definitions) | Definitions and specifications for the 2031 Census EQ interfaces | 2026-10-23 |
+| [`census31-eq-questionnaire-validator`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-validator) | An API for validating survey schemas | 2026-10-23 |
+| [`census31-eq-translations`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-translations) | Scripts for translating eq-questionnaire-runner surveys | 2026-10-23 |
+| [`census31-fwmt-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-acceptance-tests) | Census 2031 FWMT: census31-fwmt-acceptance-tests (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-common`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-common) | Census 2031 FWMT: census31-fwmt-common (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-csv-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-csv-service) | Census 2031 FWMT: census31-fwmt-csv-service (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-fulfillment-event-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-fulfillment-event-service) | Census 2031 FWMT: census31-fwmt-fulfillment-event-service (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-gateway-version-tracker`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker) | Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-job-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-job-service) | Census 2031 FWMT: census31-fwmt-job-service (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-outcome-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-outcome-service) | Census 2031 FWMT: census31-fwmt-outcome-service (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-perf-msg-builder`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-perf-msg-builder) | Census 2031 FWMT: census31-fwmt-perf-msg-builder (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-performance-tests) | Census 2031 FWMT: census31-fwmt-performance-tests (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-fwmt-tm-mock`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-tm-mock) | Census 2031 FWMT: census31-fwmt-tm-mock (seeded from 2021, FMT-4) | 2026-10-23 |
+| [`census31-rm-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-acceptance-tests) | RM Census acceptance tests | 2026-10-23 |
+| [`census31-rm-case-api`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-case-api) |  | 2026-10-23 |
+| [`census31-rm-case-processor`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-case-processor) |  | 2026-10-23 |
+| [`census31-rm-dockerfiles`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-dockerfiles) |  | 2026-10-23 |
+| [`census31-rm-exception-manager`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-exception-manager) |  | 2026-10-23 |
+| [`census31-rm-fieldwork-adapter`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-fieldwork-adapter) | An message adapter service for the Census RM services to communicate with the FWMTG | 2026-10-23 |
+| [`census31-rm-job-processor`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-job-processor) |  | 2026-10-23 |
+| [`census31-rm-notify-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-notify-service) |  | 2026-10-23 |
+| [`census31-rm-shared-sample-validation`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-shared-sample-validation) |  | 2026-10-23 |
+| [`census31-rm-support-tool`](https://github.com/uk-gov-mirror/ONSdigital.census31-rm-support-tool) |  | 2026-10-23 |
+| [`census31-static-assets`](https://github.com/uk-gov-mirror/ONSdigital.census31-static-assets) |  | 2026-10-23 |
+| [`cloud-status-alerter`](https://github.com/uk-gov-mirror/ONSdigital.cloud-status-alerter) | Posts Slack alerts from status feeds. | 2026-10-23 |
+| [`confluence-enhancer`](https://github.com/uk-gov-mirror/ONSdigital.confluence-enhancer) | Enhance the documenting capabilities of Confluence | 2026-10-23 |
+| [`crftagger`](https://github.com/uk-gov-mirror/ONSdigital.crftagger) | CRFSuite Tagger | 2026-10-23 |
+| [`crimetables`](https://github.com/uk-gov-mirror/ONSdigital.crimetables) | The package for general CSEW analysis | 2026-10-23 |
+| [`crvs_pkg_demo`](https://github.com/uk-gov-mirror/ONSdigital.crvs_pkg_demo) | This is a demo R pipeline for to use the `crvs.pkg` functionality to process and analyse data into publication ready tables. | 2026-10-23 |
+| [`dap-sit-alerter-poc`](https://github.com/uk-gov-mirror/ONSdigital.dap-sit-alerter-poc) | POC middleware to forward GitHub Dependabot alerts | 2026-10-23 |
+| [`dap-sit-inventory-prototype`](https://github.com/uk-gov-mirror/ONSdigital.dap-sit-inventory-prototype) |  | 2026-10-23 |
+| [`data_engineer_learning_pathway`](https://github.com/uk-gov-mirror/ONSdigital.data_engineer_learning_pathway) | ONS Data Engineering Learning Pathway | 2026-10-23 |
+| [`design-system-python-flask-demo`](https://github.com/uk-gov-mirror/ONSdigital.design-system-python-flask-demo) | This project is demo of design system implemenented in Python and Flask. | 2026-10-23 |
+| [`design-system-react`](https://github.com/uk-gov-mirror/ONSdigital.design-system-react) | React implementation of the ONS Design System (work in progress). | 2026-10-23 |
+| [`dp-frontend-cookie-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-cookie-controller) | Digital Publishing controller for managing cookies. | 2026-10-23 |
+| [`dpmaccpf`](https://github.com/uk-gov-mirror/ONSdigital.dpmaccpf) |  | 2026-10-23 |
+| [`dpmall`](https://github.com/uk-gov-mirror/ONSdigital.dpmall) | Install and run all steps of the dynamic population model (DPM). Step 1- initial unbalanced demographic account. Step 2 - cohort-level estimation of consistent demographic accounts. Step 3 - splitting of combined migration flows to full origin destination matrix. | 2026-10-23 |
+| [`dpmpf`](https://github.com/uk-gov-mirror/ONSdigital.dpmpf) | Particle filters for estimating Bayesian demographic accounts | 2026-10-23 |
+| [`eq-author-api`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-api) | The Author API has moved to | 2026-10-23 |
+| [`eq-author-benchmarks`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-benchmarks) |  | 2026-10-23 |
+| [`eq-author-data-export`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-data-export) | An utility for exporting author questionnaire data. | 2026-10-23 |
+| [`eq-author-deprecated`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-deprecated) | Web application to author a survey | 2026-10-23 |
+| [`eq-author-graphql-schema`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-graphql-schema) | The GraphQL schema has moved to | 2026-10-23 |
+| [`eq-author-terraform-documentdb`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-documentdb) |  | 2026-10-23 |
+| [`eq-author-terraform-dynamodb`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-dynamodb) | DynamoDB terraform configuration for EQ Author | 2026-10-23 |
+| [`eq-author-terraform-gcp`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-terraform-gcp) | The repo is the terraform to setup author in GCP. | 2026-10-23 |
+| [`eq-author-update-node`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-update-node) |  | 2026-10-23 |
+| [`eq-author-validator`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-validator) | A library for performing validation within Author | 2026-10-23 |
+| [`eq-cir-fastapi`](https://github.com/uk-gov-mirror/ONSdigital.eq-cir-fastapi) | This project is Collection Instrument Registry. It will manage the storage and versioning of Electronic Questionnaires used but the EQ services. | 2026-10-23 |
+| [`eq-deploy-author-launcher`](https://github.com/uk-gov-mirror/ONSdigital.eq-deploy-author-launcher) | A repository used to deploy an instance of `eq-questionnaire-launcher` to GCP | 2026-10-23 |
+| [`eq-deploy-author-runner`](https://github.com/uk-gov-mirror/ONSdigital.eq-deploy-author-runner) | A repository used to deploy an instance of `eq-questionnaire-runner` to GCP | 2026-10-23 |
+| [`eq-extract-questions`](https://github.com/uk-gov-mirror/ONSdigital.eq-extract-questions) | Get a list of questions and descriptions from json file | 2026-10-23 |
+| [`eq-publisher-v3`](https://github.com/uk-gov-mirror/ONSdigital.eq-publisher-v3) | A new version of `eq-publisher` for translating questionnaires built in Author into Runner V3 format | 2026-10-23 |
+| [`es-aggregation-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-aggregation-sg) | Sand and Gravel Aggregation Module. | 2026-10-23 |
+| [`es-algo-common`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-common) | Common library for economic statistics algorithms (statistical methods) | 2026-10-23 |
+| [`es-algo-helloworld-java`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-helloworld-java) | Helloworld Algorithmia algorithm in Java | 2026-10-23 |
+| [`es-algo-helloworld-scala`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-helloworld-scala) | Helloworld Algorithmia algorithm in Scala | 2026-10-23 |
+| [`es-algo-jenkins-lib`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-jenkins-lib) | Shared library for Algorithmia Jenkins pipelines | 2026-10-23 |
+| [`es-algo-test-common`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-test-common) | Common library for testing economic statistics algorithms (statistical methods) | 2026-10-23 |
+| [`es-algo-topx`](https://github.com/uk-gov-mirror/ONSdigital.es-algo-topx) | Calculates Top 'x' number of entries for a tabular dataset based on supplied ordering and grouping parameters | 2026-10-23 |
+| [`es-concourse-deploy`](https://github.com/uk-gov-mirror/ONSdigital.es-concourse-deploy) |  | 2026-10-23 |
+| [`es-demo-java`](https://github.com/uk-gov-mirror/ONSdigital.es-demo-java) |  | 2026-10-23 |
+| [`es-demo-python`](https://github.com/uk-gov-mirror/ONSdigital.es-demo-python) |  | 2026-10-23 |
+| [`es-demo-scala`](https://github.com/uk-gov-mirror/ONSdigital.es-demo-scala) |  | 2026-10-23 |
+| [`es-devops-scripts`](https://github.com/uk-gov-mirror/ONSdigital.es-devops-scripts) | Generic DevOps scripts for Economic Statistics | 2026-10-23 |
+| [`es-disclosure-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-disclosure-sg) |  | 2026-10-23 |
+| [`es-enrichment-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-enrichment-sg) |  | 2026-10-23 |
+| [`es-geography-data`](https://github.com/uk-gov-mirror/ONSdigital.es-geography-data) | Static data for geographical counties and regions | 2026-10-23 |
+| [`es-helloworld`](https://github.com/uk-gov-mirror/ONSdigital.es-helloworld) | Proof of concept of the CI pipeline for Algorithmia | 2026-10-23 |
+| [`es-imputation-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-imputation-sg) | Sand & Gravel Imputation - Python Lambdas. | 2026-10-23 |
+| [`es-java-poc`](https://github.com/uk-gov-mirror/ONSdigital.es-java-poc) |  | 2026-10-23 |
+| [`es-java-poc2`](https://github.com/uk-gov-mirror/ONSdigital.es-java-poc2) |  | 2026-10-23 |
+| [`es-method-disclosure`](https://github.com/uk-gov-mirror/ONSdigital.es-method-disclosure) | Disclosure Method | 2026-10-23 |
+| [`es-method-enrichment`](https://github.com/uk-gov-mirror/ONSdigital.es-method-enrichment) | Economic Statistics - Algorithmia POC enrichment Algorithm | 2026-10-23 |
+| [`es-method-imputation`](https://github.com/uk-gov-mirror/ONSdigital.es-method-imputation) | Economic Stats - Algorithmia POC imputation algorithm | 2026-10-23 |
+| [`es-nigels-java`](https://github.com/uk-gov-mirror/ONSdigital.es-nigels-java) |  | 2026-10-23 |
+| [`es-python-poc`](https://github.com/uk-gov-mirror/ONSdigital.es-python-poc) |  | 2026-10-23 |
+| [`es-scala-poc`](https://github.com/uk-gov-mirror/ONSdigital.es-scala-poc) |  | 2026-10-23 |
+| [`es-sonar`](https://github.com/uk-gov-mirror/ONSdigital.es-sonar) |  | 2026-10-23 |
+| [`es-strata-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-strata-sg) |  | 2026-10-23 |
+| [`es-vet-value-change`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-change) | Validation Value Change VET | 2026-10-23 |
+| [`es-vet-value-comparison`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-comparison) | Validation Value Comparison | 2026-10-23 |
+| [`es-vet-value-present`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-present) | Validation Value Present VET | 2026-10-23 |
+| [`es-vet-zero-continuity`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-zero-continuity) | Validation Zero Continuity VET | 2026-10-23 |
+| [`es_contributor_management_db`](https://github.com/uk-gov-mirror/ONSdigital.es_contributor_management_db) | Contributor Management database for the IBM clerical resolution alpha. | 2026-10-23 |
+| [`eslint-config-eq-author`](https://github.com/uk-gov-mirror/ONSdigital.eslint-config-eq-author) | eslint rules for eq-author  | 2026-10-23 |
+| [`espresso-public`](https://github.com/uk-gov-mirror/ONSdigital.espresso-public) | Public repository for the ESPRESSO Python pipeline | 2026-10-23 |
+| [`fwmt-staff-service`](https://github.com/uk-gov-mirror/ONSdigital.fwmt-staff-service) | Service to create staff and delete staff. | 2026-10-23 |
+| [`gcp-projects-dashboard`](https://github.com/uk-gov-mirror/ONSdigital.gcp-projects-dashboard) | A dashboard that displays useful information from multiple GCP projects. | 2026-10-23 |
+| [`gdhi_adj`](https://github.com/uk-gov-mirror/ONSdigital.gdhi_adj) |  | 2026-10-23 |
+| [`geks-perturb-window`](https://github.com/uk-gov-mirror/ONSdigital.geks-perturb-window) | A repository for the code supporting the paper "Are Multilateral Methods the Holy Grail of Price Measurement? A Critical Examination of Their Promises and Practical Performance in Dynamic Datasets", covering the perturbation test used in the paper. | 2026-10-23 |
+| [`github-explorer`](https://github.com/uk-gov-mirror/ONSdigital.github-explorer) | A web application that provides insights into GitHub organisations to make managing them easier. | 2026-10-23 |
+| [`int.train.pckg`](https://github.com/uk-gov-mirror/ONSdigital.int.train.pckg) | Package to use for assessment for international training. | 2026-10-23 |
+| [`keh-digital-landscape`](https://github.com/uk-gov-mirror/ONSdigital.keh-digital-landscape) | An internally developed Digital Landscape platform that presents the organisation’s repositories, projects, technology stack and GitHub Copilot usage. | 2026-10-23 |
+| [`mean-splice-decomposition`](https://github.com/uk-gov-mirror/ONSdigital.mean-splice-decomposition) | A repository for the code supporting the paper "Practical Decompositions of Mean-Spliced on Published Indices" | 2026-10-23 |
+| [`ons-power-platform`](https://github.com/uk-gov-mirror/ONSdigital.ons-power-platform) | Standards and guidance for using Power Platform and related services. | 2026-10-23 |
+| [`ons-template`](https://github.com/uk-gov-mirror/ONSdigital.ons-template) | Example of how to set-up a repositary | 2026-10-23 |
+| [`onsrap`](https://github.com/uk-gov-mirror/ONSdigital.onsrap) |  | 2026-10-23 |
+| [`practitioner-linkage-exercise`](https://github.com/uk-gov-mirror/ONSdigital.practitioner-linkage-exercise) | An interactive linkage notebook. This goes through an entire linkage pipeline, encouraging participants to alter match thresholds and variable weighting to maximise linkage quality. | 2026-10-23 |
+| [`prototype-kit-template`](https://github.com/uk-gov-mirror/ONSdigital.prototype-kit-template) | Template that can be used when creating a new prototype-kit project. | 2026-10-23 |
+| [`ras-collection-instrument`](https://github.com/uk-gov-mirror/ONSdigital.ras-collection-instrument) | The ONS respondent account service 'collection instrument' micro service. | 2026-10-23 |
+| [`ras-deploy`](https://github.com/uk-gov-mirror/ONSdigital.ras-deploy) | RAS CD pipeline | 2026-10-23 |
+| [`ras-maintenance-page`](https://github.com/uk-gov-mirror/ONSdigital.ras-maintenance-page) | RAS maintenance page static files | 2026-10-23 |
+| [`ras-party`](https://github.com/uk-gov-mirror/ONSdigital.ras-party) |  | 2026-10-23 |
+| [`ras-rm-auth-service`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-auth-service) |  | 2026-10-23 |
+| [`ras-rm-banner`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-banner) |  | 2026-10-23 |
+| [`ras-rm-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-benchmark) | A benchmarking tool for RASRM | 2026-10-23 |
+| [`ras-rm-csv-worker`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-csv-worker) |  | 2026-10-23 |
+| [`ras-rm-integration-test-action`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-integration-test-action) |  | 2026-10-23 |
+| [`ras-rm-mock-eq`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-mock-eq) | Mock EQ for rasrm dev testing | 2026-10-23 |
+| [`ras-rm-party`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-party) | The party service rewritten in Golang | 2026-10-23 |
+| [`ras-rm-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-performance-tests) | Performance Test Scripts | 2026-10-23 |
+| [`ras-rm-print-file`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-print-file) |  | 2026-10-23 |
+| [`ras-rm-sample`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample) |  | 2026-10-23 |
+| [`ras-rm-sample-file-uploader`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample-file-uploader) |  | 2026-10-23 |
+| [`ras-rm-spinnaker-action`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-spinnaker-action) |  | 2026-10-23 |
+| [`ras-rm-survey`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-survey) |  | 2026-10-23 |
+| [`registers-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.registers-performance-tests) | Rudimentary performance tests for sbr-api and sbr-control-api | 2026-10-23 |
+| [`rm-reporting`](https://github.com/uk-gov-mirror/ONSdigital.rm-reporting) |  | 2026-10-23 |
+| [`rm-survey-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-survey-service) | This microservice manages surveys. | 2026-10-23 |
+| [`sbr-api-sys-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-api-sys-test) | A collection of tests for the SBR APIs using ScalaTest | 2026-10-23 |
+| [`sbr-assembler-calculations`](https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-calculations) |  | 2026-10-23 |
+| [`sbr-assembler-common`](https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-common) | Common objects for enterprise-assembler and enterprise-calculations | 2026-10-23 |
+| [`sbr-data-validator`](https://github.com/uk-gov-mirror/ONSdigital.sbr-data-validator) | encapsulates data validation processes | 2026-10-23 |
+| [`sbr-hbase-connector`](https://github.com/uk-gov-mirror/ONSdigital.sbr-hbase-connector) | Connector to the the SBR HBase operational data store | 2026-10-23 |
+| [`sbr-idbr-data-load`](https://github.com/uk-gov-mirror/ONSdigital.sbr-idbr-data-load) | Loads extract files from IDBR into SBR | 2026-10-23 |
+| [`sbr-int-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-int-test) |  | 2026-10-23 |
+| [`sbr-query-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-api) | API for analytical querying of the read only SBR | 2026-10-23 |
+| [`sbr-query-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-ui) | SBR analytical user interface | 2026-10-23 |
+| [`sbr-react-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-react-ui) | Statistical Business Register User Interface | 2026-10-23 |
+| [`sbr-sampling-service`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sampling-service) | A Sampling service that creates a sample from a given Hive Table (Frame) | 2026-10-23 |
+| [`sbr-schema`](https://github.com/uk-gov-mirror/ONSdigital.sbr-schema) | Schema creation for SBR | 2026-10-23 |
+| [`sbr-search-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-search-api) | API for searching statistical units | 2026-10-23 |
+| [`sbr-sequence`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sequence) |  | 2026-10-23 |
+| [`sbr-sql-connector`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sql-connector) | SBR SQL database connector | 2026-10-23 |
+| [`sdc-cryptography`](https://github.com/uk-gov-mirror/ONSdigital.sdc-cryptography) | Common code for SDC services that use JWE  | 2026-10-23 |
+| [`sds-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.sds-acceptance-tests) |  | 2026-10-23 |
+| [`sds-cloud-functions`](https://github.com/uk-gov-mirror/ONSdigital.sds-cloud-functions) | Repository for Google Cloud Functions used with SDS | 2026-10-23 |
+| [`sds-common`](https://github.com/uk-gov-mirror/ONSdigital.sds-common) | sds-common is a Python library for common functionality used to interact with SDS | 2026-10-23 |
+| [`sds-loader`](https://github.com/uk-gov-mirror/ONSdigital.sds-loader) | A service for loading data into the Supplementary Data Service (SDS). | 2026-10-23 |
+| [`sds-locustio`](https://github.com/uk-gov-mirror/ONSdigital.sds-locustio) | This repository contains the locust performance testing components for the SDS application. | 2026-10-23 |
+| [`sds-prototype-schema`](https://github.com/uk-gov-mirror/ONSdigital.sds-prototype-schema) | SDS repo for setting up triggers/workflows and test tagging for schemas | 2026-10-23 |
+| [`sdx-cleanup`](https://github.com/uk-gov-mirror/ONSdigital.sdx-cleanup) |  | 2026-10-23 |
+| [`sdx-collate`](https://github.com/uk-gov-mirror/ONSdigital.sdx-collate) |  | 2026-10-23 |
+| [`sdx-fastapi-boilerplate`](https://github.com/uk-gov-mirror/ONSdigital.sdx-fastapi-boilerplate) | A boilerplate for creating fastapi services | 2026-10-23 |
+| [`sdx-image`](https://github.com/uk-gov-mirror/ONSdigital.sdx-image) |  | 2026-10-23 |
+| [`sdx-seft`](https://github.com/uk-gov-mirror/ONSdigital.sdx-seft) |  | 2026-10-23 |
+| [`sdx-survey`](https://github.com/uk-gov-mirror/ONSdigital.sdx-survey) |  | 2026-10-23 |
+| [`sdx-tester`](https://github.com/uk-gov-mirror/ONSdigital.sdx-tester) |  | 2026-10-23 |
+| [`sdx-transformer`](https://github.com/uk-gov-mirror/ONSdigital.sdx-transformer) |  | 2026-10-23 |
+| [`sml-aws-glue-test-harness`](https://github.com/uk-gov-mirror/ONSdigital.sml-aws-glue-test-harness) |  | 2026-10-23 |
+| [`spp-cognito-auth`](https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-auth) |  | 2026-10-23 |
+| [`spp-cognito-poc`](https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-poc) |  | 2026-10-23 |
+| [`spp-contract-testing`](https://github.com/uk-gov-mirror/ONSdigital.spp-contract-testing) | A library to make testing contracts between components of SPP seamless | 2026-10-23 |
+| [`spp-crosscutting-intercom`](https://github.com/uk-gov-mirror/ONSdigital.spp-crosscutting-intercom) |  | 2026-10-23 |
+| [`srm-autoprocessor`](https://github.com/uk-gov-mirror/ONSdigital.srm-autoprocessor) | Microservice to automatically process sample jobs  | 2026-10-23 |
+| [`srm-rh-ui`](https://github.com/uk-gov-mirror/ONSdigital.srm-rh-ui) | User Interface for respondents to access ONS Survey Data Collection questionnaires and services | 2026-10-23 |
+| [`ssdc-rh-service`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rh-service) |  | 2026-10-23 |
+| [`ssdc-rm-caseprocessor`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-caseprocessor) |  | 2026-10-23 |
+| [`ssdc-rm-ddl`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-ddl) |  | 2026-10-23 |
+| [`ssdc-rm-docker-dev`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-docker-dev) |  | 2026-10-23 |
+| [`ssdc-rm-dockerfiles`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-dockerfiles) |  | 2026-10-23 |
+| [`ssdc-rm-exception-manager`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-exception-manager) |  | 2026-10-23 |
+| [`ssdc-rm-job-processor`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-job-processor) |  | 2026-10-23 |
+| [`ssdc-rm-notify-service`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-notify-service) |  | 2026-10-23 |
+| [`ssdc-rm-support-tool`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-support-tool) |  | 2026-10-23 |
+| [`ssdc-shared-sample-validation`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-shared-sample-validation) | Shared/common classes which are used to validate sample data for Survey Collection & Ingestion | 2026-10-23 |
+| [`static-website-generator`](https://github.com/uk-gov-mirror/ONSdigital.static-website-generator) | A general purpose static website generator that can render static content and optionally content pulled from a Craft CMS instance. | 2026-10-23 |
+| [`survey-assist-ui`](https://github.com/uk-gov-mirror/ONSdigital.survey-assist-ui) | User interface for accessing Survey Assist backend | 2026-10-23 |
+| [`takeon-API-validation-response`](https://github.com/uk-gov-mirror/ONSdigital.takeon-API-validation-response) |  | 2026-10-23 |
+| [`takeon-authorization-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-authorization-lambda) | Authorization Lambda | 2026-10-23 |
+| [`takeon-data-prep-lambda-main`](https://github.com/uk-gov-mirror/ONSdigital.takeon-data-prep-lambda-main) |  | 2026-10-23 |
+| [`takeon-data-prep-py-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-data-prep-py-lambda) |  | 2026-10-23 |
+| [`takeon-databases`](https://github.com/uk-gov-mirror/ONSdigital.takeon-databases) |  | 2026-10-23 |
+| [`takeon-db-export-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-db-export-lambda) |  | 2026-10-23 |
+| [`takeon-dev-vpc`](https://github.com/uk-gov-mirror/ONSdigital.takeon-dev-vpc) | Terraform to create a new dev environment in aws | 2026-10-23 |
+| [`takeon-dummy-data`](https://github.com/uk-gov-mirror/ONSdigital.takeon-dummy-data) | Python scripts for the creation of "meaningful" dummy data | 2026-10-23 |
+| [`takeon-helm-charts`](https://github.com/uk-gov-mirror/ONSdigital.takeon-helm-charts) | Helm Charts for Kubernetes Deployment | 2026-10-23 |
+| [`takeon-results-to-DB`](https://github.com/uk-gov-mirror/ONSdigital.takeon-results-to-DB) |  | 2026-10-23 |
+| [`takeon-serverlessUI-helloworld`](https://github.com/uk-gov-mirror/ONSdigital.takeon-serverlessUI-helloworld) |  | 2026-10-23 |
+| [`takeon-template-repository`](https://github.com/uk-gov-mirror/ONSdigital.takeon-template-repository) | A Template repository having various Integration and Services | 2026-10-23 |
+| [`takeon-testing-sessions`](https://github.com/uk-gov-mirror/ONSdigital.takeon-testing-sessions) | The takeon team exploration of TDD/BDD/Design | 2026-10-23 |
+| [`takeon-validation-archive`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-archive) | Core validation service/API | 2026-10-23 |
+| [`takeon-validation-persistence-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-persistence-layer) |  | 2026-10-23 |
+| [`takeon-vanilla-springboot-with-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-vanilla-springboot-with-lambda) | POC service showing a vanilla Spring Boot app deployed as a lambda | 2026-10-23 |
+| [`takeon-vp-lambda-python`](https://github.com/uk-gov-mirror/ONSdigital.takeon-vp-lambda-python) |  | 2026-10-23 |
+| [`takeon-wrangler-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-wrangler-lambda) |  | 2026-10-23 |
+| [`takeon-zero-continuity-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-zero-continuity-lambda) | Validation method that checks for larger than expected period on period question value movements, to and from zero | 2026-10-23 |
+| [`tidysheet`](https://github.com/uk-gov-mirror/ONSdigital.tidysheet) | tidysheet takes messy Excel data and converts it to tidy data with a single  value per row. | 2026-10-23 |
+| [`tlfs_legacy_toolkit`](https://github.com/uk-gov-mirror/ONSdigital.tlfs_legacy_toolkit) |  | 2026-10-23 |
+| [`towns-and-cities-tool-netlify`](https://github.com/uk-gov-mirror/ONSdigital.towns-and-cities-tool-netlify) | Netlify deployment of the towns and cities selector tool | 2026-10-23 |
+| [`wbi-fleet-upgrade`](https://github.com/uk-gov-mirror/ONSdigital.wbi-fleet-upgrade) |  | 2026-10-23 |
+| [`working-linkage-exercise`](https://github.com/uk-gov-mirror/ONSdigital.working-linkage-exercise) | A working-level exercise in data linkage, demonstrating how to clean and link data in Python | 2026-10-23 |
+| [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
+| [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |
+| [`census31-fwmt-parent`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent) | Census 2031 FWMT: shared Maven parent BOM | 2026-09-18 |
+| [`census31-fwmt-storage-utils`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils) | Census 2031 FWMT: census31-fwmt-storage-utils (seeded from 2021, FMT-4) | 2026-09-18 |
+| [`aims-address-parser.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03) |  | 2026-09-03 |
+| [`aims-create-address.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03) |  | 2026-09-03 |
+| [`blaise-api-rest.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03) |  | 2026-09-03 |
+| [`python_rap_demo.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo.replaced.2026-09-03) | Learn RAP principles through practical Python exercises. This repo showcases best practices for Reproducible Analytical Pipelines, with descriptions of components and exercises to help users build confidence in applying RAP techniques. | 2026-09-03 |
+| [`sdg_data_updates.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03) | Code for updating SDG data files | 2026-09-03 |
+| [`address-index-developers`](https://github.com/uk-gov-mirror/ONSdigital.address-index-developers) | Developers site for Address Index API | 2026-08-21 |
+| [`response-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.response-management-ui) | Response Operations user interface for Response Management. | 2025-04-13* |
+| [`blaise-app-engine-default`](https://github.com/uk-gov-mirror/ONSdigital.blaise-app-engine-default) | Blank Express App to set as the default App Engine Application | 2025-02-14* |
+| [`alpha-eq-terraform`](https://github.com/uk-gov-mirror/ONSdigital.alpha-eq-terraform) | Terraform project that creates the infrastructure for the EQ project alpha. | 2024-06-13* |
+| [`eq-author`](https://github.com/uk-gov-mirror/ONSdigital.eq-author) | Author has moved to | 2024-06-13* |
+| [`takeon-business-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-business-layer) |  | 2021-07-09* |
+| [`takeon-ui`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ui) |  | 2021-07-07* |
+| [`es-functions`](https://github.com/uk-gov-mirror/ONSdigital.es-functions) | Common functions used by the econstats results process | 2021-04-20* |
+| [`spp-rsi-glue-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-glue-scripts) |  | 2021-04-20* |
+| [`idp-accounts-config`](https://github.com/uk-gov-mirror/ONSdigital.idp-accounts-config) | Configuration and provisioning of AWS accounts | 2021-04-15* |
+| [`terraform-aws-account`](https://github.com/uk-gov-mirror/ONSdigital.terraform-aws-account) | Provision AWS accounts within an organisation  | 2021-04-15* |
+| [`takeon-egestion`](https://github.com/uk-gov-mirror/ONSdigital.takeon-egestion) | A pipeline that runs all of the egestion code for the takeon team | 2021-04-13* |
+| [`spp-engine`](https://github.com/uk-gov-mirror/ONSdigital.spp-engine) | Statistical Processing Pipeline engine | 2021-04-12* |
+| [`spp-rsi-lambda-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-lambda-scripts) |  | 2021-03-22* |
+| [`es-GenData`](https://github.com/uk-gov-mirror/ONSdigital.es-GenData) |  | 2021-03-21* |
+| [`es-bmi-step-functions`](https://github.com/uk-gov-mirror/ONSdigital.es-bmi-step-functions) |  | 2021-03-21* |
+| [`es-config-loader`](https://github.com/uk-gov-mirror/ONSdigital.es-config-loader) |  | 2021-03-21* |
+| [`es-error-capture`](https://github.com/uk-gov-mirror/ONSdigital.es-error-capture) |  | 2021-03-21* |
+| [`es-ingest-takeon-data`](https://github.com/uk-gov-mirror/ONSdigital.es-ingest-takeon-data) |  | 2021-03-21* |
+| [`es-success-handler`](https://github.com/uk-gov-mirror/ONSdigital.es-success-handler) |  | 2021-03-21* |
+| [`es-system-of-record`](https://github.com/uk-gov-mirror/ONSdigital.es-system-of-record) | Code to Create,Insert,Update,Select Data in the System Of Record | 2021-03-21* |
+| [`blaise-nisra-case-processor`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nisra-case-processor) | Windows service to process the NISRA Blaise cases. | 2021-03-18* |
+| [`blaise-user-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-user-backup) | POC - NodeJS Cloud Functions. Connect to Blaise Rest API to and write data to JSON file in GCP Bucket | 2021-03-03* |
+| [`blaise-serverpark-terraform-module`](https://github.com/uk-gov-mirror/ONSdigital.blaise-serverpark-terraform-module) | Blaise serverpark terraform module | 2021-02-11* |
+| [`dp-publishing-router`](https://github.com/uk-gov-mirror/ONSdigital.dp-publishing-router) | Routes Florence requests to the appropriate apps | 2021-01-18* |
+| [`takeon-csv-to-pck`](https://github.com/uk-gov-mirror/ONSdigital.takeon-csv-to-pck) |  | 2021-01-18* |
+| [`blaise-case-auto-complete`](https://github.com/uk-gov-mirror/ONSdigital.blaise-case-auto-complete) | WIndows service that will auto-complete cases in Bliase | 2021-01-03* |
+| [`dp-prototype-kit`](https://github.com/uk-gov-mirror/ONSdigital.dp-prototype-kit) | For creating prototypes of the ONS website | 2020-12-23* |
+| [`dp-publish-enrich-search`](https://github.com/uk-gov-mirror/ONSdigital.dp-publish-enrich-search) |  | 2020-12-16* |
+| [`takeon-validation-save`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-save) |  | 2020-12-11* |
+| [`dp-test-generation-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-test-generation-api) | API for managing access control permissions for Digital Publishing API resources | 2020-11-25* |
+| [`pyblaise`](https://github.com/uk-gov-mirror/ONSdigital.pyblaise) | Python interface to the blaise SOAP API | 2020-11-20* |
+| [`rjstat`](https://github.com/uk-gov-mirror/ONSdigital.rjstat) | Previous version of JSON-STAT library for R that is compatible with ONS-API, copied from https://github.com/ajschumacher/rjstat | 2020-11-19* |
+| [`takeon-ingest-combine-json`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ingest-combine-json) |  | 2020-11-19* |
+| [`dp-filter-a-dataset-prototype`](https://github.com/uk-gov-mirror/ONSdigital.dp-filter-a-dataset-prototype) |  | 2020-11-13* |
+| [`takeon-kubernetes-deployment`](https://github.com/uk-gov-mirror/ONSdigital.takeon-kubernetes-deployment) | Contains all deployment yaml files and shell scripts to deploy applications and services in any namespace | 2020-11-11* |
+| [`takeon-ui-pipeline`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ui-pipeline) |  | 2020-11-10* |
+| [`census-address-prototype`](https://github.com/uk-gov-mirror/ONSdigital.census-address-prototype) |  | 2020-11-07* |
+| [`dp-second-test-for-repo-creation`](https://github.com/uk-gov-mirror/ONSdigital.dp-second-test-for-repo-creation) | This is a second test for the refactored repo creation tool and will shortly be delete | 2020-11-05* |
+| [`takeon-validation-formula-evaluator`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-formula-evaluator) | Core engine of the validation process. Evaluates each formula and returns the response. | 2020-11-04* |
+| [`dp-test-fix-repo-default-branch`](https://github.com/uk-gov-mirror/ONSdigital.dp-test-fix-repo-default-branch) | Test for a fix on the dp repo generation tool. Required since GitHub changed default branch from master to main | 2020-11-02* |
+| [`dp-florence-cmd-prototype`](https://github.com/uk-gov-mirror/ONSdigital.dp-florence-cmd-prototype) |  | 2020-10-29* |
+| [`takeon-persistence-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-persistence-layer) |  | 2020-10-28* |
+| [`blaise-instrument-checker`](https://github.com/uk-gov-mirror/ONSdigital.blaise-instrument-checker) |  | 2020-10-26* |
+| [`dp-prototypes`](https://github.com/uk-gov-mirror/ONSdigital.dp-prototypes) | All Digital Publishing prototypes | 2020-10-23* |
+| [`dp-conceptual-search`](https://github.com/uk-gov-mirror/ONSdigital.dp-conceptual-search) | ONS conceptual search api | 2020-10-14* |
+| [`blaise-case-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-case-backup) | Windows service to backup Blaise databases. | 2020-10-09* |
+| [`takeon-value-present-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-value-present-lambda) | AWS Lambda function for ValuePresent | 2020-10-08* |
+| [`charts-alpha`](https://github.com/uk-gov-mirror/ONSdigital.charts-alpha) |  | 2020-10-03* |
+| [`blaise-cloudsql-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-cloudsql-backup) | Initial | 2020-09-22* |
+| [`census-end-to-end-prototype`](https://github.com/uk-gov-mirror/ONSdigital.census-end-to-end-prototype) | End to end prototype for Census 2021 services | 2020-09-19* |
+| [`dp-build-test`](https://github.com/uk-gov-mirror/ONSdigital.dp-build-test) |  | 2020-09-18* |
+| [`website-prototype-kit`](https://github.com/uk-gov-mirror/ONSdigital.website-prototype-kit) | This has been superseded by https://github.com/ONSdigital/dp-prototyping-kit | 2020-09-17* |
+| [`dp-dd-file-uploader`](https://github.com/uk-gov-mirror/ONSdigital.dp-dd-file-uploader) | A test harness for uploading files into the data discovery project | 2020-09-16* |
+| [`find-an-answer-alpha`](https://github.com/uk-gov-mirror/ONSdigital.find-an-answer-alpha) |  | 2020-09-13* |
+| [`takeon-validation-wrangler`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-wrangler) | DM - Exploration of using GO and how to standardise validation wranglers | 2020-09-12* |
+| [`ips_aws_terraform`](https://github.com/uk-gov-mirror/ONSdigital.ips_aws_terraform) |  | 2020-09-11* |
+| [`takeon-local-kube`](https://github.com/uk-gov-mirror/ONSdigital.takeon-local-kube) | A local repo for local kubernetes | 2020-09-10* |
+| [`takeon-value-comparison-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-value-comparison-lambda) |  | 2020-09-04* |
+| [`dp-census-alpha-locust-tests`](https://github.com/uk-gov-mirror/ONSdigital.dp-census-alpha-locust-tests) |  | 2020-09-01* |
+| [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
+| [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
+
 ## [nhsdigital](https://github.com/nhsdigital) (272)
 
 | Repository | Description | Deleted On |
@@ -778,10 +1112,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (215)
+## [hmrc](https://github.com/hmrc) (217)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`transaction-risking`](https://github.com/uk-gov-mirror/hmrc.transaction-risking) |  | 2026-10-23 |
+| [`transaction-risking-performance-tests`](https://github.com/uk-gov-mirror/hmrc.transaction-risking-performance-tests) |  | 2026-10-23 |
 | [`customer-contact`](https://github.com/uk-gov-mirror/hmrc.customer-contact) |  | 2026-10-21 |
 | [`carf-registration`](https://github.com/uk-gov-mirror/hmrc.carf-registration) |  | 2026-10-15 |
 | [`customer-contact-performance-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-performance-tests) |  | 2026-10-13 |
@@ -1438,82 +1774,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`egar-parent`](https://github.com/uk-gov-mirror/UKHomeOffice.egar-parent) | Parent pom.xml file for project dependencies |  |
 | [`kube-pttg-euro-tlr-enquiry-form`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-pttg-euro-tlr-enquiry-form) | Kube project for pttg-euro-tlr-enquiry-form |  |
 
-## [ONSdigital](https://github.com/ONSdigital) (71)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`census31-fwmt-canonical`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-canonical) | Census 2031 FWMT: census31-fwmt-canonical (seeded from 2021, FMT-4) | 2026-09-18 |
-| [`census31-fwmt-events`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-events) | Census 2031 FWMT: census31-fwmt-events (seeded from 2021, FMT-4) | 2026-09-18 |
-| [`census31-fwmt-parent`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-parent) | Census 2031 FWMT: shared Maven parent BOM | 2026-09-18 |
-| [`census31-fwmt-storage-utils`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-storage-utils) | Census 2031 FWMT: census31-fwmt-storage-utils (seeded from 2021, FMT-4) | 2026-09-18 |
-| [`aims-address-parser.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-address-parser.replaced.2026-09-03) |  | 2026-09-03 |
-| [`aims-create-address.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.aims-create-address.replaced.2026-09-03) |  | 2026-09-03 |
-| [`blaise-api-rest.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.blaise-api-rest.replaced.2026-09-03) |  | 2026-09-03 |
-| [`python_rap_demo.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.python_rap_demo.replaced.2026-09-03) | Learn RAP principles through practical Python exercises. This repo showcases best practices for Reproducible Analytical Pipelines, with descriptions of components and exercises to help users build confidence in applying RAP techniques. | 2026-09-03 |
-| [`sdg_data_updates.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates.replaced.2026-09-03) | Code for updating SDG data files | 2026-09-03 |
-| [`address-index-developers`](https://github.com/uk-gov-mirror/ONSdigital.address-index-developers) | Developers site for Address Index API | 2026-08-21 |
-| [`response-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.response-management-ui) | Response Operations user interface for Response Management. | 2025-04-13* |
-| [`blaise-app-engine-default`](https://github.com/uk-gov-mirror/ONSdigital.blaise-app-engine-default) | Blank Express App to set as the default App Engine Application | 2025-02-14* |
-| [`alpha-eq-terraform`](https://github.com/uk-gov-mirror/ONSdigital.alpha-eq-terraform) | Terraform project that creates the infrastructure for the EQ project alpha. | 2024-06-13* |
-| [`eq-author`](https://github.com/uk-gov-mirror/ONSdigital.eq-author) | Author has moved to | 2024-06-13* |
-| [`takeon-business-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-business-layer) |  | 2021-07-09* |
-| [`takeon-ui`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ui) |  | 2021-07-07* |
-| [`es-functions`](https://github.com/uk-gov-mirror/ONSdigital.es-functions) | Common functions used by the econstats results process | 2021-04-20* |
-| [`spp-rsi-glue-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-glue-scripts) |  | 2021-04-20* |
-| [`idp-accounts-config`](https://github.com/uk-gov-mirror/ONSdigital.idp-accounts-config) | Configuration and provisioning of AWS accounts | 2021-04-15* |
-| [`terraform-aws-account`](https://github.com/uk-gov-mirror/ONSdigital.terraform-aws-account) | Provision AWS accounts within an organisation  | 2021-04-15* |
-| [`takeon-egestion`](https://github.com/uk-gov-mirror/ONSdigital.takeon-egestion) | A pipeline that runs all of the egestion code for the takeon team | 2021-04-13* |
-| [`spp-engine`](https://github.com/uk-gov-mirror/ONSdigital.spp-engine) | Statistical Processing Pipeline engine | 2021-04-12* |
-| [`spp-rsi-lambda-scripts`](https://github.com/uk-gov-mirror/ONSdigital.spp-rsi-lambda-scripts) |  | 2021-03-22* |
-| [`es-GenData`](https://github.com/uk-gov-mirror/ONSdigital.es-GenData) |  | 2021-03-21* |
-| [`es-bmi-step-functions`](https://github.com/uk-gov-mirror/ONSdigital.es-bmi-step-functions) |  | 2021-03-21* |
-| [`es-config-loader`](https://github.com/uk-gov-mirror/ONSdigital.es-config-loader) |  | 2021-03-21* |
-| [`es-error-capture`](https://github.com/uk-gov-mirror/ONSdigital.es-error-capture) |  | 2021-03-21* |
-| [`es-ingest-takeon-data`](https://github.com/uk-gov-mirror/ONSdigital.es-ingest-takeon-data) |  | 2021-03-21* |
-| [`es-success-handler`](https://github.com/uk-gov-mirror/ONSdigital.es-success-handler) |  | 2021-03-21* |
-| [`es-system-of-record`](https://github.com/uk-gov-mirror/ONSdigital.es-system-of-record) | Code to Create,Insert,Update,Select Data in the System Of Record | 2021-03-21* |
-| [`blaise-nisra-case-processor`](https://github.com/uk-gov-mirror/ONSdigital.blaise-nisra-case-processor) | Windows service to process the NISRA Blaise cases. | 2021-03-18* |
-| [`blaise-user-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-user-backup) | POC - NodeJS Cloud Functions. Connect to Blaise Rest API to and write data to JSON file in GCP Bucket | 2021-03-03* |
-| [`blaise-serverpark-terraform-module`](https://github.com/uk-gov-mirror/ONSdigital.blaise-serverpark-terraform-module) | Blaise serverpark terraform module | 2021-02-11* |
-| [`dp-publishing-router`](https://github.com/uk-gov-mirror/ONSdigital.dp-publishing-router) | Routes Florence requests to the appropriate apps | 2021-01-18* |
-| [`takeon-csv-to-pck`](https://github.com/uk-gov-mirror/ONSdigital.takeon-csv-to-pck) |  | 2021-01-18* |
-| [`blaise-case-auto-complete`](https://github.com/uk-gov-mirror/ONSdigital.blaise-case-auto-complete) | WIndows service that will auto-complete cases in Bliase | 2021-01-03* |
-| [`dp-prototype-kit`](https://github.com/uk-gov-mirror/ONSdigital.dp-prototype-kit) | For creating prototypes of the ONS website | 2020-12-23* |
-| [`dp-publish-enrich-search`](https://github.com/uk-gov-mirror/ONSdigital.dp-publish-enrich-search) |  | 2020-12-16* |
-| [`takeon-validation-save`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-save) |  | 2020-12-11* |
-| [`dp-test-generation-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-test-generation-api) | API for managing access control permissions for Digital Publishing API resources | 2020-11-25* |
-| [`pyblaise`](https://github.com/uk-gov-mirror/ONSdigital.pyblaise) | Python interface to the blaise SOAP API | 2020-11-20* |
-| [`rjstat`](https://github.com/uk-gov-mirror/ONSdigital.rjstat) | Previous version of JSON-STAT library for R that is compatible with ONS-API, copied from https://github.com/ajschumacher/rjstat | 2020-11-19* |
-| [`takeon-ingest-combine-json`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ingest-combine-json) |  | 2020-11-19* |
-| [`dp-filter-a-dataset-prototype`](https://github.com/uk-gov-mirror/ONSdigital.dp-filter-a-dataset-prototype) |  | 2020-11-13* |
-| [`takeon-kubernetes-deployment`](https://github.com/uk-gov-mirror/ONSdigital.takeon-kubernetes-deployment) | Contains all deployment yaml files and shell scripts to deploy applications and services in any namespace | 2020-11-11* |
-| [`takeon-ui-pipeline`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ui-pipeline) |  | 2020-11-10* |
-| [`census-address-prototype`](https://github.com/uk-gov-mirror/ONSdigital.census-address-prototype) |  | 2020-11-07* |
-| [`dp-second-test-for-repo-creation`](https://github.com/uk-gov-mirror/ONSdigital.dp-second-test-for-repo-creation) | This is a second test for the refactored repo creation tool and will shortly be delete | 2020-11-05* |
-| [`takeon-validation-formula-evaluator`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-formula-evaluator) | Core engine of the validation process. Evaluates each formula and returns the response. | 2020-11-04* |
-| [`dp-test-fix-repo-default-branch`](https://github.com/uk-gov-mirror/ONSdigital.dp-test-fix-repo-default-branch) | Test for a fix on the dp repo generation tool. Required since GitHub changed default branch from master to main | 2020-11-02* |
-| [`dp-florence-cmd-prototype`](https://github.com/uk-gov-mirror/ONSdigital.dp-florence-cmd-prototype) |  | 2020-10-29* |
-| [`takeon-persistence-layer`](https://github.com/uk-gov-mirror/ONSdigital.takeon-persistence-layer) |  | 2020-10-28* |
-| [`blaise-instrument-checker`](https://github.com/uk-gov-mirror/ONSdigital.blaise-instrument-checker) |  | 2020-10-26* |
-| [`dp-prototypes`](https://github.com/uk-gov-mirror/ONSdigital.dp-prototypes) | All Digital Publishing prototypes | 2020-10-23* |
-| [`dp-conceptual-search`](https://github.com/uk-gov-mirror/ONSdigital.dp-conceptual-search) | ONS conceptual search api | 2020-10-14* |
-| [`blaise-case-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-case-backup) | Windows service to backup Blaise databases. | 2020-10-09* |
-| [`takeon-value-present-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-value-present-lambda) | AWS Lambda function for ValuePresent | 2020-10-08* |
-| [`charts-alpha`](https://github.com/uk-gov-mirror/ONSdigital.charts-alpha) |  | 2020-10-03* |
-| [`blaise-cloudsql-backup`](https://github.com/uk-gov-mirror/ONSdigital.blaise-cloudsql-backup) | Initial | 2020-09-22* |
-| [`census-end-to-end-prototype`](https://github.com/uk-gov-mirror/ONSdigital.census-end-to-end-prototype) | End to end prototype for Census 2021 services | 2020-09-19* |
-| [`dp-build-test`](https://github.com/uk-gov-mirror/ONSdigital.dp-build-test) |  | 2020-09-18* |
-| [`website-prototype-kit`](https://github.com/uk-gov-mirror/ONSdigital.website-prototype-kit) | This has been superseded by https://github.com/ONSdigital/dp-prototyping-kit | 2020-09-17* |
-| [`dp-dd-file-uploader`](https://github.com/uk-gov-mirror/ONSdigital.dp-dd-file-uploader) | A test harness for uploading files into the data discovery project | 2020-09-16* |
-| [`find-an-answer-alpha`](https://github.com/uk-gov-mirror/ONSdigital.find-an-answer-alpha) |  | 2020-09-13* |
-| [`takeon-validation-wrangler`](https://github.com/uk-gov-mirror/ONSdigital.takeon-validation-wrangler) | DM - Exploration of using GO and how to standardise validation wranglers | 2020-09-12* |
-| [`ips_aws_terraform`](https://github.com/uk-gov-mirror/ONSdigital.ips_aws_terraform) |  | 2020-09-11* |
-| [`takeon-local-kube`](https://github.com/uk-gov-mirror/ONSdigital.takeon-local-kube) | A local repo for local kubernetes | 2020-09-10* |
-| [`takeon-value-comparison-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-value-comparison-lambda) |  | 2020-09-04* |
-| [`dp-census-alpha-locust-tests`](https://github.com/uk-gov-mirror/ONSdigital.dp-census-alpha-locust-tests) |  | 2020-09-01* |
-| [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
-| [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
-
 ## [moj-analytical-services](https://github.com/moj-analytical-services) (65)
 
 | Repository | Description | Deleted On |
@@ -1882,6 +2142,53 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`ppr-acceptance-tests`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.ppr-acceptance-tests) | *DEPRECATED* Cucumber/Gherkin-base tests for the payment-practices-reporting site |  |
 | [`scorecard-data-loader`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.scorecard-data-loader) | Utility to load scorecard data into mongo |  |
 
+## [ONS-Innovation](https://github.com/ONS-Innovation) (42)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`airflow-example`](https://github.com/uk-gov-mirror/ONS-Innovation.airflow-example) | evisos | 2026-10-23 |
+| [`backstage-perfect-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-perfect-repo) | This repository should pass every SoundCheck in Backstage. | 2026-10-23 |
+| [`backstage-system-template`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-system-template) | System template for the RAP Project. | 2026-10-23 |
+| [`backstage-trial`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-trial) | First repository to for the backstage trial | 2026-10-23 |
+| [`demo-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.demo-repo) | demo-repo | 2026-10-23 |
+| [`dependabot-check`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-check) | check Dependabot updates | 2026-10-23 |
+| [`dependabot-raiser-2`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-raiser-2) | test to raise Dependabot PRs on template repo | 2026-10-23 |
+| [`etl-template-static-test-1`](https://github.com/uk-gov-mirror/ONS-Innovation.etl-template-static-test-1) | test | 2026-10-23 |
+| [`example-pipeline-module-template`](https://github.com/uk-gov-mirror/ONS-Innovation.example-pipeline-module-template) |  | 2026-10-23 |
+| [`fahad_demo`](https://github.com/uk-gov-mirror/ONS-Innovation.fahad_demo) | test | 2026-10-23 |
+| [`github-api-package`](https://github.com/uk-gov-mirror/ONS-Innovation.github-api-package) | A Python package used to interact with the GitHub RESTful API | 2026-10-23 |
+| [`github-repository-archive-script`](https://github.com/uk-gov-mirror/ONS-Innovation.github-repository-archive-script) | A Python utility used to archive old, unused GitHub repositories from an organisation. | 2026-10-23 |
+| [`govcookietest_1`](https://github.com/uk-gov-mirror/ONS-Innovation.govcookietest_1) | testing | 2026-10-23 |
+| [`joe-coverage-test`](https://github.com/uk-gov-mirror/ONS-Innovation.joe-coverage-test) | test of code coverage check | 2026-10-23 |
+| [`jp-airflow-test`](https://github.com/uk-gov-mirror/ONS-Innovation.jp-airflow-test) | test | 2026-10-23 |
+| [`keh-address-book-lambda`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-address-book-lambda) | This is a Lambda function for the weekly retrieval of GitHub usernames and Organisation verified email addresses. | 2026-10-23 |
+| [`keh-aws-alarm-poc`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-aws-alarm-poc) | KEH AWS alarm proof-of-concept | 2026-10-23 |
+| [`keh-github-policy-audit`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-policy-audit) | A tool used to audit GitHub Organisations for compliance with ONS' GitHub Usage Policy. | 2026-10-23 |
+| [`keh-github-statistics-scraper`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-statistics-scraper) | Python script to collect data on repositories within the organisation to be used on the Digital Landscape. | 2026-10-23 |
+| [`keh-policy-methods-library`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-policy-methods-library) | A series of functions used to check adherence to the GitHub Usage Policy. | 2026-10-23 |
+| [`keh-system`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-system) | Backstage System component to assign components to system. | 2026-10-23 |
+| [`keh-tech-audit-tool`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool) | A Flask application, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
+| [`keh-tech-audit-tool-api`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool-api) | An API for the Tech Audit Tool, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
+| [`keh-template-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-template-repo) | A template repository for all new KEH repositories. | 2026-10-23 |
+| [`labour_market_indicators_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.labour_market_indicators_sbt) | labour_market_indicators_sbt | 2026-10-23 |
+| [`preprocessing_stage_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.preprocessing_stage_sbt) | Cleans and validates raw input data, handling missing values, misspellings, and joins across sources like IDBR and survey returns. | 2026-10-23 |
+| [`python-etl-github-pages-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-etl-github-pages-template) | ETL template that deploys results to MkDocs GitHub pages. | 2026-10-23 |
+| [`python-rap-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-rap-template) |  | 2026-10-23 |
+| [`rap-project-system`](https://github.com/uk-gov-mirror/ONS-Innovation.rap-project-system) | System for the RAP Project. | 2026-10-23 |
+| [`seb_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_1) | testing | 2026-10-23 |
+| [`seb_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_2) | testing | 2026-10-23 |
+| [`seb_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_3) | testing | 2026-10-23 |
+| [`seb_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_4) | testing | 2026-10-23 |
+| [`seb_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_5) | testing | 2026-10-23 |
+| [`sebtheo_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_1) | testing | 2026-10-23 |
+| [`sebtheo_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_2) | testing | 2026-10-23 |
+| [`sebtheo_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_3) | testing | 2026-10-23 |
+| [`sebtheo_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_4) | testing | 2026-10-23 |
+| [`sebtheo_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_5) | testing | 2026-10-23 |
+| [`sebtheo_test_6`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_6) | test | 2026-10-23 |
+| [`teazy-peazy-advent-of-code-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt) | A test repository to collect the team effort to solve some of the puzzels from the Advent of Code from last year (2024) using Backstage. | 2026-10-23 |
+| [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
+
 ## [Planning-Inspectorate](https://github.com/Planning-Inspectorate) (40)
 
 | Repository | Description | Deleted On |
@@ -1997,6 +2304,37 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dos-api-idt-data`](https://github.com/uk-gov-mirror/nhsd-a2si.dos-api-idt-data) |  | 2026-05-01* |
 | [`servicefinder-proto`](https://github.com/uk-gov-mirror/nhsd-a2si.servicefinder-proto) | Service Finder designs and prototype, rework to fit new NHSD frontend and prototype kits | 2026-05-01* |
 
+## [defra](https://github.com/defra) (26)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`grants-ui-dal-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-dal-stub) | Git repository for service grants-ui-dal-stub | 2026-10-23 |
+| [`water-abstraction-ava`](https://github.com/uk-gov-mirror/defra.water-abstraction-ava) | Investigate using the test framework AVA by the water-abstraction-team | 2026-10-21 |
+| [`water-abstraction-node-test`](https://github.com/uk-gov-mirror/defra.water-abstraction-node-test) | Investigate using the node test runner by the water-abstraction-team | 2026-10-21 |
+| [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
+| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
+| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
+| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
+| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
+| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
+| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
+| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
+| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
+| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
+| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
+| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
+| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
+| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
+| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
+| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
+| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
+| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
+| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
+| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
+| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
+| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
+| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
+
 ## [hmcts](https://github.com/hmcts) (26)
 
 | Repository | Description | Deleted On |
@@ -2028,35 +2366,34 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
 | [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
 
-## [defra](https://github.com/defra) (25)
+## [datasciencecampus](https://github.com/datasciencecampus) (24)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`water-abstraction-ava`](https://github.com/uk-gov-mirror/defra.water-abstraction-ava) | Investigate using the test framework AVA by the water-abstraction-team | 2026-10-21 |
-| [`water-abstraction-node-test`](https://github.com/uk-gov-mirror/defra.water-abstraction-node-test) | Investigate using the node test runner by the water-abstraction-team | 2026-10-21 |
-| [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
-| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
-| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
-| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
-| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
-| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
-| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
-| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
-| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
-| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
-| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
-| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
-| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
-| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
-| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
-| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
-| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
-| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
-| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
-| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
-| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
-| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
-| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
+| [`classifai_demo`](https://github.com/uk-gov-mirror/datasciencecampus.classifai_demo) | A minimalist demonstration repo to facilitate trying out the ClassifAI package via myBinder | 2026-10-23 |
+| [`gov-gh`](https://github.com/uk-gov-mirror/datasciencecampus.gov-gh) | Python SDK for GitHub REST and GraphQL APIs, built for government organisations. Provides tools for org administration, repository governance, issue operations, and workflow automation. | 2026-10-23 |
+| [`natural_spaces`](https://github.com/uk-gov-mirror/datasciencecampus.natural_spaces) | Measuring engagement with nature project. Work completed in collaboration with DEFRA | 2026-10-23 |
+| [`autodoc-llm`](https://github.com/uk-gov-mirror/datasciencecampus.autodoc-llm) | Proof of concept for auto-documentation of code using LLMs.  | 2026-04-01* |
+| [`consultation-analysis-nafw`](https://github.com/uk-gov-mirror/datasciencecampus.consultation-analysis-nafw) | Repo for National Assembly for Wales consultation analysis | 2025-11-25* |
+| [`ft-events`](https://github.com/uk-gov-mirror/datasciencecampus.ft-events) |  | 2025-11-10* |
+| [`consultation_nlp`](https://github.com/uk-gov-mirror/datasciencecampus.consultation_nlp) | Preliminary analysis for 2023 population transformation consultation | 2023-09-01* |
+| [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
+| [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
+| [`DSCA_ARP`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_ARP) |  | 2021-11-10* |
+| [`DSCA_DSWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_DSWR) |  | 2021-11-10* |
+| [`DSCA_NLPWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_NLPWR) |  | 2021-11-10* |
+| [`DSCA_feminist-dataviz`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_feminist-dataviz) | Takeaways from the feminist data visualisation paper and data feminism book. | 2021-11-10* |
+| [`DSCA_presentation_accessibility`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_presentation_accessibility) | temporary repo to host presentation options for accessibility checks - io slides, beamer, xaringan, ppt | 2021-11-10* |
+| [`DSCA_temp-geospatial`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_temp-geospatial) | temp repo hosting web content for accessibility check | 2021-11-10* |
+| [`UNGP`](https://github.com/uk-gov-mirror/datasciencecampus.UNGP) | UNGP | 2021-11-10* |
+| [`road-data-pipeline-documentation`](https://github.com/uk-gov-mirror/datasciencecampus.road-data-pipeline-documentation) | Documentation for the r-pipeline branch of the road-data-dump repository | 2021-11-10* |
+| [`trendyr`](https://github.com/uk-gov-mirror/datasciencecampus.trendyr) | Trend analysis package | 2021-04-15* |
+| [`rap-for-maps`](https://github.com/uk-gov-mirror/datasciencecampus.rap-for-maps) | rap for maps code for Geography in Government conference | 2020-12-28* |
+| [`DSCA_Stats4DS`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_Stats4DS) | Course on exploratory data analysis, linear models, generalised linear models and introduction to Bayesian statistics.  | 2020-12-10* |
+| [`nlp-for-health`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-for-health) | a place to share analysis and code for Natural Language Processing (NLP) techniques, using publicly available health and social care datasets. | 2020-11-21* |
+| [`nlp-club`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-club) | The Data Science Campus' journal club for Natural Language Processing (NLP) | 2020-11-12* |
+| [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
+| [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
 
 ## [ukforeignoffice](https://github.com/ukforeignoffice) (23)
 
@@ -2085,32 +2422,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`etd-document-upload`](https://github.com/uk-gov-mirror/ukforeignoffice.etd-document-upload) |  | 2020-02-20* |
 | [`ETD-prototype-upload`](https://github.com/uk-gov-mirror/ukforeignoffice.ETD-prototype-upload) |  |  |
 | [`legalisation-prototype`](https://github.com/uk-gov-mirror/ukforeignoffice.legalisation-prototype) | Legalisation prototype |  |
-
-## [datasciencecampus](https://github.com/datasciencecampus) (21)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`autodoc-llm`](https://github.com/uk-gov-mirror/datasciencecampus.autodoc-llm) | Proof of concept for auto-documentation of code using LLMs.  | 2026-04-01* |
-| [`consultation-analysis-nafw`](https://github.com/uk-gov-mirror/datasciencecampus.consultation-analysis-nafw) | Repo for National Assembly for Wales consultation analysis | 2025-11-25* |
-| [`ft-events`](https://github.com/uk-gov-mirror/datasciencecampus.ft-events) |  | 2025-11-10* |
-| [`consultation_nlp`](https://github.com/uk-gov-mirror/datasciencecampus.consultation_nlp) | Preliminary analysis for 2023 population transformation consultation | 2023-09-01* |
-| [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
-| [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
-| [`DSCA_ARP`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_ARP) |  | 2021-11-10* |
-| [`DSCA_DSWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_DSWR) |  | 2021-11-10* |
-| [`DSCA_NLPWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_NLPWR) |  | 2021-11-10* |
-| [`DSCA_feminist-dataviz`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_feminist-dataviz) | Takeaways from the feminist data visualisation paper and data feminism book. | 2021-11-10* |
-| [`DSCA_presentation_accessibility`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_presentation_accessibility) | temporary repo to host presentation options for accessibility checks - io slides, beamer, xaringan, ppt | 2021-11-10* |
-| [`DSCA_temp-geospatial`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_temp-geospatial) | temp repo hosting web content for accessibility check | 2021-11-10* |
-| [`UNGP`](https://github.com/uk-gov-mirror/datasciencecampus.UNGP) | UNGP | 2021-11-10* |
-| [`road-data-pipeline-documentation`](https://github.com/uk-gov-mirror/datasciencecampus.road-data-pipeline-documentation) | Documentation for the r-pipeline branch of the road-data-dump repository | 2021-11-10* |
-| [`trendyr`](https://github.com/uk-gov-mirror/datasciencecampus.trendyr) | Trend analysis package | 2021-04-15* |
-| [`rap-for-maps`](https://github.com/uk-gov-mirror/datasciencecampus.rap-for-maps) | rap for maps code for Geography in Government conference | 2020-12-28* |
-| [`DSCA_Stats4DS`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_Stats4DS) | Course on exploratory data analysis, linear models, generalised linear models and introduction to Bayesian statistics.  | 2020-12-10* |
-| [`nlp-for-health`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-for-health) | a place to share analysis and code for Natural Language Processing (NLP) techniques, using publicly available health and social care datasets. | 2020-11-21* |
-| [`nlp-club`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-club) | The Data Science Campus' journal club for Natural Language Processing (NLP) | 2020-11-12* |
-| [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
-| [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
 
 ## [nationalarchives](https://github.com/nationalarchives) (20)
 
@@ -2387,6 +2698,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`NHS_Business_Intelligence_Platform_Otp`](https://github.com/uk-gov-mirror/Digital-Intelligence-Unit.NHS_Business_Intelligence_Platform_Otp) |  | 2026-05-02* |
 | [`NHS_Business_Intelligence_Platform_Shiny`](https://github.com/uk-gov-mirror/Digital-Intelligence-Unit.NHS_Business_Intelligence_Platform_Shiny) |  | 2026-05-01* |
 
+## [ONS-Health-modelling-hub](https://github.com/ONS-Health-modelling-hub) (5)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`long_covid_breakthrough_infection`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_breakthrough_infection) | Analysis of the risk of Long Covid in breakthrough infections vs. unvaccinated, using data from the COVID-19 Infection Survey | 2026-10-23 |
+| [`long_covid_employment_fixed_effects`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_fixed_effects) | Analysis of the employment outcomes of Long Covid using fixed effects modelling of data from the COVID-19 Infection Survey | 2026-10-23 |
+| [`long_covid_employment_survival_modelling`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_employment_survival_modelling) | Analysis of the employment outcomes of Long Covid using survival modelling of COVID-19 Infection Survey data | 2026-10-23 |
+| [`long_covid_final_cis_trajectories`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_final_cis_trajectories) | Long Covid prevalence up to three years post-infection, using the finalised CIS dataset (to March 2023) | 2026-10-23 |
+| [`long_covid_postinfection_vaccination`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_postinfection_vaccination) | Analysis of the risk of Long Covid after post-infection vaccination, using data from the COVID-19 Infection Survey | 2026-10-23 |
+
 ## [alphagov](https://github.com/alphagov) (4)
 
 | Repository | Description | Deleted On |
@@ -2413,6 +2734,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`gphs-annual-rap`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.gphs-annual-rap) |  | 2026-09-15 |
 | [`dependence-forming-medicines`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.dependence-forming-medicines) |  | 2026-05-08* |
 | [`medicines-used-in-mental-health`](https://github.com/uk-gov-mirror/nhsbsa-data-analytics.medicines-used-in-mental-health) |  | 2026-05-08* |
+
+## [ONS-OpenData](https://github.com/ONS-OpenData) (3)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`cmd-api-pipeline`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-api-pipeline) |  | 2026-10-23 |
+| [`data-dictionary`](https://github.com/uk-gov-mirror/ONS-OpenData.data-dictionary) |  | 2026-10-23 |
+| [`dp-opendata-upload`](https://github.com/uk-gov-mirror/ONS-OpenData.dp-opendata-upload) | Holding repo for code (principally lambda functions) relating to the automated transform and upload of datasets to the CMD platform. | 2026-10-23 |
 
 ## [nhsuk-archive](https://github.com/nhsuk-archive) (3)
 
@@ -2476,6 +2805,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`Unsupervised-Clustering-Practices`](https://github.com/uk-gov-mirror/Birmingham-and-Solihull-ICS.Unsupervised-Clustering-Practices) | K-means and hierarchical clustering of GP practices based on QOF performance measures | 2026-05-02* |
+
+## [CefasRepRes](https://github.com/CefasRepRes) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`QuinCe`](https://github.com/uk-gov-mirror/CefasRepRes.QuinCe) | QuinCe is an online tool for processing and quality control of data from scientific instruments, with a primary focus on oceanic data. | 2026-10-23 |
 
 ## [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) (1)
 
@@ -2549,11 +2884,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | --- | --- | --- |
 | [`common.replaced.2026-08-20`](https://github.com/uk-gov-mirror/Network-Rail-Business-Systems.common.replaced.2026-08-20) | The IPO's common reusable components. | 2026-08-21 |
 
-## [ONS-Innovation](https://github.com/ONS-Innovation) (1)
+## [ONSBigData](https://github.com/ONSBigData) (1)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
+| [`dpm.dash`](https://github.com/uk-gov-mirror/ONSBigData.dpm.dash) | Packaged dashboard to facilitate fitting a dynamic population model (DPM) using accountTMB. Allows for running single runs or for running comparisons between data model selections. | 2026-10-23 |
 
 ## [The-Strategy-Unit](https://github.com/The-Strategy-Unit) (1)
 
@@ -2584,6 +2919,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`test-data-generator.replaced.2026-09-03`](https://github.com/uk-gov-mirror/VMDDTE.test-data-generator.replaced.2026-09-03) | Service for generating and storing random test company data | 2026-10-13 |
+
+## [best-practice-and-impact](https://github.com/best-practice-and-impact) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`ONS_minimum_RAP`](https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP) | RAP minimum standard guidance for the Office for National Statistics | 2026-10-23 |
 
 ## [britishcouncil](https://github.com/britishcouncil) (1)
 
@@ -2650,6 +2991,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`sqlMiner`](https://github.com/uk-gov-mirror/nottmhospitals.sqlMiner) | Discovers Database Relationships From Your Production SQL Code | 2026-05-02* |
+
+## [ukhsa-flusurvey](https://github.com/ukhsa-flusurvey) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`study-definition`](https://github.com/uk-gov-mirror/ukhsa-flusurvey.study-definition) | Surveys and study rules for Flusurvey | 2026-10-23 |
 
 ## [ukparliament](https://github.com/ukparliament) (1)
 
