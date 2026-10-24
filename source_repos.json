@@ -1154,6 +1154,16 @@
     "original_url": "https://github.com/ONS-Innovation/Test1.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-10-24",
+    "description": "test",
+    "full_name": "uk-gov-mirror/ONS-Innovation.ZA-backstage-trial",
+    "mirror_name": "ONS-Innovation.ZA-backstage-trial",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.ZA-backstage-trial",
+    "name": "ZA-backstage-trial",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/ZA-backstage-trial"
+  },
+  {
     "deleted_on": "2026-10-23",
     "description": "evisos",
     "full_name": "uk-gov-mirror/ONS-Innovation.airflow-example",
@@ -1564,6 +1574,16 @@
     "original_url": "https://github.com/ONS-Innovation/teazy-peazy-advent-of-code-bt"
   },
   {
+    "deleted_on": "2026-10-24",
+    "description": "test-repo-trial-bt",
+    "full_name": "uk-gov-mirror/ONS-Innovation.test-repo-trial-bt",
+    "mirror_name": "ONS-Innovation.test-repo-trial-bt",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-Innovation.test-repo-trial-bt",
+    "name": "test-repo-trial-bt",
+    "org": "ONS-Innovation",
+    "original_url": "https://github.com/ONS-Innovation/test-repo-trial-bt"
+  },
+  {
     "deleted_on": "2026-10-23",
     "description": null,
     "full_name": "uk-gov-mirror/ONS-OpenData.cmd-api-pipeline",
@@ -1612,6 +1632,16 @@
     "name": "CS_OTJ_to_CDP",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/CS_OTJ_to_CDP"
+  },
+  {
+    "deleted_on": "2026-10-24",
+    "description": "Website to showcase the work of ONS",
+    "full_name": "uk-gov-mirror/ONSdigital.ONSVisualJournalism",
+    "mirror_name": "ONSdigital.ONSVisualJournalism",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ONSVisualJournalism",
+    "name": "ONSVisualJournalism",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ONSVisualJournalism"
   },
   {
     "deleted_on": "2026-10-23",
@@ -2456,14 +2486,14 @@
     "original_url": "https://github.com/ONSdigital/census31-fwmt-fulfillment-event-service"
   },
   {
-    "deleted_on": "2026-10-23",
+    "deleted_on": "2026-10-24",
     "description": "Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4)",
-    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
-    "mirror_name": "ONSdigital.census31-fwmt-gateway-version-tracker",
-    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
-    "name": "census31-fwmt-gateway-version-tracker",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker.replaced.2026-10-23",
+    "mirror_name": "ONSdigital.census31-fwmt-gateway-version-tracker.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker.replaced.2026-10-23",
+    "name": "census31-fwmt-gateway-version-tracker.replaced.2026-10-23",
     "org": "ONSdigital",
-    "original_url": "https://github.com/ONSdigital/census31-fwmt-gateway-version-tracker"
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-gateway-version-tracker.replaced.2026-10-23"
   },
   {
     "deleted_on": "2026-10-23",
@@ -3059,6 +3089,16 @@
     "name": "eq-cir-fastapi",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/eq-cir-fastapi"
+  },
+  {
+    "deleted_on": "2026-10-24",
+    "description": "This repository is for the Python driven Management UI application for the CIR Converter service",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-cir-management-ui",
+    "mirror_name": "ONSdigital.eq-cir-management-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-cir-management-ui",
+    "name": "eq-cir-management-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-cir-management-ui"
   },
   {
     "deleted_on": "2026-10-23",
@@ -5069,14 +5109,14 @@
     "original_url": "https://github.com/Planning-Inspectorate/coding-standards.replaced.2026-09-03"
   },
   {
-    "deleted_on": "2026-08-27",
+    "deleted_on": "2026-10-24",
     "description": "Prototype project for the Crown Developments service",
-    "full_name": "uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype",
-    "mirror_name": "Planning-Inspectorate.crown-developments-prototype",
-    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype",
-    "name": "crown-developments-prototype",
+    "full_name": "uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype.replaced.2026-10-23",
+    "mirror_name": "Planning-Inspectorate.crown-developments-prototype.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype.replaced.2026-10-23",
+    "name": "crown-developments-prototype.replaced.2026-10-23",
     "org": "Planning-Inspectorate",
-    "original_url": "https://github.com/Planning-Inspectorate/crown-developments-prototype"
+    "original_url": "https://github.com/Planning-Inspectorate/crown-developments-prototype.replaced.2026-10-23"
   },
   {
     "deleted_on": "2026-09-03",
@@ -8912,14 +8952,14 @@
     "original_url": "https://github.com/alphagov/spike-crossplane-db-roles-management"
   },
   {
-    "deleted_on": "2026-10-23",
+    "deleted_on": "2026-10-24",
     "description": "RAP minimum standard guidance for the Office for National Statistics",
-    "full_name": "uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP",
-    "mirror_name": "best-practice-and-impact.ONS_minimum_RAP",
-    "mirror_url": "https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP",
-    "name": "ONS_minimum_RAP",
+    "full_name": "uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP.replaced.2026-10-23",
+    "mirror_name": "best-practice-and-impact.ONS_minimum_RAP.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP.replaced.2026-10-23",
+    "name": "ONS_minimum_RAP.replaced.2026-10-23",
     "org": "best-practice-and-impact",
-    "original_url": "https://github.com/best-practice-and-impact/ONS_minimum_RAP"
+    "original_url": "https://github.com/best-practice-and-impact/ONS_minimum_RAP.replaced.2026-10-23"
   },
   {
     "deleted_on": "2026-10-07",
@@ -9710,6 +9750,16 @@
     "name": "nlp-for-health",
     "org": "datasciencecampus",
     "original_url": "https://github.com/datasciencecampus/nlp-for-health"
+  },
+  {
+    "deleted_on": "2026-10-24",
+    "description": "Minimal repository template",
+    "full_name": "uk-gov-mirror/datasciencecampus.project-repo-template",
+    "mirror_name": "datasciencecampus.project-repo-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/datasciencecampus.project-repo-template",
+    "name": "project-repo-template",
+    "org": "datasciencecampus",
+    "original_url": "https://github.com/datasciencecampus/project-repo-template"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -11778,14 +11828,14 @@
     "original_url": "https://github.com/hmrc/carf-registration-performance-tests"
   },
   {
-    "deleted_on": "2026-09-25",
+    "deleted_on": "2026-10-24",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.carf-reporting-performance-tests",
-    "mirror_name": "hmrc.carf-reporting-performance-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests",
-    "name": "carf-reporting-performance-tests",
+    "full_name": "uk-gov-mirror/hmrc.carf-reporting-performance-tests.replaced.2026-10-23",
+    "mirror_name": "hmrc.carf-reporting-performance-tests.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests.replaced.2026-10-23",
+    "name": "carf-reporting-performance-tests.replaced.2026-10-23",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/carf-reporting-performance-tests"
+    "original_url": "https://github.com/hmrc/carf-reporting-performance-tests.replaced.2026-10-23"
   },
   {
     "deleted_on": "2026-09-03",
@@ -13358,14 +13408,14 @@
     "original_url": "https://github.com/hmrc/professional-bodies-acceptance-tests"
   },
   {
-    "deleted_on": "2026-09-25",
+    "deleted_on": "2026-10-24",
     "description": null,
-    "full_name": "uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests",
-    "mirror_name": "hmrc.rds-datacache-proxy-performance-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests",
-    "name": "rds-datacache-proxy-performance-tests",
+    "full_name": "uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests.replaced.2026-10-23",
+    "mirror_name": "hmrc.rds-datacache-proxy-performance-tests.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests.replaced.2026-10-23",
+    "name": "rds-datacache-proxy-performance-tests.replaced.2026-10-23",
     "org": "hmrc",
-    "original_url": "https://github.com/hmrc/rds-datacache-proxy-performance-tests"
+    "original_url": "https://github.com/hmrc/rds-datacache-proxy-performance-tests.replaced.2026-10-23"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -23999,14 +24049,14 @@
     "original_url": "https://github.com/nhsdigital/nhs-notify-devcontainers"
   },
   {
-    "deleted_on": "2026-10-02",
+    "deleted_on": "2026-10-24",
     "description": null,
-    "full_name": "uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding",
-    "mirror_name": "nhsdigital.nhs-notify-digital-letters-onboarding",
-    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding",
-    "name": "nhs-notify-digital-letters-onboarding",
+    "full_name": "uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding.replaced.2026-10-23",
+    "mirror_name": "nhsdigital.nhs-notify-digital-letters-onboarding.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding.replaced.2026-10-23",
+    "name": "nhs-notify-digital-letters-onboarding.replaced.2026-10-23",
     "org": "nhsdigital",
-    "original_url": "https://github.com/nhsdigital/nhs-notify-digital-letters-onboarding"
+    "original_url": "https://github.com/nhsdigital/nhs-notify-digital-letters-onboarding.replaced.2026-10-23"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -25214,14 +25264,14 @@
     "original_url": "https://github.com/nw-gmsa/Testing.replaced.2026-08-20"
   },
   {
-    "deleted_on": "2026-10-01",
+    "deleted_on": "2026-10-24",
     "description": "North West Genomics HL7/IHE Implementation Guide",
-    "full_name": "uk-gov-mirror/nw-gmsa.nw-gmsa.github.com",
-    "mirror_name": "nw-gmsa.nw-gmsa.github.com",
-    "mirror_url": "https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com",
-    "name": "nw-gmsa.github.com",
+    "full_name": "uk-gov-mirror/nw-gmsa.nw-gmsa.github.com.replaced.2026-10-23",
+    "mirror_name": "nw-gmsa.nw-gmsa.github.com.replaced.2026-10-23",
+    "mirror_url": "https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com.replaced.2026-10-23",
+    "name": "nw-gmsa.github.com.replaced.2026-10-23",
     "org": "nw-gmsa",
-    "original_url": "https://github.com/nw-gmsa/nw-gmsa.github.com"
+    "original_url": "https://github.com/nw-gmsa/nw-gmsa.github.com.replaced.2026-10-23"
   },
   {
     "deleted_on": null,

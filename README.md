@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2472**
+Total deleted repositories: **2477**
 Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,7 +10,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**404**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.2% |
-| [ONSdigital](https://github.com/ONSdigital) | [**323**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 21.4% |
+| [ONSdigital](https://github.com/ONSdigital) | [**325**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 21.6% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
@@ -21,15 +21,15 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [companieshouse](https://github.com/companieshouse) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.4% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
 | [nhsconnect](https://github.com/nhsconnect) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.2% |
+| [ONS-Innovation](https://github.com/ONS-Innovation) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 38.3% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 4.6% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [**42**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 36.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [defra](https://github.com/defra) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.3% |
 | [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
-| [datasciencecampus](https://github.com/datasciencecampus) | [**24**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 38.7% |
+| [datasciencecampus](https://github.com/datasciencecampus) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 40.3% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
@@ -507,10 +507,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`hmpps-delius-spg-testing-secure-httpclient`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-delius-spg-testing-secure-httpclient) | Client Library to facilitate message signing and mutual TLS connectivty | 2020-05-15* |
 | [`civil-enforcement-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.civil-enforcement-prototype) | Citizen facing application prototype for Civil Enforcement |  |
 
-## [ONSdigital](https://github.com/ONSdigital) (323)
+## [ONSdigital](https://github.com/ONSdigital) (325)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`ONSVisualJournalism`](https://github.com/uk-gov-mirror/ONSdigital.ONSVisualJournalism) | Website to showcase the work of ONS | 2026-10-24 |
+| [`census31-fwmt-gateway-version-tracker.replaced.2026-10-23`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker.replaced.2026-10-23) | Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4) | 2026-10-24 |
+| [`eq-cir-management-ui`](https://github.com/uk-gov-mirror/ONSdigital.eq-cir-management-ui) | This repository is for the Python driven Management UI application for the CIR Converter service | 2026-10-24 |
 | [`CS_OTJ_to_CDP`](https://github.com/uk-gov-mirror/ONSdigital.CS_OTJ_to_CDP) | A tool to automatically populate the GDD CPD log from Cambridge Sparks OTJ log.  | 2026-10-23 |
 | [`TakeOn-VP-Wrangler`](https://github.com/uk-gov-mirror/ONSdigital.TakeOn-VP-Wrangler) |  | 2026-10-23 |
 | [`Takeon-Wrangler-Go`](https://github.com/uk-gov-mirror/ONSdigital.Takeon-Wrangler-Go) |  | 2026-10-23 |
@@ -577,7 +580,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`census31-fwmt-common`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-common) | Census 2031 FWMT: census31-fwmt-common (seeded from 2021, FMT-4) | 2026-10-23 |
 | [`census31-fwmt-csv-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-csv-service) | Census 2031 FWMT: census31-fwmt-csv-service (seeded from 2021, FMT-4) | 2026-10-23 |
 | [`census31-fwmt-fulfillment-event-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-fulfillment-event-service) | Census 2031 FWMT: census31-fwmt-fulfillment-event-service (seeded from 2021, FMT-4) | 2026-10-23 |
-| [`census31-fwmt-gateway-version-tracker`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker) | Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4) | 2026-10-23 |
 | [`census31-fwmt-job-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-job-service) | Census 2031 FWMT: census31-fwmt-job-service (seeded from 2021, FMT-4) | 2026-10-23 |
 | [`census31-fwmt-outcome-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-outcome-service) | Census 2031 FWMT: census31-fwmt-outcome-service (seeded from 2021, FMT-4) | 2026-10-23 |
 | [`census31-fwmt-perf-msg-builder`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-perf-msg-builder) | Census 2031 FWMT: census31-fwmt-perf-msg-builder (seeded from 2021, FMT-4) | 2026-10-23 |
@@ -839,8 +841,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`nhs-notify-digital-letters-onboarding.replaced.2026-10-23`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding.replaced.2026-10-23) |  | 2026-10-24 |
 | [`NHSEngland-FHIR-Sandbox`](https://github.com/uk-gov-mirror/nhsdigital.NHSEngland-FHIR-Sandbox) | A Sandbox for Interoperability Standards Team FHIR R4 assets | 2026-10-20 |
-| [`nhs-notify-digital-letters-onboarding`](https://github.com/uk-gov-mirror/nhsdigital.nhs-notify-digital-letters-onboarding) |  | 2026-10-02 |
 | [`immunisation-history-api`](https://github.com/uk-gov-mirror/nhsdigital.immunisation-history-api) |  | 2026-09-26 |
 | [`nhsuk-frontend-stats`](https://github.com/uk-gov-mirror/nhsdigital.nhsuk-frontend-stats) |  | 2026-09-26 |
 | [`terraform-aws-backup`](https://github.com/uk-gov-mirror/nhsdigital.terraform-aws-backup) |  | 2026-09-26 |
@@ -1116,6 +1118,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`carf-reporting-performance-tests.replaced.2026-10-23`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests.replaced.2026-10-23) |  | 2026-10-24 |
+| [`rds-datacache-proxy-performance-tests.replaced.2026-10-23`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests.replaced.2026-10-23) |  | 2026-10-24 |
 | [`transaction-risking`](https://github.com/uk-gov-mirror/hmrc.transaction-risking) |  | 2026-10-23 |
 | [`transaction-risking-performance-tests`](https://github.com/uk-gov-mirror/hmrc.transaction-risking-performance-tests) |  | 2026-10-23 |
 | [`customer-contact`](https://github.com/uk-gov-mirror/hmrc.customer-contact) |  | 2026-10-21 |
@@ -1127,9 +1131,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`carf-management`](https://github.com/uk-gov-mirror/hmrc.carf-management) |  | 2026-10-03 |
 | [`customer-contact-api-tests`](https://github.com/uk-gov-mirror/hmrc.customer-contact-api-tests) |  | 2026-10-03 |
 | [`mobile-tax-credits-renewal`](https://github.com/uk-gov-mirror/hmrc.mobile-tax-credits-renewal) |  | 2026-09-26 |
-| [`carf-reporting-performance-tests`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests) |  | 2026-09-25 |
 | [`customs-declaration-metrics-performance-test`](https://github.com/uk-gov-mirror/hmrc.customs-declaration-metrics-performance-test) |  | 2026-09-25 |
-| [`rds-datacache-proxy-performance-tests`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests) |  | 2026-09-25 |
 | [`init-service-test-v26-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v26-frontend) |  | 2026-09-22 |
 | [`init-service-test-v27-frontend`](https://github.com/uk-gov-mirror/hmrc.init-service-test-v27-frontend) |  | 2026-09-22 |
 | [`death-in-service-frontend`](https://github.com/uk-gov-mirror/hmrc.death-in-service-frontend) |  | 2026-09-15 |
@@ -2046,6 +2048,55 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
 | [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
 
+## [ONS-Innovation](https://github.com/ONS-Innovation) (44)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`ZA-backstage-trial`](https://github.com/uk-gov-mirror/ONS-Innovation.ZA-backstage-trial) | test | 2026-10-24 |
+| [`test-repo-trial-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.test-repo-trial-bt) | test-repo-trial-bt | 2026-10-24 |
+| [`airflow-example`](https://github.com/uk-gov-mirror/ONS-Innovation.airflow-example) | evisos | 2026-10-23 |
+| [`backstage-perfect-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-perfect-repo) | This repository should pass every SoundCheck in Backstage. | 2026-10-23 |
+| [`backstage-system-template`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-system-template) | System template for the RAP Project. | 2026-10-23 |
+| [`backstage-trial`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-trial) | First repository to for the backstage trial | 2026-10-23 |
+| [`demo-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.demo-repo) | demo-repo | 2026-10-23 |
+| [`dependabot-check`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-check) | check Dependabot updates | 2026-10-23 |
+| [`dependabot-raiser-2`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-raiser-2) | test to raise Dependabot PRs on template repo | 2026-10-23 |
+| [`etl-template-static-test-1`](https://github.com/uk-gov-mirror/ONS-Innovation.etl-template-static-test-1) | test | 2026-10-23 |
+| [`example-pipeline-module-template`](https://github.com/uk-gov-mirror/ONS-Innovation.example-pipeline-module-template) |  | 2026-10-23 |
+| [`fahad_demo`](https://github.com/uk-gov-mirror/ONS-Innovation.fahad_demo) | test | 2026-10-23 |
+| [`github-api-package`](https://github.com/uk-gov-mirror/ONS-Innovation.github-api-package) | A Python package used to interact with the GitHub RESTful API | 2026-10-23 |
+| [`github-repository-archive-script`](https://github.com/uk-gov-mirror/ONS-Innovation.github-repository-archive-script) | A Python utility used to archive old, unused GitHub repositories from an organisation. | 2026-10-23 |
+| [`govcookietest_1`](https://github.com/uk-gov-mirror/ONS-Innovation.govcookietest_1) | testing | 2026-10-23 |
+| [`joe-coverage-test`](https://github.com/uk-gov-mirror/ONS-Innovation.joe-coverage-test) | test of code coverage check | 2026-10-23 |
+| [`jp-airflow-test`](https://github.com/uk-gov-mirror/ONS-Innovation.jp-airflow-test) | test | 2026-10-23 |
+| [`keh-address-book-lambda`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-address-book-lambda) | This is a Lambda function for the weekly retrieval of GitHub usernames and Organisation verified email addresses. | 2026-10-23 |
+| [`keh-aws-alarm-poc`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-aws-alarm-poc) | KEH AWS alarm proof-of-concept | 2026-10-23 |
+| [`keh-github-policy-audit`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-policy-audit) | A tool used to audit GitHub Organisations for compliance with ONS' GitHub Usage Policy. | 2026-10-23 |
+| [`keh-github-statistics-scraper`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-statistics-scraper) | Python script to collect data on repositories within the organisation to be used on the Digital Landscape. | 2026-10-23 |
+| [`keh-policy-methods-library`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-policy-methods-library) | A series of functions used to check adherence to the GitHub Usage Policy. | 2026-10-23 |
+| [`keh-system`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-system) | Backstage System component to assign components to system. | 2026-10-23 |
+| [`keh-tech-audit-tool`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool) | A Flask application, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
+| [`keh-tech-audit-tool-api`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool-api) | An API for the Tech Audit Tool, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
+| [`keh-template-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-template-repo) | A template repository for all new KEH repositories. | 2026-10-23 |
+| [`labour_market_indicators_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.labour_market_indicators_sbt) | labour_market_indicators_sbt | 2026-10-23 |
+| [`preprocessing_stage_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.preprocessing_stage_sbt) | Cleans and validates raw input data, handling missing values, misspellings, and joins across sources like IDBR and survey returns. | 2026-10-23 |
+| [`python-etl-github-pages-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-etl-github-pages-template) | ETL template that deploys results to MkDocs GitHub pages. | 2026-10-23 |
+| [`python-rap-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-rap-template) |  | 2026-10-23 |
+| [`rap-project-system`](https://github.com/uk-gov-mirror/ONS-Innovation.rap-project-system) | System for the RAP Project. | 2026-10-23 |
+| [`seb_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_1) | testing | 2026-10-23 |
+| [`seb_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_2) | testing | 2026-10-23 |
+| [`seb_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_3) | testing | 2026-10-23 |
+| [`seb_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_4) | testing | 2026-10-23 |
+| [`seb_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_5) | testing | 2026-10-23 |
+| [`sebtheo_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_1) | testing | 2026-10-23 |
+| [`sebtheo_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_2) | testing | 2026-10-23 |
+| [`sebtheo_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_3) | testing | 2026-10-23 |
+| [`sebtheo_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_4) | testing | 2026-10-23 |
+| [`sebtheo_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_5) | testing | 2026-10-23 |
+| [`sebtheo_test_6`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_6) | test | 2026-10-23 |
+| [`teazy-peazy-advent-of-code-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt) | A test repository to collect the team effort to solve some of the puzzels from the Advent of Code from last year (2024) using Backstage. | 2026-10-23 |
+| [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
+
 ## [DFE-Digital](https://github.com/DFE-Digital) (43)
 
 | Repository | Description | Deleted On |
@@ -2142,57 +2193,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`ppr-acceptance-tests`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.ppr-acceptance-tests) | *DEPRECATED* Cucumber/Gherkin-base tests for the payment-practices-reporting site |  |
 | [`scorecard-data-loader`](https://github.com/uk-gov-mirror/UKGovernmentBEIS.scorecard-data-loader) | Utility to load scorecard data into mongo |  |
 
-## [ONS-Innovation](https://github.com/ONS-Innovation) (42)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`airflow-example`](https://github.com/uk-gov-mirror/ONS-Innovation.airflow-example) | evisos | 2026-10-23 |
-| [`backstage-perfect-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-perfect-repo) | This repository should pass every SoundCheck in Backstage. | 2026-10-23 |
-| [`backstage-system-template`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-system-template) | System template for the RAP Project. | 2026-10-23 |
-| [`backstage-trial`](https://github.com/uk-gov-mirror/ONS-Innovation.backstage-trial) | First repository to for the backstage trial | 2026-10-23 |
-| [`demo-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.demo-repo) | demo-repo | 2026-10-23 |
-| [`dependabot-check`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-check) | check Dependabot updates | 2026-10-23 |
-| [`dependabot-raiser-2`](https://github.com/uk-gov-mirror/ONS-Innovation.dependabot-raiser-2) | test to raise Dependabot PRs on template repo | 2026-10-23 |
-| [`etl-template-static-test-1`](https://github.com/uk-gov-mirror/ONS-Innovation.etl-template-static-test-1) | test | 2026-10-23 |
-| [`example-pipeline-module-template`](https://github.com/uk-gov-mirror/ONS-Innovation.example-pipeline-module-template) |  | 2026-10-23 |
-| [`fahad_demo`](https://github.com/uk-gov-mirror/ONS-Innovation.fahad_demo) | test | 2026-10-23 |
-| [`github-api-package`](https://github.com/uk-gov-mirror/ONS-Innovation.github-api-package) | A Python package used to interact with the GitHub RESTful API | 2026-10-23 |
-| [`github-repository-archive-script`](https://github.com/uk-gov-mirror/ONS-Innovation.github-repository-archive-script) | A Python utility used to archive old, unused GitHub repositories from an organisation. | 2026-10-23 |
-| [`govcookietest_1`](https://github.com/uk-gov-mirror/ONS-Innovation.govcookietest_1) | testing | 2026-10-23 |
-| [`joe-coverage-test`](https://github.com/uk-gov-mirror/ONS-Innovation.joe-coverage-test) | test of code coverage check | 2026-10-23 |
-| [`jp-airflow-test`](https://github.com/uk-gov-mirror/ONS-Innovation.jp-airflow-test) | test | 2026-10-23 |
-| [`keh-address-book-lambda`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-address-book-lambda) | This is a Lambda function for the weekly retrieval of GitHub usernames and Organisation verified email addresses. | 2026-10-23 |
-| [`keh-aws-alarm-poc`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-aws-alarm-poc) | KEH AWS alarm proof-of-concept | 2026-10-23 |
-| [`keh-github-policy-audit`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-policy-audit) | A tool used to audit GitHub Organisations for compliance with ONS' GitHub Usage Policy. | 2026-10-23 |
-| [`keh-github-statistics-scraper`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-github-statistics-scraper) | Python script to collect data on repositories within the organisation to be used on the Digital Landscape. | 2026-10-23 |
-| [`keh-policy-methods-library`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-policy-methods-library) | A series of functions used to check adherence to the GitHub Usage Policy. | 2026-10-23 |
-| [`keh-system`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-system) | Backstage System component to assign components to system. | 2026-10-23 |
-| [`keh-tech-audit-tool`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool) | A Flask application, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
-| [`keh-tech-audit-tool-api`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-tech-audit-tool-api) | An API for the Tech Audit Tool, designed to gather and report information on technologies used within ONS. | 2026-10-23 |
-| [`keh-template-repo`](https://github.com/uk-gov-mirror/ONS-Innovation.keh-template-repo) | A template repository for all new KEH repositories. | 2026-10-23 |
-| [`labour_market_indicators_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.labour_market_indicators_sbt) | labour_market_indicators_sbt | 2026-10-23 |
-| [`preprocessing_stage_sbt`](https://github.com/uk-gov-mirror/ONS-Innovation.preprocessing_stage_sbt) | Cleans and validates raw input data, handling missing values, misspellings, and joins across sources like IDBR and survey returns. | 2026-10-23 |
-| [`python-etl-github-pages-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-etl-github-pages-template) | ETL template that deploys results to MkDocs GitHub pages. | 2026-10-23 |
-| [`python-rap-template`](https://github.com/uk-gov-mirror/ONS-Innovation.python-rap-template) |  | 2026-10-23 |
-| [`rap-project-system`](https://github.com/uk-gov-mirror/ONS-Innovation.rap-project-system) | System for the RAP Project. | 2026-10-23 |
-| [`seb_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_1) | testing | 2026-10-23 |
-| [`seb_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_2) | testing | 2026-10-23 |
-| [`seb_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_3) | testing | 2026-10-23 |
-| [`seb_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_4) | testing | 2026-10-23 |
-| [`seb_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_5) | testing | 2026-10-23 |
-| [`sebtheo_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_1) | testing | 2026-10-23 |
-| [`sebtheo_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_2) | testing | 2026-10-23 |
-| [`sebtheo_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_3) | testing | 2026-10-23 |
-| [`sebtheo_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_4) | testing | 2026-10-23 |
-| [`sebtheo_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_5) | testing | 2026-10-23 |
-| [`sebtheo_test_6`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_6) | test | 2026-10-23 |
-| [`teazy-peazy-advent-of-code-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt) | A test repository to collect the team effort to solve some of the puzzels from the Advent of Code from last year (2024) using Backstage. | 2026-10-23 |
-| [`Test1.replaced.2026-09-03`](https://github.com/uk-gov-mirror/ONS-Innovation.Test1.replaced.2026-09-03) | just testting | 2026-09-03 |
-
 ## [Planning-Inspectorate](https://github.com/Planning-Inspectorate) (40)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`crown-developments-prototype.replaced.2026-10-23`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype.replaced.2026-10-23) | Prototype project for the Crown Developments service | 2026-10-24 |
 | [`library-service.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.library-service.replaced.2026-09-03) |  | 2026-09-04 |
 | [`applications-backoffice-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-backoffice-prototype.replaced.2026-09-03) | Prototype for the Applications Back Office | 2026-09-03 |
 | [`applications-dco-portal-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-dco-portal-prototype.replaced.2026-09-03) |  | 2026-09-03 |
@@ -2226,7 +2231,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`appeals_monthly_SR`](https://github.com/uk-gov-mirror/Planning-Inspectorate.appeals_monthly_SR) | proof of concept automation of appeals monthly statistical release | 2026-08-27 |
 | [`applications-relevant-representations-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-relevant-representations-analysis-poc) |  | 2026-08-27 |
 | [`applications-service-performance-tests`](https://github.com/uk-gov-mirror/Planning-Inspectorate.applications-service-performance-tests) |  | 2026-08-27 |
-| [`crown-developments-prototype`](https://github.com/uk-gov-mirror/Planning-Inspectorate.crown-developments-prototype) | Prototype project for the Crown Developments service | 2026-08-27 |
 | [`devops-test-app`](https://github.com/uk-gov-mirror/Planning-Inspectorate.devops-test-app) | Test app for testing DevOps processes and updates | 2026-08-27 |
 | [`e-learning`](https://github.com/uk-gov-mirror/Planning-Inspectorate.e-learning) |  | 2026-08-27 |
 | [`extract-ofgem-generator-licencees`](https://github.com/uk-gov-mirror/Planning-Inspectorate.extract-ofgem-generator-licencees) | Script to extract the Ofgem Electricity Generator Licence holders from the PDF published by Ofgem | 2026-08-27 |
@@ -2366,10 +2370,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
 | [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
 
-## [datasciencecampus](https://github.com/datasciencecampus) (24)
+## [datasciencecampus](https://github.com/datasciencecampus) (25)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`project-repo-template`](https://github.com/uk-gov-mirror/datasciencecampus.project-repo-template) | Minimal repository template | 2026-10-24 |
 | [`classifai_demo`](https://github.com/uk-gov-mirror/datasciencecampus.classifai_demo) | A minimalist demonstration repo to facilitate trying out the ClassifAI package via myBinder | 2026-10-23 |
 | [`gov-gh`](https://github.com/uk-gov-mirror/datasciencecampus.gov-gh) | Python SDK for GitHub REST and GraphQL APIs, built for government organisations. Provides tools for org administration, repository governance, issue operations, and workflow automation. | 2026-10-23 |
 | [`natural_spaces`](https://github.com/uk-gov-mirror/datasciencecampus.natural_spaces) | Measuring engagement with nature project. Work completed in collaboration with DEFRA | 2026-10-23 |
@@ -2790,7 +2795,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`nw-gmsa.github.com`](https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com) | North West Genomics HL7/IHE Implementation Guide | 2026-10-01 |
+| [`nw-gmsa.github.com.replaced.2026-10-23`](https://github.com/uk-gov-mirror/nw-gmsa.nw-gmsa.github.com.replaced.2026-10-23) | North West Genomics HL7/IHE Implementation Guide | 2026-10-24 |
 | [`Testing.replaced.2026-08-20`](https://github.com/uk-gov-mirror/nw-gmsa.Testing.replaced.2026-08-20) |  | 2026-08-21 |
 
 ## [ukhsa-collaboration](https://github.com/ukhsa-collaboration) (2)
@@ -2924,7 +2929,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`ONS_minimum_RAP`](https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP) | RAP minimum standard guidance for the Office for National Statistics | 2026-10-23 |
+| [`ONS_minimum_RAP.replaced.2026-10-23`](https://github.com/uk-gov-mirror/best-practice-and-impact.ONS_minimum_RAP.replaced.2026-10-23) | RAP minimum standard guidance for the Office for National Statistics | 2026-10-24 |
 
 ## [britishcouncil](https://github.com/britishcouncil) (1)
 
