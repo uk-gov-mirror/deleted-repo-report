@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [datasciencecampus](https://github.com/datasciencecampus) | [`update-tf-modules`](https://github.com/uk-gov-mirror/datasciencecampus.update-tf-modules) | A workflow to automate module updates in terraform projects | 2026-10-26 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`ZA-backstage-trial`](https://github.com/uk-gov-mirror/ONS-Innovation.ZA-backstage-trial) | test | 2026-10-24 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`test-repo-trial-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.test-repo-trial-bt) | test-repo-trial-bt | 2026-10-24 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ONSVisualJournalism`](https://github.com/uk-gov-mirror/ONSdigital.ONSVisualJournalism) | Website to showcase the work of ONS | 2026-10-24 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [homesengland](https://github.com/homesengland) | [`he-github-copilot`](https://github.com/uk-gov-mirror/homesengland.he-github-copilot) | Repository for storing bespoke prompts, instructions, scripts, etc for GitHub Copilot | 2026-08-14 |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [`ctc-helloworld`](https://github.com/uk-gov-mirror/intellectual-property-office.ctc-helloworld) | IPO open-sourced code for the ctc-helloworld service | 2026-08-13 |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [`acrs`](https://github.com/uk-gov-mirror/UKHomeOffice.acrs) | An form for the Afghan Citizens Resettlement Scheme (ACRS ) | 2026-08-11 |
-| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-accommodation-data-domain-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api) | A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10) | 2026-08-11 |

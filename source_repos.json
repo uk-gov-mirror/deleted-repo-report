@@ -9795,6 +9795,16 @@
     "original_url": "https://github.com/datasciencecampus/trendyr"
   },
   {
+    "deleted_on": "2026-10-26",
+    "description": "A workflow to automate module updates in terraform projects",
+    "full_name": "uk-gov-mirror/datasciencecampus.update-tf-modules",
+    "mirror_name": "datasciencecampus.update-tf-modules",
+    "mirror_url": "https://github.com/uk-gov-mirror/datasciencecampus.update-tf-modules",
+    "name": "update-tf-modules",
+    "org": "datasciencecampus",
+    "original_url": "https://github.com/datasciencecampus/update-tf-modules"
+  },
+  {
     "deleted_on": "2026-08-25",
     "description": "POC IDe test for rulesets etc",
     "full_name": "uk-gov-mirror/defencedigital.CPA_Rulesets_POC_test2",

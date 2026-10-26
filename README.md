@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **2477**
+Total deleted repositories: **2478**
 Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -27,9 +27,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
+| [datasciencecampus](https://github.com/datasciencecampus) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 42.6% |
 | [defra](https://github.com/defra) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 1.3% |
 | [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
-| [datasciencecampus](https://github.com/datasciencecampus) | [**25**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 40.3% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
 | [nationalarchives](https://github.com/nationalarchives) | [**20**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.1% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
@@ -2308,6 +2308,37 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dos-api-idt-data`](https://github.com/uk-gov-mirror/nhsd-a2si.dos-api-idt-data) |  | 2026-05-01* |
 | [`servicefinder-proto`](https://github.com/uk-gov-mirror/nhsd-a2si.servicefinder-proto) | Service Finder designs and prototype, rework to fit new NHSD frontend and prototype kits | 2026-05-01* |
 
+## [datasciencecampus](https://github.com/datasciencecampus) (26)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`update-tf-modules`](https://github.com/uk-gov-mirror/datasciencecampus.update-tf-modules) | A workflow to automate module updates in terraform projects | 2026-10-26 |
+| [`project-repo-template`](https://github.com/uk-gov-mirror/datasciencecampus.project-repo-template) | Minimal repository template | 2026-10-24 |
+| [`classifai_demo`](https://github.com/uk-gov-mirror/datasciencecampus.classifai_demo) | A minimalist demonstration repo to facilitate trying out the ClassifAI package via myBinder | 2026-10-23 |
+| [`gov-gh`](https://github.com/uk-gov-mirror/datasciencecampus.gov-gh) | Python SDK for GitHub REST and GraphQL APIs, built for government organisations. Provides tools for org administration, repository governance, issue operations, and workflow automation. | 2026-10-23 |
+| [`natural_spaces`](https://github.com/uk-gov-mirror/datasciencecampus.natural_spaces) | Measuring engagement with nature project. Work completed in collaboration with DEFRA | 2026-10-23 |
+| [`autodoc-llm`](https://github.com/uk-gov-mirror/datasciencecampus.autodoc-llm) | Proof of concept for auto-documentation of code using LLMs.  | 2026-04-01* |
+| [`consultation-analysis-nafw`](https://github.com/uk-gov-mirror/datasciencecampus.consultation-analysis-nafw) | Repo for National Assembly for Wales consultation analysis | 2025-11-25* |
+| [`ft-events`](https://github.com/uk-gov-mirror/datasciencecampus.ft-events) |  | 2025-11-10* |
+| [`consultation_nlp`](https://github.com/uk-gov-mirror/datasciencecampus.consultation_nlp) | Preliminary analysis for 2023 population transformation consultation | 2023-09-01* |
+| [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
+| [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
+| [`DSCA_ARP`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_ARP) |  | 2021-11-10* |
+| [`DSCA_DSWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_DSWR) |  | 2021-11-10* |
+| [`DSCA_NLPWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_NLPWR) |  | 2021-11-10* |
+| [`DSCA_feminist-dataviz`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_feminist-dataviz) | Takeaways from the feminist data visualisation paper and data feminism book. | 2021-11-10* |
+| [`DSCA_presentation_accessibility`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_presentation_accessibility) | temporary repo to host presentation options for accessibility checks - io slides, beamer, xaringan, ppt | 2021-11-10* |
+| [`DSCA_temp-geospatial`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_temp-geospatial) | temp repo hosting web content for accessibility check | 2021-11-10* |
+| [`UNGP`](https://github.com/uk-gov-mirror/datasciencecampus.UNGP) | UNGP | 2021-11-10* |
+| [`road-data-pipeline-documentation`](https://github.com/uk-gov-mirror/datasciencecampus.road-data-pipeline-documentation) | Documentation for the r-pipeline branch of the road-data-dump repository | 2021-11-10* |
+| [`trendyr`](https://github.com/uk-gov-mirror/datasciencecampus.trendyr) | Trend analysis package | 2021-04-15* |
+| [`rap-for-maps`](https://github.com/uk-gov-mirror/datasciencecampus.rap-for-maps) | rap for maps code for Geography in Government conference | 2020-12-28* |
+| [`DSCA_Stats4DS`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_Stats4DS) | Course on exploratory data analysis, linear models, generalised linear models and introduction to Bayesian statistics.  | 2020-12-10* |
+| [`nlp-for-health`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-for-health) | a place to share analysis and code for Natural Language Processing (NLP) techniques, using publicly available health and social care datasets. | 2020-11-21* |
+| [`nlp-club`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-club) | The Data Science Campus' journal club for Natural Language Processing (NLP) | 2020-11-12* |
+| [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
+| [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
+
 ## [defra](https://github.com/defra) (26)
 
 | Repository | Description | Deleted On |
@@ -2369,36 +2400,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`idam-forgerock-images`](https://github.com/uk-gov-mirror/hmcts.idam-forgerock-images) | Builds Docker images for running Forgerock locally with the latest configuration | 2020-10-30* |
 | [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
 | [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
-
-## [datasciencecampus](https://github.com/datasciencecampus) (25)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`project-repo-template`](https://github.com/uk-gov-mirror/datasciencecampus.project-repo-template) | Minimal repository template | 2026-10-24 |
-| [`classifai_demo`](https://github.com/uk-gov-mirror/datasciencecampus.classifai_demo) | A minimalist demonstration repo to facilitate trying out the ClassifAI package via myBinder | 2026-10-23 |
-| [`gov-gh`](https://github.com/uk-gov-mirror/datasciencecampus.gov-gh) | Python SDK for GitHub REST and GraphQL APIs, built for government organisations. Provides tools for org administration, repository governance, issue operations, and workflow automation. | 2026-10-23 |
-| [`natural_spaces`](https://github.com/uk-gov-mirror/datasciencecampus.natural_spaces) | Measuring engagement with nature project. Work completed in collaboration with DEFRA | 2026-10-23 |
-| [`autodoc-llm`](https://github.com/uk-gov-mirror/datasciencecampus.autodoc-llm) | Proof of concept for auto-documentation of code using LLMs.  | 2026-04-01* |
-| [`consultation-analysis-nafw`](https://github.com/uk-gov-mirror/datasciencecampus.consultation-analysis-nafw) | Repo for National Assembly for Wales consultation analysis | 2025-11-25* |
-| [`ft-events`](https://github.com/uk-gov-mirror/datasciencecampus.ft-events) |  | 2025-11-10* |
-| [`consultation_nlp`](https://github.com/uk-gov-mirror/datasciencecampus.consultation_nlp) | Preliminary analysis for 2023 population transformation consultation | 2023-09-01* |
-| [`IDS-IDPCS-603-test`](https://github.com/uk-gov-mirror/datasciencecampus.IDS-IDPCS-603-test) | test repo for IDS test ticket IDPCS-603 | 2023-05-26* |
-| [`kamino`](https://github.com/uk-gov-mirror/datasciencecampus.kamino) | DSC visualisation app for the UK fishing industry | 2023-05-19* |
-| [`DSCA_ARP`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_ARP) |  | 2021-11-10* |
-| [`DSCA_DSWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_DSWR) |  | 2021-11-10* |
-| [`DSCA_NLPWR`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_NLPWR) |  | 2021-11-10* |
-| [`DSCA_feminist-dataviz`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_feminist-dataviz) | Takeaways from the feminist data visualisation paper and data feminism book. | 2021-11-10* |
-| [`DSCA_presentation_accessibility`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_presentation_accessibility) | temporary repo to host presentation options for accessibility checks - io slides, beamer, xaringan, ppt | 2021-11-10* |
-| [`DSCA_temp-geospatial`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_temp-geospatial) | temp repo hosting web content for accessibility check | 2021-11-10* |
-| [`UNGP`](https://github.com/uk-gov-mirror/datasciencecampus.UNGP) | UNGP | 2021-11-10* |
-| [`road-data-pipeline-documentation`](https://github.com/uk-gov-mirror/datasciencecampus.road-data-pipeline-documentation) | Documentation for the r-pipeline branch of the road-data-dump repository | 2021-11-10* |
-| [`trendyr`](https://github.com/uk-gov-mirror/datasciencecampus.trendyr) | Trend analysis package | 2021-04-15* |
-| [`rap-for-maps`](https://github.com/uk-gov-mirror/datasciencecampus.rap-for-maps) | rap for maps code for Geography in Government conference | 2020-12-28* |
-| [`DSCA_Stats4DS`](https://github.com/uk-gov-mirror/datasciencecampus.DSCA_Stats4DS) | Course on exploratory data analysis, linear models, generalised linear models and introduction to Bayesian statistics.  | 2020-12-10* |
-| [`nlp-for-health`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-for-health) | a place to share analysis and code for Natural Language Processing (NLP) techniques, using publicly available health and social care datasets. | 2020-11-21* |
-| [`nlp-club`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-club) | The Data Science Campus' journal club for Natural Language Processing (NLP) | 2020-11-12* |
-| [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
-| [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
 
 ## [ukforeignoffice](https://github.com/ukforeignoffice) (23)
 
