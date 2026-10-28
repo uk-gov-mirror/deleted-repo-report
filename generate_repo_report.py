@@ -48,6 +48,37 @@ def deleted_on_display(r):
     return deleted_on
 
 
+def deletion_chart(repos):
+    by_quarter = defaultdict(int)
+    for r in repos:
+        deleted_on = r.get("deleted_on")
+        if deleted_on:
+            year, month = int(deleted_on[:4]), int(deleted_on[5:7])
+            by_quarter[(year, (month - 1) // 3 + 1)] += 1
+
+    if not by_quarter:
+        return []
+
+    quarters = []
+    year, quarter = min(by_quarter)
+    while (year, quarter) <= max(by_quarter):
+        quarters.append((year, quarter))
+        year, quarter = (year + 1, 1) if quarter == 4 else (year, quarter + 1)
+
+    labels = ", ".join('"%s Q%s"' % q for q in quarters)
+    counts = ", ".join(str(by_quarter[q]) for q in quarters)
+
+    return [
+        "```mermaid",
+        "xychart-beta",
+        '    title "Repositories deleted per quarter"',
+        "    x-axis [%s]" % labels,
+        '    y-axis "Deleted repos"',
+        "    bar [%s]" % counts,
+        "```",
+    ]
+
+
 def build_report(repos, org_totals):
     by_org = defaultdict(list)
     for r in repos:
@@ -64,6 +95,10 @@ def build_report(repos, org_totals):
     lines.append("")
     lines.append("See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.")
     lines.append("")
+    chart = deletion_chart(repos)
+    if chart:
+        lines.extend(chart)
+        lines.append("")
     lines.append("Deleted dates with a \\* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.")
     lines.append("")
     lines.append("| Organisation | Deleted Repos | % Deleted |")
