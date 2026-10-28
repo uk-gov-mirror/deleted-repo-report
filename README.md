@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3184**
+Total deleted repositories: **3189**
 Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -9,8 +9,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**970**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.2% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**404**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.2% |
+| [ONSdigital](https://github.com/ONSdigital) | [**971**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.2% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**406**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.3% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
@@ -18,7 +18,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**116**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.6% |
 | [defra](https://github.com/defra) | [**71**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 3.5% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**54**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 5.8% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**55**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 5.9% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [companieshouse](https://github.com/companieshouse) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.4% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
@@ -29,13 +29,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**28**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 46.7% |
-| [hmcts](https://github.com/hmcts) | [**26**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.3% |
+| [hmcts](https://github.com/hmcts) | [**27**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.4% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
 | [nationalarchives](https://github.com/nationalarchives) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.2% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
 | [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.6% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 24.1% |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 23.6% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
@@ -52,7 +52,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONS-Health-modelling-hub](https://github.com/ONS-Health-modelling-hub) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Health-modelling-hub.%22) | 19.2% |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 8.2% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
-| [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.0% |
+| [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 1.9% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 9.5% |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 1.6% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
@@ -98,10 +98,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ONSdigital](https://github.com/ONSdigital) (970)
+## [ONSdigital](https://github.com/ONSdigital) (971)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`sml-public`](https://github.com/uk-gov-mirror/ONSdigital.sml-public) | User documentation for the ONS Statistical Methods Library | 2026-10-28 |
 | [`ANDAwayDay-Group1`](https://github.com/uk-gov-mirror/ONSdigital.ANDAwayDay-Group1) |  | 2026-10-27 |
 | [`ARCHIVED-admin-data-api`](https://github.com/uk-gov-mirror/ONSdigital.ARCHIVED-admin-data-api) | Companies House Data retrieval API | 2026-10-27 |
 | [`CD_Test_T531`](https://github.com/uk-gov-mirror/ONSdigital.CD_Test_T531) |  | 2026-10-27 |
@@ -1073,10 +1074,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (404)
+## [ministryofjustice](https://github.com/ministryofjustice) (406)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`kubernetes-pod-broadcaster`](https://github.com/uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster) | A containerised server to broadcast requests to multiple Kubernetes pods | 2026-10-28 |
+| [`s3-antivirus-scan`](https://github.com/uk-gov-mirror/ministryofjustice.s3-antivirus-scan) |  | 2026-10-28 |
 | [`MinkExtension`](https://github.com/uk-gov-mirror/ministryofjustice.MinkExtension) |  | 2026-10-22 |
 | [`alchemy`](https://github.com/uk-gov-mirror/ministryofjustice.alchemy) | Alchemy is an AWS Lambda for converting documents: Managed by opg-org-infra & Terraform | 2026-10-22 |
 | [`circleci-orbs`](https://github.com/uk-gov-mirror/ministryofjustice.circleci-orbs) | OPG CircleCI Orbs: Managed by opg-org-infra & Terraform | 2026-10-22 |
@@ -2425,6 +2428,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`grants-config-land-grants.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27) | Git repository for service grants-config-land-grants | 2026-10-28 |
+| [`grants-payment-service.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27) | Git repository for service grants-payment-service | 2026-10-28 |
+| [`land-grants-api-tests.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27) | Git repository for service land-grants-api-tests | 2026-10-28 |
 | [`farming-grants-agreements-ui`](https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui) | Git repository for service farming-grants-agreements-ui | 2026-10-27 |
 | [`fcp-cv-frontend-performance-test`](https://github.com/uk-gov-mirror/defra.fcp-cv-frontend-performance-test) | Git repository for service fcp-cv-frontend-performance-test | 2026-10-27 |
 | [`fcp-cv-postdeployment-tests`](https://github.com/uk-gov-mirror/defra.fcp-cv-postdeployment-tests) | Git repository for service fcp-cv-postdeployment-tests | 2026-10-27 |
@@ -2446,10 +2452,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`grants-config-example-grants`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants) | Git repository for service grants-config-example-grants | 2026-10-27 |
 | [`grants-config-farm-payments`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments) | Git repository for service grants-config-farm-payments | 2026-10-27 |
 | [`grants-config-grasslands`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands) | Git repository for service grants-config-grasslands | 2026-10-27 |
-| [`grants-config-land-grants`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants) | Git repository for service grants-config-land-grants | 2026-10-27 |
 | [`grants-config-water-management`](https://github.com/uk-gov-mirror/defra.grants-config-water-management) | Git repository for service grants-config-water-management | 2026-10-27 |
 | [`grants-config-woodland`](https://github.com/uk-gov-mirror/defra.grants-config-woodland) | Git repository for service grants-config-woodland | 2026-10-27 |
-| [`grants-payment-service`](https://github.com/uk-gov-mirror/defra.grants-payment-service) | Git repository for service grants-payment-service | 2026-10-27 |
 | [`grants-payment-service-tests`](https://github.com/uk-gov-mirror/defra.grants-payment-service-tests) | Git repository for service grants-payment-service-tests | 2026-10-27 |
 | [`grants-platform-e2e-tests`](https://github.com/uk-gov-mirror/defra.grants-platform-e2e-tests) | Git repository for service grants-platform-e2e-tests | 2026-10-27 |
 | [`grants-ui`](https://github.com/uk-gov-mirror/defra.grants-ui) | Git repository for service grants-ui | 2026-10-27 |
@@ -2465,7 +2469,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`grants-ui-smoke-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-smoke-tests) | Git repository for service grants-ui-smoke-tests | 2026-10-27 |
 | [`grants-ui-woodland-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests) | Git repository for service grants-ui-woodland-tests | 2026-10-27 |
 | [`land-grants-api`](https://github.com/uk-gov-mirror/defra.land-grants-api) | Git repository for service land-grants-api | 2026-10-27 |
-| [`land-grants-api-tests`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests) | Git repository for service land-grants-api-tests | 2026-10-27 |
 | [`land-grants-journey-tests`](https://github.com/uk-gov-mirror/defra.land-grants-journey-tests) | Git repository for service land-grants-journey-tests | 2026-10-27 |
 | [`sfi-reform-service-e2e-tests`](https://github.com/uk-gov-mirror/defra.sfi-reform-service-e2e-tests) | Git repository for service sfi-reform-service-e2e-tests | 2026-10-27 |
 | [`woodland-grant-journey-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-journey-tests) | Git repository for service woodland-grant-journey-tests | 2026-10-27 |
@@ -2567,10 +2570,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`occupeye_shiny_app`](https://github.com/uk-gov-mirror/moj-analytical-services.occupeye_shiny_app) |  | 2020-10-19* |
 | [`sr_prioritisation_chart`](https://github.com/uk-gov-mirror/moj-analytical-services.sr_prioritisation_chart) |  | 2020-09-12* |
 
-## [DFE-Digital](https://github.com/DFE-Digital) (54)
+## [DFE-Digital](https://github.com/DFE-Digital) (55)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`funding-service-cfs-backend`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-cfs-backend) | Backend services for the Calculate Funding platform, responsible for funding calculations, orchestration, and related APIs. | 2026-10-28 |
 | [`funding-service-df-bdd-playwright-tests`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-bdd-playwright-tests) |  | 2026-10-27 |
 | [`funding-service-df-dc-api`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-dc-api) | .NET 8 Web API for secure document management in the DF system. Features automated virus scanning before uploading to Azure Blob Storage, secure retrieval/download endpoints, and upload status tracking. Protected by FAUPI APIM Gateway for enterprise-grade security. | 2026-10-27 |
 | [`funding-service-df-dc-datastore-func`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-dc-datastore-func) |  | 2026-10-27 |
@@ -3073,10 +3077,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
 | [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
 
-## [hmcts](https://github.com/hmcts) (26)
+## [hmcts](https://github.com/hmcts) (27)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`adoption-slack-alerts`](https://github.com/uk-gov-mirror/hmcts.adoption-slack-alerts) | An Azure Function App that relays events from Azure Monitor logs to a slack channel | 2026-10-28 |
 | [`cft-workspace`](https://github.com/uk-gov-mirror/hmcts.cft-workspace) |  | 2026-10-07 |
 | [`bulk-scan-java-client.replaced.2026-09-03`](https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03) |  | 2026-09-03 |
 | [`ia-owasp-suppressions`](https://github.com/uk-gov-mirror/hmcts.ia-owasp-suppressions) | To store suppressions.xml across all IA microservices | 2026-04-24* |

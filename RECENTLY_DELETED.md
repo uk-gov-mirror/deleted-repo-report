@@ -6,6 +6,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`funding-service-cfs-backend`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-cfs-backend) | Backend services for the Calculate Funding platform, responsible for funding calculations, orchestration, and related APIs. | 2026-10-28 |
+| [ONSdigital](https://github.com/ONSdigital) | [`sml-public`](https://github.com/uk-gov-mirror/ONSdigital.sml-public) | User documentation for the ONS Statistical Methods Library | 2026-10-28 |
+| [defra](https://github.com/defra) | [`grants-config-land-grants.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27) | Git repository for service grants-config-land-grants | 2026-10-28 |
+| [defra](https://github.com/defra) | [`grants-payment-service.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27) | Git repository for service grants-payment-service | 2026-10-28 |
+| [defra](https://github.com/defra) | [`land-grants-api-tests.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27) | Git repository for service land-grants-api-tests | 2026-10-28 |
+| [hmcts](https://github.com/hmcts) | [`adoption-slack-alerts`](https://github.com/uk-gov-mirror/hmcts.adoption-slack-alerts) | An Azure Function App that relays events from Azure Monitor logs to a slack channel | 2026-10-28 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`kubernetes-pod-broadcaster`](https://github.com/uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster) | A containerised server to broadcast requests to multiple Kubernetes pods | 2026-10-28 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`s3-antivirus-scan`](https://github.com/uk-gov-mirror/ministryofjustice.s3-antivirus-scan) |  | 2026-10-28 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`funding-service-df-bdd-playwright-tests`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-bdd-playwright-tests) |  | 2026-10-27 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`funding-service-df-dc-api`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-dc-api) | .NET 8 Web API for secure document management in the DF system. Features automated virus scanning before uploading to Azure Blob Storage, secure retrieval/download endpoints, and upload status tracking. Protected by FAUPI APIM Gateway for enterprise-grade security. | 2026-10-27 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`funding-service-df-dc-datastore-func`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-dc-datastore-func) |  | 2026-10-27 |
@@ -687,10 +695,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [defra](https://github.com/defra) | [`grants-config-example-grants`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants) | Git repository for service grants-config-example-grants | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-config-farm-payments`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments) | Git repository for service grants-config-farm-payments | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-config-grasslands`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands) | Git repository for service grants-config-grasslands | 2026-10-27 |
-| [defra](https://github.com/defra) | [`grants-config-land-grants`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants) | Git repository for service grants-config-land-grants | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-config-water-management`](https://github.com/uk-gov-mirror/defra.grants-config-water-management) | Git repository for service grants-config-water-management | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-config-woodland`](https://github.com/uk-gov-mirror/defra.grants-config-woodland) | Git repository for service grants-config-woodland | 2026-10-27 |
-| [defra](https://github.com/defra) | [`grants-payment-service`](https://github.com/uk-gov-mirror/defra.grants-payment-service) | Git repository for service grants-payment-service | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-payment-service-tests`](https://github.com/uk-gov-mirror/defra.grants-payment-service-tests) | Git repository for service grants-payment-service-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-platform-e2e-tests`](https://github.com/uk-gov-mirror/defra.grants-platform-e2e-tests) | Git repository for service grants-platform-e2e-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-ui`](https://github.com/uk-gov-mirror/defra.grants-ui) | Git repository for service grants-ui | 2026-10-27 |
@@ -706,7 +712,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [defra](https://github.com/defra) | [`grants-ui-smoke-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-smoke-tests) | Git repository for service grants-ui-smoke-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`grants-ui-woodland-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests) | Git repository for service grants-ui-woodland-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`land-grants-api`](https://github.com/uk-gov-mirror/defra.land-grants-api) | Git repository for service land-grants-api | 2026-10-27 |
-| [defra](https://github.com/defra) | [`land-grants-api-tests`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests) | Git repository for service land-grants-api-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`land-grants-journey-tests`](https://github.com/uk-gov-mirror/defra.land-grants-journey-tests) | Git repository for service land-grants-journey-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`sfi-reform-service-e2e-tests`](https://github.com/uk-gov-mirror/defra.sfi-reform-service-e2e-tests) | Git repository for service sfi-reform-service-e2e-tests | 2026-10-27 |
 | [defra](https://github.com/defra) | [`woodland-grant-journey-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-journey-tests) | Git repository for service woodland-grant-journey-tests | 2026-10-27 |
@@ -1001,8 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`ssdc-rm-notify-service`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-notify-service) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ssdc-rm-support-tool`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-rm-support-tool) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ssdc-shared-sample-validation`](https://github.com/uk-gov-mirror/ONSdigital.ssdc-shared-sample-validation) | Shared/common classes which are used to validate sample data for Survey Collection & Ingestion | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`static-website-generator`](https://github.com/uk-gov-mirror/ONSdigital.static-website-generator) | A general purpose static website generator that can render static content and optionally content pulled from a Craft CMS instance. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`survey-assist-ui`](https://github.com/uk-gov-mirror/ONSdigital.survey-assist-ui) | User interface for accessing Survey Assist backend | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`takeon-API-validation-response`](https://github.com/uk-gov-mirror/ONSdigital.takeon-API-validation-response) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`takeon-authorization-lambda`](https://github.com/uk-gov-mirror/ONSdigital.takeon-authorization-lambda) | Authorization Lambda | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`takeon-data-prep-lambda-main`](https://github.com/uk-gov-mirror/ONSdigital.takeon-data-prep-lambda-main) |  | 2026-10-23 |

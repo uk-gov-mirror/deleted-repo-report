@@ -413,6 +413,16 @@
     "original_url": "https://github.com/DFE-Digital/find-information-products-services-frontend"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "Backend services for the Calculate Funding platform, responsible for funding calculations, orchestration, and related APIs.",
+    "full_name": "uk-gov-mirror/DFE-Digital.funding-service-cfs-backend",
+    "mirror_name": "DFE-Digital.funding-service-cfs-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.funding-service-cfs-backend",
+    "name": "funding-service-cfs-backend",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/funding-service-cfs-backend"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/DFE-Digital.funding-service-df-bdd-playwright-tests",
@@ -10505,6 +10515,16 @@
     "original_url": "https://github.com/ONSdigital/sml-aws-glue-test-harness"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "User documentation for the ONS Statistical Methods Library",
+    "full_name": "uk-gov-mirror/ONSdigital.sml-public",
+    "mirror_name": "ONSdigital.sml-public",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sml-public",
+    "name": "sml-public",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sml-public"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "User documentation for the Statistical Methods Library",
     "full_name": "uk-gov-mirror/ONSdigital.sml-user-docs",
@@ -16712,14 +16732,14 @@
     "original_url": "https://github.com/defra/grants-config-grasslands"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-10-28",
     "description": "Git repository for service grants-config-land-grants",
-    "full_name": "uk-gov-mirror/defra.grants-config-land-grants",
-    "mirror_name": "defra.grants-config-land-grants",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-land-grants",
-    "name": "grants-config-land-grants",
+    "full_name": "uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27",
+    "mirror_name": "defra.grants-config-land-grants.replaced.2026-10-27",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27",
+    "name": "grants-config-land-grants.replaced.2026-10-27",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-land-grants"
+    "original_url": "https://github.com/defra/grants-config-land-grants.replaced.2026-10-27"
   },
   {
     "deleted_on": "2026-10-27",
@@ -16743,16 +16763,6 @@
   },
   {
     "deleted_on": "2026-10-27",
-    "description": "Git repository for service grants-payment-service",
-    "full_name": "uk-gov-mirror/defra.grants-payment-service",
-    "mirror_name": "defra.grants-payment-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-payment-service",
-    "name": "grants-payment-service",
-    "org": "defra",
-    "original_url": "https://github.com/defra/grants-payment-service"
-  },
-  {
-    "deleted_on": "2026-10-27",
     "description": "Git repository for service grants-payment-service-tests",
     "full_name": "uk-gov-mirror/defra.grants-payment-service-tests",
     "mirror_name": "defra.grants-payment-service-tests",
@@ -16760,6 +16770,16 @@
     "name": "grants-payment-service-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/grants-payment-service-tests"
+  },
+  {
+    "deleted_on": "2026-10-28",
+    "description": "Git repository for service grants-payment-service",
+    "full_name": "uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27",
+    "mirror_name": "defra.grants-payment-service.replaced.2026-10-27",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27",
+    "name": "grants-payment-service.replaced.2026-10-27",
+    "org": "defra",
+    "original_url": "https://github.com/defra/grants-payment-service.replaced.2026-10-27"
   },
   {
     "deleted_on": "2026-10-27",
@@ -16912,14 +16932,14 @@
     "original_url": "https://github.com/defra/land-grants-api"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-10-28",
     "description": "Git repository for service land-grants-api-tests",
-    "full_name": "uk-gov-mirror/defra.land-grants-api-tests",
-    "mirror_name": "defra.land-grants-api-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.land-grants-api-tests",
-    "name": "land-grants-api-tests",
+    "full_name": "uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27",
+    "mirror_name": "defra.land-grants-api-tests.replaced.2026-10-27",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27",
+    "name": "land-grants-api-tests.replaced.2026-10-27",
     "org": "defra",
-    "original_url": "https://github.com/defra/land-grants-api-tests"
+    "original_url": "https://github.com/defra/land-grants-api-tests.replaced.2026-10-27"
   },
   {
     "deleted_on": "2026-10-27",
@@ -18255,6 +18275,16 @@
     "name": "pay-migration-test-1",
     "org": "govuk-pay",
     "original_url": "https://github.com/govuk-pay/pay-migration-test-1"
+  },
+  {
+    "deleted_on": "2026-10-28",
+    "description": "An Azure Function App that relays events from Azure Monitor logs to a slack channel",
+    "full_name": "uk-gov-mirror/hmcts.adoption-slack-alerts",
+    "mirror_name": "hmcts.adoption-slack-alerts",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.adoption-slack-alerts",
+    "name": "adoption-slack-alerts",
+    "org": "hmcts",
+    "original_url": "https://github.com/hmcts/adoption-slack-alerts"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -25346,6 +25376,16 @@
     "original_url": "https://github.com/ministryofjustice/jwt-laminas-auth"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "A containerised server to broadcast requests to multiple Kubernetes pods",
+    "full_name": "uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster",
+    "mirror_name": "ministryofjustice.kubernetes-pod-broadcaster",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster",
+    "name": "kubernetes-pod-broadcaster",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/kubernetes-pod-broadcaster"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Example frontend system",
     "full_name": "uk-gov-mirror/ministryofjustice.kv-frontend-app-dev",
@@ -26462,6 +26502,16 @@
     "name": "ruby-on-rails-demo",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/ruby-on-rails-demo"
+  },
+  {
+    "deleted_on": "2026-10-28",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.s3-antivirus-scan",
+    "mirror_name": "ministryofjustice.s3-antivirus-scan",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.s3-antivirus-scan",
+    "name": "s3-antivirus-scan",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/s3-antivirus-scan"
   },
   {
     "deleted_on": "2026-08-21",
