@@ -1,16 +1,24 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3189**
+Total deleted repositories: **3195**
 Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
+
+```mermaid
+xychart-beta
+    title "Repositories deleted per quarter"
+    x-axis ["2020 Q1", "2020 Q2", "2020 Q3", "2020 Q4", "2021 Q1", "2021 Q2", "2021 Q3", "2021 Q4", "2022 Q1", "2022 Q2", "2022 Q3", "2022 Q4", "2023 Q1", "2023 Q2", "2023 Q3", "2023 Q4", "2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4", "2026 Q1", "2026 Q2", "2026 Q3", "2026 Q4"]
+    y-axis "Deleted repos"
+    bar [6, 6, 147, 329, 160, 109, 25, 20, 14, 35, 9, 1, 37, 9, 2, 19, 28, 16, 18, 15, 24, 26, 36, 41, 19, 246, 503, 1247]
+```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**971**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.2% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**406**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.3% |
+| [ONSdigital](https://github.com/ONSdigital) | [**972**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.3% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**410**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.5% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
@@ -50,9 +58,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-england-tools.%22) | 27.3% |
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
 | [ONS-Health-modelling-hub](https://github.com/ONS-Health-modelling-hub) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Health-modelling-hub.%22) | 19.2% |
+| [communitiesuk](https://github.com/communitiesuk) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.4% |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 8.2% |
 | [alphagov](https://github.com/alphagov) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22alphagov.%22) | 0.3% |
-| [communitiesuk](https://github.com/communitiesuk) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 1.9% |
 | [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) | [**4**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsbsa-data-analytics.%22) | 9.5% |
 | [nhsuk-archive](https://github.com/nhsuk-archive) | [**3**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk-archive.%22) | 1.6% |
 | [FoodStandardsAgency](https://github.com/FoodStandardsAgency) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22FoodStandardsAgency.%22) | 18.2% |
@@ -98,10 +106,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ONSdigital](https://github.com/ONSdigital) (971)
+## [ONSdigital](https://github.com/ONSdigital) (972)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`census31-fwmt-gateway-version-tracker`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker) | Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4) | 2026-10-28 |
 | [`sml-public`](https://github.com/uk-gov-mirror/ONSdigital.sml-public) | User documentation for the ONS Statistical Methods Library | 2026-10-28 |
 | [`ANDAwayDay-Group1`](https://github.com/uk-gov-mirror/ONSdigital.ANDAwayDay-Group1) |  | 2026-10-27 |
 | [`ARCHIVED-admin-data-api`](https://github.com/uk-gov-mirror/ONSdigital.ARCHIVED-admin-data-api) | Companies House Data retrieval API | 2026-10-27 |
@@ -1074,11 +1083,15 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (406)
+## [ministryofjustice](https://github.com/ministryofjustice) (410)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-veracode-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-veracode-discovery) | Service that queries the veracode api and collects information about hmpps projects and pushes it to the service catalogue. | 2026-10-28 |
 | [`kubernetes-pod-broadcaster`](https://github.com/uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster) | A containerised server to broadcast requests to multiple Kubernetes pods | 2026-10-28 |
+| [`laa-data-claims-event-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-event-service) |  | 2026-10-28 |
+| [`moj-simple-jwt-auth`](https://github.com/uk-gov-mirror/ministryofjustice.moj-simple-jwt-auth) | Simple JWT Auth ruby gem with middleware for Faraday and Grape | 2026-10-28 |
+| [`opg-make-lpa-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa-prototype) | Prototype of future Make LPA features: Managed by opg-org-infra & Terraform | 2026-10-28 |
 | [`s3-antivirus-scan`](https://github.com/uk-gov-mirror/ministryofjustice.s3-antivirus-scan) |  | 2026-10-28 |
 | [`MinkExtension`](https://github.com/uk-gov-mirror/ministryofjustice.MinkExtension) |  | 2026-10-22 |
 | [`alchemy`](https://github.com/uk-gov-mirror/ministryofjustice.alchemy) | Alchemy is an AWS Lambda for converting documents: Managed by opg-org-infra & Terraform | 2026-10-22 |
@@ -3423,6 +3436,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`long_covid_final_cis_trajectories`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_final_cis_trajectories) | Long Covid prevalence up to three years post-infection, using the finalised CIS dataset (to March 2023) | 2026-10-23 |
 | [`long_covid_postinfection_vaccination`](https://github.com/uk-gov-mirror/ONS-Health-modelling-hub.long_covid_postinfection_vaccination) | Analysis of the risk of Long Covid after post-infection vaccination, using data from the COVID-19 Infection Survey | 2026-10-23 |
 
+## [communitiesuk](https://github.com/communitiesuk) (5)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`business-case-improvement-app`](https://github.com/uk-gov-mirror/communitiesuk.business-case-improvement-app) | App for the Business Case Improvement Project | 2026-10-28 |
+| [`python-cookiecutter-uv`](https://github.com/uk-gov-mirror/communitiesuk.python-cookiecutter-uv) | uv cookiecutter template | 2026-09-10 |
+| [`cdp_core`](https://github.com/uk-gov-mirror/communitiesuk.cdp_core) |  | 2025-11-03* |
+| [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
+| [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
+
 ## [ONS-OpenData](https://github.com/ONS-OpenData) (4)
 
 | Repository | Description | Deleted On |
@@ -3440,15 +3463,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`govuk_ab_analysis.replaced.2026-09-03`](https://github.com/uk-gov-mirror/alphagov.govuk_ab_analysis.replaced.2026-09-03) | Statistical tools to help analyse A/B tests of processed BigQuery user journey data. | 2026-09-03 |
 | [`spike-crossplane-db-roles-management`](https://github.com/uk-gov-mirror/alphagov.spike-crossplane-db-roles-management) | Spike how easily crossplane can manage a readonly and writer role in aws rds | 2026-08-15 |
 | [`govuk-rota-generator`](https://github.com/uk-gov-mirror/alphagov.govuk-rota-generator) |  | 2025-11-04* |
-
-## [communitiesuk](https://github.com/communitiesuk) (4)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`python-cookiecutter-uv`](https://github.com/uk-gov-mirror/communitiesuk.python-cookiecutter-uv) | uv cookiecutter template | 2026-09-10 |
-| [`cdp_core`](https://github.com/uk-gov-mirror/communitiesuk.cdp_core) |  | 2025-11-03* |
-| [`sgba-dr-automation`](https://github.com/uk-gov-mirror/communitiesuk.sgba-dr-automation) | Github repository for the DR automation  | 2025-10-10* |
-| [`prototype-funding-microservice-data-aggregator`](https://github.com/uk-gov-mirror/communitiesuk.prototype-funding-microservice-data-aggregator) |  | 2021-04-21* |
 
 ## [nhsbsa-data-analytics](https://github.com/nhsbsa-data-analytics) (4)
 

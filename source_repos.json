@@ -4096,6 +4096,16 @@
     "original_url": "https://github.com/ONSdigital/census31-fwmt-fulfillment-event-service"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4)",
+    "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
+    "mirror_name": "ONSdigital.census31-fwmt-gateway-version-tracker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker",
+    "name": "census31-fwmt-gateway-version-tracker",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/census31-fwmt-gateway-version-tracker"
+  },
+  {
     "deleted_on": "2026-10-24",
     "description": "Census 2031 FWMT: census31-fwmt-gateway-version-tracker (seeded from 2021, FMT-4)",
     "full_name": "uk-gov-mirror/ONSdigital.census31-fwmt-gateway-version-tracker.replaced.2026-10-23",
@@ -15594,6 +15604,16 @@
     "original_url": "https://github.com/co-cddo/domains-data-share-client"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "App for the Business Case Improvement Project",
+    "full_name": "uk-gov-mirror/communitiesuk.business-case-improvement-app",
+    "mirror_name": "communitiesuk.business-case-improvement-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/communitiesuk.business-case-improvement-app",
+    "name": "business-case-improvement-app",
+    "org": "communitiesuk",
+    "original_url": "https://github.com/communitiesuk/business-case-improvement-app"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-11-03",
     "description": null,
@@ -25253,6 +25273,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-vagrant-repo"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": "Service that queries the veracode api and collects information about hmpps projects and pushes it to the service catalogue.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-veracode-discovery",
+    "mirror_name": "ministryofjustice.hmpps-veracode-discovery",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-veracode-discovery",
+    "name": "hmpps-veracode-discovery",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-veracode-discovery"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "A service to handle prison configurations for visits to prisons",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-visits-prison-config-service",
@@ -25541,6 +25571,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-data-claims-certificated-api"
   },
   {
+    "deleted_on": "2026-10-28",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-event-service",
+    "mirror_name": "ministryofjustice.laa-data-claims-event-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-event-service",
+    "name": "laa-data-claims-event-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-event-service"
+  },
+  {
     "deleted_on": "2026-10-13",
     "description": "Java service to generate claims reports",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service",
@@ -25684,6 +25724,16 @@
     "name": "moj-ds-accessibility-audit",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/moj-ds-accessibility-audit"
+  },
+  {
+    "deleted_on": "2026-10-28",
+    "description": "Simple JWT Auth ruby gem with middleware for Faraday and Grape",
+    "full_name": "uk-gov-mirror/ministryofjustice.moj-simple-jwt-auth",
+    "mirror_name": "ministryofjustice.moj-simple-jwt-auth",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.moj-simple-jwt-auth",
+    "name": "moj-simple-jwt-auth",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/moj-simple-jwt-auth"
   },
   {
     "deleted_on": "2026-08-22",
@@ -26136,6 +26186,16 @@
     "name": "opg-make-lpa",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/opg-make-lpa"
+  },
+  {
+    "deleted_on": "2026-10-28",
+    "description": "Prototype of future Make LPA features: Managed by opg-org-infra & Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.opg-make-lpa-prototype",
+    "mirror_name": "ministryofjustice.opg-make-lpa-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.opg-make-lpa-prototype",
+    "name": "opg-make-lpa-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/opg-make-lpa-prototype"
   },
   {
     "deleted_on": "2026-10-22",
