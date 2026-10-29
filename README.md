@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3195**
+Total deleted repositories: **3201**
 Organisations affected: **88**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,7 +10,7 @@ xychart-beta
     title "Repositories deleted per quarter"
     x-axis ["2020 Q1", "2020 Q2", "2020 Q3", "2020 Q4", "2021 Q1", "2021 Q2", "2021 Q3", "2021 Q4", "2022 Q1", "2022 Q2", "2022 Q3", "2022 Q4", "2023 Q1", "2023 Q2", "2023 Q3", "2023 Q4", "2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4", "2026 Q1", "2026 Q2", "2026 Q3", "2026 Q4"]
     y-axis "Deleted repos"
-    bar [6, 6, 147, 329, 160, 109, 25, 20, 14, 35, 9, 1, 37, 9, 2, 19, 28, 16, 18, 15, 24, 26, 36, 41, 19, 246, 503, 1247]
+    bar [6, 6, 147, 329, 160, 109, 25, 20, 14, 35, 9, 1, 37, 9, 2, 19, 28, 16, 18, 15, 24, 26, 36, 41, 19, 246, 503, 1253]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
@@ -18,7 +18,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ONSdigital](https://github.com/ONSdigital) | [**972**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.3% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**410**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.5% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**416**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.7% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
@@ -76,7 +76,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [Civil-Service-Human-Resources](https://github.com/Civil-Service-Human-Resources) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Civil-Service-Human-Resources.%22) | 2.1% |
 | [Crown-Commercial-Service](https://github.com/Crown-Commercial-Service) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Crown-Commercial-Service.%22) | 0.5% |
 | [Defra-Data-Science-Centre-of-Excellence](https://github.com/Defra-Data-Science-Centre-of-Excellence) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Defra-Data-Science-Centre-of-Excellence.%22) | 2.3% |
-| [HistoricEngland](https://github.com/HistoricEngland) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22HistoricEngland.%22) | 4.3% |
+| [HistoricEngland](https://github.com/HistoricEngland) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22HistoricEngland.%22) | 4.2% |
 | [LocalGovDigital](https://github.com/LocalGovDigital) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LocalGovDigital.%22) | 7.1% |
 | [NHS-Blood-and-Transplant](https://github.com/NHS-Blood-and-Transplant) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Blood-and-Transplant.%22) | 100.0% |
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
@@ -1083,10 +1083,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (410)
+## [ministryofjustice](https://github.com/ministryofjustice) (416)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-approved-premises-future-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-future-manage-api) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements | 2026-10-29 |
+| [`hmpps-prisoner-monies-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-api) | API for the Prisoner Monies service, supporting apps such as Send Money to Prisoners (bootstrapped 2026-09-28) | 2026-10-29 |
+| [`hmpps-prisoner-monies-email-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-email-service-api) | A service to manage utilities relating to sending emails, such as handling GovNotify callbacks and delivery receipts, and facilitating file downloads from links in emails sent to a user (bootstrapped 2026-06-18) | 2026-10-29 |
+| [`hmpps-prisoner-monies-public-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-public-ui) | This is the public facing project for Prisoner Monies and includes components such as Send Money to Prisoners. (bootstrapped 2026-09-09) | 2026-10-29 |
+| [`hmpps-prisoner-monies-send-money-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-send-money-ui) | This is the public facing service for Send Money to Prisoners, and also contains the initial start/welcome page. This project is a migration from a legacy python app over to Express to standardise the codebase. (bootstrapped 2026-05-26) | 2026-10-29 |
+| [`hmpps-prisoner-monies-staff-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-staff-ui) | This is the service that provides authenticated staff users functionality to perform their duties as part of the Send Money to Prisoners flow. (bootstrapped 2026-09-08) | 2026-10-29 |
 | [`hmpps-veracode-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-veracode-discovery) | Service that queries the veracode api and collects information about hmpps projects and pushes it to the service catalogue. | 2026-10-28 |
 | [`kubernetes-pod-broadcaster`](https://github.com/uk-gov-mirror/ministryofjustice.kubernetes-pod-broadcaster) | A containerised server to broadcast requests to multiple Kubernetes pods | 2026-10-28 |
 | [`laa-data-claims-event-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-event-service) |  | 2026-10-28 |
