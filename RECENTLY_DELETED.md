@@ -11,13 +11,23 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-transforms) |  | 2026-10-30 |
 | [ONSdigital](https://github.com/ONSdigital) | [`Data-Sci-Eng-agenda`](https://github.com/uk-gov-mirror/ONSdigital.Data-Sci-Eng-agenda) |  | 2026-10-30 |
 | [ONSdigital](https://github.com/ONSdigital) | [`address-toolkit`](https://github.com/uk-gov-mirror/ONSdigital.address-toolkit) | A package for cleaning, validating, extracting and contextualising addresses with PySpark. | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`dtfs-constants`](https://github.com/uk-gov-mirror/UK-Export-Finance.dtfs-constants) | Github package used to store constants that are imported in the DTFS project | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`keystonejs-examples`](https://github.com/uk-gov-mirror/UK-Export-Finance.keystonejs-examples) |  | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`loan-servicing-prototype`](https://github.com/uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype) | Loan Servicing prototyping | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`mulesoft-ukef-mule-common`](https://github.com/uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common) | mulesoft-ukef-mule-common | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototype-kit-dtfs-portal`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototype-kit-dtfs-portal) | Prototype Kit for DTFS Portal  | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-credit-risk`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk) |  | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-customer-record`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record) |  | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-stb`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb) |  | 2026-10-30 |
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-stb-bank`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank) |  | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`AdminX`](https://github.com/uk-gov-mirror/WMRGL.AdminX) |  | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`Clinic-Planner`](https://github.com/uk-gov-mirror/WMRGL.Clinic-Planner) | C# project - new web-based clinic planner | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`Clinic-X`](https://github.com/uk-gov-mirror/WMRGL.Clinic-X) | C# project - web app for clinicians to manage workload | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`PatientTrackingList`](https://github.com/uk-gov-mirror/WMRGL.PatientTrackingList) | C# project - new web-based patient tracking list | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`StudyLeaveAppraisals`](https://github.com/uk-gov-mirror/WMRGL.StudyLeaveAppraisals) | C# project - web app to allow requesting of study leave, and appraisal data | 2026-10-30 |
+| [WMRGL](https://github.com/WMRGL) | [`WMFACS-Review-List`](https://github.com/uk-gov-mirror/WMRGL.WMFACS-Review-List) | C# project - web-based review list for Cancer Admin | 2026-10-30 |
 | [hmcts](https://github.com/hmcts) | [`appreg-api`](https://github.com/uk-gov-mirror/hmcts.appreg-api) | Applications Register modernisation API | 2026-10-30 |
+| [hmrc](https://github.com/hmrc) | [`transaction-risking-stub`](https://github.com/uk-gov-mirror/hmrc.transaction-risking-stub) |  | 2026-10-30 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-controlled-work-validator`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-controlled-work-validator) | Stateless payment claim validation package | 2026-10-30 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-hmrc-interface-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api) |  | 2026-10-30 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`legal-framework-api`](https://github.com/uk-gov-mirror/ministryofjustice.legal-framework-api) | Internal microservice providing Legal Framework details to the Apply for legal aid service | 2026-10-30 |
@@ -996,13 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-api) | API for analytical querying of the read only SBR | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-ui) | SBR analytical user interface | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-react-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-react-ui) | Statistical Business Register User Interface | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-sampling-service`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sampling-service) | A Sampling service that creates a sample from a given Hive Table (Frame) | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-schema`](https://github.com/uk-gov-mirror/ONSdigital.sbr-schema) | Schema creation for SBR | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-search-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-search-api) | API for searching statistical units | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-sequence`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sequence) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-sql-connector`](https://github.com/uk-gov-mirror/ONSdigital.sbr-sql-connector) | SBR SQL database connector | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-cryptography`](https://github.com/uk-gov-mirror/ONSdigital.sdc-cryptography) | Common code for SDC services that use JWE  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.sds-acceptance-tests) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-cloud-functions`](https://github.com/uk-gov-mirror/ONSdigital.sds-cloud-functions) | Repository for Google Cloud Functions used with SDS | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-common`](https://github.com/uk-gov-mirror/ONSdigital.sds-common) | sds-common is a Python library for common functionality used to interact with SDS | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-loader`](https://github.com/uk-gov-mirror/ONSdigital.sds-loader) | A service for loading data into the Supplementary Data Service (SDS). | 2026-10-23 |

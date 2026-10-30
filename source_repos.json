@@ -13826,6 +13826,26 @@
   },
   {
     "deleted_on": "2026-10-30",
+    "description": "Github package used to store constants that are imported in the DTFS project",
+    "full_name": "uk-gov-mirror/UK-Export-Finance.dtfs-constants",
+    "mirror_name": "UK-Export-Finance.dtfs-constants",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.dtfs-constants",
+    "name": "dtfs-constants",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/dtfs-constants"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/UK-Export-Finance.keystonejs-examples",
+    "mirror_name": "UK-Export-Finance.keystonejs-examples",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.keystonejs-examples",
+    "name": "keystonejs-examples",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/keystonejs-examples"
+  },
+  {
+    "deleted_on": "2026-10-30",
     "description": "Loan Servicing prototyping",
     "full_name": "uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype",
     "mirror_name": "UK-Export-Finance.loan-servicing-prototype",
@@ -13843,6 +13863,16 @@
     "name": "mulesoft-ukef-mule-common",
     "org": "UK-Export-Finance",
     "original_url": "https://github.com/UK-Export-Finance/mulesoft-ukef-mule-common"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "Prototype Kit for DTFS Portal ",
+    "full_name": "uk-gov-mirror/UK-Export-Finance.prototype-kit-dtfs-portal",
+    "mirror_name": "UK-Export-Finance.prototype-kit-dtfs-portal",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.prototype-kit-dtfs-portal",
+    "name": "prototype-kit-dtfs-portal",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/prototype-kit-dtfs-portal"
   },
   {
     "deleted_on": "2026-10-30",
@@ -15629,6 +15659,66 @@
     "name": "test-data-generator.replaced.2026-09-03",
     "org": "VMDDTE",
     "original_url": "https://github.com/VMDDTE/test-data-generator.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/WMRGL.AdminX",
+    "mirror_name": "WMRGL.AdminX",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.AdminX",
+    "name": "AdminX",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/AdminX"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "C# project - new web-based clinic planner",
+    "full_name": "uk-gov-mirror/WMRGL.Clinic-Planner",
+    "mirror_name": "WMRGL.Clinic-Planner",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.Clinic-Planner",
+    "name": "Clinic-Planner",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/Clinic-Planner"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "C# project - web app for clinicians to manage workload",
+    "full_name": "uk-gov-mirror/WMRGL.Clinic-X",
+    "mirror_name": "WMRGL.Clinic-X",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.Clinic-X",
+    "name": "Clinic-X",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/Clinic-X"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "C# project - new web-based patient tracking list",
+    "full_name": "uk-gov-mirror/WMRGL.PatientTrackingList",
+    "mirror_name": "WMRGL.PatientTrackingList",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.PatientTrackingList",
+    "name": "PatientTrackingList",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/PatientTrackingList"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "C# project - web app to allow requesting of study leave, and appraisal data",
+    "full_name": "uk-gov-mirror/WMRGL.StudyLeaveAppraisals",
+    "mirror_name": "WMRGL.StudyLeaveAppraisals",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.StudyLeaveAppraisals",
+    "name": "StudyLeaveAppraisals",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/StudyLeaveAppraisals"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "C# project - web-based review list for Cancer Admin",
+    "full_name": "uk-gov-mirror/WMRGL.WMFACS-Review-List",
+    "mirror_name": "WMRGL.WMFACS-Review-List",
+    "mirror_url": "https://github.com/uk-gov-mirror/WMRGL.WMFACS-Review-List",
+    "name": "WMFACS-Review-List",
+    "org": "WMRGL",
+    "original_url": "https://github.com/WMRGL/WMFACS-Review-List"
   },
   {
     "deleted_on": "2026-09-07",
@@ -20912,6 +21002,16 @@
     "name": "transaction-risking-performance-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/transaction-risking-performance-tests"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.transaction-risking-stub",
+    "mirror_name": "hmrc.transaction-risking-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.transaction-risking-stub",
+    "name": "transaction-risking-stub",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/transaction-risking-stub"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

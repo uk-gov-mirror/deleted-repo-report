@@ -1,16 +1,16 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3216**
-Organisations affected: **89**
+Total deleted repositories: **3226**
+Organisations affected: **90**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
 ```mermaid
 xychart-beta
-    title "Repositories deleted per quarter"
-    x-axis ["2020 Q1", "2020 Q2", "2020 Q3", "2020 Q4", "2021 Q1", "2021 Q2", "2021 Q3", "2021 Q4", "2022 Q1", "2022 Q2", "2022 Q3", "2022 Q4", "2023 Q1", "2023 Q2", "2023 Q3", "2023 Q4", "2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4", "2026 Q1", "2026 Q2", "2026 Q3", "2026 Q4"]
+    title "Repositories deleted per month"
+    x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [6, 6, 147, 329, 160, 109, 25, 20, 14, 35, 9, 1, 37, 9, 2, 19, 28, 16, 18, 15, 24, 26, 36, 41, 19, 246, 503, 1268]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
@@ -20,7 +20,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [**974**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.4% |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**419**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.8% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
-| [hmrc](https://github.com/hmrc) | [**217**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
+| [hmrc](https://github.com/hmrc) | [**218**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**116**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.6% |
@@ -48,6 +48,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 54.5% |
 | [nhsd-exeter](https://github.com/nhsd-exeter) | [**10**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-exeter.%22) | 100.0% |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [**9**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UK-Export-Finance.%22) | 64.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 14.6% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
@@ -55,7 +56,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
 | [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 4.6% |
-| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UK-Export-Finance.%22) | 54.5% |
+| [WMRGL](https://github.com/WMRGL) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22WMRGL.%22) | 60.0% |
 | [homesengland](https://github.com/homesengland) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22homesengland.%22) | 100.0% |
 | [nhs-england-tools](https://github.com/nhs-england-tools) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-england-tools.%22) | 27.3% |
 | [Digital-Intelligence-Unit](https://github.com/Digital-Intelligence-Unit) | [**5**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Digital-Intelligence-Unit.%22) | 50.0% |
@@ -1787,10 +1788,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prescribing-demo`](https://github.com/uk-gov-mirror/nhsdigital.prescribing-demo) | EPS Steel thread application | 2020-09-28* |
 | [`nhs-login-features-prototype`](https://github.com/uk-gov-mirror/nhsdigital.nhs-login-features-prototype) |  | 2020-08-24* |
 
-## [hmrc](https://github.com/hmrc) (217)
+## [hmrc](https://github.com/hmrc) (218)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`transaction-risking-stub`](https://github.com/uk-gov-mirror/hmrc.transaction-risking-stub) |  | 2026-10-30 |
 | [`carf-reporting-performance-tests.replaced.2026-10-23`](https://github.com/uk-gov-mirror/hmrc.carf-reporting-performance-tests.replaced.2026-10-23) |  | 2026-10-24 |
 | [`rds-datacache-proxy-performance-tests.replaced.2026-10-23`](https://github.com/uk-gov-mirror/hmrc.rds-datacache-proxy-performance-tests.replaced.2026-10-23) |  | 2026-10-24 |
 | [`transaction-risking`](https://github.com/uk-gov-mirror/hmrc.transaction-risking) |  | 2026-10-23 |
@@ -3337,6 +3339,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`uec-sf-sfrunner`](https://github.com/uk-gov-mirror/nhsd-exeter.uec-sf-sfrunner) | This is a docker image that contains everything needed to build, run, and test Direct Search (Service Finder) | 2026-05-02* |
 | [`service-finder-api-auth`](https://github.com/uk-gov-mirror/nhsd-exeter.service-finder-api-auth) | Repository for the service finder API authentication capability | 2026-05-01* |
 
+## [UK-Export-Finance](https://github.com/UK-Export-Finance) (9)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`dtfs-constants`](https://github.com/uk-gov-mirror/UK-Export-Finance.dtfs-constants) | Github package used to store constants that are imported in the DTFS project | 2026-10-30 |
+| [`keystonejs-examples`](https://github.com/uk-gov-mirror/UK-Export-Finance.keystonejs-examples) |  | 2026-10-30 |
+| [`loan-servicing-prototype`](https://github.com/uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype) | Loan Servicing prototyping | 2026-10-30 |
+| [`mulesoft-ukef-mule-common`](https://github.com/uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common) | mulesoft-ukef-mule-common | 2026-10-30 |
+| [`prototype-kit-dtfs-portal`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototype-kit-dtfs-portal) | Prototype Kit for DTFS Portal  | 2026-10-30 |
+| [`prototypekit-credit-risk`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk) |  | 2026-10-30 |
+| [`prototypekit-customer-record`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record) |  | 2026-10-30 |
+| [`prototypekit-stb`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb) |  | 2026-10-30 |
+| [`prototypekit-stb-bank`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank) |  | 2026-10-30 |
+
 ## [NHSX](https://github.com/NHSX) (7)
 
 | Repository | Description | Deleted On |
@@ -3419,16 +3435,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`WSIA-UC-weekly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
 | [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
 
-## [UK-Export-Finance](https://github.com/UK-Export-Finance) (6)
+## [WMRGL](https://github.com/WMRGL) (6)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
-| [`loan-servicing-prototype`](https://github.com/uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype) | Loan Servicing prototyping | 2026-10-30 |
-| [`mulesoft-ukef-mule-common`](https://github.com/uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common) | mulesoft-ukef-mule-common | 2026-10-30 |
-| [`prototypekit-credit-risk`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk) |  | 2026-10-30 |
-| [`prototypekit-customer-record`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record) |  | 2026-10-30 |
-| [`prototypekit-stb`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb) |  | 2026-10-30 |
-| [`prototypekit-stb-bank`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank) |  | 2026-10-30 |
+| [`AdminX`](https://github.com/uk-gov-mirror/WMRGL.AdminX) |  | 2026-10-30 |
+| [`Clinic-Planner`](https://github.com/uk-gov-mirror/WMRGL.Clinic-Planner) | C# project - new web-based clinic planner | 2026-10-30 |
+| [`Clinic-X`](https://github.com/uk-gov-mirror/WMRGL.Clinic-X) | C# project - web app for clinicians to manage workload | 2026-10-30 |
+| [`PatientTrackingList`](https://github.com/uk-gov-mirror/WMRGL.PatientTrackingList) | C# project - new web-based patient tracking list | 2026-10-30 |
+| [`StudyLeaveAppraisals`](https://github.com/uk-gov-mirror/WMRGL.StudyLeaveAppraisals) | C# project - web app to allow requesting of study leave, and appraisal data | 2026-10-30 |
+| [`WMFACS-Review-List`](https://github.com/uk-gov-mirror/WMRGL.WMFACS-Review-List) | C# project - web-based review list for Cancer Admin | 2026-10-30 |
 
 ## [homesengland](https://github.com/homesengland) (6)
 
