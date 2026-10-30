@@ -6,6 +6,21 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONS-OpenData](https://github.com/ONS-OpenData) | [`census-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.census-transforms) |  | 2026-10-30 |
+| [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-traffic-camera-activity`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-traffic-camera-activity) |  | 2026-10-30 |
+| [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-transforms) |  | 2026-10-30 |
+| [ONSdigital](https://github.com/ONSdigital) | [`Data-Sci-Eng-agenda`](https://github.com/uk-gov-mirror/ONSdigital.Data-Sci-Eng-agenda) |  | 2026-10-30 |
+| [ONSdigital](https://github.com/ONSdigital) | [`address-toolkit`](https://github.com/uk-gov-mirror/ONSdigital.address-toolkit) | A package for cleaning, validating, extracting and contextualising addresses with PySpark. | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`loan-servicing-prototype`](https://github.com/uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype) | Loan Servicing prototyping | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`mulesoft-ukef-mule-common`](https://github.com/uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common) | mulesoft-ukef-mule-common | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-credit-risk`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk) |  | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-customer-record`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record) |  | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-stb`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb) |  | 2026-10-30 |
+| [UK-Export-Finance](https://github.com/UK-Export-Finance) | [`prototypekit-stb-bank`](https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank) |  | 2026-10-30 |
+| [hmcts](https://github.com/hmcts) | [`appreg-api`](https://github.com/uk-gov-mirror/hmcts.appreg-api) | Applications Register modernisation API | 2026-10-30 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-controlled-work-validator`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-controlled-work-validator) | Stateless payment claim validation package | 2026-10-30 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-hmrc-interface-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api) |  | 2026-10-30 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`legal-framework-api`](https://github.com/uk-gov-mirror/ministryofjustice.legal-framework-api) | Internal microservice providing Legal Framework details to the Apply for legal aid service | 2026-10-30 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-approved-premises-future-manage-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-approved-premises-future-manage-api) | Future Manage is the umbrella term for digital work transforming how Approved Premises staff plan, manage and support placements | 2026-10-29 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-prisoner-monies-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-api) | API for the Prisoner Monies service, supporting apps such as Send Money to Prisoners (bootstrapped 2026-09-28) | 2026-10-29 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-prisoner-monies-email-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-monies-email-service-api) | A service to manage utilities relating to sending emails, such as handling GovNotify callbacks and delivery receipts, and facilitating file downloads from links in emails sent to a user (bootstrapped 2026-06-18) | 2026-10-29 |
@@ -991,18 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sds-cloud-functions`](https://github.com/uk-gov-mirror/ONSdigital.sds-cloud-functions) | Repository for Google Cloud Functions used with SDS | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sds-common`](https://github.com/uk-gov-mirror/ONSdigital.sds-common) | sds-common is a Python library for common functionality used to interact with SDS | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sds-loader`](https://github.com/uk-gov-mirror/ONSdigital.sds-loader) | A service for loading data into the Supplementary Data Service (SDS). | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-locustio`](https://github.com/uk-gov-mirror/ONSdigital.sds-locustio) | This repository contains the locust performance testing components for the SDS application. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-prototype-schema`](https://github.com/uk-gov-mirror/ONSdigital.sds-prototype-schema) | SDS repo for setting up triggers/workflows and test tagging for schemas | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-cleanup`](https://github.com/uk-gov-mirror/ONSdigital.sdx-cleanup) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-collate`](https://github.com/uk-gov-mirror/ONSdigital.sdx-collate) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-fastapi-boilerplate`](https://github.com/uk-gov-mirror/ONSdigital.sdx-fastapi-boilerplate) | A boilerplate for creating fastapi services | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-image`](https://github.com/uk-gov-mirror/ONSdigital.sdx-image) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-seft`](https://github.com/uk-gov-mirror/ONSdigital.sdx-seft) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-survey`](https://github.com/uk-gov-mirror/ONSdigital.sdx-survey) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-tester`](https://github.com/uk-gov-mirror/ONSdigital.sdx-tester) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-transformer`](https://github.com/uk-gov-mirror/ONSdigital.sdx-transformer) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sml-aws-glue-test-harness`](https://github.com/uk-gov-mirror/ONSdigital.sml-aws-glue-test-harness) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`spp-cognito-auth`](https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-auth) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`spp-cognito-poc`](https://github.com/uk-gov-mirror/ONSdigital.spp-cognito-poc) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`spp-contract-testing`](https://github.com/uk-gov-mirror/ONSdigital.spp-contract-testing) | A library to make testing contracts between components of SPP seamless | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`spp-crosscutting-intercom`](https://github.com/uk-gov-mirror/ONSdigital.spp-crosscutting-intercom) |  | 2026-10-23 |

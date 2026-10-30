@@ -1714,6 +1714,16 @@
     "original_url": "https://github.com/ONS-Innovation/test-repo-trial-bt"
   },
   {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-OpenData.census-transforms",
+    "mirror_name": "ONS-OpenData.census-transforms",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.census-transforms",
+    "name": "census-transforms",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/census-transforms"
+  },
+  {
     "deleted_on": "2026-10-23",
     "description": null,
     "full_name": "uk-gov-mirror/ONS-OpenData.cmd-api-pipeline",
@@ -1722,6 +1732,26 @@
     "name": "cmd-api-pipeline",
     "org": "ONS-OpenData",
     "original_url": "https://github.com/ONS-OpenData/cmd-api-pipeline"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-OpenData.cmd-traffic-camera-activity",
+    "mirror_name": "ONS-OpenData.cmd-traffic-camera-activity",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.cmd-traffic-camera-activity",
+    "name": "cmd-traffic-camera-activity",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/cmd-traffic-camera-activity"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONS-OpenData.cmd-transforms",
+    "mirror_name": "ONS-OpenData.cmd-transforms",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONS-OpenData.cmd-transforms",
+    "name": "cmd-transforms",
+    "org": "ONS-OpenData",
+    "original_url": "https://github.com/ONS-OpenData/cmd-transforms"
   },
   {
     "deleted_on": "2026-10-23",
@@ -1822,6 +1852,16 @@
     "name": "Capstock_package",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/Capstock_package"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.Data-Sci-Eng-agenda",
+    "mirror_name": "ONSdigital.Data-Sci-Eng-agenda",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.Data-Sci-Eng-agenda",
+    "name": "Data-Sci-Eng-agenda",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/Data-Sci-Eng-agenda"
   },
   {
     "deleted_on": "2026-10-27",
@@ -2072,6 +2112,16 @@
     "name": "address-index-ui.replaced.2026-08-20",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/address-index-ui.replaced.2026-08-20"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "A package for cleaning, validating, extracting and contextualising addresses with PySpark.",
+    "full_name": "uk-gov-mirror/ONSdigital.address-toolkit",
+    "mirror_name": "ONSdigital.address-toolkit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.address-toolkit",
+    "name": "address-toolkit",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/address-toolkit"
   },
   {
     "deleted_on": "2026-10-23",
@@ -13775,6 +13825,66 @@
     "original_url": "https://github.com/TransportForLondon/TFL-DevOps-Test"
   },
   {
+    "deleted_on": "2026-10-30",
+    "description": "Loan Servicing prototyping",
+    "full_name": "uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype",
+    "mirror_name": "UK-Export-Finance.loan-servicing-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.loan-servicing-prototype",
+    "name": "loan-servicing-prototype",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/loan-servicing-prototype"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "mulesoft-ukef-mule-common",
+    "full_name": "uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common",
+    "mirror_name": "UK-Export-Finance.mulesoft-ukef-mule-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.mulesoft-ukef-mule-common",
+    "name": "mulesoft-ukef-mule-common",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/mulesoft-ukef-mule-common"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk",
+    "mirror_name": "UK-Export-Finance.prototypekit-credit-risk",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-credit-risk",
+    "name": "prototypekit-credit-risk",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/prototypekit-credit-risk"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record",
+    "mirror_name": "UK-Export-Finance.prototypekit-customer-record",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-customer-record",
+    "name": "prototypekit-customer-record",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/prototypekit-customer-record"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/UK-Export-Finance.prototypekit-stb",
+    "mirror_name": "UK-Export-Finance.prototypekit-stb",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb",
+    "name": "prototypekit-stb",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/prototypekit-stb"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank",
+    "mirror_name": "UK-Export-Finance.prototypekit-stb-bank",
+    "mirror_url": "https://github.com/uk-gov-mirror/UK-Export-Finance.prototypekit-stb-bank",
+    "name": "prototypekit-stb-bank",
+    "org": "UK-Export-Finance",
+    "original_url": "https://github.com/UK-Export-Finance/prototypekit-stb-bank"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-10",
     "description": null,
@@ -18327,6 +18437,16 @@
     "name": "am-role-assignment-e2e-tests",
     "org": "hmcts",
     "original_url": "https://github.com/hmcts/am-role-assignment-e2e-tests"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "Applications Register modernisation API",
+    "full_name": "uk-gov-mirror/hmcts.appreg-api",
+    "mirror_name": "hmcts.appreg-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.appreg-api",
+    "name": "appreg-api",
+    "org": "hmcts",
+    "original_url": "https://github.com/hmcts/appreg-api"
   },
   {
     "deleted_on": null,
@@ -25651,6 +25771,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-data-claims-reporting-service"
   },
   {
+    "deleted_on": "2026-10-30",
+    "description": "Stateless payment claim validation package",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-controlled-work-validator",
+    "mirror_name": "ministryofjustice.laa-data-controlled-work-validator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-controlled-work-validator",
+    "name": "laa-data-controlled-work-validator",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-controlled-work-validator"
+  },
+  {
     "deleted_on": "2026-09-18",
     "description": "A collaborative playground for the Data Stewardship team to explore, prototype, and share data models and schema examples using OpenAPI and Swagger.",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-data-openapi-workbench",
@@ -25670,6 +25800,16 @@
     "name": "laa-data-stewardship-civil-claims-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-data-stewardship-civil-claims-api"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api",
+    "mirror_name": "ministryofjustice.laa-hmrc-interface-service-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api",
+    "name": "laa-hmrc-interface-service-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-hmrc-interface-service-api"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -25732,6 +25872,16 @@
     "name": "lawcom",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/lawcom"
+  },
+  {
+    "deleted_on": "2026-10-30",
+    "description": "Internal microservice providing Legal Framework details to the Apply for legal aid service",
+    "full_name": "uk-gov-mirror/ministryofjustice.legal-framework-api",
+    "mirror_name": "ministryofjustice.legal-framework-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.legal-framework-api",
+    "name": "legal-framework-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/legal-framework-api"
   },
   {
     "approximate_date_source": "last-git-activity",
