@@ -49,29 +49,34 @@ def deleted_on_display(r):
 
 
 def deletion_chart(repos):
-    by_quarter = defaultdict(int)
+    by_month = defaultdict(int)
     for r in repos:
         deleted_on = r.get("deleted_on")
         if deleted_on:
-            year, month = int(deleted_on[:4]), int(deleted_on[5:7])
-            by_quarter[(year, (month - 1) // 3 + 1)] += 1
+            by_month[(int(deleted_on[:4]), int(deleted_on[5:7]))] += 1
 
-    if not by_quarter:
+    if not by_month:
         return []
 
-    quarters = []
-    year, quarter = min(by_quarter)
-    while (year, quarter) <= max(by_quarter):
-        quarters.append((year, quarter))
-        year, quarter = (year + 1, 1) if quarter == 4 else (year, quarter + 1)
+    months = []
+    year, month = min(by_month)
+    while (year, month) <= max(by_month):
+        months.append((year, month))
+        year, month = (year + 1, 1) if month == 12 else (year, month + 1)
 
-    labels = ", ".join('"%s Q%s"' % q for q in quarters)
-    counts = ", ".join(str(by_quarter[q]) for q in quarters)
+    # We only show labels on January because otherwise the graph legend is
+    # unreadable, but Mermaid will merge labels with the same name (including
+    # null) so we do a truly cursed thing and give each month a unique number
+    # of zero-width spaces as a label.
+    labels = ", ".join(
+        '"%s"' % (year if month == 1 else "\u200b" * (i + 1)) for i, (year, month) in enumerate(months)
+    )
+    counts = ", ".join(str(by_month[m]) for m in months)
 
     return [
         "```mermaid",
         "xychart-beta",
-        '    title "Repositories deleted per quarter"',
+        '    title "Repositories deleted per month"',
         "    x-axis [%s]" % labels,
         '    y-axis "Deleted repos"',
         "    bar [%s]" % counts,
