@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-record-controlled-work`](https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work) | LAA Record Controlled Work | 2026-11-01 |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`census-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.census-transforms) |  | 2026-10-30 |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-traffic-camera-activity`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-traffic-camera-activity) |  | 2026-10-30 |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-transforms) |  | 2026-10-30 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-int-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-int-test) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-api) | API for analytical querying of the read only SBR | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-ui) | SBR analytical user interface | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-react-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-react-ui) | Statistical Business Register User Interface | 2026-10-23 |

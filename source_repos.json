@@ -25954,6 +25954,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-provider-data-platform"
   },
   {
+    "deleted_on": "2026-11-01",
+    "description": "LAA Record Controlled Work",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-record-controlled-work",
+    "mirror_name": "ministryofjustice.laa-record-controlled-work",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work",
+    "name": "laa-record-controlled-work",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-record-controlled-work"
+  },
+  {
     "deleted_on": "2026-09-18",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.laa-test-a-provider-data-ui",
