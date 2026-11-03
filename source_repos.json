@@ -1214,6 +1214,16 @@
     "original_url": "https://github.com/NISRA-Tech-Lab/128-csu-mi-automation"
   },
   {
+    "deleted_on": "2026-11-03",
+    "description": null,
+    "full_name": "uk-gov-mirror/NISRA-Tech-Lab.quick-read-population",
+    "mirror_name": "NISRA-Tech-Lab.quick-read-population",
+    "mirror_url": "https://github.com/uk-gov-mirror/NISRA-Tech-Lab.quick-read-population",
+    "name": "quick-read-population",
+    "org": "NISRA-Tech-Lab",
+    "original_url": "https://github.com/NISRA-Tech-Lab/quick-read-population"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "The IPO's common reusable components.",
     "full_name": "uk-gov-mirror/Network-Rail-Business-Systems.common.replaced.2026-08-20",
@@ -23629,6 +23639,16 @@
     "original_url": "https://github.com/ministryofjustice/court-list-splitter"
   },
   {
+    "deleted_on": "2026-11-03",
+    "description": "Create and vary a licence wiremock that mimics delius",
+    "full_name": "uk-gov-mirror/ministryofjustice.create-and-vary-a-licence-wiremock",
+    "mirror_name": "ministryofjustice.create-and-vary-a-licence-wiremock",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.create-and-vary-a-licence-wiremock",
+    "name": "create-and-vary-a-licence-wiremock",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/create-and-vary-a-licence-wiremock"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.data-docs-public.replaced.2026-09-03",
@@ -25491,6 +25511,16 @@
     "name": "hmpps-tech-docs",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-tech-docs"
+  },
+  {
+    "deleted_on": "2026-11-03",
+    "description": "A scheduled process to check whether documents in the hmpps-tech-docs (and potentially other) repository are overdue for review (bootstrapped 2025-09-18)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tech-docs-monitor",
+    "mirror_name": "ministryofjustice.hmpps-tech-docs-monitor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs-monitor",
+    "name": "hmpps-tech-docs-monitor",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-tech-docs-monitor"
   },
   {
     "deleted_on": "2026-08-22",

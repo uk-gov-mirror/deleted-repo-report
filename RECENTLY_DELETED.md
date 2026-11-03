@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [`quick-read-population`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.quick-read-population) |  | 2026-11-03 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`create-and-vary-a-licence-wiremock`](https://github.com/uk-gov-mirror/ministryofjustice.create-and-vary-a-licence-wiremock) | Create and vary a licence wiremock that mimics delius | 2026-11-03 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-tech-docs-monitor`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs-monitor) | A scheduled process to check whether documents in the hmpps-tech-docs (and potentially other) repository are overdue for review (bootstrapped 2025-09-18) | 2026-11-03 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`laa-record-controlled-work`](https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work) | LAA Record Controlled Work | 2026-11-01 |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`census-transforms`](https://github.com/uk-gov-mirror/ONS-OpenData.census-transforms) |  | 2026-10-30 |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-traffic-camera-activity`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-traffic-camera-activity) |  | 2026-10-30 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-data-validator`](https://github.com/uk-gov-mirror/ONSdigital.sbr-data-validator) | encapsulates data validation processes | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-hbase-connector`](https://github.com/uk-gov-mirror/ONSdigital.sbr-hbase-connector) | Connector to the the SBR HBase operational data store | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-idbr-data-load`](https://github.com/uk-gov-mirror/ONSdigital.sbr-idbr-data-load) | Loads extract files from IDBR into SBR | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-int-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-int-test) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-api`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-api) | API for analytical querying of the read only SBR | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-query-ui`](https://github.com/uk-gov-mirror/ONSdigital.sbr-query-ui) | SBR analytical user interface | 2026-10-23 |

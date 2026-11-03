@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3227**
+Total deleted repositories: **3230**
 Organisations affected: **90**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,7 +10,7 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 1]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 4]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
@@ -18,7 +18,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
 | [ONSdigital](https://github.com/ONSdigital) | [**974**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 78.5% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**420**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.8% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**422**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 15.9% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
 | [hmrc](https://github.com/hmrc) | [**218**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
@@ -51,7 +51,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [**9**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UK-Export-Finance.%22) | 64.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 14.6% |
-| [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.5% |
+| [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.4% |
 | [jncc](https://github.com/jncc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22jncc.%22) | 8.1% |
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
@@ -70,6 +70,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [LandRegistry](https://github.com/LandRegistry) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22LandRegistry.%22) | 0.7% |
 | [MetOffice](https://github.com/MetOffice) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22MetOffice.%22) | 1.7% |
 | [NHSLeadership](https://github.com/NHSLeadership) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSLeadership.%22) | 7.4% |
+| [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NISRA-Tech-Lab.%22) | 4.9% |
 | [dstl](https://github.com/dstl) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dstl.%22) | 5.9% |
 | [nw-gmsa](https://github.com/nw-gmsa) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nw-gmsa.%22) | 22.2% |
 | [ukhsa-collaboration](https://github.com/ukhsa-collaboration) | [**2**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-collaboration.%22) | 1.2% |
@@ -84,7 +85,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [NHS-Wales-CTeS](https://github.com/NHS-Wales-CTeS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHS-Wales-CTeS.%22) | 100.0% |
 | [NHSE-NDRS](https://github.com/NHSE-NDRS) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSE-NDRS.%22) | 8.3% |
 | [NHSISL](https://github.com/NHSISL) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSISL.%22) | 7.7% |
-| [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NISRA-Tech-Lab.%22) | 2.4% |
 | [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Network-Rail-Business-Systems.%22) | 5.3% |
 | [ONSBigData](https://github.com/ONSBigData) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSBigData.%22) | 2.6% |
 | [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22The-Strategy-Unit.%22) | 0.7% |
@@ -1087,10 +1087,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (420)
+## [ministryofjustice](https://github.com/ministryofjustice) (422)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`create-and-vary-a-licence-wiremock`](https://github.com/uk-gov-mirror/ministryofjustice.create-and-vary-a-licence-wiremock) | Create and vary a licence wiremock that mimics delius | 2026-11-03 |
+| [`hmpps-tech-docs-monitor`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs-monitor) | A scheduled process to check whether documents in the hmpps-tech-docs (and potentially other) repository are overdue for review (bootstrapped 2025-09-18) | 2026-11-03 |
 | [`laa-record-controlled-work`](https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work) | LAA Record Controlled Work | 2026-11-01 |
 | [`laa-data-controlled-work-validator`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-controlled-work-validator) | Stateless payment claim validation package | 2026-10-30 |
 | [`laa-hmrc-interface-service-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api) |  | 2026-10-30 |
@@ -3560,6 +3562,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`nhsl-ubuntu-php`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php) | Production Docker images for NHS LA sites. | 2026-09-25 |
 | [`pdf`](https://github.com/uk-gov-mirror/NHSLeadership.pdf) | PDF rendering service | 2026-03-06* |
 
+## [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) (2)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`quick-read-population`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.quick-read-population) |  | 2026-11-03 |
+| [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
+
 ## [dstl](https://github.com/dstl) (2)
 
 | Repository | Description | Deleted On |
@@ -3646,12 +3655,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`LondonFhirService`](https://github.com/uk-gov-mirror/NHSISL.LondonFhirService) |  | 2026-10-14 |
-
-## [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) (1)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`128-csu-mi-automation`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.128-csu-mi-automation) |  | 2026-10-08 |
 
 ## [Network-Rail-Business-Systems](https://github.com/Network-Rail-Business-Systems) (1)
 
