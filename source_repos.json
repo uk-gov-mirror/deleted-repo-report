@@ -7101,6 +7101,16 @@
     "original_url": "https://github.com/ONSdigital/eq-survey-register"
   },
   {
+    "deleted_on": "2026-11-04",
+    "description": "A benchmarking tool for EQ Survey Runner",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-survey-runner-benchmark",
+    "mirror_name": "ONSdigital.eq-survey-runner-benchmark",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-survey-runner-benchmark",
+    "name": "eq-survey-runner-benchmark",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-survey-runner-benchmark"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.eq-survey-runner-deploy",
@@ -24660,6 +24670,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-github-actions-runner-security"
   },
   {
+    "deleted_on": "2026-11-04",
+    "description": "This repo will comprise of hardened HMPPS container images (bootstrapped 2026-08-10)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hardened-container-images",
+    "mirror_name": "ministryofjustice.hmpps-hardened-container-images",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hardened-container-images",
+    "name": "hmpps-hardened-container-images",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-hardened-container-images"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "API for managing HDC licences",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hdc-api.replaced.2026-09-03",
@@ -25089,6 +25109,16 @@
     "name": "hmpps-one-plan-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-one-plan-ui"
+  },
+  {
+    "deleted_on": "2026-11-04",
+    "description": "An API to provide data about partnering organisations for HMPPS. This includes employers of official visitors, providers of work, education or services, and financial remittance. (bootstrapped 2025-01-30)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-organisations-api",
+    "mirror_name": "ministryofjustice.hmpps-organisations-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-organisations-api",
+    "name": "hmpps-organisations-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-organisations-api"
   },
   {
     "deleted_on": "2026-09-03",
@@ -25858,6 +25888,16 @@
     "name": "laa-criminal-applications-testing",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-criminal-applications-testing"
+  },
+  {
+    "deleted_on": "2026-11-04",
+    "description": "LAA Criminal Legal Aid schemas and validators",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-criminal-legal-aid-schemas",
+    "mirror_name": "ministryofjustice.laa-criminal-legal-aid-schemas",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-legal-aid-schemas",
+    "name": "laa-criminal-legal-aid-schemas",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-criminal-legal-aid-schemas"
   },
   {
     "approximate_date_source": "archive.org-gh-org",

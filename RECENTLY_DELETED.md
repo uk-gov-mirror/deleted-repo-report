@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-survey-runner-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.eq-survey-runner-benchmark) | A benchmarking tool for EQ Survey Runner | 2026-11-04 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-hardened-container-images`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hardened-container-images) | This repo will comprise of hardened HMPPS container images (bootstrapped 2026-08-10) | 2026-11-04 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-organisations-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-organisations-api) | An API to provide data about partnering organisations for HMPPS. This includes employers of official visitors, providers of work, education or services, and financial remittance. (bootstrapped 2025-01-30) | 2026-11-04 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-criminal-legal-aid-schemas`](https://github.com/uk-gov-mirror/ministryofjustice.laa-criminal-legal-aid-schemas) | LAA Criminal Legal Aid schemas and validators | 2026-11-04 |
 | [NISRA-Tech-Lab](https://github.com/NISRA-Tech-Lab) | [`quick-read-population`](https://github.com/uk-gov-mirror/NISRA-Tech-Lab.quick-read-population) |  | 2026-11-03 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`create-and-vary-a-licence-wiremock`](https://github.com/uk-gov-mirror/ministryofjustice.create-and-vary-a-licence-wiremock) | Create and vary a licence wiremock that mimics delius | 2026-11-03 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-tech-docs-monitor`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-tech-docs-monitor) | A scheduled process to check whether documents in the hmpps-tech-docs (and potentially other) repository are overdue for review (bootstrapped 2025-09-18) | 2026-11-03 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-survey-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-survey-service) | This microservice manages surveys. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-api-sys-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-api-sys-test) | A collection of tests for the SBR APIs using ScalaTest | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sbr-assembler-calculations`](https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-calculations) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-assembler-common`](https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-common) | Common objects for enterprise-assembler and enterprise-calculations | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-data-validator`](https://github.com/uk-gov-mirror/ONSdigital.sbr-data-validator) | encapsulates data validation processes | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-hbase-connector`](https://github.com/uk-gov-mirror/ONSdigital.sbr-hbase-connector) | Connector to the the SBR HBase operational data store | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-idbr-data-load`](https://github.com/uk-gov-mirror/ONSdigital.sbr-idbr-data-load) | Loads extract files from IDBR into SBR | 2026-10-23 |
