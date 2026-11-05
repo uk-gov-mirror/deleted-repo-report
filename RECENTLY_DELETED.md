@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHSLeadership](https://github.com/NHSLeadership) | [`frankenphp-base`](https://github.com/uk-gov-mirror/NHSLeadership.frankenphp-base) | A base PHP image using FrankenPHP | 2026-11-05 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmcts_common_platform`](https://github.com/uk-gov-mirror/ministryofjustice.hmcts_common_platform) | A library to use Common Platform Reference data within the LAA systems. | 2026-11-05 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-nvd-cache`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nvd-cache) | An online cache of the NIST NVD database, hosted on Github Pages and refreshed twice a day. Used for OWASP scans (bootstrapped 2026-07-02) | 2026-11-05 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-claims-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-api) | LAA Data Claims API | 2026-11-05 |
 | [ONSdigital](https://github.com/ONSdigital) | [`eq-survey-runner-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.eq-survey-runner-benchmark) | A benchmarking tool for EQ Survey Runner | 2026-11-04 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-hardened-container-images`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-hardened-container-images) | This repo will comprise of hardened HMPPS container images (bootstrapped 2026-08-10) | 2026-11-04 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-organisations-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-organisations-api) | An API to provide data about partnering organisations for HMPPS. This includes employers of official visitors, providers of work, education or services, and financial remittance. (bootstrapped 2025-01-30) | 2026-11-04 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-spinnaker-action`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-spinnaker-action) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-survey`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-survey) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`registers-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.registers-performance-tests) | Rudimentary performance tests for sbr-api and sbr-control-api | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-reporting`](https://github.com/uk-gov-mirror/ONSdigital.rm-reporting) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-survey-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-survey-service) | This microservice manages surveys. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-api-sys-test`](https://github.com/uk-gov-mirror/ONSdigital.sbr-api-sys-test) | A collection of tests for the SBR APIs using ScalaTest | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbr-assembler-calculations`](https://github.com/uk-gov-mirror/ONSdigital.sbr-assembler-calculations) |  | 2026-10-23 |

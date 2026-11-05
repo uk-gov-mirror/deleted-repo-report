@@ -1106,6 +1106,16 @@
     "original_url": "https://github.com/NHSISL/LondonFhirService"
   },
   {
+    "deleted_on": "2026-11-05",
+    "description": "A base PHP image using FrankenPHP",
+    "full_name": "uk-gov-mirror/NHSLeadership.frankenphp-base",
+    "mirror_name": "NHSLeadership.frankenphp-base",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSLeadership.frankenphp-base",
+    "name": "frankenphp-base",
+    "org": "NHSLeadership",
+    "original_url": "https://github.com/NHSLeadership/frankenphp-base"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Production Docker images for NHS LA sites.",
     "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
@@ -23812,6 +23822,16 @@
     "original_url": "https://github.com/ministryofjustice/hillsborough"
   },
   {
+    "deleted_on": "2026-11-05",
+    "description": "A library to use Common Platform Reference data within the LAA systems.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmcts_common_platform",
+    "mirror_name": "ministryofjustice.hmcts_common_platform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmcts_common_platform",
+    "name": "hmcts_common_platform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmcts_common_platform"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "A service and data store to support the Single Accommodation Service. (bootstrapped 2025-11-10)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-accommodation-data-domain-api",
@@ -25081,6 +25101,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-nomis-finance-api"
   },
   {
+    "deleted_on": "2026-11-05",
+    "description": "An online cache of the NIST NVD database, hosted on Github Pages and refreshed twice a day. Used for OWASP scans (bootstrapped 2026-07-02)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-nvd-cache",
+    "mirror_name": "ministryofjustice.hmpps-nvd-cache",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nvd-cache",
+    "name": "hmpps-nvd-cache",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-nvd-cache"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "A microservice for registering one-login accounts to HMPPS services",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-login-user-registry",
@@ -25909,6 +25939,16 @@
     "name": "laa-cwa-feature-tests",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-cwa-feature-tests"
+  },
+  {
+    "deleted_on": "2026-11-05",
+    "description": "LAA Data Claims API",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-api",
+    "mirror_name": "ministryofjustice.laa-data-claims-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-api",
+    "name": "laa-data-claims-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-api"
   },
   {
     "deleted_on": "2026-10-08",
