@@ -6,6 +6,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [NHSLeadership](https://github.com/NHSLeadership) | [`nhsl-gravity-forms-name-formatter`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-gravity-forms-name-formatter) | Formats the the first and last names of the person filling out a form to upper case first letter and lower case everything else | 2026-11-06 |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-questionnaire-launcher`](https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-launcher) | A questionnaire launcher for eq-survey-runner | 2026-11-06 |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-questionnaire-validator`](https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-validator) | An API for validating survey schemas | 2026-11-06 |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-translations`](https://github.com/uk-gov-mirror/ONSdigital.eq-translations) | Scripts for translating eq-survey-runner surveys | 2026-11-06 |
+| [defra](https://github.com/defra) | [`fcp-mel-file-service`](https://github.com/uk-gov-mirror/defra.fcp-mel-file-service) | Git repository for service fcp-mel-file-service | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`bulk-submission-and-fee-scheme-tests-`](https://github.com/uk-gov-mirror/ministryofjustice.bulk-submission-and-fee-scheme-tests-) | UI and API tests for bulk submission and Fee scheme  | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`check-financial-eligibility`](https://github.com/uk-gov-mirror/ministryofjustice.check-financial-eligibility) | An API for checking financial eligibility for legal aid | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-amend-a-claim`](https://github.com/uk-gov-mirror/ministryofjustice.laa-amend-a-claim) |  | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-apply-bot`](https://github.com/uk-gov-mirror/ministryofjustice.laa-apply-bot) | Slack bot to allow interactions with LAA Apply applications | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-claims-notify-service`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-notify-service) | LAA Data Stewardship service which consumes events from SNS, then. sends emails using GOV Notify | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-data-claims-parent`](https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-parent) | Parent repository with common docker compose setup scripts | 2026-11-06 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-submit-a-bulk-claim`](https://github.com/uk-gov-mirror/ministryofjustice.laa-submit-a-bulk-claim) | Web application for bulk upload of claims data | 2026-11-06 |
+| [uktrade-recruitment](https://github.com/uktrade-recruitment) | [`data-engineering-heo-pipelines-test`](https://github.com/uk-gov-mirror/uktrade-recruitment.data-engineering-heo-pipelines-test) |  | 2026-11-06 |
+| [uktrade-recruitment](https://github.com/uktrade-recruitment) | [`data-engineering-tech-test-geological-survey-pipelines`](https://github.com/uk-gov-mirror/uktrade-recruitment.data-engineering-tech-test-geological-survey-pipelines) | Tech test for SEO campaign April 2026 | 2026-11-06 |
 | [NHSLeadership](https://github.com/NHSLeadership) | [`frankenphp-base`](https://github.com/uk-gov-mirror/NHSLeadership.frankenphp-base) | A base PHP image using FrankenPHP | 2026-11-05 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmcts_common_platform`](https://github.com/uk-gov-mirror/ministryofjustice.hmcts_common_platform) | A library to use Common Platform Reference data within the LAA systems. | 2026-11-05 |
 | [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-nvd-cache`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-nvd-cache) | An online cache of the NIST NVD database, hosted on Github Pages and refreshed twice a day. Used for OWASP scans (bootstrapped 2026-07-02) | 2026-11-05 |
@@ -992,17 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`ras-deploy`](https://github.com/uk-gov-mirror/ONSdigital.ras-deploy) | RAS CD pipeline | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ras-maintenance-page`](https://github.com/uk-gov-mirror/ONSdigital.ras-maintenance-page) | RAS maintenance page static files | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ras-party`](https://github.com/uk-gov-mirror/ONSdigital.ras-party) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-auth-service`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-auth-service) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-banner`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-banner) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-benchmark) | A benchmarking tool for RASRM | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-csv-worker`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-csv-worker) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-integration-test-action`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-integration-test-action) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-mock-eq`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-mock-eq) | Mock EQ for rasrm dev testing | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-party`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-party) | The party service rewritten in Golang | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-performance-tests) | Performance Test Scripts | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-print-file`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-print-file) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-sample`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-sample-file-uploader`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-sample-file-uploader) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-spinnaker-action`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-spinnaker-action) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-rm-survey`](https://github.com/uk-gov-mirror/ONSdigital.ras-rm-survey) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`registers-performance-tests`](https://github.com/uk-gov-mirror/ONSdigital.registers-performance-tests) | Rudimentary performance tests for sbr-api and sbr-control-api | 2026-10-23 |

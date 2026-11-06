@@ -1116,6 +1116,16 @@
     "original_url": "https://github.com/NHSLeadership/frankenphp-base"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": "Formats the the first and last names of the person filling out a form to upper case first letter and lower case everything else",
+    "full_name": "uk-gov-mirror/NHSLeadership.nhsl-gravity-forms-name-formatter",
+    "mirror_name": "NHSLeadership.nhsl-gravity-forms-name-formatter",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSLeadership.nhsl-gravity-forms-name-formatter",
+    "name": "nhsl-gravity-forms-name-formatter",
+    "org": "NHSLeadership",
+    "original_url": "https://github.com/NHSLeadership/nhsl-gravity-forms-name-formatter"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Production Docker images for NHS LA sites.",
     "full_name": "uk-gov-mirror/NHSLeadership.nhsl-ubuntu-php",
@@ -6961,6 +6971,16 @@
     "original_url": "https://github.com/ONSdigital/eq-publisher-v3"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": "A questionnaire launcher for eq-survey-runner",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-questionnaire-launcher",
+    "mirror_name": "ONSdigital.eq-questionnaire-launcher",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-launcher",
+    "name": "eq-questionnaire-launcher",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-questionnaire-launcher"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "An application to hold eq questionnaire JSON schemas.",
     "full_name": "uk-gov-mirror/ONSdigital.eq-questionnaire-registry",
@@ -6969,6 +6989,16 @@
     "name": "eq-questionnaire-registry",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/eq-questionnaire-registry"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "An API for validating survey schemas",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-questionnaire-validator",
+    "mirror_name": "ONSdigital.eq-questionnaire-validator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-validator",
+    "name": "eq-questionnaire-validator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-questionnaire-validator"
   },
   {
     "deleted_on": "2026-10-27",
@@ -7139,6 +7169,16 @@
     "name": "eq-terraform-elasticsearch",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/eq-terraform-elasticsearch"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "Scripts for translating eq-survey-runner surveys",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-translations",
+    "mirror_name": "ONSdigital.eq-translations",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-translations",
+    "name": "eq-translations",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-translations"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -16832,6 +16872,16 @@
     "original_url": "https://github.com/defra/fcp-dal-api-postdeployment-test"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": "Git repository for service fcp-mel-file-service",
+    "full_name": "uk-gov-mirror/defra.fcp-mel-file-service",
+    "mirror_name": "defra.fcp-mel-file-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-mel-file-service",
+    "name": "fcp-mel-file-service",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-mel-file-service"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Git repository for service ffc-grants-acceptance-tests",
     "full_name": "uk-gov-mirror/defra.ffc-grants-acceptance-tests",
@@ -23526,6 +23576,16 @@
     "original_url": "https://github.com/ministryofjustice/brookhouse"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": "UI and API tests for bulk submission and Fee scheme ",
+    "full_name": "uk-gov-mirror/ministryofjustice.bulk-submission-and-fee-scheme-tests-",
+    "mirror_name": "ministryofjustice.bulk-submission-and-fee-scheme-tests-",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bulk-submission-and-fee-scheme-tests-",
+    "name": "bulk-submission-and-fee-scheme-tests-",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bulk-submission-and-fee-scheme-tests-"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Prototypes for the Calculate release dates service",
     "full_name": "uk-gov-mirror/ministryofjustice.calculate-release-dates-prototype",
@@ -23567,6 +23627,16 @@
     "name": "cccd-spike-sns",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/cccd-spike-sns"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "An API for checking financial eligibility for legal aid",
+    "full_name": "uk-gov-mirror/ministryofjustice.check-financial-eligibility",
+    "mirror_name": "ministryofjustice.check-financial-eligibility",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.check-financial-eligibility",
+    "name": "check-financial-eligibility",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/check-financial-eligibility"
   },
   {
     "deleted_on": "2026-10-16",
@@ -25796,6 +25866,26 @@
     "original_url": "https://github.com/ministryofjustice/kv-frontend-app-dev"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-amend-a-claim",
+    "mirror_name": "ministryofjustice.laa-amend-a-claim",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-amend-a-claim",
+    "name": "laa-amend-a-claim",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-amend-a-claim"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "Slack bot to allow interactions with LAA Apply applications",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-apply-bot",
+    "mirror_name": "ministryofjustice.laa-apply-bot",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-apply-bot",
+    "name": "laa-apply-bot",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-apply-bot"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-08-26",
     "description": null,
@@ -25971,6 +26061,26 @@
     "original_url": "https://github.com/ministryofjustice/laa-data-claims-event-service"
   },
   {
+    "deleted_on": "2026-11-06",
+    "description": "LAA Data Stewardship service which consumes events from SNS, then. sends emails using GOV Notify",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-notify-service",
+    "mirror_name": "ministryofjustice.laa-data-claims-notify-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-notify-service",
+    "name": "laa-data-claims-notify-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-notify-service"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "Parent repository with common docker compose setup scripts",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-parent",
+    "mirror_name": "ministryofjustice.laa-data-claims-parent",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-data-claims-parent",
+    "name": "laa-data-claims-parent",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-data-claims-parent"
+  },
+  {
     "deleted_on": "2026-10-13",
     "description": "Java service to generate claims reports",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-data-claims-reporting-service",
@@ -26072,6 +26182,16 @@
     "name": "laa-record-controlled-work",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-record-controlled-work"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "Web application for bulk upload of claims data",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-submit-a-bulk-claim",
+    "mirror_name": "ministryofjustice.laa-submit-a-bulk-claim",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-submit-a-bulk-claim",
+    "name": "laa-submit-a-bulk-claim",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-submit-a-bulk-claim"
   },
   {
     "deleted_on": "2026-09-18",
@@ -33250,6 +33370,26 @@
     "name": "chefcookbook.template",
     "org": "ukparliament",
     "original_url": "https://github.com/ukparliament/chefcookbook.template"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": null,
+    "full_name": "uk-gov-mirror/uktrade-recruitment.data-engineering-heo-pipelines-test",
+    "mirror_name": "uktrade-recruitment.data-engineering-heo-pipelines-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/uktrade-recruitment.data-engineering-heo-pipelines-test",
+    "name": "data-engineering-heo-pipelines-test",
+    "org": "uktrade-recruitment",
+    "original_url": "https://github.com/uktrade-recruitment/data-engineering-heo-pipelines-test"
+  },
+  {
+    "deleted_on": "2026-11-06",
+    "description": "Tech test for SEO campaign April 2026",
+    "full_name": "uk-gov-mirror/uktrade-recruitment.data-engineering-tech-test-geological-survey-pipelines",
+    "mirror_name": "uktrade-recruitment.data-engineering-tech-test-geological-survey-pipelines",
+    "mirror_url": "https://github.com/uk-gov-mirror/uktrade-recruitment.data-engineering-tech-test-geological-survey-pipelines",
+    "name": "data-engineering-tech-test-geological-survey-pipelines",
+    "org": "uktrade-recruitment",
+    "original_url": "https://github.com/uktrade-recruitment/data-engineering-tech-test-geological-survey-pipelines"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
