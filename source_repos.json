@@ -7031,6 +7031,16 @@
     "original_url": "https://github.com/ONSdigital/eq-runner-docker-tinyproxy"
   },
   {
+    "deleted_on": "2026-11-07",
+    "description": "A simple FastAPI to mock the CIR service required by eq-runner",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-runner-mock-cir",
+    "mirror_name": "ONSdigital.eq-runner-mock-cir",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-runner-mock-cir",
+    "name": "eq-runner-mock-cir",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-runner-mock-cir"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "EQ Sass framework",
     "full_name": "uk-gov-mirror/ONSdigital.eq-sass",
@@ -7169,6 +7179,16 @@
     "name": "eq-terraform-elasticsearch",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/eq-terraform-elasticsearch"
+  },
+  {
+    "deleted_on": "2026-11-07",
+    "description": "Terraform infrastructure to generate load test against eq-survey-runner",
+    "full_name": "uk-gov-mirror/ONSdigital.eq-terraform-load-generator",
+    "mirror_name": "ONSdigital.eq-terraform-load-generator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.eq-terraform-load-generator",
+    "name": "eq-terraform-load-generator",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/eq-terraform-load-generator"
   },
   {
     "deleted_on": "2026-11-06",
@@ -8580,6 +8600,16 @@
     "name": "ons-python-template-demo",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/ons-python-template-demo"
+  },
+  {
+    "deleted_on": "2026-11-07",
+    "description": "Schema definitions for the ONS system ecosystem",
+    "full_name": "uk-gov-mirror/ONSdigital.ons-schema-definitions",
+    "mirror_name": "ONSdigital.ons-schema-definitions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ons-schema-definitions",
+    "name": "ons-schema-definitions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ons-schema-definitions"
   },
   {
     "deleted_on": "2026-10-27",
@@ -10293,6 +10323,16 @@
     "name": "sds-prototype-schema",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/sds-prototype-schema"
+  },
+  {
+    "deleted_on": "2026-11-07",
+    "description": "A registry for supplementary dataset schemas for the SDS service.",
+    "full_name": "uk-gov-mirror/ONSdigital.sds-schema-definitions",
+    "mirror_name": "ONSdigital.sds-schema-definitions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.sds-schema-definitions",
+    "name": "sds-schema-definitions",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/sds-schema-definitions"
   },
   {
     "deleted_on": "2026-10-27",
@@ -13885,6 +13925,16 @@
     "original_url": "https://github.com/The-Strategy-Unit/assets.replaced.2026-09-02"
   },
   {
+    "deleted_on": "2026-11-07",
+    "description": "Keeps NHP\u2019s Azure Table Storage catalogue in sync with scenario files and safely removes inactive development artifacts.",
+    "full_name": "uk-gov-mirror/The-Strategy-Unit.nhp_ats_maintenance",
+    "mirror_name": "The-Strategy-Unit.nhp_ats_maintenance",
+    "mirror_url": "https://github.com/uk-gov-mirror/The-Strategy-Unit.nhp_ats_maintenance",
+    "name": "nhp_ats_maintenance",
+    "org": "The-Strategy-Unit",
+    "original_url": "https://github.com/The-Strategy-Unit/nhp_ats_maintenance"
+  },
+  {
     "deleted_on": "2026-08-27",
     "description": null,
     "full_name": "uk-gov-mirror/TransportForLondon.TFL-DevOps-Test",
@@ -16872,6 +16922,16 @@
     "original_url": "https://github.com/defra/fcp-dal-api-postdeployment-test"
   },
   {
+    "deleted_on": "2026-11-07",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.fcp-data-access-layer-api",
+    "mirror_name": "defra.fcp-data-access-layer-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-data-access-layer-api",
+    "name": "fcp-data-access-layer-api",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-data-access-layer-api"
+  },
+  {
     "deleted_on": "2026-11-06",
     "description": "Git repository for service fcp-mel-file-service",
     "full_name": "uk-gov-mirror/defra.fcp-mel-file-service",
@@ -17252,6 +17312,16 @@
     "original_url": "https://github.com/defra/land-grants-journey-tests"
   },
   {
+    "deleted_on": "2026-11-07",
+    "description": "Git repository for service lis-facade-api-backend",
+    "full_name": "uk-gov-mirror/defra.lis-facade-api-backend",
+    "mirror_name": "defra.lis-facade-api-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.lis-facade-api-backend",
+    "name": "lis-facade-api-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/lis-facade-api-backend"
+  },
+  {
     "deleted_on": "2026-08-19",
     "description": "Git repository for lis-taxonomy-status",
     "full_name": "uk-gov-mirror/defra.lis-taxonomy-status",
@@ -17365,6 +17435,16 @@
     "name": "waste-exemptions-front-office.replaced.2026-09-02",
     "org": "defra",
     "original_url": "https://github.com/defra/waste-exemptions-front-office.replaced.2026-09-02"
+  },
+  {
+    "deleted_on": "2026-11-07",
+    "description": "Git repository for service waste-organisations-backend",
+    "full_name": "uk-gov-mirror/defra.waste-organisations-backend",
+    "mirror_name": "defra.waste-organisations-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-organisations-backend",
+    "name": "waste-organisations-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-organisations-backend"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -25181,6 +25261,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-nvd-cache"
   },
   {
+    "deleted_on": "2026-11-07",
+    "description": "A prototype for the official visits service",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-official-visits-prototype",
+    "mirror_name": "ministryofjustice.hmpps-official-visits-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-official-visits-prototype",
+    "name": "hmpps-official-visits-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-official-visits-prototype"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "A microservice for registering one-login accounts to HMPPS services",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-one-login-user-registry",
@@ -25987,6 +26077,16 @@
     "name": "laa-court-data-orchestration-service",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-court-data-orchestration-service"
+  },
+  {
+    "deleted_on": "2026-11-07",
+    "description": "End-to-end tests to test VCD-CDA-CP (Common Platform) integration",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-court-data-ui-e2e-tests",
+    "mirror_name": "ministryofjustice.laa-court-data-ui-e2e-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-ui-e2e-tests",
+    "name": "laa-court-data-ui-e2e-tests",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-court-data-ui-e2e-tests"
   },
   {
     "approximate_date_source": "last-git-activity",

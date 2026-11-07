@@ -6,6 +6,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-runner-mock-cir`](https://github.com/uk-gov-mirror/ONSdigital.eq-runner-mock-cir) | A simple FastAPI to mock the CIR service required by eq-runner | 2026-11-07 |
+| [ONSdigital](https://github.com/ONSdigital) | [`eq-terraform-load-generator`](https://github.com/uk-gov-mirror/ONSdigital.eq-terraform-load-generator) | Terraform infrastructure to generate load test against eq-survey-runner | 2026-11-07 |
+| [ONSdigital](https://github.com/ONSdigital) | [`ons-schema-definitions`](https://github.com/uk-gov-mirror/ONSdigital.ons-schema-definitions) | Schema definitions for the ONS system ecosystem | 2026-11-07 |
+| [ONSdigital](https://github.com/ONSdigital) | [`sds-schema-definitions`](https://github.com/uk-gov-mirror/ONSdigital.sds-schema-definitions) | A registry for supplementary dataset schemas for the SDS service. | 2026-11-07 |
+| [The-Strategy-Unit](https://github.com/The-Strategy-Unit) | [`nhp_ats_maintenance`](https://github.com/uk-gov-mirror/The-Strategy-Unit.nhp_ats_maintenance) | Keeps NHP’s Azure Table Storage catalogue in sync with scenario files and safely removes inactive development artifacts. | 2026-11-07 |
+| [defra](https://github.com/defra) | [`fcp-data-access-layer-api`](https://github.com/uk-gov-mirror/defra.fcp-data-access-layer-api) |  | 2026-11-07 |
+| [defra](https://github.com/defra) | [`lis-facade-api-backend`](https://github.com/uk-gov-mirror/defra.lis-facade-api-backend) | Git repository for service lis-facade-api-backend | 2026-11-07 |
+| [defra](https://github.com/defra) | [`waste-organisations-backend`](https://github.com/uk-gov-mirror/defra.waste-organisations-backend) | Git repository for service waste-organisations-backend | 2026-11-07 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hmpps-official-visits-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-official-visits-prototype) | A prototype for the official visits service | 2026-11-07 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-court-data-ui-e2e-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-ui-e2e-tests) | End-to-end tests to test VCD-CDA-CP (Common Platform) integration | 2026-11-07 |
 | [NHSLeadership](https://github.com/NHSLeadership) | [`nhsl-gravity-forms-name-formatter`](https://github.com/uk-gov-mirror/NHSLeadership.nhsl-gravity-forms-name-formatter) | Formats the the first and last names of the person filling out a form to upper case first letter and lower case everything else | 2026-11-06 |
 | [ONSdigital](https://github.com/ONSdigital) | [`eq-questionnaire-launcher`](https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-launcher) | A questionnaire launcher for eq-survey-runner | 2026-11-06 |
 | [ONSdigital](https://github.com/ONSdigital) | [`eq-questionnaire-validator`](https://github.com/uk-gov-mirror/ONSdigital.eq-questionnaire-validator) | An API for validating survey schemas | 2026-11-06 |
@@ -996,13 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`github-explorer`](https://github.com/uk-gov-mirror/ONSdigital.github-explorer) | A web application that provides insights into GitHub organisations to make managing them easier. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`int.train.pckg`](https://github.com/uk-gov-mirror/ONSdigital.int.train.pckg) | Package to use for assessment for international training. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`keh-digital-landscape`](https://github.com/uk-gov-mirror/ONSdigital.keh-digital-landscape) | An internally developed Digital Landscape platform that presents the organisation’s repositories, projects, technology stack and GitHub Copilot usage. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`mean-splice-decomposition`](https://github.com/uk-gov-mirror/ONSdigital.mean-splice-decomposition) | A repository for the code supporting the paper "Practical Decompositions of Mean-Spliced on Published Indices" | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ons-power-platform`](https://github.com/uk-gov-mirror/ONSdigital.ons-power-platform) | Standards and guidance for using Power Platform and related services. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ons-template`](https://github.com/uk-gov-mirror/ONSdigital.ons-template) | Example of how to set-up a repositary | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`onsrap`](https://github.com/uk-gov-mirror/ONSdigital.onsrap) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`practitioner-linkage-exercise`](https://github.com/uk-gov-mirror/ONSdigital.practitioner-linkage-exercise) | An interactive linkage notebook. This goes through an entire linkage pipeline, encouraging participants to alter match thresholds and variable weighting to maximise linkage quality. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`prototype-kit-template`](https://github.com/uk-gov-mirror/ONSdigital.prototype-kit-template) | Template that can be used when creating a new prototype-kit project. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-collection-instrument`](https://github.com/uk-gov-mirror/ONSdigital.ras-collection-instrument) | The ONS respondent account service 'collection instrument' micro service. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-deploy`](https://github.com/uk-gov-mirror/ONSdigital.ras-deploy) | RAS CD pipeline | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-maintenance-page`](https://github.com/uk-gov-mirror/ONSdigital.ras-maintenance-page) | RAS maintenance page static files | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`ras-party`](https://github.com/uk-gov-mirror/ONSdigital.ras-party) |  | 2026-10-23 |
