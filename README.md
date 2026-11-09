@@ -1,7 +1,7 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3262**
-Organisations affected: **91**
+Total deleted repositories: **3265**
+Organisations affected: **92**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
 
@@ -10,7 +10,7 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 36]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 39]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
@@ -30,14 +30,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [companieshouse](https://github.com/companieshouse) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.4% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
-| [nhsconnect](https://github.com/nhsconnect) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.2% |
+| [nhsconnect](https://github.com/nhsconnect) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 38.3% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
+| [hmcts](https://github.com/hmcts) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.5% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
 | [datasciencecampus](https://github.com/datasciencecampus) | [**28**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22datasciencecampus.%22) | 47.5% |
-| [hmcts](https://github.com/hmcts) | [**28**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.4% |
 | [ukforeignoffice](https://github.com/ukforeignoffice) | [**23**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukforeignoffice.%22) | 63.9% |
 | [nationalarchives](https://github.com/nationalarchives) | [**21**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nationalarchives.%22) | 3.2% |
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
@@ -105,6 +105,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [govuk-pay](https://github.com/govuk-pay) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-pay.%22) | 1.1% |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.6% |
 | [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
+| [oaknational](https://github.com/oaknational) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22oaknational.%22) | 2.9% |
 | [ukhsa-flusurvey](https://github.com/ukhsa-flusurvey) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-flusurvey.%22) | 50.0% |
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
@@ -3067,6 +3068,41 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`vehicles-presentation-common`](https://github.com/uk-gov-mirror/dvla.vehicles-presentation-common) | Common components for DVLA web front ends | 2020-09-07* |
 | [`vvr`](https://github.com/uk-gov-mirror/dvla.vvr) |  | 2020-09-06* |
 
+## [hmcts](https://github.com/hmcts) (30)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`pd_cdu`](https://github.com/uk-gov-mirror/hmcts.pd_cdu) | The code for the CDUs based in the crown courts to support displaying data on the public displays. It interacts with the localproxy servers and indirectly the server side application: XHIBIT and PDDA | 2026-11-09 |
+| [`pd_localproxy`](https://github.com/uk-gov-mirror/hmcts.pd_localproxy) | The code for the LocalProxy servers based in the crown courts to support the public displays. It interacts with the screens (CDUs) and the server side application: XHIBIT and PDDA | 2026-11-09 |
+| [`appreg-api`](https://github.com/uk-gov-mirror/hmcts.appreg-api) | Applications Register modernisation API | 2026-10-30 |
+| [`adoption-slack-alerts`](https://github.com/uk-gov-mirror/hmcts.adoption-slack-alerts) | An Azure Function App that relays events from Azure Monitor logs to a slack channel | 2026-10-28 |
+| [`cft-workspace`](https://github.com/uk-gov-mirror/hmcts.cft-workspace) |  | 2026-10-07 |
+| [`bulk-scan-java-client.replaced.2026-09-03`](https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03) |  | 2026-09-03 |
+| [`ia-owasp-suppressions`](https://github.com/uk-gov-mirror/hmcts.ia-owasp-suppressions) | To store suppressions.xml across all IA microservices | 2026-04-24* |
+| [`rpx-xui-dev-utils`](https://github.com/uk-gov-mirror/hmcts.rpx-xui-dev-utils) | Place to keep useful scripts for EXUI devs | 2026-04-24* |
+| [`semarchy-xdm`](https://github.com/uk-gov-mirror/hmcts.semarchy-xdm) | Deployment of Semarchy xDM and supporting infrastructure to Azure for the Crime Standing Data Service application. | 2026-04-21* |
+| [`rpx-case-activity-api-temp`](https://github.com/uk-gov-mirror/hmcts.rpx-case-activity-api-temp) |  | 2026-01-05* |
+| [`labs-hurricanepilot-nodejs`](https://github.com/uk-gov-mirror/hmcts.labs-hurricanepilot-nodejs) |  | 2025-09-25* |
+| [`dtspo-weekly-prs`](https://github.com/uk-gov-mirror/hmcts.dtspo-weekly-prs) | Weekly PR check for DTS Platform Operations teams | 2025-06-03* |
+| [`civil-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-sdk) |  | 2025-04-14* |
+| [`div-decree-absolute-frontend`](https://github.com/uk-gov-mirror/hmcts.div-decree-absolute-frontend) | Citizen frontend application for Decree Absolute stage of Divorce | 2022-01-08* |
+| [`div-case-maintenance-service`](https://github.com/uk-gov-mirror/hmcts.div-case-maintenance-service) | Divorce Case Maintainance Service | 2021-08-16* |
+| [`civil-damages-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-damages-sdk) |  | 2021-05-25* |
+| [`div-fees-and-payments-service`](https://github.com/uk-gov-mirror/hmcts.div-fees-and-payments-service) | Divorce Fees & Payments Service | 2021-05-01* |
+| [`rpe-spring-boot-template-test`](https://github.com/uk-gov-mirror/hmcts.rpe-spring-boot-template-test) | Spring boot template test from Backstage | 2021-04-30* |
+| [`rpe-template-test-spring`](https://github.com/uk-gov-mirror/hmcts.rpe-template-test-spring) | backstage template test | 2021-04-30* |
+| [`div-respondent-frontend`](https://github.com/uk-gov-mirror/hmcts.div-respondent-frontend) | Citizen frontend application for Acknowledgement of Service stage of Divorce | 2021-04-23* |
+| [`div-case-data-formatter`](https://github.com/uk-gov-mirror/hmcts.div-case-data-formatter) | Divorce Case Data Formatter converts Front End Session Data to CCD data format | 2021-04-20* |
+| [`unspec-rpa-pact-cli`](https://github.com/uk-gov-mirror/hmcts.unspec-rpa-pact-cli) | This tool provides an amalgamated CLI of unspec rpa pact.  | 2021-04-20* |
+| [`send-letter-service-container-new-old`](https://github.com/uk-gov-mirror/hmcts.send-letter-service-container-new-old) | Send letter new container to cater new blobs (print letter request) | 2021-04-14* |
+| [`am-role-assignment-e2e-tests`](https://github.com/uk-gov-mirror/hmcts.am-role-assignment-e2e-tests) | Repository for Access Management and Reference data project functional tests. | 2021-03-16* |
+| [`snl-api-fh-test`](https://github.com/uk-gov-mirror/hmcts.snl-api-fh-test) |  | 2021-02-26* |
+| [`am-docker`](https://github.com/uk-gov-mirror/hmcts.am-docker) |  | 2021-02-17* |
+| [`probate-pa-admon-prototype`](https://github.com/uk-gov-mirror/hmcts.probate-pa-admon-prototype) |  | 2020-11-07* |
+| [`idam-forgerock-images`](https://github.com/uk-gov-mirror/hmcts.idam-forgerock-images) | Builds Docker images for running Forgerock locally with the latest configuration | 2020-10-30* |
+| [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
+| [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
+
 ## [nhsd-a2si](https://github.com/nhsd-a2si) (30)
 
 | Repository | Description | Deleted On |
@@ -3134,39 +3170,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`nlp-club`](https://github.com/uk-gov-mirror/datasciencecampus.nlp-club) | The Data Science Campus' journal club for Natural Language Processing (NLP) | 2020-11-12* |
 | [`coffee-and-coding-ldn`](https://github.com/uk-gov-mirror/datasciencecampus.coffee-and-coding-ldn) | A public repository to hold resources and notes from ONS Coffee & Coding sessions in London | 2020-10-05* |
 | [`gcp-function-deployment`](https://github.com/uk-gov-mirror/datasciencecampus.gcp-function-deployment) | Demo of how GCP functions can be deployed via CI/CD | 2020-09-10* |
-
-## [hmcts](https://github.com/hmcts) (28)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`appreg-api`](https://github.com/uk-gov-mirror/hmcts.appreg-api) | Applications Register modernisation API | 2026-10-30 |
-| [`adoption-slack-alerts`](https://github.com/uk-gov-mirror/hmcts.adoption-slack-alerts) | An Azure Function App that relays events from Azure Monitor logs to a slack channel | 2026-10-28 |
-| [`cft-workspace`](https://github.com/uk-gov-mirror/hmcts.cft-workspace) |  | 2026-10-07 |
-| [`bulk-scan-java-client.replaced.2026-09-03`](https://github.com/uk-gov-mirror/hmcts.bulk-scan-java-client.replaced.2026-09-03) |  | 2026-09-03 |
-| [`ia-owasp-suppressions`](https://github.com/uk-gov-mirror/hmcts.ia-owasp-suppressions) | To store suppressions.xml across all IA microservices | 2026-04-24* |
-| [`rpx-xui-dev-utils`](https://github.com/uk-gov-mirror/hmcts.rpx-xui-dev-utils) | Place to keep useful scripts for EXUI devs | 2026-04-24* |
-| [`semarchy-xdm`](https://github.com/uk-gov-mirror/hmcts.semarchy-xdm) | Deployment of Semarchy xDM and supporting infrastructure to Azure for the Crime Standing Data Service application. | 2026-04-21* |
-| [`rpx-case-activity-api-temp`](https://github.com/uk-gov-mirror/hmcts.rpx-case-activity-api-temp) |  | 2026-01-05* |
-| [`labs-hurricanepilot-nodejs`](https://github.com/uk-gov-mirror/hmcts.labs-hurricanepilot-nodejs) |  | 2025-09-25* |
-| [`dtspo-weekly-prs`](https://github.com/uk-gov-mirror/hmcts.dtspo-weekly-prs) | Weekly PR check for DTS Platform Operations teams | 2025-06-03* |
-| [`civil-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-sdk) |  | 2025-04-14* |
-| [`div-decree-absolute-frontend`](https://github.com/uk-gov-mirror/hmcts.div-decree-absolute-frontend) | Citizen frontend application for Decree Absolute stage of Divorce | 2022-01-08* |
-| [`div-case-maintenance-service`](https://github.com/uk-gov-mirror/hmcts.div-case-maintenance-service) | Divorce Case Maintainance Service | 2021-08-16* |
-| [`civil-damages-sdk`](https://github.com/uk-gov-mirror/hmcts.civil-damages-sdk) |  | 2021-05-25* |
-| [`div-fees-and-payments-service`](https://github.com/uk-gov-mirror/hmcts.div-fees-and-payments-service) | Divorce Fees & Payments Service | 2021-05-01* |
-| [`rpe-spring-boot-template-test`](https://github.com/uk-gov-mirror/hmcts.rpe-spring-boot-template-test) | Spring boot template test from Backstage | 2021-04-30* |
-| [`rpe-template-test-spring`](https://github.com/uk-gov-mirror/hmcts.rpe-template-test-spring) | backstage template test | 2021-04-30* |
-| [`div-respondent-frontend`](https://github.com/uk-gov-mirror/hmcts.div-respondent-frontend) | Citizen frontend application for Acknowledgement of Service stage of Divorce | 2021-04-23* |
-| [`div-case-data-formatter`](https://github.com/uk-gov-mirror/hmcts.div-case-data-formatter) | Divorce Case Data Formatter converts Front End Session Data to CCD data format | 2021-04-20* |
-| [`unspec-rpa-pact-cli`](https://github.com/uk-gov-mirror/hmcts.unspec-rpa-pact-cli) | This tool provides an amalgamated CLI of unspec rpa pact.  | 2021-04-20* |
-| [`send-letter-service-container-new-old`](https://github.com/uk-gov-mirror/hmcts.send-letter-service-container-new-old) | Send letter new container to cater new blobs (print letter request) | 2021-04-14* |
-| [`am-role-assignment-e2e-tests`](https://github.com/uk-gov-mirror/hmcts.am-role-assignment-e2e-tests) | Repository for Access Management and Reference data project functional tests. | 2021-03-16* |
-| [`snl-api-fh-test`](https://github.com/uk-gov-mirror/hmcts.snl-api-fh-test) |  | 2021-02-26* |
-| [`am-docker`](https://github.com/uk-gov-mirror/hmcts.am-docker) |  | 2021-02-17* |
-| [`probate-pa-admon-prototype`](https://github.com/uk-gov-mirror/hmcts.probate-pa-admon-prototype) |  | 2020-11-07* |
-| [`idam-forgerock-images`](https://github.com/uk-gov-mirror/hmcts.idam-forgerock-images) | Builds Docker images for running Forgerock locally with the latest configuration | 2020-10-30* |
-| [`chart-send-letter`](https://github.com/uk-gov-mirror/hmcts.chart-send-letter) | Helm chart for Send Letter product | 2020-10-06* |
-| [`azure-resource-groups`](https://github.com/uk-gov-mirror/hmcts.azure-resource-groups) |  |  |
 
 ## [ukforeignoffice](https://github.com/ukforeignoffice) (23)
 
@@ -3807,6 +3810,12 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | Repository | Description | Deleted On |
 | --- | --- | --- |
 | [`sqlMiner`](https://github.com/uk-gov-mirror/nottmhospitals.sqlMiner) | Discovers Database Relationships From Your Production SQL Code | 2026-05-02* |
+
+## [oaknational](https://github.com/oaknational) (1)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`oak-platform-interview-task`](https://github.com/uk-gov-mirror/oaknational.oak-platform-interview-task) | A technical challenge for SRE interviews, exploring coding approach and API interactions.  | 2026-11-09 |
 
 ## [ukhsa-flusurvey](https://github.com/ukhsa-flusurvey) (1)
 

@@ -18861,6 +18861,26 @@
     "original_url": "https://github.com/hmcts/labs-hurricanepilot-nodejs"
   },
   {
+    "deleted_on": "2026-11-09",
+    "description": "The code for the CDUs based in the crown courts to support displaying data on the public displays. It interacts with the localproxy servers and indirectly the server side application: XHIBIT and PDDA",
+    "full_name": "uk-gov-mirror/hmcts.pd_cdu",
+    "mirror_name": "hmcts.pd_cdu",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.pd_cdu",
+    "name": "pd_cdu",
+    "org": "hmcts",
+    "original_url": "https://github.com/hmcts/pd_cdu"
+  },
+  {
+    "deleted_on": "2026-11-09",
+    "description": "The code for the LocalProxy servers based in the crown courts to support the public displays. It interacts with the screens (CDUs) and the server side application: XHIBIT and PDDA",
+    "full_name": "uk-gov-mirror/hmcts.pd_localproxy",
+    "mirror_name": "hmcts.pd_localproxy",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmcts.pd_localproxy",
+    "name": "pd_localproxy",
+    "org": "hmcts",
+    "original_url": "https://github.com/hmcts/pd_localproxy"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-07",
     "description": null,
@@ -33102,6 +33122,16 @@
     "name": "nw-gmsa.github.com.replaced.2026-10-23",
     "org": "nw-gmsa",
     "original_url": "https://github.com/nw-gmsa/nw-gmsa.github.com.replaced.2026-10-23"
+  },
+  {
+    "deleted_on": "2026-11-09",
+    "description": "A technical challenge for SRE interviews, exploring coding approach and API interactions. ",
+    "full_name": "uk-gov-mirror/oaknational.oak-platform-interview-task",
+    "mirror_name": "oaknational.oak-platform-interview-task",
+    "mirror_url": "https://github.com/uk-gov-mirror/oaknational.oak-platform-interview-task",
+    "name": "oak-platform-interview-task",
+    "org": "oaknational",
+    "original_url": "https://github.com/oaknational/oak-platform-interview-task"
   },
   {
     "deleted_on": null,

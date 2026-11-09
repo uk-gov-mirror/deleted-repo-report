@@ -6,6 +6,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [hmcts](https://github.com/hmcts) | [`pd_cdu`](https://github.com/uk-gov-mirror/hmcts.pd_cdu) | The code for the CDUs based in the crown courts to support displaying data on the public displays. It interacts with the localproxy servers and indirectly the server side application: XHIBIT and PDDA | 2026-11-09 |
+| [hmcts](https://github.com/hmcts) | [`pd_localproxy`](https://github.com/uk-gov-mirror/hmcts.pd_localproxy) | The code for the LocalProxy servers based in the crown courts to support the public displays. It interacts with the screens (CDUs) and the server side application: XHIBIT and PDDA | 2026-11-09 |
+| [oaknational](https://github.com/oaknational) | [`oak-platform-interview-task`](https://github.com/uk-gov-mirror/oaknational.oak-platform-interview-task) | A technical challenge for SRE interviews, exploring coding approach and API interactions.  | 2026-11-09 |
 | [ONSdigital](https://github.com/ONSdigital) | [`eq-runner-mock-cir`](https://github.com/uk-gov-mirror/ONSdigital.eq-runner-mock-cir) | A simple FastAPI to mock the CIR service required by eq-runner | 2026-11-07 |
 | [ONSdigital](https://github.com/ONSdigital) | [`eq-terraform-load-generator`](https://github.com/uk-gov-mirror/ONSdigital.eq-terraform-load-generator) | Terraform infrastructure to generate load test against eq-survey-runner | 2026-11-07 |
 | [ONSdigital](https://github.com/ONSdigital) | [`ons-schema-definitions`](https://github.com/uk-gov-mirror/ONSdigital.ons-schema-definitions) | Schema definitions for the ONS system ecosystem | 2026-11-07 |
@@ -1003,6 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`gcp-projects-dashboard`](https://github.com/uk-gov-mirror/ONSdigital.gcp-projects-dashboard) | A dashboard that displays useful information from multiple GCP projects. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`gdhi_adj`](https://github.com/uk-gov-mirror/ONSdigital.gdhi_adj) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`geks-perturb-window`](https://github.com/uk-gov-mirror/ONSdigital.geks-perturb-window) | A repository for the code supporting the paper "Are Multilateral Methods the Holy Grail of Price Measurement? A Critical Examination of Their Promises and Practical Performance in Dynamic Datasets", covering the perturbation test used in the paper. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`github-explorer`](https://github.com/uk-gov-mirror/ONSdigital.github-explorer) | A web application that provides insights into GitHub organisations to make managing them easier. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`int.train.pckg`](https://github.com/uk-gov-mirror/ONSdigital.int.train.pckg) | Package to use for assessment for international training. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`keh-digital-landscape`](https://github.com/uk-gov-mirror/ONSdigital.keh-digital-landscape) | An internally developed Digital Landscape platform that presents the organisation’s repositories, projects, technology stack and GitHub Copilot usage. | 2026-10-23 |
