@@ -6,6 +6,17 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`cell-key-perturbation`](https://github.com/uk-gov-mirror/ONSdigital.cell-key-perturbation) | Creates a frequency table and performs cell-key perturbation | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-code-list-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-code-list-api) | Resource api for customise my data | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-dataset-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-exporter) | Takes a filter job and produces a filtered dataset | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-dimension-importer`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-importer) | Component that takes unique dimensions and writes them to the database. | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-elasticsearch`](https://github.com/uk-gov-mirror/ONSdigital.dp-elasticsearch) | elasticsearch client | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-hierarchy-builder`](https://github.com/uk-gov-mirror/ONSdigital.dp-hierarchy-builder) |  | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-import-tracker`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-tracker) | Component that tracks content added to the database and provides notification when this has successfully completed. | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-observation-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-observation-api) | dp-observation-api | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-observation-importer`](https://github.com/uk-gov-mirror/ONSdigital.dp-observation-importer) | Component that takes observations and writes them to the database. | 2026-11-10 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-search-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-search-api) | Search API on to the ONSWebsite Search engine | 2026-11-10 |
+| [nhsconnect](https://github.com/nhsconnect) | [`nhslogin-partners`](https://github.com/uk-gov-mirror/nhsconnect.nhslogin-partners) |  | 2026-11-10 |
 | [hmcts](https://github.com/hmcts) | [`pd_cdu`](https://github.com/uk-gov-mirror/hmcts.pd_cdu) | The code for the CDUs based in the crown courts to support displaying data on the public displays. It interacts with the localproxy servers and indirectly the server side application: XHIBIT and PDDA | 2026-11-09 |
 | [hmcts](https://github.com/hmcts) | [`pd_localproxy`](https://github.com/uk-gov-mirror/hmcts.pd_localproxy) | The code for the LocalProxy servers based in the crown courts to support the public displays. It interacts with the screens (CDUs) and the server side application: XHIBIT and PDDA | 2026-11-09 |
 | [oaknational](https://github.com/oaknational) | [`oak-platform-interview-task`](https://github.com/uk-gov-mirror/oaknational.oak-platform-interview-task) | A technical challenge for SRE interviews, exploring coding approach and API interactions.  | 2026-11-09 |
@@ -995,14 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`es-scala-poc`](https://github.com/uk-gov-mirror/ONSdigital.es-scala-poc) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`es-sonar`](https://github.com/uk-gov-mirror/ONSdigital.es-sonar) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`es-strata-sg`](https://github.com/uk-gov-mirror/ONSdigital.es-strata-sg) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`es-vet-value-change`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-change) | Validation Value Change VET | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`es-vet-value-comparison`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-comparison) | Validation Value Comparison | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`es-vet-value-present`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-value-present) | Validation Value Present VET | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`es-vet-zero-continuity`](https://github.com/uk-gov-mirror/ONSdigital.es-vet-zero-continuity) | Validation Zero Continuity VET | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`es_contributor_management_db`](https://github.com/uk-gov-mirror/ONSdigital.es_contributor_management_db) | Contributor Management database for the IBM clerical resolution alpha. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`eslint-config-eq-author`](https://github.com/uk-gov-mirror/ONSdigital.eslint-config-eq-author) | eslint rules for eq-author  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`espresso-public`](https://github.com/uk-gov-mirror/ONSdigital.espresso-public) | Public repository for the ESPRESSO Python pipeline | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`fwmt-staff-service`](https://github.com/uk-gov-mirror/ONSdigital.fwmt-staff-service) | Service to create staff and delete staff. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`gcp-projects-dashboard`](https://github.com/uk-gov-mirror/ONSdigital.gcp-projects-dashboard) | A dashboard that displays useful information from multiple GCP projects. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`gdhi_adj`](https://github.com/uk-gov-mirror/ONSdigital.gdhi_adj) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`geks-perturb-window`](https://github.com/uk-gov-mirror/ONSdigital.geks-perturb-window) | A repository for the code supporting the paper "Are Multilateral Methods the Holy Grail of Price Measurement? A Critical Examination of Their Promises and Practical Performance in Dynamic Datasets", covering the perturbation test used in the paper. | 2026-10-23 |

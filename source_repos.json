@@ -3134,6 +3134,16 @@
     "original_url": "https://github.com/ONSdigital/business-register-test-utils"
   },
   {
+    "deleted_on": "2026-11-10",
+    "description": "Creates a frequency table and performs cell-key perturbation",
+    "full_name": "uk-gov-mirror/ONSdigital.cell-key-perturbation",
+    "mirror_name": "ONSdigital.cell-key-perturbation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.cell-key-perturbation",
+    "name": "cell-key-perturbation",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/cell-key-perturbation"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-07",
     "description": null,
@@ -5119,6 +5129,16 @@
     "original_url": "https://github.com/ONSdigital/dp-cmd-permissions-spike"
   },
   {
+    "deleted_on": "2026-11-10",
+    "description": "Resource api for customise my data",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-code-list-api",
+    "mirror_name": "ONSdigital.dp-code-list-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-code-list-api",
+    "name": "dp-code-list-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-code-list-api"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dp-code-list-scripts",
@@ -5228,6 +5248,16 @@
     "name": "dp-data-pipelines",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-data-pipelines"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "Takes a filter job and produces a filtered dataset",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dataset-exporter",
+    "mirror_name": "ONSdigital.dp-dataset-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-exporter",
+    "name": "dp-dataset-exporter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dataset-exporter"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5521,6 +5551,16 @@
     "original_url": "https://github.com/ONSdigital/dp-developer-site-spike"
   },
   {
+    "deleted_on": "2026-11-10",
+    "description": "Component that takes unique dimensions and writes them to the database.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dimension-importer",
+    "mirror_name": "ONSdigital.dp-dimension-importer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-importer",
+    "name": "dp-dimension-importer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dimension-importer"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Docker container with a known set of data",
     "full_name": "uk-gov-mirror/ONSdigital.dp-docker-elasticsearch",
@@ -5569,6 +5609,16 @@
     "name": "dp-drqa",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-drqa"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "elasticsearch client",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-elasticsearch",
+    "mirror_name": "ONSdigital.dp-elasticsearch",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-elasticsearch",
+    "name": "dp-elasticsearch",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-elasticsearch"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5843,6 +5893,16 @@
     "original_url": "https://github.com/ONSdigital/dp-graph"
   },
   {
+    "deleted_on": "2026-11-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-hierarchy-builder",
+    "mirror_name": "ONSdigital.dp-hierarchy-builder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-hierarchy-builder",
+    "name": "dp-hierarchy-builder",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-hierarchy-builder"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dp-http-java",
@@ -5871,6 +5931,16 @@
     "name": "dp-identity-api-prototype",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-identity-api-prototype"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "Component that tracks content added to the database and provides notification when this has successfully completed.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import-tracker",
+    "mirror_name": "ONSdigital.dp-import-tracker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import-tracker",
+    "name": "dp-import-tracker",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import-tracker"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6031,6 +6101,26 @@
     "name": "dp-notification-sender",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-notification-sender"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "dp-observation-api",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-observation-api",
+    "mirror_name": "ONSdigital.dp-observation-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-observation-api",
+    "name": "dp-observation-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-observation-api"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "Component that takes observations and writes them to the database.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-observation-importer",
+    "mirror_name": "ONSdigital.dp-observation-importer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-observation-importer",
+    "name": "dp-observation-importer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-observation-importer"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6195,6 +6285,16 @@
     "name": "dp-search",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-search"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": "Search API on to the ONSWebsite Search engine",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-search-api",
+    "mirror_name": "ONSdigital.dp-search-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-search-api",
+    "name": "dp-search-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-search-api"
   },
   {
     "deleted_on": "2026-10-27",
@@ -29349,6 +29449,16 @@
     "name": "itk-architecture",
     "org": "nhsconnect",
     "original_url": "https://github.com/nhsconnect/itk-architecture"
+  },
+  {
+    "deleted_on": "2026-11-10",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsconnect.nhslogin-partners",
+    "mirror_name": "nhsconnect.nhslogin-partners",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsconnect.nhslogin-partners",
+    "name": "nhslogin-partners",
+    "org": "nhsconnect",
+    "original_url": "https://github.com/nhsconnect/nhslogin-partners"
   },
   {
     "deleted_on": "2026-10-17",

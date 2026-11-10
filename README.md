@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3265**
+Total deleted repositories: **3276**
 Organisations affected: **92**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,16 +10,16 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 39]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 50]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**982**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 79.6% |
+| [ONSdigital](https://github.com/ONSdigital) | [**992**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 80.5% |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**437**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 16.6% |
-| [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.8% |
+| [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
 | [hmrc](https://github.com/hmrc) | [**218**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
@@ -28,9 +28,9 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 75.6% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**55**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 5.9% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
+| [nhsconnect](https://github.com/nhsconnect) | [**46**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.9% |
 | [companieshouse](https://github.com/companieshouse) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.4% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
-| [nhsconnect](https://github.com/nhsconnect) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 38.3% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.2% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
@@ -110,10 +110,20 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ONSdigital](https://github.com/ONSdigital) (982)
+## [ONSdigital](https://github.com/ONSdigital) (992)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`cell-key-perturbation`](https://github.com/uk-gov-mirror/ONSdigital.cell-key-perturbation) | Creates a frequency table and performs cell-key perturbation | 2026-11-10 |
+| [`dp-code-list-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-code-list-api) | Resource api for customise my data | 2026-11-10 |
+| [`dp-dataset-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-exporter) | Takes a filter job and produces a filtered dataset | 2026-11-10 |
+| [`dp-dimension-importer`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-importer) | Component that takes unique dimensions and writes them to the database. | 2026-11-10 |
+| [`dp-elasticsearch`](https://github.com/uk-gov-mirror/ONSdigital.dp-elasticsearch) | elasticsearch client | 2026-11-10 |
+| [`dp-hierarchy-builder`](https://github.com/uk-gov-mirror/ONSdigital.dp-hierarchy-builder) |  | 2026-11-10 |
+| [`dp-import-tracker`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-tracker) | Component that tracks content added to the database and provides notification when this has successfully completed. | 2026-11-10 |
+| [`dp-observation-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-observation-api) | dp-observation-api | 2026-11-10 |
+| [`dp-observation-importer`](https://github.com/uk-gov-mirror/ONSdigital.dp-observation-importer) | Component that takes observations and writes them to the database. | 2026-11-10 |
+| [`dp-search-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-search-api) | Search API on to the ONSWebsite Search engine | 2026-11-10 |
 | [`eq-runner-mock-cir`](https://github.com/uk-gov-mirror/ONSdigital.eq-runner-mock-cir) | A simple FastAPI to mock the CIR service required by eq-runner | 2026-11-07 |
 | [`eq-terraform-load-generator`](https://github.com/uk-gov-mirror/ONSdigital.eq-terraform-load-generator) | Terraform infrastructure to generate load test against eq-survey-runner | 2026-11-07 |
 | [`ons-schema-definitions`](https://github.com/uk-gov-mirror/ONSdigital.ons-schema-definitions) | Schema definitions for the ONS system ecosystem | 2026-11-07 |
@@ -2741,6 +2751,57 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`docker-hypercored`](https://github.com/uk-gov-mirror/ukwa.docker-hypercored) | A containerised Dat server for experimental dataset hosting. | 2020-09-08* |
 | [`file-archive-recordreader`](https://github.com/uk-gov-mirror/ukwa.file-archive-recordreader) | File Archive RecordReader |  |
 
+## [nhsconnect](https://github.com/nhsconnect) (46)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`nhslogin-partners`](https://github.com/uk-gov-mirror/nhsconnect.nhslogin-partners) |  | 2026-11-10 |
+| [`GPConnect-Patient-Permissions-Automation-Framework`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect-Patient-Permissions-Automation-Framework) | Automation framework to test the patient permissions API | 2026-10-21 |
+| [`GPConnect.PatientFacingService.Provider.AcceptanceTests`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests) |  | 2026-10-21 |
+| [`PFS-Acess-Record-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Acess-Record-Manual-Test-Cases) |  | 2026-10-21 |
+| [`gpc-consumer-support-archive`](https://github.com/uk-gov-mirror/nhsconnect.gpc-consumer-support-archive) |  | 2026-10-21 |
+| [`gpc-end-user-support`](https://github.com/uk-gov-mirror/nhsconnect.gpc-end-user-support) |  | 2026-10-21 |
+| [`gpconnect-analytics`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-analytics) |  | 2026-10-21 |
+| [`gpconnect-emergency-codes`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-emergency-codes) |  | 2026-10-21 |
+| [`gpconnect-postman`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-postman) |  | 2026-10-21 |
+| [`gpconnect-swagger`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-swagger) | Swagger UI for GP Connect | 2026-10-21 |
+| [`PFS-Prescriptions-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases) |  | 2026-10-17 |
+| [`TKW_GP_CONNECT_configs`](https://github.com/uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs) | TKW-x config for GP_CONNECT | 2026-10-17 |
+| [`nrl-responder-stub`](https://github.com/uk-gov-mirror/nhsconnect.nrl-responder-stub) |  | 2026-10-17 |
+| [`record-locator-specification`](https://github.com/uk-gov-mirror/nhsconnect.record-locator-specification) | record-locator-specification | 2026-10-17 |
+| [`FHIR-END-OF-LIFE-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API) | FHIR End of Life API | 2026-10-06 |
+| [`FHIR-Maternity-Record`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-Maternity-Record) | Maternity Record | 2026-10-06 |
+| [`FHIR-ReasonableAdjustments-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ReasonableAdjustments-API) | FHIR Reasonable Adjustments API  | 2026-10-06 |
+| [`Generic-Test-Repo`](https://github.com/uk-gov-mirror/nhsconnect.Generic-Test-Repo) | This is a test repo for development of alternative implementation Guidance  | 2026-10-06 |
+| [`ITK-DocumentReference`](https://github.com/uk-gov-mirror/nhsconnect.ITK-DocumentReference) | ITK Document Reference using DSTU2 of FHIR | 2026-10-06 |
+| [`ITK-FHIR-Emergency-Care-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Emergency-Care-eDischarge) | Warning: This version of the ITK3 EC eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
+| [`ITK-FHIR-Mental-Health-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Mental-Health-eDischarge) | Warning: This version of the ITK3 MH eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
+| [`ITK-FHIR-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-eDischarge) | Warning: This version of the ITK3 eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
+| [`ITK3-FHIR-Messaging-Distribution`](https://github.com/uk-gov-mirror/nhsconnect.ITK3-FHIR-Messaging-Distribution) | Warning: This version of the ITK3 specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/interoperability-tool-kit-itk-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
+| [`Integrated-Urgent-Care`](https://github.com/uk-gov-mirror/nhsconnect.Integrated-Urgent-Care) | Integrated-Urgent-Care Interoperability Implementation Guide | 2026-10-06 |
+| [`NHS-FHIR-DDS`](https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS) | Digital Diagnostics Services FHIR DMS | 2026-10-06 |
+| [`NHS-FHIR-DDS-Genomics`](https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS-Genomics) | Digital Diagnostics Services Genomics FHIR DMS | 2026-10-06 |
+| [`National-Failsafe`](https://github.com/uk-gov-mirror/nhsconnect.National-Failsafe) | NHS National Population Failsafe Management | 2026-10-06 |
+| [`Terminology-Test`](https://github.com/uk-gov-mirror/nhsconnect.Terminology-Test) |  | 2026-10-06 |
+| [`itk-architecture`](https://github.com/uk-gov-mirror/nhsconnect.itk-architecture) | Architecture spec pages published on developer network | 2026-10-06 |
+| [`CareConnect-API-Core`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Core) | The Care Connect Core API Specification | 2026-10-05 |
+| [`CareConnect-API-Documents`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Documents) | Care Connect API - Document  API | 2026-10-05 |
+| [`Demographic-Event-Messages`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages) | Demographic Update Event Messages | 2026-10-05 |
+| [`Dose-Syntax-Implementation`](https://github.com/uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation) | Guidance for Implementation of Dose Syntax for FHIR   | 2026-10-05 |
+| [`FHIR-ADW-Messaging`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging) | Warning: This version of the ADW specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://data.developer.nhs.uk/specifications/sc-fhir-5/Chapter.1.About/index.html You may browse this development version for information only at  | 2026-10-05 |
+| [`FHIR-ATFS`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ATFS) | Audit Transparency Foundation Service | 2026-10-05 |
+| [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
+| [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
+| [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
+| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
+| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
+| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
+| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
+| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
+| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
+| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
+| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
+
 ## [companieshouse](https://github.com/companieshouse) (45)
 
 | Repository | Description | Deleted On |
@@ -2840,56 +2901,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`dwp-design-examples`](https://github.com/uk-gov-mirror/dwp.dwp-design-examples) | An extension for the prototyping kit so we can test experimental patterns and components. | 2020-09-07* |
 | [`external-ci-users`](https://github.com/uk-gov-mirror/dwp.external-ci-users) | Repo to manage users from a third-party CI/CD tool | 2020-08-20* |
 | [`technow-dwp`](https://github.com/uk-gov-mirror/dwp.technow-dwp) | Prototype for TechNow research (December 2018 onwards). |  |
-
-## [nhsconnect](https://github.com/nhsconnect) (45)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`GPConnect-Patient-Permissions-Automation-Framework`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect-Patient-Permissions-Automation-Framework) | Automation framework to test the patient permissions API | 2026-10-21 |
-| [`GPConnect.PatientFacingService.Provider.AcceptanceTests`](https://github.com/uk-gov-mirror/nhsconnect.GPConnect.PatientFacingService.Provider.AcceptanceTests) |  | 2026-10-21 |
-| [`PFS-Acess-Record-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Acess-Record-Manual-Test-Cases) |  | 2026-10-21 |
-| [`gpc-consumer-support-archive`](https://github.com/uk-gov-mirror/nhsconnect.gpc-consumer-support-archive) |  | 2026-10-21 |
-| [`gpc-end-user-support`](https://github.com/uk-gov-mirror/nhsconnect.gpc-end-user-support) |  | 2026-10-21 |
-| [`gpconnect-analytics`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-analytics) |  | 2026-10-21 |
-| [`gpconnect-emergency-codes`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-emergency-codes) |  | 2026-10-21 |
-| [`gpconnect-postman`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-postman) |  | 2026-10-21 |
-| [`gpconnect-swagger`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-swagger) | Swagger UI for GP Connect | 2026-10-21 |
-| [`PFS-Prescriptions-Manual-Test-Cases`](https://github.com/uk-gov-mirror/nhsconnect.PFS-Prescriptions-Manual-Test-Cases) |  | 2026-10-17 |
-| [`TKW_GP_CONNECT_configs`](https://github.com/uk-gov-mirror/nhsconnect.TKW_GP_CONNECT_configs) | TKW-x config for GP_CONNECT | 2026-10-17 |
-| [`nrl-responder-stub`](https://github.com/uk-gov-mirror/nhsconnect.nrl-responder-stub) |  | 2026-10-17 |
-| [`record-locator-specification`](https://github.com/uk-gov-mirror/nhsconnect.record-locator-specification) | record-locator-specification | 2026-10-17 |
-| [`FHIR-END-OF-LIFE-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-END-OF-LIFE-API) | FHIR End of Life API | 2026-10-06 |
-| [`FHIR-Maternity-Record`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-Maternity-Record) | Maternity Record | 2026-10-06 |
-| [`FHIR-ReasonableAdjustments-API`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ReasonableAdjustments-API) | FHIR Reasonable Adjustments API  | 2026-10-06 |
-| [`Generic-Test-Repo`](https://github.com/uk-gov-mirror/nhsconnect.Generic-Test-Repo) | This is a test repo for development of alternative implementation Guidance  | 2026-10-06 |
-| [`ITK-DocumentReference`](https://github.com/uk-gov-mirror/nhsconnect.ITK-DocumentReference) | ITK Document Reference using DSTU2 of FHIR | 2026-10-06 |
-| [`ITK-FHIR-Emergency-Care-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Emergency-Care-eDischarge) | Warning: This version of the ITK3 EC eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
-| [`ITK-FHIR-Mental-Health-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-Mental-Health-eDischarge) | Warning: This version of the ITK3 MH eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
-| [`ITK-FHIR-eDischarge`](https://github.com/uk-gov-mirror/nhsconnect.ITK-FHIR-eDischarge) | Warning: This version of the ITK3 eDischarge specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/transfer-care-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
-| [`ITK3-FHIR-Messaging-Distribution`](https://github.com/uk-gov-mirror/nhsconnect.ITK3-FHIR-Messaging-Distribution) | Warning: This version of the ITK3 specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://developer.nhs.uk/interoperability-tool-kit-itk-specification-versions. You may browse this development version for information only at   | 2026-10-06 |
-| [`Integrated-Urgent-Care`](https://github.com/uk-gov-mirror/nhsconnect.Integrated-Urgent-Care) | Integrated-Urgent-Care Interoperability Implementation Guide | 2026-10-06 |
-| [`NHS-FHIR-DDS`](https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS) | Digital Diagnostics Services FHIR DMS | 2026-10-06 |
-| [`NHS-FHIR-DDS-Genomics`](https://github.com/uk-gov-mirror/nhsconnect.NHS-FHIR-DDS-Genomics) | Digital Diagnostics Services Genomics FHIR DMS | 2026-10-06 |
-| [`National-Failsafe`](https://github.com/uk-gov-mirror/nhsconnect.National-Failsafe) | NHS National Population Failsafe Management | 2026-10-06 |
-| [`Terminology-Test`](https://github.com/uk-gov-mirror/nhsconnect.Terminology-Test) |  | 2026-10-06 |
-| [`itk-architecture`](https://github.com/uk-gov-mirror/nhsconnect.itk-architecture) | Architecture spec pages published on developer network | 2026-10-06 |
-| [`CareConnect-API-Core`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Core) | The Care Connect Core API Specification | 2026-10-05 |
-| [`CareConnect-API-Documents`](https://github.com/uk-gov-mirror/nhsconnect.CareConnect-API-Documents) | Care Connect API - Document  API | 2026-10-05 |
-| [`Demographic-Event-Messages`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages) | Demographic Update Event Messages | 2026-10-05 |
-| [`Dose-Syntax-Implementation`](https://github.com/uk-gov-mirror/nhsconnect.Dose-Syntax-Implementation) | Guidance for Implementation of Dose Syntax for FHIR   | 2026-10-05 |
-| [`FHIR-ADW-Messaging`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ADW-Messaging) | Warning: This version of the ADW specification is currently under development, is subject to change and therefore not suitable to build to. For the correct version see https://data.developer.nhs.uk/specifications/sc-fhir-5/Chapter.1.About/index.html You may browse this development version for information only at  | 2026-10-05 |
-| [`FHIR-ATFS`](https://github.com/uk-gov-mirror/nhsconnect.FHIR-ATFS) | Audit Transparency Foundation Service | 2026-10-05 |
-| [`CareConnectDocuments`](https://github.com/uk-gov-mirror/nhsconnect.CareConnectDocuments) | Additional project documents for the Care Connect project | 2026-10-03 |
-| [`Demographic-Event-Messages-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Demographic-Event-Messages-CareConnect) | Demographic-Event-Messages-CareConnect (copy of Demographic-Event-Messages using CareConnect profiles) | 2026-10-03 |
-| [`Digital-Child-Health-CareConnect`](https://github.com/uk-gov-mirror/nhsconnect.Digital-Child-Health-CareConnect) | Implementation Guide for Digital Child Health (CareConnect) event messages | 2026-10-03 |
-| [`prm-gp-registrations-mi-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi-infra) | Infrastructure as code for managing resources that supports GP Registrations management information. | 2025-11-07* |
-| [`prm-gp-registrations-mi`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp-registrations-mi) | GP Registrations MI is a service used to collect Management Information describing patient transfers in the form of JSON events sent over a RESTful API. | 2025-10-10* |
-| [`gpconnect-appointment-checker`](https://github.com/uk-gov-mirror/nhsconnect.gpconnect-appointment-checker) | GP Connect Appointment Checker | 2025-05-23* |
-| [`prm-gp2gp-dashboard`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard) |  | 2023-01-27* |
-| [`prm-gp2gp-data-pipeline-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-data-pipeline-infra) |  | 2023-01-27* |
-| [`Uk-Core-Test`](https://github.com/uk-gov-mirror/nhsconnect.Uk-Core-Test) | a test repo | 2021-04-20* |
-| [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
-| [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
 
 ## [ONS-Innovation](https://github.com/ONS-Innovation) (44)
 
