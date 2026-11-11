@@ -4767,6 +4767,26 @@
     "original_url": "https://github.com/ONSdigital/dis-lambda-lockbox-email-stack"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "A Go Service to redirect legacy URLs requested by users",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-redirect-proxy",
+    "mirror_name": "ONSdigital.dis-redirect-proxy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-redirect-proxy",
+    "name": "dis-redirect-proxy",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-redirect-proxy"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Dissemination client library for Redis or similar protocols.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-redis",
+    "mirror_name": "ONSdigital.dis-redis",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-redis",
+    "name": "dis-redis",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-redis"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Several POCS for exploring the concept of an NGINX router configured from an external source",
     "full_name": "uk-gov-mirror/ONSdigital.dis-router-nginx-poc",
@@ -4805,6 +4825,16 @@
     "name": "dis-routing-performance-test",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dis-routing-performance-test"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Fake upstream search stub to mimic upstream services using a generic search contract to integrate with our search stack",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-search-upstream-stub",
+    "mirror_name": "ONSdigital.dis-search-upstream-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-search-upstream-stub",
+    "name": "dis-search-upstream-stub",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-search-upstream-stub"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5551,6 +5581,16 @@
     "original_url": "https://github.com/ONSdigital/dp-developer-site-spike"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Component that takes input file from S3 and scans to find unique dimensions.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dimension-extractor",
+    "mirror_name": "ONSdigital.dp-dimension-extractor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-extractor",
+    "name": "dp-dimension-extractor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dimension-extractor"
+  },
+  {
     "deleted_on": "2026-11-10",
     "description": "Component that takes unique dimensions and writes them to the database.",
     "full_name": "uk-gov-mirror/ONSdigital.dp-dimension-importer",
@@ -5559,6 +5599,16 @@
     "name": "dp-dimension-importer",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-dimension-importer"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dimension-search-builder",
+    "mirror_name": "ONSdigital.dp-dimension-search-builder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-search-builder",
+    "name": "dp-dimension-search-builder",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dimension-search-builder"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5670,6 +5720,16 @@
     "name": "dp-filter-a-dataset-prototype",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-filter-a-dataset-prototype"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "API to maintain dataset filter jobs",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-filter-api",
+    "mirror_name": "ONSdigital.dp-filter-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-filter-api",
+    "name": "dp-filter-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-filter-api"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5803,6 +5863,26 @@
     "original_url": "https://github.com/ONSdigital/dp-frontend-prototyper"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Release Calendar frontend controller",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-release-calendar",
+    "mirror_name": "ONSdigital.dp-frontend-release-calendar",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-release-calendar",
+    "name": "dp-frontend-release-calendar",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-release-calendar"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "An HTTP service for the controlling of search query",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-search-controller",
+    "mirror_name": "ONSdigital.dp-frontend-search-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-search-controller",
+    "name": "dp-frontend-search-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-search-controller"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-tests",
@@ -5931,6 +6011,26 @@
     "name": "dp-identity-api-prototype",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-identity-api-prototype"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "An API used by florence and internal micro services to create import datasets which is then updated by other micro services",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import-api",
+    "mirror_name": "ONSdigital.dp-import-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import-api",
+    "name": "dp-import-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Consume error messages from the import process and report them to the import API",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import-reporter",
+    "mirror_name": "ONSdigital.dp-import-reporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import-reporter",
+    "name": "dp-import-reporter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import-reporter"
   },
   {
     "deleted_on": "2026-11-10",
@@ -6113,6 +6213,16 @@
     "original_url": "https://github.com/ONSdigital/dp-observation-api"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Component that breaks down the 'Databakered' CSV into individual rows and writes them to a Kafka queue.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-observation-extractor",
+    "mirror_name": "ONSdigital.dp-observation-extractor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-observation-extractor",
+    "name": "dp-observation-extractor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-observation-extractor"
+  },
+  {
     "deleted_on": "2026-11-10",
     "description": "Component that takes observations and writes them to the database.",
     "full_name": "uk-gov-mirror/ONSdigital.dp-observation-importer",
@@ -6227,6 +6337,16 @@
     "original_url": "https://github.com/ONSdigital/dp-rchttp"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-recipe-api",
+    "mirror_name": "ONSdigital.dp-recipe-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-recipe-api",
+    "name": "dp-recipe-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-recipe-api"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "API for managing the release calendar",
     "full_name": "uk-gov-mirror/ONSdigital.dp-release-calendar-api",
@@ -6307,6 +6427,16 @@
     "original_url": "https://github.com/ONSdigital/dp-search-app"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Service to retrieve data to update search index",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-search-data-extractor",
+    "mirror_name": "ONSdigital.dp-search-data-extractor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-search-data-extractor",
+    "name": "dp-search-data-extractor",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-search-data-extractor"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Receives events requesting reindex jobs and finds data to populate the new indexes created",
     "full_name": "uk-gov-mirror/ONSdigital.dp-search-data-finder",
@@ -6335,6 +6465,16 @@
     "name": "dp-search-reindex-api",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-search-reindex-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Search Reindexing Batch Job",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-search-reindex-batch",
+    "mirror_name": "ONSdigital.dp-search-reindex-batch",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-search-reindex-batch",
+    "name": "dp-search-reindex-batch",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-search-reindex-batch"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6376,6 +6516,16 @@
     "name": "dp-sessions-api",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-sessions-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Welcome to the Dissemination Engineering Standards repository",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-standards",
+    "mirror_name": "ONSdigital.dp-standards",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-standards",
+    "name": "dp-standards",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-standards"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -24474,6 +24624,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-community-accommodation-tier-2-e2e"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Surfacing app insight dependencies and making available to the developer portal",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-component-dependencies",
+    "mirror_name": "ministryofjustice.hmpps-component-dependencies",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-component-dependencies",
+    "name": "hmpps-component-dependencies",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-component-dependencies"
+  },
+  {
     "deleted_on": "2026-09-02",
     "description": "Service to perform migration of existing court-case-service data to a new hmpps-court-case-service database schema. (bootstrapped 2025-09-16)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-court-case-data-migration-service",
@@ -24860,6 +25020,46 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-dpr-fake-dps-service"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "An API to help prisoners create a personal development plan for their time in prison and after release",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-api",
+    "mirror_name": "ministryofjustice.hmpps-education-and-work-plan-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-api",
+    "name": "hmpps-education-and-work-plan-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-education-and-work-plan-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "A UI to manage a prisoner's personal development plan for their time in prison and after release",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-ui",
+    "mirror_name": "ministryofjustice.hmpps-education-and-work-plan-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-ui",
+    "name": "hmpps-education-and-work-plan-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-education-and-work-plan-ui"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "HMPPS Education & Employment API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-education-employment-api",
+    "mirror_name": "ministryofjustice.hmpps-education-employment-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-employment-api",
+    "name": "hmpps-education-employment-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-education-employment-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "HMPPS Education & Employment UI",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-education-employment-ui",
+    "mirror_name": "ministryofjustice.hmpps-education-employment-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-employment-ui",
+    "name": "hmpps-education-employment-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-education-employment-ui"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "A Microfrontend to host React App (bootstrapped 2025-04-24)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-electronic-monitoring-crime-matching-react",
@@ -24960,6 +25160,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-github-actions-runner-security"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Service that queries the github api and collects information about hmpps projects and pushes it to the service catalogue.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-github-discovery",
+    "mirror_name": "ministryofjustice.hmpps-github-discovery",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-github-discovery",
+    "name": "hmpps-github-discovery",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-github-discovery"
+  },
+  {
     "deleted_on": "2026-11-04",
     "description": "This repo will comprise of hardened HMPPS container images (bootstrapped 2026-08-10)",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-hardened-container-images",
@@ -24978,6 +25188,16 @@
     "name": "hmpps-hdc-api.replaced.2026-09-03",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-hdc-api.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Service that pings all available health or info endpoints and caches the results.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-health-ping",
+    "mirror_name": "ministryofjustice.hmpps-health-ping",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-health-ping",
+    "name": "hmpps-health-ping",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-health-ping"
   },
   {
     "deleted_on": "2026-08-21",
@@ -25120,6 +25340,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-job-feed-parser"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "HMPPS Jobs Board API",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-api",
+    "mirror_name": "ministryofjustice.hmpps-jobs-board-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-api",
+    "name": "hmpps-jobs-board-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-api"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "HMPPS Jobs Board Integration API",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-integration-api",
@@ -25140,6 +25370,26 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-reporting-api"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "A UI service to allow PELs and others to view/run reports and stats for the jobs board",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-ui",
+    "mirror_name": "ministryofjustice.hmpps-jobs-board-reporting-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-ui",
+    "name": "hmpps-jobs-board-reporting-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-reporting-ui"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "User interface for HMPPS Jobs Board",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-jobs-board-ui",
+    "mirror_name": "ministryofjustice.hmpps-jobs-board-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-ui",
+    "name": "hmpps-jobs-board-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-jobs-board-ui"
+  },
+  {
     "deleted_on": "2026-08-21",
     "description": "Launchpad Audit API",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-launchpad-audit",
@@ -25148,6 +25398,16 @@
     "name": "hmpps-launchpad-audit",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-launchpad-audit"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "A backend for an API to access Department for Education Learning Records Service data. (bootstrapped 2025-01-06)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-learner-records-api",
+    "mirror_name": "ministryofjustice.hmpps-learner-records-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-learner-records-api",
+    "name": "hmpps-learner-records-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-learner-records-api"
   },
   {
     "deleted_on": "2026-08-22",
@@ -25229,6 +25489,26 @@
     "name": "hmpps-mandatory-drug-testing-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-mandatory-drug-testing-ui"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "The match-learner-record-ui is used to match a Nomis ID to a Department for Education Unique Learner Number via their demographic details in order to allow services to query prisoner education history. (bootstrapped 2025-02-20)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-match-learner-record-ui",
+    "mirror_name": "ministryofjustice.hmpps-match-learner-record-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-match-learner-record-ui",
+    "name": "hmpps-match-learner-record-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-match-learner-record-ui"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Repo for the Candidate Matching Service prototype - part of Reducing Reoffending programme",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-matching-prototype",
+    "mirror_name": "ministryofjustice.hmpps-matching-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-matching-prototype",
+    "name": "hmpps-matching-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-matching-prototype"
   },
   {
     "deleted_on": "2026-08-11",
@@ -25481,6 +25761,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-prison-person-api"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "The purpose of this repo is to create an internal API that can be called by the Integration API to expose prisoner base location information that has been translated into a less NOMIS model for external use (bootstrapped 2025-07-09)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-base-location-api",
+    "mirror_name": "ministryofjustice.hmpps-prisoner-base-location-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-base-location-api",
+    "name": "hmpps-prisoner-base-location-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-base-location-api"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Handles prisoner contact information",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-contacts",
@@ -25489,6 +25779,26 @@
     "name": "hmpps-prisoner-contacts",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-contacts"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Prototype for HMPPS prisoner education, skills, work and employment team.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-education",
+    "mirror_name": "ministryofjustice.hmpps-prisoner-education",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-education",
+    "name": "hmpps-prisoner-education",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-education"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Prisoner facing POC for prisoners to be able to take a more active role in their education and training programmes. (bootstrapped 2026-06-01)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-prisoner-facing-lwp-poc-ui",
+    "mirror_name": "ministryofjustice.hmpps-prisoner-facing-lwp-poc-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-facing-lwp-poc-ui",
+    "name": "hmpps-prisoner-facing-lwp-poc-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-prisoner-facing-lwp-poc-ui"
   },
   {
     "deleted_on": "2026-08-11",
@@ -25663,6 +25973,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-registers-to-nomis-update"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "A service for resettlement passport  to prepare prisoner for release proof of concept",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-api",
+    "mirror_name": "ministryofjustice.hmpps-resettlement-passport-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-api",
+    "name": "hmpps-resettlement-passport-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-resettlement-passport-api"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Resettlement passport: A website to provide people on probation access to appointments and licence info",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-person-on-probation-ui",
@@ -25803,6 +26123,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-smtp-installer"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "Service that runs Snyk container image scans for HMPPS container images and pushes the results to the Service Catalogue, where they can be displayed in the Developer Portal. (bootstrapped 2026-04-30)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-snyk-discovery",
+    "mirror_name": "ministryofjustice.hmpps-snyk-discovery",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-snyk-discovery",
+    "name": "hmpps-snyk-discovery",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-snyk-discovery"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "hmpps-solr-bootstrap",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-solr-bootstrap",
@@ -25843,6 +26173,36 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-sre-python-lib.replaced.2026-09-20"
   },
   {
+    "deleted_on": "2026-11-11",
+    "description": "An API to allow the recording of prisoners' challenges, strengths, conditions and support recommendations, and to create and review the prisoner's education support plan. The support plan provides support to those with neurodiversity and other additional learning needs. (bootstrapped 2025-05-09)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-api",
+    "mirror_name": "ministryofjustice.hmpps-support-additional-needs-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-api",
+    "name": "hmpps-support-additional-needs-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-support-additional-needs-api"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "A govuk prototype-kit repository for the 'Support for additional needs' UI service. (bootstrapped 2025-05-20)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-prototype",
+    "mirror_name": "ministryofjustice.hmpps-support-additional-needs-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-prototype",
+    "name": "hmpps-support-additional-needs-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-support-additional-needs-prototype"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "A UI to enable staff to record a prisoner's challenges, strengths, conditions and support recommendations, and to create and review the prisoner's education support plan. The support plan provides support to those with neurodiversity and other additional learning needs. (bootstrapped 2025-05-09)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-ui",
+    "mirror_name": "ministryofjustice.hmpps-support-additional-needs-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-ui",
+    "name": "hmpps-support-additional-needs-ui",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-support-additional-needs-ui"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-tech-docs",
@@ -25861,6 +26221,16 @@
     "name": "hmpps-tech-docs-monitor",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/hmpps-tech-docs-monitor"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Service that queries cloudplatform terraform projects and collects information about hmpps projects and pushes it to the service catalogue.",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-terraform-discovery",
+    "mirror_name": "ministryofjustice.hmpps-terraform-discovery",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-terraform-discovery",
+    "name": "hmpps-terraform-discovery",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-terraform-discovery"
   },
   {
     "deleted_on": "2026-08-22",
@@ -26494,6 +26864,26 @@
     "name": "moj-ds-accessibility-audit",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/moj-ds-accessibility-audit"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "A skeleton application to help teams kick-start building FastAPI based REST APIs",
+    "full_name": "uk-gov-mirror/ministryofjustice.moj-fastapi-template",
+    "mirror_name": "ministryofjustice.moj-fastapi-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.moj-fastapi-template",
+    "name": "moj-fastapi-template",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/moj-fastapi-template"
+  },
+  {
+    "deleted_on": "2026-11-11",
+    "description": "Taking the GOVUK flask frontend skeleton and making it more open (Removing environmental and security locks)",
+    "full_name": "uk-gov-mirror/ministryofjustice.moj-flask-govuk-skeleton",
+    "mirror_name": "ministryofjustice.moj-flask-govuk-skeleton",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.moj-flask-govuk-skeleton",
+    "name": "moj-flask-govuk-skeleton",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/moj-flask-govuk-skeleton"
   },
   {
     "deleted_on": "2026-10-28",

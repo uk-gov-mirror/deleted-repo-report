@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3276**
+Total deleted repositories: **3315**
 Organisations affected: **92**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,18 +10,18 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 50]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 89]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**992**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 80.5% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**437**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 16.6% |
+| [ONSdigital](https://github.com/ONSdigital) | [**1007**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 82.1% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**461**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 17.5% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
 | [hmrc](https://github.com/hmrc) | [**218**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
-| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.7% |
+| [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.6% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**116**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.6% |
 | [defra](https://github.com/defra) | [**75**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 3.6% |
@@ -43,7 +43,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [insolvencyservice](https://github.com/insolvencyservice) | [**17**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22insolvencyservice.%22) | 54.8% |
 | [nhsengland](https://github.com/nhsengland) | [**16**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsengland.%22) | 6.6% |
 | [dvsa](https://github.com/dvsa) | [**15**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvsa.%22) | 5.1% |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 23.6% |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 23.2% |
 | [intellectual-property-office](https://github.com/intellectual-property-office) | [**13**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22intellectual-property-office.%22) | 46.4% |
 | [111online](https://github.com/111online) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22111online.%22) | 92.3% |
 | [nhsuk](https://github.com/nhsuk) | [**12**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsuk.%22) | 57.1% |
@@ -110,10 +110,25 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ONSdigital](https://github.com/ONSdigital) (992)
+## [ONSdigital](https://github.com/ONSdigital) (1007)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dis-redirect-proxy`](https://github.com/uk-gov-mirror/ONSdigital.dis-redirect-proxy) | A Go Service to redirect legacy URLs requested by users | 2026-11-11 |
+| [`dis-redis`](https://github.com/uk-gov-mirror/ONSdigital.dis-redis) | Dissemination client library for Redis or similar protocols. | 2026-11-11 |
+| [`dis-search-upstream-stub`](https://github.com/uk-gov-mirror/ONSdigital.dis-search-upstream-stub) | Fake upstream search stub to mimic upstream services using a generic search contract to integrate with our search stack | 2026-11-11 |
+| [`dp-dimension-extractor`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-extractor) | Component that takes input file from S3 and scans to find unique dimensions. | 2026-11-11 |
+| [`dp-dimension-search-builder`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-search-builder) |  | 2026-11-11 |
+| [`dp-filter-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-filter-api) | API to maintain dataset filter jobs | 2026-11-11 |
+| [`dp-frontend-release-calendar`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-release-calendar) | Release Calendar frontend controller | 2026-11-11 |
+| [`dp-frontend-search-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-search-controller) | An HTTP service for the controlling of search query | 2026-11-11 |
+| [`dp-import-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-api) | An API used by florence and internal micro services to create import datasets which is then updated by other micro services | 2026-11-11 |
+| [`dp-import-reporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-reporter) | Consume error messages from the import process and report them to the import API | 2026-11-11 |
+| [`dp-observation-extractor`](https://github.com/uk-gov-mirror/ONSdigital.dp-observation-extractor) | Component that breaks down the 'Databakered' CSV into individual rows and writes them to a Kafka queue. | 2026-11-11 |
+| [`dp-recipe-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-recipe-api) |  | 2026-11-11 |
+| [`dp-search-data-extractor`](https://github.com/uk-gov-mirror/ONSdigital.dp-search-data-extractor) | Service to retrieve data to update search index | 2026-11-11 |
+| [`dp-search-reindex-batch`](https://github.com/uk-gov-mirror/ONSdigital.dp-search-reindex-batch) | Search Reindexing Batch Job | 2026-11-11 |
+| [`dp-standards`](https://github.com/uk-gov-mirror/ONSdigital.dp-standards) | Welcome to the Dissemination Engineering Standards repository | 2026-11-11 |
 | [`cell-key-perturbation`](https://github.com/uk-gov-mirror/ONSdigital.cell-key-perturbation) | Creates a frequency table and performs cell-key perturbation | 2026-11-10 |
 | [`dp-code-list-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-code-list-api) | Resource api for customise my data | 2026-11-10 |
 | [`dp-dataset-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-exporter) | Takes a filter job and produces a filtered dataset | 2026-11-10 |
@@ -1107,10 +1122,34 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (437)
+## [ministryofjustice](https://github.com/ministryofjustice) (461)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`hmpps-component-dependencies`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-component-dependencies) | Surfacing app insight dependencies and making available to the developer portal | 2026-11-11 |
+| [`hmpps-education-and-work-plan-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-api) | An API to help prisoners create a personal development plan for their time in prison and after release | 2026-11-11 |
+| [`hmpps-education-and-work-plan-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-and-work-plan-ui) | A UI to manage a prisoner's personal development plan for their time in prison and after release | 2026-11-11 |
+| [`hmpps-education-employment-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-employment-api) | HMPPS Education & Employment API | 2026-11-11 |
+| [`hmpps-education-employment-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-education-employment-ui) | HMPPS Education & Employment UI | 2026-11-11 |
+| [`hmpps-github-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-github-discovery) | Service that queries the github api and collects information about hmpps projects and pushes it to the service catalogue. | 2026-11-11 |
+| [`hmpps-health-ping`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-health-ping) | Service that pings all available health or info endpoints and caches the results. | 2026-11-11 |
+| [`hmpps-jobs-board-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-api) | HMPPS Jobs Board API | 2026-11-11 |
+| [`hmpps-jobs-board-reporting-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-reporting-ui) | A UI service to allow PELs and others to view/run reports and stats for the jobs board | 2026-11-11 |
+| [`hmpps-jobs-board-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-jobs-board-ui) | User interface for HMPPS Jobs Board | 2026-11-11 |
+| [`hmpps-learner-records-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-learner-records-api) | A backend for an API to access Department for Education Learning Records Service data. (bootstrapped 2025-01-06) | 2026-11-11 |
+| [`hmpps-match-learner-record-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-match-learner-record-ui) | The match-learner-record-ui is used to match a Nomis ID to a Department for Education Unique Learner Number via their demographic details in order to allow services to query prisoner education history. (bootstrapped 2025-02-20) | 2026-11-11 |
+| [`hmpps-matching-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-matching-prototype) | Repo for the Candidate Matching Service prototype - part of Reducing Reoffending programme | 2026-11-11 |
+| [`hmpps-prisoner-base-location-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-base-location-api) | The purpose of this repo is to create an internal API that can be called by the Integration API to expose prisoner base location information that has been translated into a less NOMIS model for external use (bootstrapped 2025-07-09) | 2026-11-11 |
+| [`hmpps-prisoner-education`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-education) | Prototype for HMPPS prisoner education, skills, work and employment team. | 2026-11-11 |
+| [`hmpps-prisoner-facing-lwp-poc-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-prisoner-facing-lwp-poc-ui) | Prisoner facing POC for prisoners to be able to take a more active role in their education and training programmes. (bootstrapped 2026-06-01) | 2026-11-11 |
+| [`hmpps-resettlement-passport-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-resettlement-passport-api) | A service for resettlement passport  to prepare prisoner for release proof of concept | 2026-11-11 |
+| [`hmpps-snyk-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-snyk-discovery) | Service that runs Snyk container image scans for HMPPS container images and pushes the results to the Service Catalogue, where they can be displayed in the Developer Portal. (bootstrapped 2026-04-30) | 2026-11-11 |
+| [`hmpps-support-additional-needs-api`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-api) | An API to allow the recording of prisoners' challenges, strengths, conditions and support recommendations, and to create and review the prisoner's education support plan. The support plan provides support to those with neurodiversity and other additional learning needs. (bootstrapped 2025-05-09) | 2026-11-11 |
+| [`hmpps-support-additional-needs-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-prototype) | A govuk prototype-kit repository for the 'Support for additional needs' UI service. (bootstrapped 2025-05-20) | 2026-11-11 |
+| [`hmpps-support-additional-needs-ui`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-support-additional-needs-ui) | A UI to enable staff to record a prisoner's challenges, strengths, conditions and support recommendations, and to create and review the prisoner's education support plan. The support plan provides support to those with neurodiversity and other additional learning needs. (bootstrapped 2025-05-09) | 2026-11-11 |
+| [`hmpps-terraform-discovery`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-terraform-discovery) | Service that queries cloudplatform terraform projects and collects information about hmpps projects and pushes it to the service catalogue. | 2026-11-11 |
+| [`moj-fastapi-template`](https://github.com/uk-gov-mirror/ministryofjustice.moj-fastapi-template) | A skeleton application to help teams kick-start building FastAPI based REST APIs | 2026-11-11 |
+| [`moj-flask-govuk-skeleton`](https://github.com/uk-gov-mirror/ministryofjustice.moj-flask-govuk-skeleton) | Taking the GOVUK flask frontend skeleton and making it more open (Removing environmental and security locks) | 2026-11-11 |
 | [`hmpps-official-visits-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-official-visits-prototype) | A prototype for the official visits service | 2026-11-07 |
 | [`laa-court-data-ui-e2e-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-ui-e2e-tests) | End-to-end tests to test VCD-CDA-CP (Common Platform) integration | 2026-11-07 |
 | [`bulk-submission-and-fee-scheme-tests-`](https://github.com/uk-gov-mirror/ministryofjustice.bulk-submission-and-fee-scheme-tests-) | UI and API tests for bulk submission and Fee scheme  | 2026-11-06 |
