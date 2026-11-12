@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`dis-search-test-bed`](https://github.com/uk-gov-mirror/ONSdigital.dis-search-test-bed) | Search Test bed | 2026-11-12 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-compose`](https://github.com/uk-gov-mirror/ONSdigital.dp-compose) | A project to assist in composing multiple DP services | 2026-11-12 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-dimension-search-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-search-api) |  | 2026-11-12 |
+| [communitiesuk](https://github.com/communitiesuk) | [`epb-ecaas-brel-report`](https://github.com/uk-gov-mirror/communitiesuk.epb-ecaas-brel-report) | PDF renderer for Home Energy Model based BREL reports evidencing compliance with Part L of Building Regulations | 2026-11-12 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-redirect-proxy`](https://github.com/uk-gov-mirror/ONSdigital.dis-redirect-proxy) | A Go Service to redirect legacy URLs requested by users | 2026-11-11 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-redis`](https://github.com/uk-gov-mirror/ONSdigital.dis-redis) | Dissemination client library for Redis or similar protocols. | 2026-11-11 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-search-upstream-stub`](https://github.com/uk-gov-mirror/ONSdigital.dis-search-upstream-stub) | Fake upstream search stub to mimic upstream services using a generic search contract to integrate with our search stack | 2026-11-11 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-cookie-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-cookie-controller) | Digital Publishing controller for managing cookies. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dpmaccpf`](https://github.com/uk-gov-mirror/ONSdigital.dpmaccpf) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dpmall`](https://github.com/uk-gov-mirror/ONSdigital.dpmall) | Install and run all steps of the dynamic population model (DPM). Step 1- initial unbalanced demographic account. Step 2 - cohort-level estimation of consistent demographic accounts. Step 3 - splitting of combined migration flows to full origin destination matrix. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`dpmpf`](https://github.com/uk-gov-mirror/ONSdigital.dpmpf) | Particle filters for estimating Bayesian demographic accounts | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`eq-author-api`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-api) | The Author API has moved to | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`eq-author-benchmarks`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-benchmarks) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`eq-author-data-export`](https://github.com/uk-gov-mirror/ONSdigital.eq-author-data-export) | An utility for exporting author questionnaire data. | 2026-10-23 |

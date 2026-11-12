@@ -4827,6 +4827,16 @@
     "original_url": "https://github.com/ONSdigital/dis-routing-performance-test"
   },
   {
+    "deleted_on": "2026-11-12",
+    "description": "Search Test bed",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-search-test-bed",
+    "mirror_name": "ONSdigital.dis-search-test-bed",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-search-test-bed",
+    "name": "dis-search-test-bed",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-search-test-bed"
+  },
+  {
     "deleted_on": "2026-11-11",
     "description": "Fake upstream search stub to mimic upstream services using a generic search contract to integrate with our search stack",
     "full_name": "uk-gov-mirror/ONSdigital.dis-search-upstream-stub",
@@ -5197,6 +5207,16 @@
     "name": "dp-commit-verifier",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-commit-verifier"
+  },
+  {
+    "deleted_on": "2026-11-12",
+    "description": "A project to assist in composing multiple DP services",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-compose",
+    "mirror_name": "ONSdigital.dp-compose",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-compose",
+    "name": "dp-compose",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-compose"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -5599,6 +5619,16 @@
     "name": "dp-dimension-importer",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-dimension-importer"
+  },
+  {
+    "deleted_on": "2026-11-12",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dimension-search-api",
+    "mirror_name": "ONSdigital.dp-dimension-search-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-search-api",
+    "name": "dp-dimension-search-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dimension-search-api"
   },
   {
     "deleted_on": "2026-11-11",
@@ -16193,6 +16223,16 @@
     "name": "cdp_core",
     "org": "communitiesuk",
     "original_url": "https://github.com/communitiesuk/cdp_core"
+  },
+  {
+    "deleted_on": "2026-11-12",
+    "description": "PDF renderer for Home Energy Model based BREL reports evidencing compliance with Part L of Building Regulations",
+    "full_name": "uk-gov-mirror/communitiesuk.epb-ecaas-brel-report",
+    "mirror_name": "communitiesuk.epb-ecaas-brel-report",
+    "mirror_url": "https://github.com/uk-gov-mirror/communitiesuk.epb-ecaas-brel-report",
+    "name": "epb-ecaas-brel-report",
+    "org": "communitiesuk",
+    "original_url": "https://github.com/communitiesuk/epb-ecaas-brel-report"
   },
   {
     "approximate_date_source": "last-git-activity",
