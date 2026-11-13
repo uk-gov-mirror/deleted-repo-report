@@ -11108,6 +11108,16 @@
     "original_url": "https://github.com/ONSdigital/spp-rsi-lambda-scripts"
   },
   {
+    "deleted_on": "2026-11-13",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.spp-self-service-prototype",
+    "mirror_name": "ONSdigital.spp-self-service-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.spp-self-service-prototype",
+    "name": "spp-self-service-prototype",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/spp-self-service-prototype"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Test server for experimenting with Spring Cloud.",
     "full_name": "uk-gov-mirror/ONSdigital.spring-cloud-config-server",
@@ -27668,6 +27678,16 @@
     "name": "planet-fm",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/planet-fm"
+  },
+  {
+    "deleted_on": "2026-11-13",
+    "description": "A place for the core work of the Platform Operations team",
+    "full_name": "uk-gov-mirror/ministryofjustice.platform-operations",
+    "mirror_name": "ministryofjustice.platform-operations",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.platform-operations",
+    "name": "platform-operations",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/platform-operations"
   },
   {
     "deleted_on": "2026-08-11",

@@ -6,6 +6,8 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`spp-self-service-prototype`](https://github.com/uk-gov-mirror/ONSdigital.spp-self-service-prototype) |  | 2026-11-13 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`platform-operations`](https://github.com/uk-gov-mirror/ministryofjustice.platform-operations) | A place for the core work of the Platform Operations team | 2026-11-13 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-search-test-bed`](https://github.com/uk-gov-mirror/ONSdigital.dis-search-test-bed) | Search Test bed | 2026-11-12 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-compose`](https://github.com/uk-gov-mirror/ONSdigital.dp-compose) | A project to assist in composing multiple DP services | 2026-11-12 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-dimension-search-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-dimension-search-api) |  | 2026-11-12 |
@@ -1004,5 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`design-system-python-flask-demo`](https://github.com/uk-gov-mirror/ONSdigital.design-system-python-flask-demo) | This project is demo of design system implemenented in Python and Flask. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`design-system-react`](https://github.com/uk-gov-mirror/ONSdigital.design-system-react) | React implementation of the ONS Design System (work in progress). | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-cookie-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-cookie-controller) | Digital Publishing controller for managing cookies. | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`dpmaccpf`](https://github.com/uk-gov-mirror/ONSdigital.dpmaccpf) |  | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`dpmall`](https://github.com/uk-gov-mirror/ONSdigital.dpmall) | Install and run all steps of the dynamic population model (DPM). Step 1- initial unbalanced demographic account. Step 2 - cohort-level estimation of consistent demographic accounts. Step 3 - splitting of combined migration flows to full origin destination matrix. | 2026-10-23 |
