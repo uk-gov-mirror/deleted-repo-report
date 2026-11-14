@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3321**
+Total deleted repositories: **3329**
 Organisations affected: **92**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,14 +10,14 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1278, 95]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1259, 122]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**1011**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 82.4% |
+| [ONSdigital](https://github.com/ONSdigital) | [**1019**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 83.0% |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**462**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 17.6% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
 | [hmrc](https://github.com/hmrc) | [**218**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.6% |
@@ -110,10 +110,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [uktrade](https://github.com/uktrade) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22uktrade.%22) | 2.3% |
 
-## [ONSdigital](https://github.com/ONSdigital) (1011)
+## [ONSdigital](https://github.com/ONSdigital) (1019)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dp-cantabular-csv-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-csv-exporter) | Consumes a Kafka message (cantabular-export-start) to begin the process of retrieving the counts from Cantabular. | 2026-11-14 |
+| [`dp-cantabular-filter-flex-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-filter-flex-api) | API for submitting and monitoring Cantabular filter/flex jobs to produce customised dataset outputs. | 2026-11-14 |
+| [`dp-cantabular-metadata-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-metadata-exporter) | dp-cantabular-metadata-exporter | 2026-11-14 |
+| [`dp-cantabular-metadata-extractor-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-metadata-extractor-api) | Supply Cantabular metadata for Florence metadata journey. | 2026-11-14 |
+| [`dp-cantabular-xlsx-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-xlsx-exporter) | Cantabular xlsx exporter | 2026-11-14 |
+| [`dp-import-cantabular-dataset`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-cantabular-dataset) | Begins the process of retrieving categories from Catabular API to begin the population of dimensions into our datastore | 2026-11-14 |
+| [`dp-import-cantabular-dimension-options`](https://github.com/uk-gov-mirror/ONSdigital.dp-import-cantabular-dimension-options) | Extracts dimension options (aka categories) from the Cantabular server and writes them to the dataset API. | 2026-11-14 |
+| [`dp-population-types-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-population-types-api) | A REST API wrapper around the Cantabular Extended GraphQL API allowing querying of information about observations, variables, and categories. | 2026-11-14 |
 | [`spp-self-service-prototype`](https://github.com/uk-gov-mirror/ONSdigital.spp-self-service-prototype) |  | 2026-11-13 |
 | [`dis-search-test-bed`](https://github.com/uk-gov-mirror/ONSdigital.dis-search-test-bed) | Search Test bed | 2026-11-12 |
 | [`dp-compose`](https://github.com/uk-gov-mirror/ONSdigital.dp-compose) | A project to assist in composing multiple DP services | 2026-11-12 |
@@ -2537,51 +2545,51 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`farming-grants-agreements-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14) | Git repository for service farming-grants-agreements-ui | 2026-11-14 |
+| [`fcp-dal-api-postdeployment-test.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14) | Git repository for service fcp-dal-api-postdeployment-test | 2026-11-14 |
+| [`fcp-dal-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api.replaced.2026-11-14) | Git repository for service fcp-dal-api | 2026-11-14 |
+| [`fcp-mel-file-service.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14) | Git repository for service fcp-mel-file-service | 2026-11-14 |
+| [`fg-cw-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14) | Git repository for service fg-cw-backend | 2026-11-14 |
+| [`fg-cw-frontend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-frontend.replaced.2026-11-14) | Git repository for service fg-cw-frontend | 2026-11-14 |
+| [`fg-gas-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-gas-backend.replaced.2026-11-14) | Git repository for service fg-gas-backend | 2026-11-14 |
+| [`fg-grants-platform-admin.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin.replaced.2026-11-14) | Git repository for service fg-grants-platform-admin | 2026-11-14 |
+| [`grants-config-example-grants.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants.replaced.2026-11-14) | Git repository for service grants-config-example-grants | 2026-11-14 |
+| [`grants-config-farm-payments.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments.replaced.2026-11-14) | Git repository for service grants-config-farm-payments | 2026-11-14 |
+| [`grants-config-grasslands.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands.replaced.2026-11-14) | Git repository for service grants-config-grasslands | 2026-11-14 |
+| [`grants-config-water-management.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-water-management.replaced.2026-11-14) | Git repository for service grants-config-water-management | 2026-11-14 |
+| [`grants-config-woodland.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-woodland.replaced.2026-11-14) | Git repository for service grants-config-woodland | 2026-11-14 |
+| [`grants-ui-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-backend.replaced.2026-11-14) | Git repository for service grants-ui-backend | 2026-11-14 |
+| [`grants-ui-grasslands-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests.replaced.2026-11-14) | Git repository for service grants-ui-grasslands-tests | 2026-11-14 |
+| [`grants-ui-performance-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests.replaced.2026-11-14) | Git repository for service grants-ui-performance-tests | 2026-11-14 |
+| [`grants-ui-woodland-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests.replaced.2026-11-14) | Git repository for service grants-ui-woodland-tests | 2026-11-14 |
+| [`grants-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui.replaced.2026-11-14) | Git repository for service grants-ui | 2026-11-14 |
+| [`land-grants-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.land-grants-api.replaced.2026-11-14) | Git repository for service land-grants-api | 2026-11-14 |
 | [`fcp-data-access-layer-api`](https://github.com/uk-gov-mirror/defra.fcp-data-access-layer-api) |  | 2026-11-07 |
 | [`lis-facade-api-backend`](https://github.com/uk-gov-mirror/defra.lis-facade-api-backend) | Git repository for service lis-facade-api-backend | 2026-11-07 |
 | [`waste-organisations-backend`](https://github.com/uk-gov-mirror/defra.waste-organisations-backend) | Git repository for service waste-organisations-backend | 2026-11-07 |
-| [`fcp-mel-file-service`](https://github.com/uk-gov-mirror/defra.fcp-mel-file-service) | Git repository for service fcp-mel-file-service | 2026-11-06 |
 | [`grants-config-land-grants.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27) | Git repository for service grants-config-land-grants | 2026-10-28 |
 | [`grants-payment-service.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27) | Git repository for service grants-payment-service | 2026-10-28 |
 | [`land-grants-api-tests.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27) | Git repository for service land-grants-api-tests | 2026-10-28 |
-| [`farming-grants-agreements-ui`](https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui) | Git repository for service farming-grants-agreements-ui | 2026-10-27 |
 | [`fcp-cv-frontend-performance-test`](https://github.com/uk-gov-mirror/defra.fcp-cv-frontend-performance-test) | Git repository for service fcp-cv-frontend-performance-test | 2026-10-27 |
 | [`fcp-cv-postdeployment-tests`](https://github.com/uk-gov-mirror/defra.fcp-cv-postdeployment-tests) | Git repository for service fcp-cv-postdeployment-tests | 2026-10-27 |
-| [`fcp-dal-api`](https://github.com/uk-gov-mirror/defra.fcp-dal-api) | Git repository for service fcp-dal-api | 2026-10-27 |
 | [`fcp-dal-api-performance-test`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-performance-test) | Git repository for service fcp-dal-api-performance-test | 2026-10-27 |
-| [`fcp-dal-api-postdeployment-test`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test) | Git repository for service fcp-dal-api-postdeployment-test | 2026-10-27 |
 | [`ffc-grants-acceptance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-acceptance-tests) | Git repository for service ffc-grants-acceptance-tests | 2026-10-27 |
 | [`ffc-grants-accessibility-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-accessibility-tests) | Git repository for service ffc-grants-accessibility-tests | 2026-10-27 |
 | [`ffc-grants-performance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-performance-tests) | Git repository for service ffc-grants-performance-tests | 2026-10-27 |
 | [`ffc-grants-scoring`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring) | Git repository for service ffc-grants-scoring | 2026-10-27 |
 | [`ffc-grants-scoring-accept-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-accept-tests) | Git repository for service ffc-grants-scoring-accept-tests | 2026-10-27 |
 | [`ffc-grants-scoring-perf-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-perf-tests) | Git repository for service ffc-grants-scoring-perf-tests | 2026-10-27 |
-| [`fg-cw-backend`](https://github.com/uk-gov-mirror/defra.fg-cw-backend) | Git repository for service fg-cw-backend | 2026-10-27 |
-| [`fg-cw-frontend`](https://github.com/uk-gov-mirror/defra.fg-cw-frontend) | Git repository for service fg-cw-frontend | 2026-10-27 |
-| [`fg-gas-backend`](https://github.com/uk-gov-mirror/defra.fg-gas-backend) | Git repository for service fg-gas-backend | 2026-10-27 |
-| [`fg-grants-platform-admin`](https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin) | Git repository for service fg-grants-platform-admin | 2026-10-27 |
 | [`grant-config-example-grants`](https://github.com/uk-gov-mirror/defra.grant-config-example-grants) | Git repository for grant-config-example-grants | 2026-10-27 |
 | [`grant-config-woodland`](https://github.com/uk-gov-mirror/defra.grant-config-woodland) | Git repository for grant-config-woodland | 2026-10-27 |
-| [`grants-config-example-grants`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants) | Git repository for service grants-config-example-grants | 2026-10-27 |
-| [`grants-config-farm-payments`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments) | Git repository for service grants-config-farm-payments | 2026-10-27 |
-| [`grants-config-grasslands`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands) | Git repository for service grants-config-grasslands | 2026-10-27 |
-| [`grants-config-water-management`](https://github.com/uk-gov-mirror/defra.grants-config-water-management) | Git repository for service grants-config-water-management | 2026-10-27 |
-| [`grants-config-woodland`](https://github.com/uk-gov-mirror/defra.grants-config-woodland) | Git repository for service grants-config-woodland | 2026-10-27 |
 | [`grants-payment-service-tests`](https://github.com/uk-gov-mirror/defra.grants-payment-service-tests) | Git repository for service grants-payment-service-tests | 2026-10-27 |
 | [`grants-platform-e2e-tests`](https://github.com/uk-gov-mirror/defra.grants-platform-e2e-tests) | Git repository for service grants-platform-e2e-tests | 2026-10-27 |
-| [`grants-ui`](https://github.com/uk-gov-mirror/defra.grants-ui) | Git repository for service grants-ui | 2026-10-27 |
 | [`grants-ui-acceptance-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-acceptance-tests) | Git repository for service grants-ui-acceptance-tests | 2026-10-27 |
 | [`grants-ui-accessibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-accessibility-tests) | Git repository for service grants-ui-accessibility-tests | 2026-10-27 |
-| [`grants-ui-backend`](https://github.com/uk-gov-mirror/defra.grants-ui-backend) | Git repository for service grants-ui-backend | 2026-10-27 |
 | [`grants-ui-backend-accept-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-backend-accept-tests) | Git repository for service grants-ui-backend-accept-tests | 2026-10-27 |
 | [`grants-ui-compatibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-compatibility-tests) | Git repository for service grants-ui-compatibility-tests | 2026-10-27 |
 | [`grants-ui-config-api`](https://github.com/uk-gov-mirror/defra.grants-ui-config-api) | Git repository for service grants-ui-config-api | 2026-10-27 |
 | [`grants-ui-gas-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-gas-stub) | Git repository for service grants-ui-gas-stub | 2026-10-27 |
-| [`grants-ui-grasslands-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests) | Git repository for service grants-ui-grasslands-tests | 2026-10-27 |
-| [`grants-ui-performance-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests) | Git repository for service grants-ui-performance-tests | 2026-10-27 |
 | [`grants-ui-smoke-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-smoke-tests) | Git repository for service grants-ui-smoke-tests | 2026-10-27 |
-| [`grants-ui-woodland-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests) | Git repository for service grants-ui-woodland-tests | 2026-10-27 |
-| [`land-grants-api`](https://github.com/uk-gov-mirror/defra.land-grants-api) | Git repository for service land-grants-api | 2026-10-27 |
 | [`land-grants-journey-tests`](https://github.com/uk-gov-mirror/defra.land-grants-journey-tests) | Git repository for service land-grants-journey-tests | 2026-10-27 |
 | [`sfi-reform-service-e2e-tests`](https://github.com/uk-gov-mirror/defra.sfi-reform-service-e2e-tests) | Git repository for service sfi-reform-service-e2e-tests | 2026-10-27 |
 | [`woodland-grant-journey-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-journey-tests) | Git repository for service woodland-grant-journey-tests | 2026-10-27 |
@@ -2687,6 +2695,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`funding-service-fcs.replaced.2026-11-13`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs.replaced.2026-11-13) | The Funding Calculation Service (FCS) supports the management, calculation, allocation, and administration of funding and contracts across the Funding & Contracts platform. | 2026-11-14 |
 | [`funding-service-cfs-backend`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-cfs-backend) | Backend services for the Calculate Funding platform, responsible for funding calculations, orchestration, and related APIs. | 2026-10-28 |
 | [`funding-service-df-bdd-playwright-tests`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-bdd-playwright-tests) |  | 2026-10-27 |
 | [`funding-service-df-dc-api`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-dc-api) | .NET 8 Web API for secure document management in the DF system. Features automated virus scanning before uploading to Azure Blob Storage, secure retrieval/download endpoints, and upload status tracking. Protected by FAUPI APIM Gateway for enterprise-grade security. | 2026-10-27 |
@@ -2698,7 +2707,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`funding-service-df-selenium-testing`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-selenium-testing) |  | 2026-10-27 |
 | [`funding-service-df-shared-infrastructure`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-shared-infrastructure) |  | 2026-10-27 |
 | [`funding-service-df-submissions-func`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-submissions-func) |  | 2026-10-27 |
-| [`funding-service-fcs`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs) | The Funding Calculation Service (FCS) supports the management, calculation, allocation, and administration of funding and contracts across the Funding & Contracts platform. | 2026-10-27 |
 | [`ConsoleAppBQTest`](https://github.com/uk-gov-mirror/DFE-Digital.ConsoleAppBQTest) |  | 2026-09-29 |
 | [`find-information-products-services-frontend`](https://github.com/uk-gov-mirror/DFE-Digital.find-information-products-services-frontend) |  | 2026-09-29 |
 | [`dau-rise-universal-hubs`](https://github.com/uk-gov-mirror/DFE-Digital.dau-rise-universal-hubs) |  | 2026-09-09 |

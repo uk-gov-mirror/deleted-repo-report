@@ -523,14 +523,14 @@
     "original_url": "https://github.com/DFE-Digital/funding-service-df-submissions-func"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "The Funding Calculation Service (FCS) supports the management, calculation, allocation, and administration of funding and contracts across the Funding & Contracts platform.",
-    "full_name": "uk-gov-mirror/DFE-Digital.funding-service-fcs",
-    "mirror_name": "DFE-Digital.funding-service-fcs",
-    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs",
-    "name": "funding-service-fcs",
+    "full_name": "uk-gov-mirror/DFE-Digital.funding-service-fcs.replaced.2026-11-13",
+    "mirror_name": "DFE-Digital.funding-service-fcs.replaced.2026-11-13",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs.replaced.2026-11-13",
+    "name": "funding-service-fcs.replaced.2026-11-13",
     "org": "DFE-Digital",
-    "original_url": "https://github.com/DFE-Digital/funding-service-fcs"
+    "original_url": "https://github.com/DFE-Digital/funding-service-fcs.replaced.2026-11-13"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -5018,6 +5018,16 @@
     "original_url": "https://github.com/ONSdigital/dp-cache-clear-lambda"
   },
   {
+    "deleted_on": "2026-11-14",
+    "description": "Consumes a Kafka message (cantabular-export-start) to begin the process of retrieving the counts from Cantabular.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-csv-exporter",
+    "mirror_name": "ONSdigital.dp-cantabular-csv-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-csv-exporter",
+    "name": "dp-cantabular-csv-exporter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cantabular-csv-exporter"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "A service providing endpoints for retrieving dimension and geography information for Cantabular datasets",
     "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-dimension-api",
@@ -5026,6 +5036,46 @@
     "name": "dp-cantabular-dimension-api",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-cantabular-dimension-api"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "API for submitting and monitoring Cantabular filter/flex jobs to produce customised dataset outputs.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-filter-flex-api",
+    "mirror_name": "ONSdigital.dp-cantabular-filter-flex-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-filter-flex-api",
+    "name": "dp-cantabular-filter-flex-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cantabular-filter-flex-api"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "dp-cantabular-metadata-exporter",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-metadata-exporter",
+    "mirror_name": "ONSdigital.dp-cantabular-metadata-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-metadata-exporter",
+    "name": "dp-cantabular-metadata-exporter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cantabular-metadata-exporter"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Supply Cantabular metadata for Florence metadata journey.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-metadata-extractor-api",
+    "mirror_name": "ONSdigital.dp-cantabular-metadata-extractor-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-metadata-extractor-api",
+    "name": "dp-cantabular-metadata-extractor-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cantabular-metadata-extractor-api"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Cantabular xlsx exporter",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cantabular-xlsx-exporter",
+    "mirror_name": "ONSdigital.dp-cantabular-xlsx-exporter",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-xlsx-exporter",
+    "name": "dp-cantabular-xlsx-exporter",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cantabular-xlsx-exporter"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6053,6 +6103,26 @@
     "original_url": "https://github.com/ONSdigital/dp-import-api"
   },
   {
+    "deleted_on": "2026-11-14",
+    "description": "Begins the process of retrieving categories from Catabular API to begin the population of dimensions into our datastore",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import-cantabular-dataset",
+    "mirror_name": "ONSdigital.dp-import-cantabular-dataset",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import-cantabular-dataset",
+    "name": "dp-import-cantabular-dataset",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import-cantabular-dataset"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Extracts dimension options (aka categories) from the Cantabular server and writes them to the dataset API.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import-cantabular-dimension-options",
+    "mirror_name": "ONSdigital.dp-import-cantabular-dimension-options",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import-cantabular-dimension-options",
+    "name": "dp-import-cantabular-dimension-options",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import-cantabular-dimension-options"
+  },
+  {
     "deleted_on": "2026-11-11",
     "description": "Consume error messages from the import process and report them to the import API",
     "full_name": "uk-gov-mirror/ONSdigital.dp-import-reporter",
@@ -6281,6 +6351,16 @@
     "name": "dp-performance-reporter",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-performance-reporter"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "A REST API wrapper around the Cantabular Extended GraphQL API allowing querying of information about observations, variables, and categories.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-population-types-api",
+    "mirror_name": "ONSdigital.dp-population-types-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-population-types-api",
+    "name": "dp-population-types-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-population-types-api"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17162,14 +17242,14 @@
     "original_url": "https://github.com/defra/dracoe"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service farming-grants-agreements-ui",
-    "full_name": "uk-gov-mirror/defra.farming-grants-agreements-ui",
-    "mirror_name": "defra.farming-grants-agreements-ui",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui",
-    "name": "farming-grants-agreements-ui",
+    "full_name": "uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14",
+    "mirror_name": "defra.farming-grants-agreements-ui.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14",
+    "name": "farming-grants-agreements-ui.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/farming-grants-agreements-ui"
+    "original_url": "https://github.com/defra/farming-grants-agreements-ui.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17193,16 +17273,6 @@
   },
   {
     "deleted_on": "2026-10-27",
-    "description": "Git repository for service fcp-dal-api",
-    "full_name": "uk-gov-mirror/defra.fcp-dal-api",
-    "mirror_name": "defra.fcp-dal-api",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api",
-    "name": "fcp-dal-api",
-    "org": "defra",
-    "original_url": "https://github.com/defra/fcp-dal-api"
-  },
-  {
-    "deleted_on": "2026-10-27",
     "description": "Git repository for service fcp-dal-api-performance-test",
     "full_name": "uk-gov-mirror/defra.fcp-dal-api-performance-test",
     "mirror_name": "defra.fcp-dal-api-performance-test",
@@ -17212,14 +17282,24 @@
     "original_url": "https://github.com/defra/fcp-dal-api-performance-test"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fcp-dal-api-postdeployment-test",
-    "full_name": "uk-gov-mirror/defra.fcp-dal-api-postdeployment-test",
-    "mirror_name": "defra.fcp-dal-api-postdeployment-test",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test",
-    "name": "fcp-dal-api-postdeployment-test",
+    "full_name": "uk-gov-mirror/defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14",
+    "mirror_name": "defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14",
+    "name": "fcp-dal-api-postdeployment-test.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fcp-dal-api-postdeployment-test"
+    "original_url": "https://github.com/defra/fcp-dal-api-postdeployment-test.replaced.2026-11-14"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Git repository for service fcp-dal-api",
+    "full_name": "uk-gov-mirror/defra.fcp-dal-api.replaced.2026-11-14",
+    "mirror_name": "defra.fcp-dal-api.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api.replaced.2026-11-14",
+    "name": "fcp-dal-api.replaced.2026-11-14",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-dal-api.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-11-07",
@@ -17232,14 +17312,14 @@
     "original_url": "https://github.com/defra/fcp-data-access-layer-api"
   },
   {
-    "deleted_on": "2026-11-06",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fcp-mel-file-service",
-    "full_name": "uk-gov-mirror/defra.fcp-mel-file-service",
-    "mirror_name": "defra.fcp-mel-file-service",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-mel-file-service",
-    "name": "fcp-mel-file-service",
+    "full_name": "uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14",
+    "mirror_name": "defra.fcp-mel-file-service.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14",
+    "name": "fcp-mel-file-service.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fcp-mel-file-service"
+    "original_url": "https://github.com/defra/fcp-mel-file-service.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17302,44 +17382,44 @@
     "original_url": "https://github.com/defra/ffc-grants-scoring-perf-tests"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fg-cw-backend",
-    "full_name": "uk-gov-mirror/defra.fg-cw-backend",
-    "mirror_name": "defra.fg-cw-backend",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-cw-backend",
-    "name": "fg-cw-backend",
+    "full_name": "uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14",
+    "mirror_name": "defra.fg-cw-backend.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14",
+    "name": "fg-cw-backend.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fg-cw-backend"
+    "original_url": "https://github.com/defra/fg-cw-backend.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fg-cw-frontend",
-    "full_name": "uk-gov-mirror/defra.fg-cw-frontend",
-    "mirror_name": "defra.fg-cw-frontend",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-cw-frontend",
-    "name": "fg-cw-frontend",
+    "full_name": "uk-gov-mirror/defra.fg-cw-frontend.replaced.2026-11-14",
+    "mirror_name": "defra.fg-cw-frontend.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-cw-frontend.replaced.2026-11-14",
+    "name": "fg-cw-frontend.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fg-cw-frontend"
+    "original_url": "https://github.com/defra/fg-cw-frontend.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fg-gas-backend",
-    "full_name": "uk-gov-mirror/defra.fg-gas-backend",
-    "mirror_name": "defra.fg-gas-backend",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-gas-backend",
-    "name": "fg-gas-backend",
+    "full_name": "uk-gov-mirror/defra.fg-gas-backend.replaced.2026-11-14",
+    "mirror_name": "defra.fg-gas-backend.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-gas-backend.replaced.2026-11-14",
+    "name": "fg-gas-backend.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fg-gas-backend"
+    "original_url": "https://github.com/defra/fg-gas-backend.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service fg-grants-platform-admin",
-    "full_name": "uk-gov-mirror/defra.fg-grants-platform-admin",
-    "mirror_name": "defra.fg-grants-platform-admin",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin",
-    "name": "fg-grants-platform-admin",
+    "full_name": "uk-gov-mirror/defra.fg-grants-platform-admin.replaced.2026-11-14",
+    "mirror_name": "defra.fg-grants-platform-admin.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin.replaced.2026-11-14",
+    "name": "fg-grants-platform-admin.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/fg-grants-platform-admin"
+    "original_url": "https://github.com/defra/fg-grants-platform-admin.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17362,34 +17442,34 @@
     "original_url": "https://github.com/defra/grant-config-woodland"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-config-example-grants",
-    "full_name": "uk-gov-mirror/defra.grants-config-example-grants",
-    "mirror_name": "defra.grants-config-example-grants",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-example-grants",
-    "name": "grants-config-example-grants",
+    "full_name": "uk-gov-mirror/defra.grants-config-example-grants.replaced.2026-11-14",
+    "mirror_name": "defra.grants-config-example-grants.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-example-grants.replaced.2026-11-14",
+    "name": "grants-config-example-grants.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-example-grants"
+    "original_url": "https://github.com/defra/grants-config-example-grants.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-config-farm-payments",
-    "full_name": "uk-gov-mirror/defra.grants-config-farm-payments",
-    "mirror_name": "defra.grants-config-farm-payments",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-farm-payments",
-    "name": "grants-config-farm-payments",
+    "full_name": "uk-gov-mirror/defra.grants-config-farm-payments.replaced.2026-11-14",
+    "mirror_name": "defra.grants-config-farm-payments.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-farm-payments.replaced.2026-11-14",
+    "name": "grants-config-farm-payments.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-farm-payments"
+    "original_url": "https://github.com/defra/grants-config-farm-payments.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-config-grasslands",
-    "full_name": "uk-gov-mirror/defra.grants-config-grasslands",
-    "mirror_name": "defra.grants-config-grasslands",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-grasslands",
-    "name": "grants-config-grasslands",
+    "full_name": "uk-gov-mirror/defra.grants-config-grasslands.replaced.2026-11-14",
+    "mirror_name": "defra.grants-config-grasslands.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-grasslands.replaced.2026-11-14",
+    "name": "grants-config-grasslands.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-grasslands"
+    "original_url": "https://github.com/defra/grants-config-grasslands.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-28",
@@ -17402,24 +17482,24 @@
     "original_url": "https://github.com/defra/grants-config-land-grants.replaced.2026-10-27"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-config-water-management",
-    "full_name": "uk-gov-mirror/defra.grants-config-water-management",
-    "mirror_name": "defra.grants-config-water-management",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-water-management",
-    "name": "grants-config-water-management",
+    "full_name": "uk-gov-mirror/defra.grants-config-water-management.replaced.2026-11-14",
+    "mirror_name": "defra.grants-config-water-management.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-water-management.replaced.2026-11-14",
+    "name": "grants-config-water-management.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-water-management"
+    "original_url": "https://github.com/defra/grants-config-water-management.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-config-woodland",
-    "full_name": "uk-gov-mirror/defra.grants-config-woodland",
-    "mirror_name": "defra.grants-config-woodland",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-woodland",
-    "name": "grants-config-woodland",
+    "full_name": "uk-gov-mirror/defra.grants-config-woodland.replaced.2026-11-14",
+    "mirror_name": "defra.grants-config-woodland.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-config-woodland.replaced.2026-11-14",
+    "name": "grants-config-woodland.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-config-woodland"
+    "original_url": "https://github.com/defra/grants-config-woodland.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17453,16 +17533,6 @@
   },
   {
     "deleted_on": "2026-10-27",
-    "description": "Git repository for service grants-ui",
-    "full_name": "uk-gov-mirror/defra.grants-ui",
-    "mirror_name": "defra.grants-ui",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui",
-    "name": "grants-ui",
-    "org": "defra",
-    "original_url": "https://github.com/defra/grants-ui"
-  },
-  {
-    "deleted_on": "2026-10-27",
     "description": "Git repository for service grants-ui-acceptance-tests",
     "full_name": "uk-gov-mirror/defra.grants-ui-acceptance-tests",
     "mirror_name": "defra.grants-ui-acceptance-tests",
@@ -17483,16 +17553,6 @@
   },
   {
     "deleted_on": "2026-10-27",
-    "description": "Git repository for service grants-ui-backend",
-    "full_name": "uk-gov-mirror/defra.grants-ui-backend",
-    "mirror_name": "defra.grants-ui-backend",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-backend",
-    "name": "grants-ui-backend",
-    "org": "defra",
-    "original_url": "https://github.com/defra/grants-ui-backend"
-  },
-  {
-    "deleted_on": "2026-10-27",
     "description": "Git repository for service grants-ui-backend-accept-tests",
     "full_name": "uk-gov-mirror/defra.grants-ui-backend-accept-tests",
     "mirror_name": "defra.grants-ui-backend-accept-tests",
@@ -17500,6 +17560,16 @@
     "name": "grants-ui-backend-accept-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/grants-ui-backend-accept-tests"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Git repository for service grants-ui-backend",
+    "full_name": "uk-gov-mirror/defra.grants-ui-backend.replaced.2026-11-14",
+    "mirror_name": "defra.grants-ui-backend.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-backend.replaced.2026-11-14",
+    "name": "grants-ui-backend.replaced.2026-11-14",
+    "org": "defra",
+    "original_url": "https://github.com/defra/grants-ui-backend.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17542,24 +17612,24 @@
     "original_url": "https://github.com/defra/grants-ui-gas-stub"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-ui-grasslands-tests",
-    "full_name": "uk-gov-mirror/defra.grants-ui-grasslands-tests",
-    "mirror_name": "defra.grants-ui-grasslands-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests",
-    "name": "grants-ui-grasslands-tests",
+    "full_name": "uk-gov-mirror/defra.grants-ui-grasslands-tests.replaced.2026-11-14",
+    "mirror_name": "defra.grants-ui-grasslands-tests.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests.replaced.2026-11-14",
+    "name": "grants-ui-grasslands-tests.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-ui-grasslands-tests"
+    "original_url": "https://github.com/defra/grants-ui-grasslands-tests.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-ui-performance-tests",
-    "full_name": "uk-gov-mirror/defra.grants-ui-performance-tests",
-    "mirror_name": "defra.grants-ui-performance-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests",
-    "name": "grants-ui-performance-tests",
+    "full_name": "uk-gov-mirror/defra.grants-ui-performance-tests.replaced.2026-11-14",
+    "mirror_name": "defra.grants-ui-performance-tests.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests.replaced.2026-11-14",
+    "name": "grants-ui-performance-tests.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-ui-performance-tests"
+    "original_url": "https://github.com/defra/grants-ui-performance-tests.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17572,24 +17642,24 @@
     "original_url": "https://github.com/defra/grants-ui-smoke-tests"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-14",
     "description": "Git repository for service grants-ui-woodland-tests",
-    "full_name": "uk-gov-mirror/defra.grants-ui-woodland-tests",
-    "mirror_name": "defra.grants-ui-woodland-tests",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests",
-    "name": "grants-ui-woodland-tests",
+    "full_name": "uk-gov-mirror/defra.grants-ui-woodland-tests.replaced.2026-11-14",
+    "mirror_name": "defra.grants-ui-woodland-tests.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests.replaced.2026-11-14",
+    "name": "grants-ui-woodland-tests.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/grants-ui-woodland-tests"
+    "original_url": "https://github.com/defra/grants-ui-woodland-tests.replaced.2026-11-14"
   },
   {
-    "deleted_on": "2026-10-27",
-    "description": "Git repository for service land-grants-api",
-    "full_name": "uk-gov-mirror/defra.land-grants-api",
-    "mirror_name": "defra.land-grants-api",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.land-grants-api",
-    "name": "land-grants-api",
+    "deleted_on": "2026-11-14",
+    "description": "Git repository for service grants-ui",
+    "full_name": "uk-gov-mirror/defra.grants-ui.replaced.2026-11-14",
+    "mirror_name": "defra.grants-ui.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.grants-ui.replaced.2026-11-14",
+    "name": "grants-ui.replaced.2026-11-14",
     "org": "defra",
-    "original_url": "https://github.com/defra/land-grants-api"
+    "original_url": "https://github.com/defra/grants-ui.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-28",
@@ -17600,6 +17670,16 @@
     "name": "land-grants-api-tests.replaced.2026-10-27",
     "org": "defra",
     "original_url": "https://github.com/defra/land-grants-api-tests.replaced.2026-10-27"
+  },
+  {
+    "deleted_on": "2026-11-14",
+    "description": "Git repository for service land-grants-api",
+    "full_name": "uk-gov-mirror/defra.land-grants-api.replaced.2026-11-14",
+    "mirror_name": "defra.land-grants-api.replaced.2026-11-14",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.land-grants-api.replaced.2026-11-14",
+    "name": "land-grants-api.replaced.2026-11-14",
+    "org": "defra",
+    "original_url": "https://github.com/defra/land-grants-api.replaced.2026-11-14"
   },
   {
     "deleted_on": "2026-10-27",
