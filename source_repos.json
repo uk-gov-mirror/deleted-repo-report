@@ -26904,6 +26904,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-record-controlled-work"
   },
   {
+    "deleted_on": "2026-11-15",
+    "description": "Record Controlled Work API",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-record-controlled-work-api",
+    "mirror_name": "ministryofjustice.laa-record-controlled-work-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work-api",
+    "name": "laa-record-controlled-work-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-record-controlled-work-api"
+  },
+  {
     "deleted_on": "2026-11-06",
     "description": "Web application for bulk upload of claims data",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-submit-a-bulk-claim",

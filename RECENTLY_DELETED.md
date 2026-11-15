@@ -6,6 +6,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-record-controlled-work-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-record-controlled-work-api) | Record Controlled Work API | 2026-11-15 |
 | [DFE-Digital](https://github.com/DFE-Digital) | [`funding-service-fcs.replaced.2026-11-13`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs.replaced.2026-11-13) | The Funding Calculation Service (FCS) supports the management, calculation, allocation, and administration of funding and contracts across the Funding & Contracts platform. | 2026-11-14 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-cantabular-csv-exporter`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-csv-exporter) | Consumes a Kafka message (cantabular-export-start) to begin the process of retrieving the counts from Cantabular. | 2026-11-14 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dp-cantabular-filter-flex-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-cantabular-filter-flex-api) | API for submitting and monitoring Cantabular filter/flex jobs to produce customised dataset outputs. | 2026-11-14 |
@@ -1005,4 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-static-assets`](https://github.com/uk-gov-mirror/ONSdigital.census31-static-assets) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`cloud-status-alerter`](https://github.com/uk-gov-mirror/ONSdigital.cloud-status-alerter) | Posts Slack alerts from status feeds. | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`confluence-enhancer`](https://github.com/uk-gov-mirror/ONSdigital.confluence-enhancer) | Enhance the documenting capabilities of Confluence | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`crftagger`](https://github.com/uk-gov-mirror/ONSdigital.crftagger) | CRFSuite Tagger | 2026-10-23 |
