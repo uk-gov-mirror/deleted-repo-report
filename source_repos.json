@@ -4767,6 +4767,36 @@
     "original_url": "https://github.com/ONSdigital/dis-lambda-lockbox-email-stack"
   },
   {
+    "deleted_on": "2026-11-17",
+    "description": "A scheduler application for automating the purging of cache for paths to be published.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-legacy-cache-purger",
+    "mirror_name": "ONSdigital.dis-legacy-cache-purger",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-legacy-cache-purger",
+    "name": "dis-legacy-cache-purger",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-legacy-cache-purger"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "A Go API for data migration.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-migration-service",
+    "mirror_name": "ONSdigital.dis-migration-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-migration-service",
+    "name": "dis-migration-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-migration-service"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "A Go API for management of redirects.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-redirect-api",
+    "mirror_name": "ONSdigital.dis-redirect-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-redirect-api",
+    "name": "dis-redirect-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-redirect-api"
+  },
+  {
     "deleted_on": "2026-11-11",
     "description": "A Go Service to redirect legacy URLs requested by users",
     "full_name": "uk-gov-mirror/ONSdigital.dis-redirect-proxy",
@@ -5781,6 +5811,16 @@
     "original_url": "https://github.com/ONSdigital/dp-fasttext"
   },
   {
+    "deleted_on": "2026-11-17",
+    "description": "Provides a GET endpoint to generate and download files",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-file-downloader",
+    "mirror_name": "ONSdigital.dp-file-downloader",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-file-downloader",
+    "name": "dp-file-downloader",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-file-downloader"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "A library used to filter ONS datasets using Neo4j",
     "full_name": "uk-gov-mirror/ONSdigital.dp-filter",
@@ -5911,6 +5951,16 @@
     "name": "dp-frontend-geography-controller",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-frontend-geography-controller"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Controller for handling homepage on ONS website",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-homepage-controller",
+    "mirror_name": "ONSdigital.dp-frontend-homepage-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-homepage-controller",
+    "name": "dp-frontend-homepage-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-homepage-controller"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6093,6 +6143,26 @@
     "original_url": "https://github.com/ONSdigital/dp-identity-api-prototype"
   },
   {
+    "deleted_on": "2026-11-17",
+    "description": "Digital Publishing image management API",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-image-api",
+    "mirror_name": "ONSdigital.dp-image-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-image-api",
+    "name": "dp-image-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-image-api"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Image importer",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-image-importer",
+    "mirror_name": "ONSdigital.dp-image-importer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-image-importer",
+    "name": "dp-image-importer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-image-importer"
+  },
+  {
     "deleted_on": "2026-11-11",
     "description": "An API used by florence and internal micro services to create import datasets which is then updated by other micro services",
     "full_name": "uk-gov-mirror/ONSdigital.dp-import-api",
@@ -6153,6 +6223,16 @@
     "original_url": "https://github.com/ONSdigital/dp-inflation-helper"
   },
   {
+    "deleted_on": "2026-11-17",
+    "description": "Periodic nomad job for checking integrity of zebedee workspace",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-integrity-checker",
+    "mirror_name": "ONSdigital.dp-integrity-checker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-integrity-checker",
+    "name": "dp-integrity-checker",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-integrity-checker"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Reads interactives import events from kafka and sends to dp-upload-service",
     "full_name": "uk-gov-mirror/ONSdigital.dp-interactives-importer",
@@ -6171,6 +6251,26 @@
     "name": "dp-java-duration-parse",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-java-duration-parse"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "REST API for managing cache control information for pages within the legacy CMS",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-legacy-cache-api",
+    "mirror_name": "ONSdigital.dp-legacy-cache-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-legacy-cache-api",
+    "name": "dp-legacy-cache-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-legacy-cache-api"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Proxy for handling the cache for pages within the legacy CMS",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-legacy-cache-proxy",
+    "mirror_name": "ONSdigital.dp-legacy-cache-proxy",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-legacy-cache-proxy",
+    "name": "dp-legacy-cache-proxy",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-legacy-cache-proxy"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6638,6 +6738,16 @@
     "original_url": "https://github.com/ONSdigital/dp-standards"
   },
   {
+    "deleted_on": "2026-11-17",
+    "description": "Renders a table in multiple formats, given data in json format",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-table-renderer",
+    "mirror_name": "ONSdigital.dp-table-renderer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-table-renderer",
+    "name": "dp-table-renderer",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-table-renderer"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2020-11-02",
     "description": "Test for a fix on the dp repo generation tool. Required since GitHub changed default branch from master to main",
@@ -6668,6 +6778,16 @@
     "name": "dp-timestamp-access-spike",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-timestamp-access-spike"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Enables greater flexibility in creating journeys through the website",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-topic-api",
+    "mirror_name": "ONSdigital.dp-topic-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-topic-api",
+    "name": "dp-topic-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-topic-api"
   },
   {
     "deleted_on": "2026-10-27",
@@ -11476,6 +11596,16 @@
     "name": "survey-assist-eval",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/survey-assist-eval"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "PII validation library for Survey Assist",
+    "full_name": "uk-gov-mirror/ONSdigital.survey-assist-pii",
+    "mirror_name": "ONSdigital.survey-assist-pii",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.survey-assist-pii",
+    "name": "survey-assist-pii",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/survey-assist-pii"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17272,14 +17402,14 @@
     "original_url": "https://github.com/defra/fcp-cv-postdeployment-tests"
   },
   {
-    "deleted_on": "2026-10-27",
+    "deleted_on": "2026-11-17",
     "description": "Git repository for service fcp-dal-api-performance-test",
-    "full_name": "uk-gov-mirror/defra.fcp-dal-api-performance-test",
-    "mirror_name": "defra.fcp-dal-api-performance-test",
-    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api-performance-test",
-    "name": "fcp-dal-api-performance-test",
+    "full_name": "uk-gov-mirror/defra.fcp-dal-api-performance-test.replaced.2026-11-16",
+    "mirror_name": "defra.fcp-dal-api-performance-test.replaced.2026-11-16",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-api-performance-test.replaced.2026-11-16",
+    "name": "fcp-dal-api-performance-test.replaced.2026-11-16",
     "org": "defra",
-    "original_url": "https://github.com/defra/fcp-dal-api-performance-test"
+    "original_url": "https://github.com/defra/fcp-dal-api-performance-test.replaced.2026-11-16"
   },
   {
     "deleted_on": "2026-11-14",
@@ -17300,6 +17430,16 @@
     "name": "fcp-dal-api.replaced.2026-11-14",
     "org": "defra",
     "original_url": "https://github.com/defra/fcp-dal-api.replaced.2026-11-14"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Git repository for service fcp-dal-upstream-mock",
+    "full_name": "uk-gov-mirror/defra.fcp-dal-upstream-mock.replaced.2026-11-16",
+    "mirror_name": "defra.fcp-dal-upstream-mock.replaced.2026-11-16",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-dal-upstream-mock.replaced.2026-11-16",
+    "name": "fcp-dal-upstream-mock.replaced.2026-11-16",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-dal-upstream-mock.replaced.2026-11-16"
   },
   {
     "deleted_on": "2026-11-07",
@@ -24044,6 +24184,26 @@
     "name": "bh-frontend-app-dev",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/bh-frontend-app-dev"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Docker image builds for the Bichard 7 project",
+    "full_name": "uk-gov-mirror/ministryofjustice.bichard7-next-infrastructure-docker-images",
+    "mirror_name": "ministryofjustice.bichard7-next-infrastructure-docker-images",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-infrastructure-docker-images",
+    "name": "bichard7-next-infrastructure-docker-images",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bichard7-next-infrastructure-docker-images"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "Terraform code for the shared Bichard infrastructure",
+    "full_name": "uk-gov-mirror/ministryofjustice.bichard7-next-shared-infrastructure",
+    "mirror_name": "ministryofjustice.bichard7-next-shared-infrastructure",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-shared-infrastructure",
+    "name": "bichard7-next-shared-infrastructure",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bichard7-next-shared-infrastructure"
   },
   {
     "deleted_on": "2026-10-16",
@@ -33741,6 +33901,16 @@
     "name": "user-feedback-store",
     "org": "nhsuk",
     "original_url": "https://github.com/nhsuk/user-feedback-store"
+  },
+  {
+    "deleted_on": "2026-11-17",
+    "description": "A searchable index of streamfield data in Wagtail",
+    "full_name": "uk-gov-mirror/nhsuk.wagtail-streamfield-index",
+    "mirror_name": "nhsuk.wagtail-streamfield-index",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsuk.wagtail-streamfield-index",
+    "name": "wagtail-streamfield-index",
+    "org": "nhsuk",
+    "original_url": "https://github.com/nhsuk/wagtail-streamfield-index"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
