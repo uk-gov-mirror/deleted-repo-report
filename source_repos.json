@@ -185,6 +185,16 @@
     "original_url": "https://github.com/CPS-Innovation/RumpolePipeline"
   },
   {
+    "deleted_on": "2026-11-18",
+    "description": "Template Repo for provisioning and managing infrastructure in Azure using Terraform",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Template-Repo-Infrastructure-Terraform",
+    "mirror_name": "CPS-Innovation.Template-Repo-Infrastructure-Terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Template-Repo-Infrastructure-Terraform",
+    "name": "Template-Repo-Infrastructure-Terraform",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Template-Repo-Infrastructure-Terraform"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "prototype of the case locking tools",
     "full_name": "uk-gov-mirror/CPS-Innovation.case-locking-prototype",
@@ -5811,6 +5821,16 @@
     "original_url": "https://github.com/ONSdigital/dp-fasttext"
   },
   {
+    "deleted_on": "2026-11-18",
+    "description": "This contains the code for the dp feedback api",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-feedback-api",
+    "mirror_name": "ONSdigital.dp-feedback-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-feedback-api",
+    "name": "dp-feedback-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-feedback-api"
+  },
+  {
     "deleted_on": "2026-11-17",
     "description": "Provides a GET endpoint to generate and download files",
     "full_name": "uk-gov-mirror/ONSdigital.dp-file-downloader",
@@ -5941,6 +5961,16 @@
     "name": "dp-frontend-cookie-controller",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-frontend-cookie-controller"
+  },
+  {
+    "deleted_on": "2026-11-18",
+    "description": "To allow user feedback on the ONS website",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-feedback-controller",
+    "mirror_name": "ONSdigital.dp-frontend-feedback-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-feedback-controller",
+    "name": "dp-frontend-feedback-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-feedback-controller"
   },
   {
     "deleted_on": "2026-10-27",
@@ -21265,6 +21295,16 @@
     "original_url": "https://github.com/hmrc/organisations-api-performance-tests"
   },
   {
+    "deleted_on": "2026-11-18",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.pact-broker-frontend",
+    "mirror_name": "hmrc.pact-broker-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.pact-broker-frontend",
+    "name": "pact-broker-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/pact-broker-frontend"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-11-11",
     "description": null,
@@ -24186,6 +24226,16 @@
     "original_url": "https://github.com/ministryofjustice/bh-frontend-app-dev"
   },
   {
+    "deleted_on": "2026-11-18",
+    "description": "A static site containing the help files for Bichard 7, built with Jekyll",
+    "full_name": "uk-gov-mirror/ministryofjustice.bichard7-next-help",
+    "mirror_name": "ministryofjustice.bichard7-next-help",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-help",
+    "name": "bichard7-next-help",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bichard7-next-help"
+  },
+  {
     "deleted_on": "2026-11-17",
     "description": "Docker image builds for the Bichard 7 project",
     "full_name": "uk-gov-mirror/ministryofjustice.bichard7-next-infrastructure-docker-images",
@@ -24204,6 +24254,16 @@
     "name": "bichard7-next-shared-infrastructure",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/bichard7-next-shared-infrastructure"
+  },
+  {
+    "deleted_on": "2026-11-18",
+    "description": "The (former) service to manage users for Bichard",
+    "full_name": "uk-gov-mirror/ministryofjustice.bichard7-next-user-service",
+    "mirror_name": "ministryofjustice.bichard7-next-user-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-user-service",
+    "name": "bichard7-next-user-service",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/bichard7-next-user-service"
   },
   {
     "deleted_on": "2026-10-16",
@@ -34867,5 +34927,15 @@
     "name": "webarchive-hadoop-utils",
     "org": "ukwa",
     "original_url": "https://github.com/ukwa/webarchive-hadoop-utils"
+  },
+  {
+    "deleted_on": "2026-11-18",
+    "description": "Repo for technical blog content",
+    "full_name": "uk-gov-mirror/wgdsu.wgdsu.github.io",
+    "mirror_name": "wgdsu.wgdsu.github.io",
+    "mirror_url": "https://github.com/uk-gov-mirror/wgdsu.wgdsu.github.io",
+    "name": "wgdsu.github.io",
+    "org": "wgdsu",
+    "original_url": "https://github.com/wgdsu/wgdsu.github.io"
   }
 ]

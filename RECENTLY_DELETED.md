@@ -6,6 +6,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`Template-Repo-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Template-Repo-Infrastructure-Terraform) | Template Repo for provisioning and managing infrastructure in Azure using Terraform | 2026-11-18 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-feedback-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-feedback-api) | This contains the code for the dp feedback api | 2026-11-18 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-feedback-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-feedback-controller) | To allow user feedback on the ONS website | 2026-11-18 |
+| [hmrc](https://github.com/hmrc) | [`pact-broker-frontend`](https://github.com/uk-gov-mirror/hmrc.pact-broker-frontend) |  | 2026-11-18 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`bichard7-next-help`](https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-help) | A static site containing the help files for Bichard 7, built with Jekyll | 2026-11-18 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`bichard7-next-user-service`](https://github.com/uk-gov-mirror/ministryofjustice.bichard7-next-user-service) | The (former) service to manage users for Bichard | 2026-11-18 |
+| [wgdsu](https://github.com/wgdsu) | [`wgdsu.github.io`](https://github.com/uk-gov-mirror/wgdsu.wgdsu.github.io) | Repo for technical blog content | 2026-11-18 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-legacy-cache-purger`](https://github.com/uk-gov-mirror/ONSdigital.dis-legacy-cache-purger) | A scheduler application for automating the purging of cache for paths to be published. | 2026-11-17 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-migration-service`](https://github.com/uk-gov-mirror/ONSdigital.dis-migration-service) | A Go API for data migration. | 2026-11-17 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-redirect-api`](https://github.com/uk-gov-mirror/ONSdigital.dis-redirect-api) | A Go API for management of redirects. | 2026-11-17 |
@@ -999,10 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`census-rm-action-processor`](https://github.com/uk-gov-mirror/ONSdigital.census-rm-action-processor) |  | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-eq-questionnaire-runner-benchmark`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-benchmark) | A benchmarking tool for Census EQ Questionnaire Runner | 2026-10-23 |
 | [ONSdigital](https://github.com/ONSdigital) | [`census31-eq-questionnaire-runner-interface-definitions`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-runner-interface-definitions) | Definitions and specifications for the 2031 Census EQ interfaces | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-eq-questionnaire-validator`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-questionnaire-validator) | An API for validating survey schemas | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-eq-translations`](https://github.com/uk-gov-mirror/ONSdigital.census31-eq-translations) | Scripts for translating eq-questionnaire-runner surveys | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-acceptance-tests`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-acceptance-tests) | Census 2031 FWMT: census31-fwmt-acceptance-tests (seeded from 2021, FMT-4) | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-common`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-common) | Census 2031 FWMT: census31-fwmt-common (seeded from 2021, FMT-4) | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-csv-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-csv-service) | Census 2031 FWMT: census31-fwmt-csv-service (seeded from 2021, FMT-4) | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-fulfillment-event-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-fulfillment-event-service) | Census 2031 FWMT: census31-fwmt-fulfillment-event-service (seeded from 2021, FMT-4) | 2026-10-23 |
-| [ONSdigital](https://github.com/ONSdigital) | [`census31-fwmt-job-service`](https://github.com/uk-gov-mirror/ONSdigital.census31-fwmt-job-service) | Census 2031 FWMT: census31-fwmt-job-service (seeded from 2021, FMT-4) | 2026-10-23 |
