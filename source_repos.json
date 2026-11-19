@@ -143,6 +143,16 @@
     "original_url": "https://github.com/Birmingham-and-Solihull-ICS/Unsupervised-Clustering-Practices"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "A repository with simple version of an AI agent for learning",
+    "full_name": "uk-gov-mirror/Birmingham-and-Solihull-ICS.ai_agent_basic",
+    "mirror_name": "Birmingham-and-Solihull-ICS.ai_agent_basic",
+    "mirror_url": "https://github.com/uk-gov-mirror/Birmingham-and-Solihull-ICS.ai_agent_basic",
+    "name": "ai_agent_basic",
+    "org": "Birmingham-and-Solihull-ICS",
+    "original_url": "https://github.com/Birmingham-and-Solihull-ICS/ai_agent_basic"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "Prototypes for AI tests",
     "full_name": "uk-gov-mirror/CPS-Innovation.AI-prototype",
@@ -153,6 +163,26 @@
     "original_url": "https://github.com/CPS-Innovation/AI-prototype"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Terraform IaC for the Case Management solution",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform",
+    "mirror_name": "CPS-Innovation.Case-Management-Infrastructure-Terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform",
+    "name": "Case-Management-Infrastructure-Terraform",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Case-Management-Infrastructure-Terraform"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Terraform IaC for the Manage Materials solution",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform",
+    "mirror_name": "CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform",
+    "name": "Case-Management-Manage-Materials-Infrastructure-Terraform",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Case-Management-Manage-Materials-Infrastructure-Terraform"
+  },
+  {
     "deleted_on": "2026-10-17",
     "description": null,
     "full_name": "uk-gov-mirror/CPS-Innovation.EndToEnd",
@@ -161,6 +191,26 @@
     "name": "EndToEnd",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/EndToEnd"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Large and Complex Cases Infrastructure Terraform",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases-Infrastructure-Terraform",
+    "mirror_name": "CPS-Innovation.Large-and-Complex-Cases-Infrastructure-Terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases-Infrastructure-Terraform",
+    "name": "Large-and-Complex-Cases-Infrastructure-Terraform",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Large-and-Complex-Cases-Infrastructure-Terraform"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.NetApp-POC",
+    "mirror_name": "CPS-Innovation.NetApp-POC",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.NetApp-POC",
+    "name": "NetApp-POC",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/NetApp-POC"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -223,6 +273,16 @@
     "name": "cps-design-resources",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/cps-design-resources"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Practice GOV.UK Prototype Kit prototype for the GitHub 101 for designers workshop",
+    "full_name": "uk-gov-mirror/CPS-Innovation.github-101-practice-prototype",
+    "mirror_name": "CPS-Innovation.github-101-practice-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.github-101-practice-prototype",
+    "name": "github-101-practice-prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/github-101-practice-prototype"
   },
   {
     "deleted_on": "2026-10-16",
@@ -913,6 +973,16 @@
     "name": "RShiny_hackathon",
     "org": "Defra-Data-Science-Centre-of-Excellence",
     "original_url": "https://github.com/Defra-Data-Science-Centre-of-Excellence/RShiny_hackathon"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "This repo produces the module B team pages.",
+    "full_name": "uk-gov-mirror/Defra-pEPR-Modelling-Team.module_b_team_pages",
+    "mirror_name": "Defra-pEPR-Modelling-Team.module_b_team_pages",
+    "mirror_url": "https://github.com/uk-gov-mirror/Defra-pEPR-Modelling-Team.module_b_team_pages",
+    "name": "module_b_team_pages",
+    "org": "Defra-pEPR-Modelling-Team",
+    "original_url": "https://github.com/Defra-pEPR-Modelling-Team/module_b_team_pages"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -4747,6 +4817,16 @@
     "original_url": "https://github.com/ONSdigital/design-system-react"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "JS library for client side token renewal",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-authorisation-client-js",
+    "mirror_name": "ONSdigital.dis-authorisation-client-js",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-authorisation-client-js",
+    "name": "dis-authorisation-client-js",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-authorisation-client-js"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dis-django-behave-spike",
@@ -5027,6 +5107,16 @@
     "original_url": "https://github.com/ONSdigital/dp-auth-api-stub"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-authorisation",
+    "mirror_name": "ONSdigital.dp-authorisation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-authorisation",
+    "name": "dp-authorisation",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-authorisation"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-18",
     "description": null,
@@ -5299,6 +5389,16 @@
     "original_url": "https://github.com/ONSdigital/dp-commit-verifier"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Test components in isolation using Godog / Gherkin",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-component-test",
+    "mirror_name": "ONSdigital.dp-component-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-component-test",
+    "name": "dp-component-test",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-component-test"
+  },
+  {
     "deleted_on": "2026-11-12",
     "description": "A project to assist in composing multiple DP services",
     "full_name": "uk-gov-mirror/ONSdigital.dp-compose",
@@ -5348,6 +5448,16 @@
     "name": "dp-content-resolver",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-content-resolver"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Golang library for accessing specific cookies",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cookies",
+    "mirror_name": "ONSdigital.dp-cookies",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cookies",
+    "name": "dp-cookies",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cookies"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6413,6 +6523,16 @@
     "original_url": "https://github.com/ONSdigital/dp-neptune-spike"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Network utilities library",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-net",
+    "mirror_name": "ONSdigital.dp-net",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-net",
+    "name": "dp-net",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-net"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "A Nomad library for Go",
     "full_name": "uk-gov-mirror/ONSdigital.dp-nomad",
@@ -6766,6 +6886,16 @@
     "name": "dp-standards",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-standards"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "react component ui for table builder",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-table-builder-ui",
+    "mirror_name": "ONSdigital.dp-table-builder-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-table-builder-ui",
+    "name": "dp-table-builder-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-table-builder-ui"
   },
   {
     "deleted_on": "2026-11-17",
@@ -17315,6 +17445,26 @@
     "original_url": "https://github.com/defencedigital/CPA_Rulesets_POC_test2"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.APHA-England-Gamma-Entry-Results",
+    "mirror_name": "defra.APHA-England-Gamma-Entry-Results",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.APHA-England-Gamma-Entry-Results",
+    "name": "APHA-England-Gamma-Entry-Results",
+    "org": "defra",
+    "original_url": "https://github.com/defra/APHA-England-Gamma-Entry-Results"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.APHA-Scottish-Poultry-Registrations",
+    "mirror_name": "defra.APHA-Scottish-Poultry-Registrations",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.APHA-Scottish-Poultry-Registrations",
+    "name": "APHA-Scottish-Poultry-Registrations",
+    "org": "defra",
+    "original_url": "https://github.com/defra/APHA-Scottish-Poultry-Registrations"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-05-28",
     "description": null,
@@ -17346,6 +17496,26 @@
     "name": "EA-Fleet-Reporting-1",
     "org": "defra",
     "original_url": "https://github.com/defra/EA-Fleet-Reporting-1"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.EA-Operation-Pascoe",
+    "mirror_name": "defra.EA-Operation-Pascoe",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.EA-Operation-Pascoe",
+    "name": "EA-Operation-Pascoe",
+    "org": "defra",
+    "original_url": "https://github.com/defra/EA-Operation-Pascoe"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.EA-WIMS-data-rekeying",
+    "mirror_name": "defra.EA-WIMS-data-rekeying",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.EA-WIMS-data-rekeying",
+    "name": "EA-WIMS-data-rekeying",
+    "org": "defra",
+    "original_url": "https://github.com/defra/EA-WIMS-data-rekeying"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -17400,6 +17570,16 @@
     "name": "dracoe",
     "org": "defra",
     "original_url": "https://github.com/defra/dracoe"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ea-wigan-waste-transfer-notes",
+    "mirror_name": "defra.ea-wigan-waste-transfer-notes",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ea-wigan-waste-transfer-notes",
+    "name": "ea-wigan-waste-transfer-notes",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ea-wigan-waste-transfer-notes"
   },
   {
     "deleted_on": "2026-11-14",
@@ -24079,6 +24259,26 @@
     "original_url": "https://github.com/ministryofjustice/CCCD-prototype-kit-ext"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.DELETE-Claim-expenses-ordinary-witness-2",
+    "mirror_name": "ministryofjustice.DELETE-Claim-expenses-ordinary-witness-2",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.DELETE-Claim-expenses-ordinary-witness-2",
+    "name": "DELETE-Claim-expenses-ordinary-witness-2",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/DELETE-Claim-expenses-ordinary-witness-2"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Excel creation from CSV spike code using ApachePOI",
+    "full_name": "uk-gov-mirror/ministryofjustice.GPFDExcelSpike",
+    "mirror_name": "ministryofjustice.GPFDExcelSpike",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.GPFDExcelSpike",
+    "name": "GPFDExcelSpike",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/GPFDExcelSpike"
+  },
+  {
     "deleted_on": "2026-10-22",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.MinkExtension",
@@ -24165,6 +24365,16 @@
     "original_url": "https://github.com/ministryofjustice/analytics-platform-restarter"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Automatically create and resize a /data LV.",
+    "full_name": "uk-gov-mirror/ministryofjustice.autodata-formula",
+    "mirror_name": "ministryofjustice.autodata-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.autodata-formula",
+    "name": "autodata-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/autodata-formula"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2022-07-28",
     "description": "Automates creation of GitHub Issues from AWS Trusted Advisor checks",
@@ -24174,6 +24384,16 @@
     "name": "aws-trusted-advisor-to-github-issues",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/aws-trusted-advisor-to-github-issues"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Tools for creating AWS items via the command line",
+    "full_name": "uk-gov-mirror/ministryofjustice.awsbuilder",
+    "mirror_name": "ministryofjustice.awsbuilder",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.awsbuilder",
+    "name": "awsbuilder",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/awsbuilder"
   },
   {
     "deleted_on": "2026-08-15",
@@ -24307,6 +24527,16 @@
     "original_url": "https://github.com/ministryofjustice/care-arrangement-plan-prototype"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "small sintra app to query app signal API and provide an endpoint for Geckoboard to query to get number of errors.",
+    "full_name": "uk-gov-mirror/ministryofjustice.cc_appsignal_geckoboard",
+    "mirror_name": "ministryofjustice.cc_appsignal_geckoboard",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cc_appsignal_geckoboard",
+    "name": "cc_appsignal_geckoboard",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cc_appsignal_geckoboard"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2021-01-01",
     "description": "Maintenance page for Claim for crown court defence",
@@ -24389,6 +24619,26 @@
     "original_url": "https://github.com/ministryofjustice/claim-assess-regression-tests"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Testing automated deployment",
+    "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-gitops-test",
+    "mirror_name": "ministryofjustice.cloud-platform-gitops-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-gitops-test",
+    "name": "cloud-platform-gitops-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cloud-platform-gitops-test"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "This is the fallback ingress controller",
+    "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-terraform-k8s-ingress-controller",
+    "mirror_name": "ministryofjustice.cloud-platform-terraform-k8s-ingress-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-k8s-ingress-controller",
+    "name": "cloud-platform-terraform-k8s-ingress-controller",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cloud-platform-terraform-k8s-ingress-controller"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "Application to proxy requests to the Community API and authenticate based on OAuth roles.",
     "full_name": "uk-gov-mirror/ministryofjustice.community-proxy",
@@ -24459,6 +24709,16 @@
     "original_url": "https://github.com/ministryofjustice/data-factory-core-s3-buckets"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.data-platform-projects-test",
+    "mirror_name": "ministryofjustice.data-platform-projects-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.data-platform-projects-test",
+    "name": "data-platform-projects-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/data-platform-projects-test"
+  },
+  {
     "deleted_on": "2026-09-09",
     "description": "Sandbox repo for learning and testing things",
     "full_name": "uk-gov-mirror/ministryofjustice.dave-learning",
@@ -24467,6 +24727,16 @@
     "name": "dave-learning",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/dave-learning"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Nginx docker container that acts as a frontend for other defence-request-service docker containers",
+    "full_name": "uk-gov-mirror/ministryofjustice.defence-request-service-nginx",
+    "mirror_name": "ministryofjustice.defence-request-service-nginx",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.defence-request-service-nginx",
+    "name": "defence-request-service-nginx",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/defence-request-service-nginx"
   },
   {
     "deleted_on": "2026-10-22",
@@ -24510,6 +24780,16 @@
     "original_url": "https://github.com/ministryofjustice/diso-devops-module-ssm-bastion.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "This is a sample Rails app using MOJ DS standard Docker deployment setup.",
+    "full_name": "uk-gov-mirror/ministryofjustice.dockerails",
+    "mirror_name": "ministryofjustice.dockerails",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.dockerails",
+    "name": "dockerails",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/dockerails"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "A spring boot app to manage data compliance for the Digital Prison Services",
     "full_name": "uk-gov-mirror/ministryofjustice.dps-data-compliance",
@@ -24551,6 +24831,76 @@
     "original_url": "https://github.com/ministryofjustice/dv-frontend-app-dev"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Standard eslint config for Form Builder projects",
+    "full_name": "uk-gov-mirror/ministryofjustice.eslint-config-fb",
+    "mirror_name": "ministryofjustice.eslint-config-fb",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.eslint-config-fb",
+    "name": "eslint-config-fb",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/eslint-config-fb"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Textarea component used in acceptance tests in form builder",
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-acceptance-tests-textarea",
+    "mirror_name": "ministryofjustice.fb-acceptance-tests-textarea",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-acceptance-tests-textarea",
+    "name": "fb-acceptance-tests-textarea",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-acceptance-tests-textarea"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Utility scripts to deploy Form Builder applications",
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-deploy-utils",
+    "mirror_name": "ministryofjustice.fb-deploy-utils",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-deploy-utils",
+    "name": "fb-deploy-utils",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-deploy-utils"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-form-find-a-prisoner",
+    "mirror_name": "ministryofjustice.fb-form-find-a-prisoner",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-form-find-a-prisoner",
+    "name": "fb-form-find-a-prisoner",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-form-find-a-prisoner"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-runner-runner",
+    "mirror_name": "ministryofjustice.fb-runner-runner",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-runner-runner",
+    "name": "fb-runner-runner",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-runner-runner"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-smoke-test-form",
+    "mirror_name": "ministryofjustice.fb-smoke-test-form",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-smoke-test-form",
+    "name": "fb-smoke-test-form",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-smoke-test-form"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Proof of concept of the fb-user-datastore in Elixir",
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-user-datastore-elixir",
+    "mirror_name": "ministryofjustice.fb-user-datastore-elixir",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-user-datastore-elixir",
+    "name": "fb-user-datastore-elixir",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-user-datastore-elixir"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "Microservice that takes an XML job feed and converts it to JSON. This is then hosted in an s3 bucket, used by WordPress FeedImporter plugin.",
     "full_name": "uk-gov-mirror/ministryofjustice.feed-parser",
@@ -24569,6 +24919,16 @@
     "name": "glad-platform",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/glad-platform"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "A dead-simple Sinatra app for emulating GLiMR API responses",
+    "full_name": "uk-gov-mirror/ministryofjustice.glimr-emulator",
+    "mirror_name": "ministryofjustice.glimr-emulator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.glimr-emulator",
+    "name": "glimr-emulator",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/glimr-emulator"
   },
   {
     "deleted_on": "2026-10-21",
@@ -26694,6 +27054,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-workforce-prototype"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "An experiment with scripting Home Office Forms",
+    "full_name": "uk-gov-mirror/ministryofjustice.hof-forms-test",
+    "mirror_name": "ministryofjustice.hof-forms-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hof-forms-test",
+    "name": "hof-forms-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hof-forms-test"
+  },
+  {
     "deleted_on": "2026-10-22",
     "description": "OPG Homebrew Formulas: Managed by opg-org-infra & Terraform",
     "full_name": "uk-gov-mirror/ministryofjustice.homebrew-opg",
@@ -26756,6 +27126,16 @@
     "original_url": "https://github.com/ministryofjustice/juniper-mist-integration-spike"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.jury-summons-web",
+    "mirror_name": "ministryofjustice.jury-summons-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.jury-summons-web",
+    "name": "jury-summons-web",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/jury-summons-web"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "A statically generated site, serving the JOTW team's technical documentation.",
     "full_name": "uk-gov-mirror/ministryofjustice.justice-on-the-web",
@@ -26804,6 +27184,16 @@
     "name": "laa-amend-a-claim",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-amend-a-claim"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-amend-a-claim-archive",
+    "mirror_name": "ministryofjustice.laa-amend-a-claim-archive",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-amend-a-claim-archive",
+    "name": "laa-amend-a-claim-archive",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-amend-a-claim-archive"
   },
   {
     "deleted_on": "2026-11-06",
@@ -27174,6 +27564,16 @@
     "original_url": "https://github.com/ministryofjustice/legal-framework-api"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "PDF generator service for licences",
+    "full_name": "uk-gov-mirror/ministryofjustice.licences-pdf",
+    "mirror_name": "ministryofjustice.licences-pdf",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.licences-pdf",
+    "name": "licences-pdf",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/licences-pdf"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-06-09",
     "description": null,
@@ -27246,6 +27646,16 @@
     "original_url": "https://github.com/ministryofjustice/moj-flask-govuk-skeleton"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "The source repository to enable MoJ GitHub Organization Discussions",
+    "full_name": "uk-gov-mirror/ministryofjustice.moj-org-discussions",
+    "mirror_name": "ministryofjustice.moj-org-discussions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.moj-org-discussions",
+    "name": "moj-org-discussions",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/moj-org-discussions"
+  },
+  {
     "deleted_on": "2026-10-28",
     "description": "Simple JWT Auth ruby gem with middleware for Faraday and Grape",
     "full_name": "uk-gov-mirror/ministryofjustice.moj-simple-jwt-auth",
@@ -27254,6 +27664,16 @@
     "name": "moj-simple-jwt-auth",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/moj-simple-jwt-auth"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Deprecated: Do not use",
+    "full_name": "uk-gov-mirror/ministryofjustice.moj_frontend_toolkit_gem",
+    "mirror_name": "ministryofjustice.moj_frontend_toolkit_gem",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.moj_frontend_toolkit_gem",
+    "name": "moj_frontend_toolkit_gem",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/moj_frontend_toolkit_gem"
   },
   {
     "deleted_on": "2026-08-22",
@@ -27266,6 +27686,26 @@
     "original_url": "https://github.com/ministryofjustice/nomis-reports"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.noms-test-automation",
+    "mirror_name": "ministryofjustice.noms-test-automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.noms-test-automation",
+    "name": "noms-test-automation",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/noms-test-automation"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Tactical middleware to facilitate the decommissioning of TIBCO/NDH",
+    "full_name": "uk-gov-mirror/ministryofjustice.oasys-ndh-delius-replacement",
+    "mirror_name": "ministryofjustice.oasys-ndh-delius-replacement",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.oasys-ndh-delius-replacement",
+    "name": "oasys-ndh-delius-replacement",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/oasys-ndh-delius-replacement"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2026-07-30",
     "description": null,
@@ -27275,6 +27715,16 @@
     "name": "october-friendly-cherry-tree",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/october-friendly-cherry-tree"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Terraformed infrastructure for Offender Assessments API",
+    "full_name": "uk-gov-mirror/ministryofjustice.offender-assessments-api-infra",
+    "mirror_name": "ministryofjustice.offender-assessments-api-infra",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.offender-assessments-api-infra",
+    "name": "offender-assessments-api-infra",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/offender-assessments-api-infra"
   },
   {
     "deleted_on": "2026-08-11",
@@ -27306,6 +27756,36 @@
     "name": "offloc-server",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/offloc-server"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "A PoC repository to explore AWS Bedrock",
+    "full_name": "uk-gov-mirror/ministryofjustice.operations-engineering-bedrock-poc",
+    "mirror_name": "ministryofjustice.operations-engineering-bedrock-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.operations-engineering-bedrock-poc",
+    "name": "operations-engineering-bedrock-poc",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/operations-engineering-bedrock-poc"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "An experimental web form that assists with automating part of the certificate renewal process. \u2022 This repository is defined and managed in Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.operations-engineering-certificate-form",
+    "mirror_name": "ministryofjustice.operations-engineering-certificate-form",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.operations-engineering-certificate-form",
+    "name": "operations-engineering-certificate-form",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/operations-engineering-certificate-form"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "A browser extension to easily find documentation for building MoJ Digital Services \u2022 This repository is defined and managed in Terraform",
+    "full_name": "uk-gov-mirror/ministryofjustice.operations-engineering-documentation-browser-extension",
+    "mirror_name": "ministryofjustice.operations-engineering-documentation-browser-extension",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.operations-engineering-documentation-browser-extension",
+    "name": "operations-engineering-documentation-browser-extension",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/operations-engineering-documentation-browser-extension"
   },
   {
     "deleted_on": "2026-10-22",
@@ -28000,6 +28480,16 @@
     "original_url": "https://github.com/ministryofjustice/platform-operations"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.prepare-probation-courtcases",
+    "mirror_name": "ministryofjustice.prepare-probation-courtcases",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.prepare-probation-courtcases",
+    "name": "prepare-probation-courtcases",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/prepare-probation-courtcases"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "Prison services feedback and support application",
     "full_name": "uk-gov-mirror/ministryofjustice.prison-services-feedback-and-support",
@@ -28083,6 +28573,16 @@
     "original_url": "https://github.com/ministryofjustice/renovate-typescript-poc"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "s3",
+    "full_name": "uk-gov-mirror/ministryofjustice.ruby-formula",
+    "mirror_name": "ministryofjustice.ruby-formula",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.ruby-formula",
+    "name": "ruby-formula",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/ruby-formula"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2024-02-21",
     "description": "A simple hello world app, in order for the team to learn Ruby on rails",
@@ -28124,6 +28624,36 @@
     "original_url": "https://github.com/ministryofjustice/san-typescript-test"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.securityanalytics-sharedcode",
+    "mirror_name": "ministryofjustice.securityanalytics-sharedcode",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.securityanalytics-sharedcode",
+    "name": "securityanalytics-sharedcode",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/securityanalytics-sharedcode"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.securityanalytics-sharedinfrastructure",
+    "mirror_name": "ministryofjustice.securityanalytics-sharedinfrastructure",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.securityanalytics-sharedinfrastructure",
+    "name": "securityanalytics-sharedinfrastructure",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/securityanalytics-sharedinfrastructure"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "API to retrieve sentencing guidelines",
+    "full_name": "uk-gov-mirror/ministryofjustice.sentencing-guidelines-api-prototype",
+    "mirror_name": "ministryofjustice.sentencing-guidelines-api-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.sentencing-guidelines-api-prototype",
+    "name": "sentencing-guidelines-api-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/sentencing-guidelines-api-prototype"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-05-07",
     "description": null,
@@ -28144,6 +28674,16 @@
     "name": "setup-kd",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/setup-kd"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Show The Thing - Form Builder end-to-end demo (8 Nov 2018)",
+    "full_name": "uk-gov-mirror/ministryofjustice.show-the-thing-demo",
+    "mirror_name": "ministryofjustice.show-the-thing-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.show-the-thing-demo",
+    "name": "show-the-thing-demo",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/show-the-thing-demo"
   },
   {
     "deleted_on": "2026-10-16",
@@ -28297,6 +28837,16 @@
     "original_url": "https://github.com/ministryofjustice/staff-infrastructure-monitoring-deployments"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Run standardrb from a docker image, to avoid conflicts with local ruby versions and bundler binstubs.",
+    "full_name": "uk-gov-mirror/ministryofjustice.standard-docker-image",
+    "mirror_name": "ministryofjustice.standard-docker-image",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.standard-docker-image",
+    "name": "standard-docker-image",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/standard-docker-image"
+  },
+  {
     "deleted_on": "2026-09-04",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.sturdy-fishstick",
@@ -28338,6 +28888,16 @@
     "original_url": "https://github.com/ministryofjustice/terraform-aws-tgw.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "terraform-tribunals-dms",
+    "full_name": "uk-gov-mirror/ministryofjustice.terraform-tribunals-dms",
+    "mirror_name": "ministryofjustice.terraform-tribunals-dms",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.terraform-tribunals-dms",
+    "name": "terraform-tribunals-dms",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/terraform-tribunals-dms"
+  },
+  {
     "deleted_on": "2026-08-11",
     "description": "UI for searching historical electronic monitoring data records",
     "full_name": "uk-gov-mirror/ministryofjustice.tst-em-example-app-jkn",
@@ -28358,6 +28918,16 @@
     "original_url": "https://github.com/ministryofjustice/vcms-performance"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "Bootstrap package for Palo Alto Networks VM-Series firewalls",
+    "full_name": "uk-gov-mirror/ministryofjustice.vmseries-bootstrap-package",
+    "mirror_name": "ministryofjustice.vmseries-bootstrap-package",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.vmseries-bootstrap-package",
+    "name": "vmseries-bootstrap-package",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/vmseries-bootstrap-package"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "WordPress AWS Site Manager. Manage MOJ Digital WordPress instances running in AWS.",
     "full_name": "uk-gov-mirror/ministryofjustice.wasm",
@@ -28366,6 +28936,16 @@
     "name": "wasm",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/wasm"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Download and convert word documents to pdf and html",
+    "full_name": "uk-gov-mirror/ministryofjustice.worddoc_convert",
+    "mirror_name": "ministryofjustice.worddoc_convert",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.worddoc_convert",
+    "name": "worddoc_convert",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/worddoc_convert"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -28609,6 +29189,16 @@
     "original_url": "https://github.com/ministryofjustice/wp-layobservers"
   },
   {
+    "deleted_on": "2026-11-19",
+    "description": "A multisite installation for MoJ campaign websites",
+    "full_name": "uk-gov-mirror/ministryofjustice.wp-mscampaigns",
+    "mirror_name": "ministryofjustice.wp-mscampaigns",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.wp-mscampaigns",
+    "name": "wp-mscampaigns",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/wp-mscampaigns"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "A base docker image for running 12 factor Multisite WordPress applications.",
     "full_name": "uk-gov-mirror/ministryofjustice.wp-multisite-base-docker",
@@ -28777,6 +29367,36 @@
     "name": "wp-victcomm2",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/wp-victcomm2"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "A small Django app for aggregating a team's Zendesk scores",
+    "full_name": "uk-gov-mirror/ministryofjustice.zen_aggregator",
+    "mirror_name": "ministryofjustice.zen_aggregator",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.zen_aggregator",
+    "name": "zen_aggregator",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/zen_aggregator"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Purge sensitive data from Zendesk tickets.",
+    "full_name": "uk-gov-mirror/ministryofjustice.zendesk_sanitizer",
+    "mirror_name": "ministryofjustice.zendesk_sanitizer",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.zendesk_sanitizer",
+    "name": "zendesk_sanitizer",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/zendesk_sanitizer"
+  },
+  {
+    "deleted_on": "2026-11-19",
+    "description": "Connect to your zendesk API using sinatra",
+    "full_name": "uk-gov-mirror/ministryofjustice.zendesk_sinatra",
+    "mirror_name": "ministryofjustice.zendesk_sinatra",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.zendesk_sinatra",
+    "name": "zendesk_sinatra",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/zendesk_sinatra"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
