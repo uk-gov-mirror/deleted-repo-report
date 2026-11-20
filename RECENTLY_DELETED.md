@@ -6,6 +6,16 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-MPCorrespondence-Prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype) | Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians | 2026-11-20 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`hk-cwa-web-component-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc) | Proof of concept component library converting React components into Web Components | 2026-11-20 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`nginx-rate-limiting`](https://github.com/uk-gov-mirror/CPS-Innovation.nginx-rate-limiting) | Docker image to play around with nginx-rate-limit. | 2026-11-20 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`wc-os-spike-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.wc-os-spike-poc) | Proof of concept spike: Converting an existing React component into a web component and using it in Outsystems | 2026-11-20 |
+| [ONSdigital](https://github.com/ONSdigital) | [`content-library`](https://github.com/uk-gov-mirror/ONSdigital.content-library) | ONS content object notation | 2026-11-20 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-cryptolite-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-cryptolite-java) | Fork of davidcarboni/cryptolite | 2026-11-20 |
+| [UKHomeOffice](https://github.com/UKHomeOffice) | [`docker-gitlab`](https://github.com/uk-gov-mirror/UKHomeOffice.docker-gitlab) | A repo for creating gitlab | 2026-11-20 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-fee-scheme-api`](https://github.com/uk-gov-mirror/ministryofjustice.laa-fee-scheme-api) | Fees calculator application for Claims submitted by proivders | 2026-11-20 |
+| [technologyenhancedlearning](https://github.com/technologyenhancedlearning) | [`UserMigrationService`](https://github.com/uk-gov-mirror/technologyenhancedlearning.UserMigrationService) |  | 2026-11-20 |
+| [uktrade](https://github.com/uktrade) | [`platform-scripts`](https://github.com/uk-gov-mirror/uktrade.platform-scripts) | Random miscellaneous scripts to assist with various tasks on BIST Platform | 2026-11-20 |
 | [Birmingham-and-Solihull-ICS](https://github.com/Birmingham-and-Solihull-ICS) | [`ai_agent_basic`](https://github.com/uk-gov-mirror/Birmingham-and-Solihull-ICS.ai_agent_basic) | A repository with simple version of an AI agent for learning | 2026-11-19 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`Case-Management-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform) | Terraform IaC for the Case Management solution | 2026-11-19 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`Case-Management-Manage-Materials-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform) | Terraform IaC for the Manage Materials solution | 2026-11-19 |
@@ -996,13 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`seb_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_2) | testing | 2026-10-23 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`seb_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_3) | testing | 2026-10-23 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`seb_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_4) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`seb_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.seb_test_5) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_1`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_1) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_2`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_2) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_3`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_3) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_4`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_4) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_5`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_5) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`sebtheo_test_6`](https://github.com/uk-gov-mirror/ONS-Innovation.sebtheo_test_6) | test | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`teazy-peazy-advent-of-code-bt`](https://github.com/uk-gov-mirror/ONS-Innovation.teazy-peazy-advent-of-code-bt) | A test repository to collect the team effort to solve some of the puzzels from the Advent of Code from last year (2024) using Backstage. | 2026-10-23 |
-| [ONS-OpenData](https://github.com/ONS-OpenData) | [`cmd-api-pipeline`](https://github.com/uk-gov-mirror/ONS-OpenData.cmd-api-pipeline) |  | 2026-10-23 |
-| [ONS-OpenData](https://github.com/ONS-OpenData) | [`data-dictionary`](https://github.com/uk-gov-mirror/ONS-OpenData.data-dictionary) |  | 2026-10-23 |

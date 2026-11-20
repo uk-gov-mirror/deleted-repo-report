@@ -163,6 +163,16 @@
     "original_url": "https://github.com/CPS-Innovation/AI-prototype"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": "Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians",
+    "full_name": "uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype",
+    "mirror_name": "CPS-Innovation.CPS-MPCorrespondence-Prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype",
+    "name": "CPS-MPCorrespondence-Prototype",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/CPS-MPCorrespondence-Prototype"
+  },
+  {
     "deleted_on": "2026-11-19",
     "description": "Terraform IaC for the Case Management solution",
     "full_name": "uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform",
@@ -295,6 +305,16 @@
     "original_url": "https://github.com/CPS-Innovation/global-navigation-prototype"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": "Proof of concept component library converting React components into Web Components",
+    "full_name": "uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc",
+    "mirror_name": "CPS-Innovation.hk-cwa-web-component-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc",
+    "name": "hk-cwa-web-component-poc",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/hk-cwa-web-component-poc"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-29",
     "description": null,
@@ -337,6 +357,16 @@
     "original_url": "https://github.com/CPS-Innovation/new-design-history"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": "Docker image to play around with nginx-rate-limit.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.nginx-rate-limiting",
+    "mirror_name": "CPS-Innovation.nginx-rate-limiting",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.nginx-rate-limiting",
+    "name": "nginx-rate-limiting",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/nginx-rate-limiting"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": null,
     "full_name": "uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype",
@@ -345,6 +375,16 @@
     "name": "prepare-for-hearing-prototype",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/prepare-for-hearing-prototype"
+  },
+  {
+    "deleted_on": "2026-11-20",
+    "description": "Proof of concept spike: Converting an existing React component into a web component and using it in Outsystems",
+    "full_name": "uk-gov-mirror/CPS-Innovation.wc-os-spike-poc",
+    "mirror_name": "CPS-Innovation.wc-os-spike-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.wc-os-spike-poc",
+    "name": "wc-os-spike-poc",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/wc-os-spike-poc"
   },
   {
     "deleted_on": "2026-10-23",
@@ -4597,6 +4637,16 @@
     "original_url": "https://github.com/ONSdigital/confluence-enhancer"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": "ONS content object notation",
+    "full_name": "uk-gov-mirror/ONSdigital.content-library",
+    "mirror_name": "ONSdigital.content-library",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.content-library",
+    "name": "content-library",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/content-library"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.cord-cas-deploy",
@@ -5468,6 +5518,16 @@
     "name": "dp-cpi-dimension-selector",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-cpi-dimension-selector"
+  },
+  {
+    "deleted_on": "2026-11-20",
+    "description": "Fork of davidcarboni/cryptolite",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-cryptolite-java",
+    "mirror_name": "ONSdigital.dp-cryptolite-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-cryptolite-java",
+    "name": "dp-cryptolite-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-cryptolite-java"
   },
   {
     "deleted_on": "2026-10-27",
@@ -15790,6 +15850,16 @@
     "name": "docker-flyway",
     "org": "UKHomeOffice",
     "original_url": "https://github.com/UKHomeOffice/docker-flyway"
+  },
+  {
+    "deleted_on": "2026-11-20",
+    "description": "A repo for creating gitlab",
+    "full_name": "uk-gov-mirror/UKHomeOffice.docker-gitlab",
+    "mirror_name": "UKHomeOffice.docker-gitlab",
+    "mirror_url": "https://github.com/uk-gov-mirror/UKHomeOffice.docker-gitlab",
+    "name": "docker-gitlab",
+    "org": "UKHomeOffice",
+    "original_url": "https://github.com/UKHomeOffice/docker-gitlab"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -27452,6 +27522,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-data-stewardship-civil-claims-api"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": "Fees calculator application for Claims submitted by proivders",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-fee-scheme-api",
+    "mirror_name": "ministryofjustice.laa-fee-scheme-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-fee-scheme-api",
+    "name": "laa-fee-scheme-api",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-fee-scheme-api"
+  },
+  {
     "deleted_on": "2026-10-30",
     "description": null,
     "full_name": "uk-gov-mirror/ministryofjustice.laa-hmrc-interface-service-api",
@@ -34634,6 +34714,16 @@
     "original_url": "https://github.com/oaknational/oak-platform-interview-task"
   },
   {
+    "deleted_on": "2026-11-20",
+    "description": null,
+    "full_name": "uk-gov-mirror/technologyenhancedlearning.UserMigrationService",
+    "mirror_name": "technologyenhancedlearning.UserMigrationService",
+    "mirror_url": "https://github.com/uk-gov-mirror/technologyenhancedlearning.UserMigrationService",
+    "name": "UserMigrationService",
+    "org": "technologyenhancedlearning",
+    "original_url": "https://github.com/technologyenhancedlearning/UserMigrationService"
+  },
+  {
     "deleted_on": null,
     "description": null,
     "full_name": "uk-gov-mirror/ukforeignoffice.ETD-prototype-upload",
@@ -35020,6 +35110,16 @@
     "name": "data-engineering-tech-test-geological-survey-pipelines",
     "org": "uktrade-recruitment",
     "original_url": "https://github.com/uktrade-recruitment/data-engineering-tech-test-geological-survey-pipelines"
+  },
+  {
+    "deleted_on": "2026-11-20",
+    "description": "Random miscellaneous scripts to assist with various tasks on BIST Platform",
+    "full_name": "uk-gov-mirror/uktrade.platform-scripts",
+    "mirror_name": "uktrade.platform-scripts",
+    "mirror_url": "https://github.com/uk-gov-mirror/uktrade.platform-scripts",
+    "name": "platform-scripts",
+    "org": "uktrade",
+    "original_url": "https://github.com/uktrade/platform-scripts"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
