@@ -163,6 +163,16 @@
     "original_url": "https://github.com/CPS-Innovation/AI-prototype"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows",
+    "mirror_name": "CPS-Innovation.CPS-Centralised-Reusable-Workflows",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows",
+    "name": "CPS-Centralised-Reusable-Workflows",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/CPS-Centralised-Reusable-Workflows"
+  },
+  {
     "deleted_on": "2026-11-20",
     "description": "Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians",
     "full_name": "uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype",
@@ -171,6 +181,16 @@
     "name": "CPS-MPCorrespondence-Prototype",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/CPS-MPCorrespondence-Prototype"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": "To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Case-Management",
+    "mirror_name": "CPS-Innovation.Case-Management",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management",
+    "name": "Case-Management",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Case-Management"
   },
   {
     "deleted_on": "2026-11-19",
@@ -193,6 +213,36 @@
     "original_url": "https://github.com/CPS-Innovation/Case-Management-Manage-Materials-Infrastructure-Terraform"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": "Central QA team - Collection to create cases for DCF and TWIF using Bruno",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Central-QA-CaseCreation",
+    "mirror_name": "CPS-Innovation.Central-QA-CaseCreation",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Central-QA-CaseCreation",
+    "name": "Central-QA-CaseCreation",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Central-QA-CaseCreation"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.Cloud-Infrastructure-Scripts",
+    "mirror_name": "CPS-Innovation.Cloud-Infrastructure-Scripts",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Cloud-Infrastructure-Scripts",
+    "name": "Cloud-Infrastructure-Scripts",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Cloud-Infrastructure-Scripts"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": "Repository to allow developers to create their own DNS zones and records under int.cps.gov.uk",
+    "full_name": "uk-gov-mirror/CPS-Innovation.DNS-Self-Service",
+    "mirror_name": "CPS-Innovation.DNS-Self-Service",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.DNS-Self-Service",
+    "name": "DNS-Self-Service",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/DNS-Self-Service"
+  },
+  {
     "deleted_on": "2026-10-17",
     "description": null,
     "full_name": "uk-gov-mirror/CPS-Innovation.EndToEnd",
@@ -201,6 +251,16 @@
     "name": "EndToEnd",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/EndToEnd"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases",
+    "mirror_name": "CPS-Innovation.Large-and-Complex-Cases",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases",
+    "name": "Large-and-Complex-Cases",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Large-and-Complex-Cases"
   },
   {
     "deleted_on": "2026-11-19",
@@ -232,6 +292,16 @@
     "name": "Rumpole",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/Rumpole"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": "Rumpole QA Automation framework holds the end to end test for the rumpole service. Included are API and UI tests written in Javascript with Cypress. This is a node project.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.Rumpole-QA-Automation",
+    "mirror_name": "CPS-Innovation.Rumpole-QA-Automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole-QA-Automation",
+    "name": "Rumpole-QA-Automation",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/Rumpole-QA-Automation"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -347,6 +417,16 @@
     "original_url": "https://github.com/CPS-Innovation/large-and-complex-cases-pipeline-templates"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": "The LCC Reporting Service will deliver data on the Large and Complex Cases (LCC) application, supporting BI reporting on tool success rates and offering insights into benefits realisation.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.lcc-reporting-service",
+    "mirror_name": "CPS-Innovation.lcc-reporting-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.lcc-reporting-service",
+    "name": "lcc-reporting-service",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/lcc-reporting-service"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "A place to document and share our design decisions",
     "full_name": "uk-gov-mirror/CPS-Innovation.new-design-history",
@@ -367,6 +447,26 @@
     "original_url": "https://github.com/CPS-Innovation/nginx-rate-limiting"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": "Demo of azure vnet and VPN client that can be used by humans and also DevOps pipelines",
+    "full_name": "uk-gov-mirror/CPS-Innovation.pipeline-vpnclient-poc",
+    "mirror_name": "CPS-Innovation.pipeline-vpnclient-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.pipeline-vpnclient-poc",
+    "name": "pipeline-vpnclient-poc",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/pipeline-vpnclient-poc"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": "Reverse proxy proof of concept config for polaris",
+    "full_name": "uk-gov-mirror/CPS-Innovation.polaris-reverseproxy-poc",
+    "mirror_name": "CPS-Innovation.polaris-reverseproxy-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.polaris-reverseproxy-poc",
+    "name": "polaris-reverseproxy-poc",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/polaris-reverseproxy-poc"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": null,
     "full_name": "uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype",
@@ -375,6 +475,16 @@
     "name": "prepare-for-hearing-prototype",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/prepare-for-hearing-prototype"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.victim-contact-application--alpha",
+    "mirror_name": "CPS-Innovation.victim-contact-application--alpha",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.victim-contact-application--alpha",
+    "name": "victim-contact-application--alpha",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/victim-contact-application--alpha"
   },
   {
     "deleted_on": "2026-11-20",
@@ -14635,6 +14745,16 @@
     "original_url": "https://github.com/SkillsFundingAgency/tl-marketing-and-communication-prototype.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": "Python workbook for the SPLASH (Somerset Paediatric Lifestyle Activity and Skills for self Help) service evaluation.",
+    "full_name": "uk-gov-mirror/Somerset-NHS-FT-DS-Improvement.splash-service",
+    "mirror_name": "Somerset-NHS-FT-DS-Improvement.splash-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/Somerset-NHS-FT-DS-Improvement.splash-service",
+    "name": "splash-service",
+    "org": "Somerset-NHS-FT-DS-Improvement",
+    "original_url": "https://github.com/Somerset-NHS-FT-DS-Improvement/splash-service"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "UK Intellectual Property Office Assets",
     "full_name": "uk-gov-mirror/The-Strategy-Unit.assets.replaced.2026-09-02",
@@ -20630,6 +20750,16 @@
     "original_url": "https://github.com/hmrc/enrolments-orchestrator-performance-tests"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.example-frontend",
+    "mirror_name": "hmrc.example-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.example-frontend",
+    "name": "example-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/example-frontend"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-03-08",
     "description": null,
@@ -21523,6 +21653,16 @@
     "original_url": "https://github.com/hmrc/one-stop-shop-admin-frontend"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.optimizely-fullstack-test-frontend",
+    "mirror_name": "hmrc.optimizely-fullstack-test-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.optimizely-fullstack-test-frontend",
+    "name": "optimizely-fullstack-test-frontend",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/optimizely-fullstack-test-frontend"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-09-11",
     "description": null,
@@ -21617,6 +21757,16 @@
     "name": "pillar2-ui-acceptence-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/pillar2-ui-acceptence-tests"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.plastic-packaging-tax-g8-spike",
+    "mirror_name": "hmrc.plastic-packaging-tax-g8-spike",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.plastic-packaging-tax-g8-spike",
+    "name": "plastic-packaging-tax-g8-spike",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/plastic-packaging-tax-g8-spike"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -21791,6 +21941,16 @@
     "name": "sa-pre-pop-api-tests",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/sa-pre-pop-api-tests"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.sbt-giter8-migrate",
+    "mirror_name": "hmrc.sbt-giter8-migrate",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.sbt-giter8-migrate",
+    "name": "sbt-giter8-migrate",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/sbt-giter8-migrate"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -26843,6 +27003,16 @@
     "original_url": "https://github.com/ministryofjustice/hmpps-san-test-typescript"
   },
   {
+    "deleted_on": "2026-11-21",
+    "description": "Test repo to test various different things (bootstrapped 2026-08-24)",
+    "full_name": "uk-gov-mirror/ministryofjustice.hmpps-sandhyag-test",
+    "mirror_name": "ministryofjustice.hmpps-sandhyag-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sandhyag-test",
+    "name": "hmpps-sandhyag-test",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hmpps-sandhyag-test"
+  },
+  {
     "deleted_on": "2026-08-22",
     "description": "\u2018Send money to someone in prison\u2019 prototypes",
     "full_name": "uk-gov-mirror/ministryofjustice.hmpps-send-money-to-a-prisoner-prototype",
@@ -27520,6 +27690,16 @@
     "name": "laa-data-stewardship-civil-claims-api",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-data-stewardship-civil-claims-api"
+  },
+  {
+    "deleted_on": "2026-11-21",
+    "description": "A  portal to expose useful information about LAA applications to developers.",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-developer-portal",
+    "mirror_name": "ministryofjustice.laa-developer-portal",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-developer-portal",
+    "name": "laa-developer-portal",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-developer-portal"
   },
   {
     "deleted_on": "2026-11-20",
