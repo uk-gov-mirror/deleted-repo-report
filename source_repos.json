@@ -345,6 +345,16 @@
     "original_url": "https://github.com/CPS-Innovation/court-scheduling-and-rotas-prototype"
   },
   {
+    "deleted_on": "2026-11-23",
+    "description": "CPS API collection for API testing",
+    "full_name": "uk-gov-mirror/CPS-Innovation.cps-api-collection",
+    "mirror_name": "CPS-Innovation.cps-api-collection",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.cps-api-collection",
+    "name": "cps-api-collection",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/cps-api-collection"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": null,
     "full_name": "uk-gov-mirror/CPS-Innovation.cps-design-resources",
@@ -6433,6 +6443,16 @@
     "original_url": "https://github.com/ONSdigital/dp-http-java"
   },
   {
+    "deleted_on": "2026-11-23",
+    "description": "An API used to manage the authorisation of users accessing data publishing services.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-identity-api",
+    "mirror_name": "ONSdigital.dp-identity-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-identity-api",
+    "name": "dp-identity-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-identity-api"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dp-identity-api-archived",
@@ -6771,6 +6791,16 @@
     "name": "dp-performance-reporter",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-performance-reporter"
+  },
+  {
+    "deleted_on": "2026-11-23",
+    "description": "API for managing access control permissions for Digital Publishing API resources",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-permissions-api",
+    "mirror_name": "ONSdigital.dp-permissions-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-permissions-api",
+    "name": "dp-permissions-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-permissions-api"
   },
   {
     "deleted_on": "2026-11-14",
@@ -20683,6 +20713,16 @@
     "name": "dep-frontend",
     "org": "hmrc",
     "original_url": "https://github.com/hmrc/dep-frontend"
+  },
+  {
+    "deleted_on": "2026-11-23",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.desnz-child-benefit-verification-api-tests",
+    "mirror_name": "hmrc.desnz-child-benefit-verification-api-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.desnz-child-benefit-verification-api-tests",
+    "name": "desnz-child-benefit-verification-api-tests",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/desnz-child-benefit-verification-api-tests"
   },
   {
     "approximate_date_source": "last-git-activity",

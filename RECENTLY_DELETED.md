@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`cps-api-collection`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-api-collection) | CPS API collection for API testing | 2026-11-23 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-identity-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-identity-api) | An API used to manage the authorisation of users accessing data publishing services. | 2026-11-23 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-permissions-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-permissions-api) | API for managing access control permissions for Digital Publishing API resources | 2026-11-23 |
+| [hmrc](https://github.com/hmrc) | [`desnz-child-benefit-verification-api-tests`](https://github.com/uk-gov-mirror/hmrc.desnz-child-benefit-verification-api-tests) |  | 2026-11-23 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-Centralised-Reusable-Workflows`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows) |  | 2026-11-21 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`Case-Management`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management) | To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle. | 2026-11-21 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`Central-QA-CaseCreation`](https://github.com/uk-gov-mirror/CPS-Innovation.Central-QA-CaseCreation) | Central QA team - Collection to create cases for DCF and TWIF using Bruno | 2026-11-21 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`example-pipeline-module-template`](https://github.com/uk-gov-mirror/ONS-Innovation.example-pipeline-module-template) |  | 2026-10-23 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`fahad_demo`](https://github.com/uk-gov-mirror/ONS-Innovation.fahad_demo) | test | 2026-10-23 |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [`github-api-package`](https://github.com/uk-gov-mirror/ONS-Innovation.github-api-package) | A Python package used to interact with the GitHub RESTful API | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`github-repository-archive-script`](https://github.com/uk-gov-mirror/ONS-Innovation.github-repository-archive-script) | A Python utility used to archive old, unused GitHub repositories from an organisation. | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`govcookietest_1`](https://github.com/uk-gov-mirror/ONS-Innovation.govcookietest_1) | testing | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`joe-coverage-test`](https://github.com/uk-gov-mirror/ONS-Innovation.joe-coverage-test) | test of code coverage check | 2026-10-23 |
-| [ONS-Innovation](https://github.com/ONS-Innovation) | [`jp-airflow-test`](https://github.com/uk-gov-mirror/ONS-Innovation.jp-airflow-test) | test | 2026-10-23 |
