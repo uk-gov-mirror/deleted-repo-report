@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3448**
+Total deleted repositories: **3562**
 Organisations affected: **96**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,21 +10,21 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1258, 242]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1258, 356]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**1044**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 85.3% |
+| [ONSdigital](https://github.com/ONSdigital) | [**1045**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 85.4% |
 | [ministryofjustice](https://github.com/ministryofjustice) | [**514**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 23.4% |
 | [nhsdigital](https://github.com/nhsdigital) | [**272**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 61.7% |
 | [hmrc](https://github.com/hmrc) | [**224**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.9% |
+| [defra](https://github.com/defra) | [**191**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 9.1% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.5% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**117**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.7% |
-| [defra](https://github.com/defra) | [**81**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 3.8% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 78.3% |
 | [DFE-Digital](https://github.com/DFE-Digital) | [**55**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 5.9% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
@@ -34,7 +34,7 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 38.3% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.0% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [**35**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 68.6% |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [**38**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 77.6% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [hmcts](https://github.com/hmcts) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.5% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
@@ -107,17 +107,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [govuk-one-login](https://github.com/govuk-one-login) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-one-login.%22) | 0.5% |
 | [govuk-pay](https://github.com/govuk-pay) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22govuk-pay.%22) | 1.1% |
 | [nhs-oa-community](https://github.com/nhs-oa-community) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhs-oa-community.%22) | 3.6% |
-| [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 12.5% |
+| [nottmhospitals](https://github.com/nottmhospitals) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nottmhospitals.%22) | 11.1% |
 | [oaknational](https://github.com/oaknational) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22oaknational.%22) | 2.9% |
 | [technologyenhancedlearning](https://github.com/technologyenhancedlearning) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22technologyenhancedlearning.%22) | 1.7% |
 | [ukhsa-flusurvey](https://github.com/ukhsa-flusurvey) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukhsa-flusurvey.%22) | 50.0% |
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [wgdsu](https://github.com/wgdsu) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22wgdsu.%22) | 12.5% |
 
-## [ONSdigital](https://github.com/ONSdigital) (1044)
+## [ONSdigital](https://github.com/ONSdigital) (1045)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dp-zebedee-content`](https://github.com/uk-gov-mirror/ONSdigital.dp-zebedee-content) |  | 2026-11-24 |
 | [`dp-identity-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-identity-api) | An API used to manage the authorisation of users accessing data publishing services. | 2026-11-23 |
 | [`dp-permissions-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-permissions-api) | API for managing access control permissions for Digital Publishing API resources | 2026-11-23 |
 | [`content-library`](https://github.com/uk-gov-mirror/ONSdigital.content-library) | ONS content object notation | 2026-11-20 |
@@ -2188,6 +2189,202 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`s3-stub`](https://github.com/uk-gov-mirror/hmrc.s3-stub) |  |  |
 | [`ssttp-performance-test`](https://github.com/uk-gov-mirror/hmrc.ssttp-performance-test) |  |  |
 
+## [defra](https://github.com/defra) (191)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`Defra-SOP5`](https://github.com/uk-gov-mirror/defra.Defra-SOP5) |  | 2026-11-24 |
+| [`EAPC`](https://github.com/uk-gov-mirror/defra.EAPC) | Repo for EAPC | 2026-11-24 |
+| [`ai-defra-search-data`](https://github.com/uk-gov-mirror/defra.ai-defra-search-data) | Git repository for service ai-defra-search-data | 2026-11-24 |
+| [`ai-legacy-backend`](https://github.com/uk-gov-mirror/defra.ai-legacy-backend) | Git repository for service ai-legacy-backend | 2026-11-24 |
+| [`ai-legacy-frontend`](https://github.com/uk-gov-mirror/defra.ai-legacy-frontend) | Git repository for service ai-legacy-frontend | 2026-11-24 |
+| [`aims-upgrade-test-automation`](https://github.com/uk-gov-mirror/defra.aims-upgrade-test-automation) | Automated regression testing for the AIMS Upgrade project | 2026-11-24 |
+| [`animal-disease-testing`](https://github.com/uk-gov-mirror/defra.animal-disease-testing) | Animal Disease Testing Service | 2026-11-24 |
+| [`apha-integration-apoc-jny-tests`](https://github.com/uk-gov-mirror/defra.apha-integration-apoc-jny-tests) | Git repository for service apha-integration-apoc-jny-tests | 2026-11-24 |
+| [`bng-integration-credits`](https://github.com/uk-gov-mirror/defra.bng-integration-credits) |  | 2026-11-24 |
+| [`btms-backend-stub`](https://github.com/uk-gov-mirror/defra.btms-backend-stub) | Git repository for service btms-backend-stub | 2026-11-24 |
+| [`catch-returns-prototype`](https://github.com/uk-gov-mirror/defra.catch-returns-prototype) | Prototype to design and test improvements to the rod catch returns service | 2026-11-24 |
+| [`cdms-backend`](https://github.com/uk-gov-mirror/defra.cdms-backend) | Git repository for service cdms-backend | 2026-11-24 |
+| [`chemicals-audit`](https://github.com/uk-gov-mirror/defra.chemicals-audit) |  | 2026-11-24 |
+| [`chemicals-dossier`](https://github.com/uk-gov-mirror/defra.chemicals-dossier) |  | 2026-11-24 |
+| [`chemicals-nipnots`](https://github.com/uk-gov-mirror/defra.chemicals-nipnots) |  | 2026-11-24 |
+| [`chemicals-notify`](https://github.com/uk-gov-mirror/defra.chemicals-notify) |  | 2026-11-24 |
+| [`clean-air-zones-web`](https://github.com/uk-gov-mirror/defra.clean-air-zones-web) | Web layer components for the Clean Air Zone solution | 2026-11-24 |
+| [`cleanse`](https://github.com/uk-gov-mirror/defra.cleanse) | Git repository for service cleanse | 2026-11-24 |
+| [`core-ai-techspike-hackathon`](https://github.com/uk-gov-mirror/defra.core-ai-techspike-hackathon) |  | 2026-11-24 |
+| [`crai-techspike-data-evalutions`](https://github.com/uk-gov-mirror/defra.crai-techspike-data-evalutions) |  | 2026-11-24 |
+| [`dashboard-template`](https://github.com/uk-gov-mirror/defra.dashboard-template) | Dashboard template | 2026-11-24 |
+| [`data-returns-acceptance-tests`](https://github.com/uk-gov-mirror/defra.data-returns-acceptance-tests) | Acceptance tests for the Data Returns digital service | 2026-11-24 |
+| [`data-returns-data-exchange`](https://github.com/uk-gov-mirror/defra.data-returns-data-exchange) | Data Returns Backend Service | 2026-11-24 |
+| [`data-returns-frontend`](https://github.com/uk-gov-mirror/defra.data-returns-frontend) | GOV.uk web interface to support the upload and validation of Data Exchange Protocol (DEP) compliant data returns | 2026-11-24 |
+| [`data-returns-pi-frontend`](https://github.com/uk-gov-mirror/defra.data-returns-pi-frontend) | Web service for the submission of PI returns | 2026-11-24 |
+| [`document-management-system-prototype`](https://github.com/uk-gov-mirror/defra.document-management-system-prototype) |  | 2026-11-24 |
+| [`elm-prototype`](https://github.com/uk-gov-mirror/defra.elm-prototype) | Prototypes for the Environment Land Management service. | 2026-11-24 |
+| [`environmental-permit-prototype`](https://github.com/uk-gov-mirror/defra.environmental-permit-prototype) | Front facing online application for Apply for an environmental permit. Rebuild into the new GOV Design System. | 2026-11-24 |
+| [`epr-backend-journey-tests`](https://github.com/uk-gov-mirror/defra.epr-backend-journey-tests) | Git repository for service epr-backend-journey-tests | 2026-11-24 |
+| [`epr-backend-performance-tests`](https://github.com/uk-gov-mirror/defra.epr-backend-performance-tests) | Git repository for service epr-backend-performance-tests | 2026-11-24 |
+| [`epr-frontend-journey-tests`](https://github.com/uk-gov-mirror/defra.epr-frontend-journey-tests) | Git repository for service epr-frontend-journey-tests | 2026-11-24 |
+| [`epr-frontend-performance-tests`](https://github.com/uk-gov-mirror/defra.epr-frontend-performance-tests) | Git repository for service epr-frontend-performance-tests | 2026-11-24 |
+| [`epr-prn-accreditation-front-end`](https://github.com/uk-gov-mirror/defra.epr-prn-accreditation-front-end) | This repository contains the code for the frontend of the PRN Accreditation domain for Extended Producer Responsibility for Packaging (EPR). | 2026-11-24 |
+| [`epr-re-ex-admin-frontend-tests`](https://github.com/uk-gov-mirror/defra.epr-re-ex-admin-frontend-tests) | Git repository for service epr-re-ex-admin-frontend-tests | 2026-11-24 |
+| [`epr-rpd-performance-tests`](https://github.com/uk-gov-mirror/defra.epr-rpd-performance-tests) |  | 2026-11-24 |
+| [`epr-ui-wdio`](https://github.com/uk-gov-mirror/defra.epr-ui-wdio) |  | 2026-11-24 |
+| [`farming-grants-ui`](https://github.com/uk-gov-mirror/defra.farming-grants-ui) | Git repository for service farming-grants-ui | 2026-11-24 |
+| [`fcp-fd-comms`](https://github.com/uk-gov-mirror/defra.fcp-fd-comms) |  | 2026-11-24 |
+| [`fcp-find-ai-frontend`](https://github.com/uk-gov-mirror/defra.fcp-find-ai-frontend) | FIND AI Frontend | 2026-11-24 |
+| [`fcp-hello-world`](https://github.com/uk-gov-mirror/defra.fcp-hello-world) | Git repository for service fcp-hello-world | 2026-11-24 |
+| [`ffc-ahwr-application`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-application) | FFC AHWR applications | 2026-11-24 |
+| [`ffc-ahwr-backoffice`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-backoffice) | Backoffice for AHWR Vet Visits | 2026-11-24 |
+| [`ffc-ahwr-dashboard`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-dashboard) |  | 2026-11-24 |
+| [`ffc-ahwr-eligibility`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-eligibility) | FFC AHWR Vet Visits eligibility | 2026-11-24 |
+| [`ffc-ahwr-farmer-apply`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-farmer-apply) |  | 2026-11-24 |
+| [`ffc-ahwr-farmer-claim`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-farmer-claim) |  | 2026-11-24 |
+| [`ffc-ahwr-message-generator`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-message-generator) |  | 2026-11-24 |
+| [`ffc-ahwr-payment`](https://github.com/uk-gov-mirror/defra.ffc-ahwr-payment) |  | 2026-11-24 |
+| [`ffc-demo-user-service`](https://github.com/uk-gov-mirror/defra.ffc-demo-user-service) | FFC demo user service | 2026-11-24 |
+| [`ffc-elm-compliance`](https://github.com/uk-gov-mirror/defra.ffc-elm-compliance) |  | 2026-11-24 |
+| [`ffc-ffd-graphql-poc`](https://github.com/uk-gov-mirror/defra.ffc-ffd-graphql-poc) |  | 2026-11-24 |
+| [`ffc-future-grants-apply`](https://github.com/uk-gov-mirror/defra.ffc-future-grants-apply) |  | 2026-11-24 |
+| [`ffc-future-grants-tech-evaluation`](https://github.com/uk-gov-mirror/defra.ffc-future-grants-tech-evaluation) |  | 2026-11-24 |
+| [`ffc-mpdp-backend`](https://github.com/uk-gov-mirror/defra.ffc-mpdp-backend) | Making Payment Data Public | 2026-11-24 |
+| [`ffc-mpdp-frontend`](https://github.com/uk-gov-mirror/defra.ffc-mpdp-frontend) |  | 2026-11-24 |
+| [`ffc-pay-payment-filter-migration-scripts`](https://github.com/uk-gov-mirror/defra.ffc-pay-payment-filter-migration-scripts) |  | 2026-11-24 |
+| [`ffc-pay-statement-publisher`](https://github.com/uk-gov-mirror/defra.ffc-pay-statement-publisher) | Publish payment statements | 2026-11-24 |
+| [`ffc-pay-statement-web`](https://github.com/uk-gov-mirror/defra.ffc-pay-statement-web) | Allow internal users to view generated statements | 2026-11-24 |
+| [`ffc-payment-integrations`](https://github.com/uk-gov-mirror/defra.ffc-payment-integrations) |  | 2026-11-24 |
+| [`ffc-payment-statement-integrations`](https://github.com/uk-gov-mirror/defra.ffc-payment-statement-integrations) | Logic Apps to integrate payment services with Dynamics 365 | 2026-11-24 |
+| [`ffc-sfd-crm`](https://github.com/uk-gov-mirror/defra.ffc-sfd-crm) | Passes information from single front door into CRM | 2026-11-24 |
+| [`ffc-sfd-customer-receiver-queries`](https://github.com/uk-gov-mirror/defra.ffc-sfd-customer-receiver-queries) | Single Front Door customer receiver microservice for queries. | 2026-11-24 |
+| [`ffc-sfd-experiment-ui`](https://github.com/uk-gov-mirror/defra.ffc-sfd-experiment-ui) |  | 2026-11-24 |
+| [`ffc-sfi-agreement-calculator`](https://github.com/uk-gov-mirror/defra.ffc-sfi-agreement-calculator) | FFC SFI agreement calculator | 2026-11-24 |
+| [`ffc-sfi-api-gateway`](https://github.com/uk-gov-mirror/defra.ffc-sfi-api-gateway) | Crown Hosting API Gateway | 2026-11-24 |
+| [`ffc-sfi-apply-web`](https://github.com/uk-gov-mirror/defra.ffc-sfi-apply-web) | FFC Apply for SFI web front end | 2026-11-24 |
+| [`ffc-sgs-admin`](https://github.com/uk-gov-mirror/defra.ffc-sgs-admin) |  | 2026-11-24 |
+| [`ffc-sgs-crm-transform-func`](https://github.com/uk-gov-mirror/defra.ffc-sgs-crm-transform-func) |  | 2026-11-24 |
+| [`ffc-sgs-frontend`](https://github.com/uk-gov-mirror/defra.ffc-sgs-frontend) |  | 2026-11-24 |
+| [`ffc-techspike-authentication`](https://github.com/uk-gov-mirror/defra.ffc-techspike-authentication) |  | 2026-11-24 |
+| [`ffc-techspike-customer-registry`](https://github.com/uk-gov-mirror/defra.ffc-techspike-customer-registry) | A tech spike looking at an enhanced customer datastore | 2026-11-24 |
+| [`ffc-techspike-customer-registry-eligibility`](https://github.com/uk-gov-mirror/defra.ffc-techspike-customer-registry-eligibility) |  | 2026-11-24 |
+| [`ffd-country-profiles`](https://github.com/uk-gov-mirror/defra.ffd-country-profiles) | FFD country profiles | 2026-11-24 |
+| [`flood-xws-alert-web`](https://github.com/uk-gov-mirror/defra.flood-xws-alert-web) |  | 2026-11-24 |
+| [`flood-xws-common`](https://github.com/uk-gov-mirror/defra.flood-xws-common) |  | 2026-11-24 |
+| [`flood-xws-notification-resources`](https://github.com/uk-gov-mirror/defra.flood-xws-notification-resources) |  | 2026-11-24 |
+| [`flood-xws-resources`](https://github.com/uk-gov-mirror/defra.flood-xws-resources) | flood-xws-resources | 2026-11-24 |
+| [`flood-xws-subscription-api`](https://github.com/uk-gov-mirror/defra.flood-xws-subscription-api) |  | 2026-11-24 |
+| [`forms-grants-frontend`](https://github.com/uk-gov-mirror/defra.forms-grants-frontend) | Git repository for service forms-grants-frontend | 2026-11-24 |
+| [`identity-demo`](https://github.com/uk-gov-mirror/defra.identity-demo) |  | 2026-11-24 |
+| [`international-waste-shipments-frontend-training`](https://github.com/uk-gov-mirror/defra.international-waste-shipments-frontend-training) |  | 2026-11-24 |
+| [`international-waste-shipments-training`](https://github.com/uk-gov-mirror/defra.international-waste-shipments-training) |  | 2026-11-24 |
+| [`ivory-acceptance-tests`](https://github.com/uk-gov-mirror/defra.ivory-acceptance-tests) |  | 2026-11-24 |
+| [`ivory-test`](https://github.com/uk-gov-mirror/defra.ivory-test) |  | 2026-11-24 |
+| [`jaqu-caz-psr-alpha`](https://github.com/uk-gov-mirror/defra.jaqu-caz-psr-alpha) | Front-end HTML prototype code for the Clean Air Zones Payments, Settlement and Reconciliation product | 2026-11-24 |
+| [`keeper-data-bridge-tests`](https://github.com/uk-gov-mirror/defra.keeper-data-bridge-tests) | Git repository for service keeper-data-bridge-tests | 2026-11-24 |
+| [`marine-licensing-backend-demo`](https://github.com/uk-gov-mirror/defra.marine-licensing-backend-demo) | Git repository for service marine-licensing-backend-demo | 2026-11-24 |
+| [`marine-licensing-frontend-demo`](https://github.com/uk-gov-mirror/defra.marine-licensing-frontend-demo) | Git repository for service marine-licensing-frontend-demo | 2026-11-24 |
+| [`mcu-hackathon-generator`](https://github.com/uk-gov-mirror/defra.mcu-hackathon-generator) |  | 2026-11-24 |
+| [`pafs-acceptance-tests`](https://github.com/uk-gov-mirror/defra.pafs-acceptance-tests) | Cucumber based acceptance tests for the Project Application and Funding service | 2026-11-24 |
+| [`permit-automation_tests_cypress_poc`](https://github.com/uk-gov-mirror/defra.permit-automation_tests_cypress_poc) |  | 2026-11-24 |
+| [`permit-poc`](https://github.com/uk-gov-mirror/defra.permit-poc) | A proof of concept for the permissions service with a decoupled architecture | 2026-11-24 |
+| [`ras-automation-backend`](https://github.com/uk-gov-mirror/defra.ras-automation-backend) | Git repository for service ras-automation-backend | 2026-11-24 |
+| [`rod-catch-returns-api`](https://github.com/uk-gov-mirror/defra.rod-catch-returns-api) | Spring Data Rest API for Rod Catch Returns | 2026-11-24 |
+| [`rod-licence-prototype`](https://github.com/uk-gov-mirror/defra.rod-licence-prototype) | Defra HAPI version of GOV Prototype Kit, used to test design of | 2026-11-24 |
+| [`rpa-mit-invoice-importer`](https://github.com/uk-gov-mirror/defra.rpa-mit-invoice-importer) |  | 2026-11-24 |
+| [`rpa-mit-payment`](https://github.com/uk-gov-mirror/defra.rpa-mit-payment) |  | 2026-11-24 |
+| [`rpa-mit-web`](https://github.com/uk-gov-mirror/defra.rpa-mit-web) |  | 2026-11-24 |
+| [`sroc-charging-module-api-docs`](https://github.com/uk-gov-mirror/defra.sroc-charging-module-api-docs) | OpenAPI spec for the Charging Module API service | 2026-11-24 |
+| [`stw-reference-data-alpha`](https://github.com/uk-gov-mirror/defra.stw-reference-data-alpha) |  | 2026-11-24 |
+| [`trade-imports-animals-tests`](https://github.com/uk-gov-mirror/defra.trade-imports-animals-tests) | Git repository for service trade-imports-animals-tests | 2026-11-24 |
+| [`trade-imports-animals-workspace`](https://github.com/uk-gov-mirror/defra.trade-imports-animals-workspace) |  | 2026-11-24 |
+| [`waste-carriers-service`](https://github.com/uk-gov-mirror/defra.waste-carriers-service) | Waste Carrier Registrations REST Services | 2026-11-24 |
+| [`waste-permits`](https://github.com/uk-gov-mirror/defra.waste-permits) | GOV.UK front end service built using Node.js for the Waste Permits service | 2026-11-24 |
+| [`waste-permits-acceptance-tests`](https://github.com/uk-gov-mirror/defra.waste-permits-acceptance-tests) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-11-24 |
+| [`waste-permits-handshake-poc`](https://github.com/uk-gov-mirror/defra.waste-permits-handshake-poc) | A proof of concept project focused on looking at a Node.js app talking to a Microsoft Dynamics install | 2026-11-24 |
+| [`wildlife-licencing-powerapps`](https://github.com/uk-gov-mirror/defra.wildlife-licencing-powerapps) | A repo for PowerApps snippets in relation to the wildlife licencing service (Part of SDDS) | 2026-11-24 |
+| [`wildlife-licencing-tests`](https://github.com/uk-gov-mirror/defra.wildlife-licencing-tests) | A repository for storing end-to-end tests (For regression testing of the wildlife licensing service, part of SDDS) | 2026-11-24 |
+| [`wts-front-office`](https://github.com/uk-gov-mirror/defra.wts-front-office) |  | 2026-11-24 |
+| [`wts-identity-app`](https://github.com/uk-gov-mirror/defra.wts-identity-app) |  | 2026-11-24 |
+| [`APHA-England-Gamma-Entry-Results`](https://github.com/uk-gov-mirror/defra.APHA-England-Gamma-Entry-Results) |  | 2026-11-19 |
+| [`APHA-Scottish-Poultry-Registrations`](https://github.com/uk-gov-mirror/defra.APHA-Scottish-Poultry-Registrations) |  | 2026-11-19 |
+| [`EA-Operation-Pascoe`](https://github.com/uk-gov-mirror/defra.EA-Operation-Pascoe) |  | 2026-11-19 |
+| [`EA-WIMS-data-rekeying`](https://github.com/uk-gov-mirror/defra.EA-WIMS-data-rekeying) |  | 2026-11-19 |
+| [`ea-wigan-waste-transfer-notes`](https://github.com/uk-gov-mirror/defra.ea-wigan-waste-transfer-notes) |  | 2026-11-19 |
+| [`fcp-dal-api-performance-test.replaced.2026-11-16`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-performance-test.replaced.2026-11-16) | Git repository for service fcp-dal-api-performance-test | 2026-11-17 |
+| [`fcp-dal-upstream-mock.replaced.2026-11-16`](https://github.com/uk-gov-mirror/defra.fcp-dal-upstream-mock.replaced.2026-11-16) | Git repository for service fcp-dal-upstream-mock | 2026-11-17 |
+| [`farming-grants-agreements-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14) | Git repository for service farming-grants-agreements-ui | 2026-11-14 |
+| [`fcp-dal-api-postdeployment-test.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14) | Git repository for service fcp-dal-api-postdeployment-test | 2026-11-14 |
+| [`fcp-dal-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api.replaced.2026-11-14) | Git repository for service fcp-dal-api | 2026-11-14 |
+| [`fcp-mel-file-service.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14) | Git repository for service fcp-mel-file-service | 2026-11-14 |
+| [`fg-cw-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14) | Git repository for service fg-cw-backend | 2026-11-14 |
+| [`fg-cw-frontend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-frontend.replaced.2026-11-14) | Git repository for service fg-cw-frontend | 2026-11-14 |
+| [`fg-gas-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-gas-backend.replaced.2026-11-14) | Git repository for service fg-gas-backend | 2026-11-14 |
+| [`fg-grants-platform-admin.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin.replaced.2026-11-14) | Git repository for service fg-grants-platform-admin | 2026-11-14 |
+| [`grants-config-example-grants.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants.replaced.2026-11-14) | Git repository for service grants-config-example-grants | 2026-11-14 |
+| [`grants-config-farm-payments.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments.replaced.2026-11-14) | Git repository for service grants-config-farm-payments | 2026-11-14 |
+| [`grants-config-grasslands.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands.replaced.2026-11-14) | Git repository for service grants-config-grasslands | 2026-11-14 |
+| [`grants-config-water-management.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-water-management.replaced.2026-11-14) | Git repository for service grants-config-water-management | 2026-11-14 |
+| [`grants-config-woodland.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-woodland.replaced.2026-11-14) | Git repository for service grants-config-woodland | 2026-11-14 |
+| [`grants-ui-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-backend.replaced.2026-11-14) | Git repository for service grants-ui-backend | 2026-11-14 |
+| [`grants-ui-grasslands-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests.replaced.2026-11-14) | Git repository for service grants-ui-grasslands-tests | 2026-11-14 |
+| [`grants-ui-performance-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests.replaced.2026-11-14) | Git repository for service grants-ui-performance-tests | 2026-11-14 |
+| [`grants-ui-woodland-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests.replaced.2026-11-14) | Git repository for service grants-ui-woodland-tests | 2026-11-14 |
+| [`grants-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui.replaced.2026-11-14) | Git repository for service grants-ui | 2026-11-14 |
+| [`land-grants-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.land-grants-api.replaced.2026-11-14) | Git repository for service land-grants-api | 2026-11-14 |
+| [`fcp-data-access-layer-api`](https://github.com/uk-gov-mirror/defra.fcp-data-access-layer-api) |  | 2026-11-07 |
+| [`lis-facade-api-backend`](https://github.com/uk-gov-mirror/defra.lis-facade-api-backend) | Git repository for service lis-facade-api-backend | 2026-11-07 |
+| [`waste-organisations-backend`](https://github.com/uk-gov-mirror/defra.waste-organisations-backend) | Git repository for service waste-organisations-backend | 2026-11-07 |
+| [`grants-config-land-grants.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27) | Git repository for service grants-config-land-grants | 2026-10-28 |
+| [`grants-payment-service.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27) | Git repository for service grants-payment-service | 2026-10-28 |
+| [`land-grants-api-tests.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27) | Git repository for service land-grants-api-tests | 2026-10-28 |
+| [`fcp-cv-frontend-performance-test`](https://github.com/uk-gov-mirror/defra.fcp-cv-frontend-performance-test) | Git repository for service fcp-cv-frontend-performance-test | 2026-10-27 |
+| [`fcp-cv-postdeployment-tests`](https://github.com/uk-gov-mirror/defra.fcp-cv-postdeployment-tests) | Git repository for service fcp-cv-postdeployment-tests | 2026-10-27 |
+| [`ffc-grants-acceptance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-acceptance-tests) | Git repository for service ffc-grants-acceptance-tests | 2026-10-27 |
+| [`ffc-grants-accessibility-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-accessibility-tests) | Git repository for service ffc-grants-accessibility-tests | 2026-10-27 |
+| [`ffc-grants-performance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-performance-tests) | Git repository for service ffc-grants-performance-tests | 2026-10-27 |
+| [`ffc-grants-scoring`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring) | Git repository for service ffc-grants-scoring | 2026-10-27 |
+| [`ffc-grants-scoring-accept-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-accept-tests) | Git repository for service ffc-grants-scoring-accept-tests | 2026-10-27 |
+| [`ffc-grants-scoring-perf-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-perf-tests) | Git repository for service ffc-grants-scoring-perf-tests | 2026-10-27 |
+| [`grant-config-example-grants`](https://github.com/uk-gov-mirror/defra.grant-config-example-grants) | Git repository for grant-config-example-grants | 2026-10-27 |
+| [`grant-config-woodland`](https://github.com/uk-gov-mirror/defra.grant-config-woodland) | Git repository for grant-config-woodland | 2026-10-27 |
+| [`grants-payment-service-tests`](https://github.com/uk-gov-mirror/defra.grants-payment-service-tests) | Git repository for service grants-payment-service-tests | 2026-10-27 |
+| [`grants-platform-e2e-tests`](https://github.com/uk-gov-mirror/defra.grants-platform-e2e-tests) | Git repository for service grants-platform-e2e-tests | 2026-10-27 |
+| [`grants-ui-acceptance-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-acceptance-tests) | Git repository for service grants-ui-acceptance-tests | 2026-10-27 |
+| [`grants-ui-accessibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-accessibility-tests) | Git repository for service grants-ui-accessibility-tests | 2026-10-27 |
+| [`grants-ui-backend-accept-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-backend-accept-tests) | Git repository for service grants-ui-backend-accept-tests | 2026-10-27 |
+| [`grants-ui-compatibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-compatibility-tests) | Git repository for service grants-ui-compatibility-tests | 2026-10-27 |
+| [`grants-ui-config-api`](https://github.com/uk-gov-mirror/defra.grants-ui-config-api) | Git repository for service grants-ui-config-api | 2026-10-27 |
+| [`grants-ui-gas-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-gas-stub) | Git repository for service grants-ui-gas-stub | 2026-10-27 |
+| [`grants-ui-smoke-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-smoke-tests) | Git repository for service grants-ui-smoke-tests | 2026-10-27 |
+| [`land-grants-journey-tests`](https://github.com/uk-gov-mirror/defra.land-grants-journey-tests) | Git repository for service land-grants-journey-tests | 2026-10-27 |
+| [`sfi-reform-service-e2e-tests`](https://github.com/uk-gov-mirror/defra.sfi-reform-service-e2e-tests) | Git repository for service sfi-reform-service-e2e-tests | 2026-10-27 |
+| [`woodland-grant-journey-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-journey-tests) | Git repository for service woodland-grant-journey-tests | 2026-10-27 |
+| [`woodland-grant-performance-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-performance-tests) | Git repository for service woodland-grant-performance-tests | 2026-10-27 |
+| [`grants-ui-dal-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-dal-stub) | Git repository for service grants-ui-dal-stub | 2026-10-23 |
+| [`water-abstraction-ava`](https://github.com/uk-gov-mirror/defra.water-abstraction-ava) | Investigate using the test framework AVA by the water-abstraction-team | 2026-10-21 |
+| [`water-abstraction-node-test`](https://github.com/uk-gov-mirror/defra.water-abstraction-node-test) | Investigate using the node test runner by the water-abstraction-team | 2026-10-21 |
+| [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
+| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
+| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
+| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
+| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
+| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
+| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
+| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
+| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
+| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
+| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
+| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
+| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
+| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
+| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
+| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
+| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
+| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
+| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
+| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
+| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
+| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
+| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
+
 ## [SkillsFundingAgency](https://github.com/SkillsFundingAgency) (155)
 
 | Repository | Description | Deleted On |
@@ -2628,92 +2825,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`egar-authentication-service`](https://github.com/uk-gov-mirror/UKHomeOffice.egar-authentication-service) | Electronic General Aviation - Authentication Service |  |
 | [`egar-parent`](https://github.com/uk-gov-mirror/UKHomeOffice.egar-parent) | Parent pom.xml file for project dependencies |  |
 | [`kube-pttg-euro-tlr-enquiry-form`](https://github.com/uk-gov-mirror/UKHomeOffice.kube-pttg-euro-tlr-enquiry-form) | Kube project for pttg-euro-tlr-enquiry-form |  |
-
-## [defra](https://github.com/defra) (81)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`APHA-England-Gamma-Entry-Results`](https://github.com/uk-gov-mirror/defra.APHA-England-Gamma-Entry-Results) |  | 2026-11-19 |
-| [`APHA-Scottish-Poultry-Registrations`](https://github.com/uk-gov-mirror/defra.APHA-Scottish-Poultry-Registrations) |  | 2026-11-19 |
-| [`EA-Operation-Pascoe`](https://github.com/uk-gov-mirror/defra.EA-Operation-Pascoe) |  | 2026-11-19 |
-| [`EA-WIMS-data-rekeying`](https://github.com/uk-gov-mirror/defra.EA-WIMS-data-rekeying) |  | 2026-11-19 |
-| [`ea-wigan-waste-transfer-notes`](https://github.com/uk-gov-mirror/defra.ea-wigan-waste-transfer-notes) |  | 2026-11-19 |
-| [`fcp-dal-api-performance-test.replaced.2026-11-16`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-performance-test.replaced.2026-11-16) | Git repository for service fcp-dal-api-performance-test | 2026-11-17 |
-| [`fcp-dal-upstream-mock.replaced.2026-11-16`](https://github.com/uk-gov-mirror/defra.fcp-dal-upstream-mock.replaced.2026-11-16) | Git repository for service fcp-dal-upstream-mock | 2026-11-17 |
-| [`farming-grants-agreements-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14) | Git repository for service farming-grants-agreements-ui | 2026-11-14 |
-| [`fcp-dal-api-postdeployment-test.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api-postdeployment-test.replaced.2026-11-14) | Git repository for service fcp-dal-api-postdeployment-test | 2026-11-14 |
-| [`fcp-dal-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-dal-api.replaced.2026-11-14) | Git repository for service fcp-dal-api | 2026-11-14 |
-| [`fcp-mel-file-service.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14) | Git repository for service fcp-mel-file-service | 2026-11-14 |
-| [`fg-cw-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14) | Git repository for service fg-cw-backend | 2026-11-14 |
-| [`fg-cw-frontend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-cw-frontend.replaced.2026-11-14) | Git repository for service fg-cw-frontend | 2026-11-14 |
-| [`fg-gas-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-gas-backend.replaced.2026-11-14) | Git repository for service fg-gas-backend | 2026-11-14 |
-| [`fg-grants-platform-admin.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.fg-grants-platform-admin.replaced.2026-11-14) | Git repository for service fg-grants-platform-admin | 2026-11-14 |
-| [`grants-config-example-grants.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-example-grants.replaced.2026-11-14) | Git repository for service grants-config-example-grants | 2026-11-14 |
-| [`grants-config-farm-payments.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-farm-payments.replaced.2026-11-14) | Git repository for service grants-config-farm-payments | 2026-11-14 |
-| [`grants-config-grasslands.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-grasslands.replaced.2026-11-14) | Git repository for service grants-config-grasslands | 2026-11-14 |
-| [`grants-config-water-management.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-water-management.replaced.2026-11-14) | Git repository for service grants-config-water-management | 2026-11-14 |
-| [`grants-config-woodland.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-config-woodland.replaced.2026-11-14) | Git repository for service grants-config-woodland | 2026-11-14 |
-| [`grants-ui-backend.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-backend.replaced.2026-11-14) | Git repository for service grants-ui-backend | 2026-11-14 |
-| [`grants-ui-grasslands-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-grasslands-tests.replaced.2026-11-14) | Git repository for service grants-ui-grasslands-tests | 2026-11-14 |
-| [`grants-ui-performance-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-performance-tests.replaced.2026-11-14) | Git repository for service grants-ui-performance-tests | 2026-11-14 |
-| [`grants-ui-woodland-tests.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui-woodland-tests.replaced.2026-11-14) | Git repository for service grants-ui-woodland-tests | 2026-11-14 |
-| [`grants-ui.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.grants-ui.replaced.2026-11-14) | Git repository for service grants-ui | 2026-11-14 |
-| [`land-grants-api.replaced.2026-11-14`](https://github.com/uk-gov-mirror/defra.land-grants-api.replaced.2026-11-14) | Git repository for service land-grants-api | 2026-11-14 |
-| [`fcp-data-access-layer-api`](https://github.com/uk-gov-mirror/defra.fcp-data-access-layer-api) |  | 2026-11-07 |
-| [`lis-facade-api-backend`](https://github.com/uk-gov-mirror/defra.lis-facade-api-backend) | Git repository for service lis-facade-api-backend | 2026-11-07 |
-| [`waste-organisations-backend`](https://github.com/uk-gov-mirror/defra.waste-organisations-backend) | Git repository for service waste-organisations-backend | 2026-11-07 |
-| [`grants-config-land-grants.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-config-land-grants.replaced.2026-10-27) | Git repository for service grants-config-land-grants | 2026-10-28 |
-| [`grants-payment-service.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.grants-payment-service.replaced.2026-10-27) | Git repository for service grants-payment-service | 2026-10-28 |
-| [`land-grants-api-tests.replaced.2026-10-27`](https://github.com/uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27) | Git repository for service land-grants-api-tests | 2026-10-28 |
-| [`fcp-cv-frontend-performance-test`](https://github.com/uk-gov-mirror/defra.fcp-cv-frontend-performance-test) | Git repository for service fcp-cv-frontend-performance-test | 2026-10-27 |
-| [`fcp-cv-postdeployment-tests`](https://github.com/uk-gov-mirror/defra.fcp-cv-postdeployment-tests) | Git repository for service fcp-cv-postdeployment-tests | 2026-10-27 |
-| [`ffc-grants-acceptance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-acceptance-tests) | Git repository for service ffc-grants-acceptance-tests | 2026-10-27 |
-| [`ffc-grants-accessibility-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-accessibility-tests) | Git repository for service ffc-grants-accessibility-tests | 2026-10-27 |
-| [`ffc-grants-performance-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-performance-tests) | Git repository for service ffc-grants-performance-tests | 2026-10-27 |
-| [`ffc-grants-scoring`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring) | Git repository for service ffc-grants-scoring | 2026-10-27 |
-| [`ffc-grants-scoring-accept-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-accept-tests) | Git repository for service ffc-grants-scoring-accept-tests | 2026-10-27 |
-| [`ffc-grants-scoring-perf-tests`](https://github.com/uk-gov-mirror/defra.ffc-grants-scoring-perf-tests) | Git repository for service ffc-grants-scoring-perf-tests | 2026-10-27 |
-| [`grant-config-example-grants`](https://github.com/uk-gov-mirror/defra.grant-config-example-grants) | Git repository for grant-config-example-grants | 2026-10-27 |
-| [`grant-config-woodland`](https://github.com/uk-gov-mirror/defra.grant-config-woodland) | Git repository for grant-config-woodland | 2026-10-27 |
-| [`grants-payment-service-tests`](https://github.com/uk-gov-mirror/defra.grants-payment-service-tests) | Git repository for service grants-payment-service-tests | 2026-10-27 |
-| [`grants-platform-e2e-tests`](https://github.com/uk-gov-mirror/defra.grants-platform-e2e-tests) | Git repository for service grants-platform-e2e-tests | 2026-10-27 |
-| [`grants-ui-acceptance-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-acceptance-tests) | Git repository for service grants-ui-acceptance-tests | 2026-10-27 |
-| [`grants-ui-accessibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-accessibility-tests) | Git repository for service grants-ui-accessibility-tests | 2026-10-27 |
-| [`grants-ui-backend-accept-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-backend-accept-tests) | Git repository for service grants-ui-backend-accept-tests | 2026-10-27 |
-| [`grants-ui-compatibility-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-compatibility-tests) | Git repository for service grants-ui-compatibility-tests | 2026-10-27 |
-| [`grants-ui-config-api`](https://github.com/uk-gov-mirror/defra.grants-ui-config-api) | Git repository for service grants-ui-config-api | 2026-10-27 |
-| [`grants-ui-gas-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-gas-stub) | Git repository for service grants-ui-gas-stub | 2026-10-27 |
-| [`grants-ui-smoke-tests`](https://github.com/uk-gov-mirror/defra.grants-ui-smoke-tests) | Git repository for service grants-ui-smoke-tests | 2026-10-27 |
-| [`land-grants-journey-tests`](https://github.com/uk-gov-mirror/defra.land-grants-journey-tests) | Git repository for service land-grants-journey-tests | 2026-10-27 |
-| [`sfi-reform-service-e2e-tests`](https://github.com/uk-gov-mirror/defra.sfi-reform-service-e2e-tests) | Git repository for service sfi-reform-service-e2e-tests | 2026-10-27 |
-| [`woodland-grant-journey-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-journey-tests) | Git repository for service woodland-grant-journey-tests | 2026-10-27 |
-| [`woodland-grant-performance-tests`](https://github.com/uk-gov-mirror/defra.woodland-grant-performance-tests) | Git repository for service woodland-grant-performance-tests | 2026-10-27 |
-| [`grants-ui-dal-stub`](https://github.com/uk-gov-mirror/defra.grants-ui-dal-stub) | Git repository for service grants-ui-dal-stub | 2026-10-23 |
-| [`water-abstraction-ava`](https://github.com/uk-gov-mirror/defra.water-abstraction-ava) | Investigate using the test framework AVA by the water-abstraction-team | 2026-10-21 |
-| [`water-abstraction-node-test`](https://github.com/uk-gov-mirror/defra.water-abstraction-node-test) | Investigate using the node test runner by the water-abstraction-team | 2026-10-21 |
-| [`digital-waste-tracking-api-docs`](https://github.com/uk-gov-mirror/defra.digital-waste-tracking-api-docs) | Git repository for Digital Waste Tracking API Documentation | 2026-10-14 |
-| [`waste-batteries-reg-backend.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02) | Git repository for service waste-batteries-reg-backend | 2026-09-03 |
-| [`waste-exemptions-acceptance-tests.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-acceptance-tests.replaced.2026-09-02) | Cucumber based acceptance tests for the Waste exemptions digital service | 2026-09-03 |
-| [`waste-exemptions-front-office.replaced.2026-09-02`](https://github.com/uk-gov-mirror/defra.waste-exemptions-front-office.replaced.2026-09-02) | The public facing Waste Exemptions service | 2026-09-03 |
-| [`waste-exemptions-back-office.replaced.2026-08-21`](https://github.com/uk-gov-mirror/defra.waste-exemptions-back-office.replaced.2026-08-21) | Provides back office functionality to the Waste exemptions service | 2026-08-21 |
-| [`water-abstraction-acceptance-tests.replaced.2026-08-20`](https://github.com/uk-gov-mirror/defra.water-abstraction-acceptance-tests.replaced.2026-08-20) | Cucumber based acceptance tests for the Water abstraction digital service | 2026-08-21 |
-| [`lis-taxonomy-status`](https://github.com/uk-gov-mirror/defra.lis-taxonomy-status) | Git repository for lis-taxonomy-status | 2026-08-19 |
-| [`DEFRA-Dangerous-Dogs-Index`](https://github.com/uk-gov-mirror/defra.DEFRA-Dangerous-Dogs-Index) |  | 2024-05-28* |
-| [`water-abstraction-reporting`](https://github.com/uk-gov-mirror/defra.water-abstraction-reporting) |  | 2023-02-12* |
-| [`water-abstraction-admin-ui`](https://github.com/uk-gov-mirror/defra.water-abstraction-admin-ui) | Water abstraction service admin user interface | 2021-11-26* |
-| [`dracoe`](https://github.com/uk-gov-mirror/defra.dracoe) | Digital Robotics Automation Centre of Excellence | 2021-07-16* |
-| [`rpa-future-farming-cross-compliance`](https://github.com/uk-gov-mirror/defra.rpa-future-farming-cross-compliance) |  | 2021-07-16* |
-| [`sroc-charging-service`](https://github.com/uk-gov-mirror/defra.sroc-charging-service) | Strategic Review Of Charging NodeJS Service | 2021-03-25* |
-| [`EA-Fleet-Reporting`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting) |  | 2021-03-23* |
-| [`charging-module-api`](https://github.com/uk-gov-mirror/defra.charging-module-api) | Charge calculation and transaction billing API | 2021-03-12* |
-| [`RPA-Bank-Change-Letter`](https://github.com/uk-gov-mirror/defra.RPA-Bank-Change-Letter) |  | 2021-02-26* |
-| [`sroc-cma-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-cma-acceptance-tests) | Postman based acceptance tests for the SROC Charging Module API service | 2021-02-01* |
-| [`sroc-tcm-acceptance-tests`](https://github.com/uk-gov-mirror/defra.sroc-tcm-acceptance-tests) | Temporary home for Selenium based acceptance tests for SROC TCM service | 2021-01-18* |
-| [`water`](https://github.com/uk-gov-mirror/defra.water) | Water Resources Licensing | 2021-01-05* |
-| [`EA-Fleet-Reporting-1`](https://github.com/uk-gov-mirror/defra.EA-Fleet-Reporting-1) |  | 2020-12-16* |
-| [`EA-Waste-Tonnage-Returns`](https://github.com/uk-gov-mirror/defra.EA-Waste-Tonnage-Returns) |  | 2020-10-30* |
-| [`water-abstraction-conditions`](https://github.com/uk-gov-mirror/defra.water-abstraction-conditions) | A prototype to test options for a maximum quantities calculator for water abstraction licences | 2020-10-29* |
-| [`sroc-performance-tests`](https://github.com/uk-gov-mirror/defra.sroc-performance-tests) | Performance and automated tests for the SRoC charging module service | 2020-09-17* |
 
 ## [moj-analytical-services](https://github.com/moj-analytical-services) (65)
 
@@ -3190,10 +3301,13 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
 
-## [CPS-Innovation](https://github.com/CPS-Innovation) (35)
+## [CPS-Innovation](https://github.com/CPS-Innovation) (38)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`CPS-E2E-Test-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation) |  | 2026-11-24 |
+| [`casework-app`](https://github.com/uk-gov-mirror/CPS-Innovation.casework-app) | Merging Housekeeping and Casework app | 2026-11-24 |
+| [`djb-infrastructure-terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform) | djb-infrastructure-terraform | 2026-11-24 |
 | [`cps-api-collection`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-api-collection) | CPS API collection for API testing | 2026-11-23 |
 | [`CPS-Centralised-Reusable-Workflows`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows) |  | 2026-11-21 |
 | [`Case-Management`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management) | To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle. | 2026-11-21 |

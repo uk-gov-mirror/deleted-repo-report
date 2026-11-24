@@ -173,6 +173,16 @@
     "original_url": "https://github.com/CPS-Innovation/CPS-Centralised-Reusable-Workflows"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation",
+    "mirror_name": "CPS-Innovation.CPS-E2E-Test-Automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation",
+    "name": "CPS-E2E-Test-Automation",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/CPS-E2E-Test-Automation"
+  },
+  {
     "deleted_on": "2026-11-20",
     "description": "Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians",
     "full_name": "uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype",
@@ -335,6 +345,16 @@
     "original_url": "https://github.com/CPS-Innovation/case-locking-prototype"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "Merging Housekeeping and Casework app",
+    "full_name": "uk-gov-mirror/CPS-Innovation.casework-app",
+    "mirror_name": "CPS-Innovation.casework-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.casework-app",
+    "name": "casework-app",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/casework-app"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "court scheduling and rotas",
     "full_name": "uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype",
@@ -363,6 +383,16 @@
     "name": "cps-design-resources",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/cps-design-resources"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "djb-infrastructure-terraform",
+    "full_name": "uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform",
+    "mirror_name": "CPS-Innovation.djb-infrastructure-terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform",
+    "name": "djb-infrastructure-terraform",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/djb-infrastructure-terraform"
   },
   {
     "deleted_on": "2026-11-19",
@@ -7248,6 +7278,16 @@
     "name": "dp-zebedee-cli",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-zebedee-cli"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-zebedee-content",
+    "mirror_name": "ONSdigital.dp-zebedee-content",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-zebedee-content",
+    "name": "dp-zebedee-content",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-zebedee-content"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17696,6 +17736,16 @@
     "original_url": "https://github.com/defra/DEFRA-Dangerous-Dogs-Index"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.Defra-SOP5",
+    "mirror_name": "defra.Defra-SOP5",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.Defra-SOP5",
+    "name": "Defra-SOP5",
+    "org": "defra",
+    "original_url": "https://github.com/defra/Defra-SOP5"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-03-23",
     "description": null,
@@ -17749,6 +17799,16 @@
     "original_url": "https://github.com/defra/EA-Waste-Tonnage-Returns"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "Repo for EAPC",
+    "full_name": "uk-gov-mirror/defra.EAPC",
+    "mirror_name": "defra.EAPC",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.EAPC",
+    "name": "EAPC",
+    "org": "defra",
+    "original_url": "https://github.com/defra/EAPC"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-02-26",
     "description": null,
@@ -17758,6 +17818,106 @@
     "name": "RPA-Bank-Change-Letter",
     "org": "defra",
     "original_url": "https://github.com/defra/RPA-Bank-Change-Letter"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service ai-defra-search-data",
+    "full_name": "uk-gov-mirror/defra.ai-defra-search-data",
+    "mirror_name": "defra.ai-defra-search-data",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ai-defra-search-data",
+    "name": "ai-defra-search-data",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ai-defra-search-data"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service ai-legacy-backend",
+    "full_name": "uk-gov-mirror/defra.ai-legacy-backend",
+    "mirror_name": "defra.ai-legacy-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ai-legacy-backend",
+    "name": "ai-legacy-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ai-legacy-backend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service ai-legacy-frontend",
+    "full_name": "uk-gov-mirror/defra.ai-legacy-frontend",
+    "mirror_name": "defra.ai-legacy-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ai-legacy-frontend",
+    "name": "ai-legacy-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ai-legacy-frontend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Automated regression testing for the AIMS Upgrade project",
+    "full_name": "uk-gov-mirror/defra.aims-upgrade-test-automation",
+    "mirror_name": "defra.aims-upgrade-test-automation",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aims-upgrade-test-automation",
+    "name": "aims-upgrade-test-automation",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aims-upgrade-test-automation"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Animal Disease Testing Service",
+    "full_name": "uk-gov-mirror/defra.animal-disease-testing",
+    "mirror_name": "defra.animal-disease-testing",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.animal-disease-testing",
+    "name": "animal-disease-testing",
+    "org": "defra",
+    "original_url": "https://github.com/defra/animal-disease-testing"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service apha-integration-apoc-jny-tests",
+    "full_name": "uk-gov-mirror/defra.apha-integration-apoc-jny-tests",
+    "mirror_name": "defra.apha-integration-apoc-jny-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.apha-integration-apoc-jny-tests",
+    "name": "apha-integration-apoc-jny-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/apha-integration-apoc-jny-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.bng-integration-credits",
+    "mirror_name": "defra.bng-integration-credits",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.bng-integration-credits",
+    "name": "bng-integration-credits",
+    "org": "defra",
+    "original_url": "https://github.com/defra/bng-integration-credits"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service btms-backend-stub",
+    "full_name": "uk-gov-mirror/defra.btms-backend-stub",
+    "mirror_name": "defra.btms-backend-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.btms-backend-stub",
+    "name": "btms-backend-stub",
+    "org": "defra",
+    "original_url": "https://github.com/defra/btms-backend-stub"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Prototype to design and test improvements to the rod catch returns service",
+    "full_name": "uk-gov-mirror/defra.catch-returns-prototype",
+    "mirror_name": "defra.catch-returns-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.catch-returns-prototype",
+    "name": "catch-returns-prototype",
+    "org": "defra",
+    "original_url": "https://github.com/defra/catch-returns-prototype"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service cdms-backend",
+    "full_name": "uk-gov-mirror/defra.cdms-backend",
+    "mirror_name": "defra.cdms-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.cdms-backend",
+    "name": "cdms-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/cdms-backend"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17771,6 +17931,136 @@
     "original_url": "https://github.com/defra/charging-module-api"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.chemicals-audit",
+    "mirror_name": "defra.chemicals-audit",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.chemicals-audit",
+    "name": "chemicals-audit",
+    "org": "defra",
+    "original_url": "https://github.com/defra/chemicals-audit"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.chemicals-dossier",
+    "mirror_name": "defra.chemicals-dossier",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.chemicals-dossier",
+    "name": "chemicals-dossier",
+    "org": "defra",
+    "original_url": "https://github.com/defra/chemicals-dossier"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.chemicals-nipnots",
+    "mirror_name": "defra.chemicals-nipnots",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.chemicals-nipnots",
+    "name": "chemicals-nipnots",
+    "org": "defra",
+    "original_url": "https://github.com/defra/chemicals-nipnots"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.chemicals-notify",
+    "mirror_name": "defra.chemicals-notify",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.chemicals-notify",
+    "name": "chemicals-notify",
+    "org": "defra",
+    "original_url": "https://github.com/defra/chemicals-notify"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Web layer components for the Clean Air Zone solution",
+    "full_name": "uk-gov-mirror/defra.clean-air-zones-web",
+    "mirror_name": "defra.clean-air-zones-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.clean-air-zones-web",
+    "name": "clean-air-zones-web",
+    "org": "defra",
+    "original_url": "https://github.com/defra/clean-air-zones-web"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service cleanse",
+    "full_name": "uk-gov-mirror/defra.cleanse",
+    "mirror_name": "defra.cleanse",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.cleanse",
+    "name": "cleanse",
+    "org": "defra",
+    "original_url": "https://github.com/defra/cleanse"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.core-ai-techspike-hackathon",
+    "mirror_name": "defra.core-ai-techspike-hackathon",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.core-ai-techspike-hackathon",
+    "name": "core-ai-techspike-hackathon",
+    "org": "defra",
+    "original_url": "https://github.com/defra/core-ai-techspike-hackathon"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.crai-techspike-data-evalutions",
+    "mirror_name": "defra.crai-techspike-data-evalutions",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.crai-techspike-data-evalutions",
+    "name": "crai-techspike-data-evalutions",
+    "org": "defra",
+    "original_url": "https://github.com/defra/crai-techspike-data-evalutions"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Dashboard template",
+    "full_name": "uk-gov-mirror/defra.dashboard-template",
+    "mirror_name": "defra.dashboard-template",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.dashboard-template",
+    "name": "dashboard-template",
+    "org": "defra",
+    "original_url": "https://github.com/defra/dashboard-template"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Acceptance tests for the Data Returns digital service",
+    "full_name": "uk-gov-mirror/defra.data-returns-acceptance-tests",
+    "mirror_name": "defra.data-returns-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.data-returns-acceptance-tests",
+    "name": "data-returns-acceptance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/data-returns-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Data Returns Backend Service",
+    "full_name": "uk-gov-mirror/defra.data-returns-data-exchange",
+    "mirror_name": "defra.data-returns-data-exchange",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.data-returns-data-exchange",
+    "name": "data-returns-data-exchange",
+    "org": "defra",
+    "original_url": "https://github.com/defra/data-returns-data-exchange"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "GOV.uk web interface to support the upload and validation of Data Exchange Protocol (DEP) compliant data returns",
+    "full_name": "uk-gov-mirror/defra.data-returns-frontend",
+    "mirror_name": "defra.data-returns-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.data-returns-frontend",
+    "name": "data-returns-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/data-returns-frontend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Web service for the submission of PI returns",
+    "full_name": "uk-gov-mirror/defra.data-returns-pi-frontend",
+    "mirror_name": "defra.data-returns-pi-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.data-returns-pi-frontend",
+    "name": "data-returns-pi-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/data-returns-pi-frontend"
+  },
+  {
     "deleted_on": "2026-10-14",
     "description": "Git repository for Digital Waste Tracking API Documentation",
     "full_name": "uk-gov-mirror/defra.digital-waste-tracking-api-docs",
@@ -17779,6 +18069,16 @@
     "name": "digital-waste-tracking-api-docs",
     "org": "defra",
     "original_url": "https://github.com/defra/digital-waste-tracking-api-docs"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.document-management-system-prototype",
+    "mirror_name": "defra.document-management-system-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.document-management-system-prototype",
+    "name": "document-management-system-prototype",
+    "org": "defra",
+    "original_url": "https://github.com/defra/document-management-system-prototype"
   },
   {
     "approximate_date_source": "archive.org-gh-org",
@@ -17802,6 +18102,106 @@
     "original_url": "https://github.com/defra/ea-wigan-waste-transfer-notes"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "Prototypes for the Environment Land Management service.",
+    "full_name": "uk-gov-mirror/defra.elm-prototype",
+    "mirror_name": "defra.elm-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.elm-prototype",
+    "name": "elm-prototype",
+    "org": "defra",
+    "original_url": "https://github.com/defra/elm-prototype"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Front facing online application for Apply for an environmental permit. Rebuild into the new GOV Design System.",
+    "full_name": "uk-gov-mirror/defra.environmental-permit-prototype",
+    "mirror_name": "defra.environmental-permit-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.environmental-permit-prototype",
+    "name": "environmental-permit-prototype",
+    "org": "defra",
+    "original_url": "https://github.com/defra/environmental-permit-prototype"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service epr-backend-journey-tests",
+    "full_name": "uk-gov-mirror/defra.epr-backend-journey-tests",
+    "mirror_name": "defra.epr-backend-journey-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-backend-journey-tests",
+    "name": "epr-backend-journey-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-backend-journey-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service epr-backend-performance-tests",
+    "full_name": "uk-gov-mirror/defra.epr-backend-performance-tests",
+    "mirror_name": "defra.epr-backend-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-backend-performance-tests",
+    "name": "epr-backend-performance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-backend-performance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service epr-frontend-journey-tests",
+    "full_name": "uk-gov-mirror/defra.epr-frontend-journey-tests",
+    "mirror_name": "defra.epr-frontend-journey-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-frontend-journey-tests",
+    "name": "epr-frontend-journey-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-frontend-journey-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service epr-frontend-performance-tests",
+    "full_name": "uk-gov-mirror/defra.epr-frontend-performance-tests",
+    "mirror_name": "defra.epr-frontend-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-frontend-performance-tests",
+    "name": "epr-frontend-performance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-frontend-performance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "This repository contains the code for the frontend of the PRN Accreditation domain for Extended Producer Responsibility for Packaging (EPR).",
+    "full_name": "uk-gov-mirror/defra.epr-prn-accreditation-front-end",
+    "mirror_name": "defra.epr-prn-accreditation-front-end",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-prn-accreditation-front-end",
+    "name": "epr-prn-accreditation-front-end",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-prn-accreditation-front-end"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service epr-re-ex-admin-frontend-tests",
+    "full_name": "uk-gov-mirror/defra.epr-re-ex-admin-frontend-tests",
+    "mirror_name": "defra.epr-re-ex-admin-frontend-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-re-ex-admin-frontend-tests",
+    "name": "epr-re-ex-admin-frontend-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-re-ex-admin-frontend-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.epr-rpd-performance-tests",
+    "mirror_name": "defra.epr-rpd-performance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-rpd-performance-tests",
+    "name": "epr-rpd-performance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-rpd-performance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.epr-ui-wdio",
+    "mirror_name": "defra.epr-ui-wdio",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.epr-ui-wdio",
+    "name": "epr-ui-wdio",
+    "org": "defra",
+    "original_url": "https://github.com/defra/epr-ui-wdio"
+  },
+  {
     "deleted_on": "2026-11-14",
     "description": "Git repository for service farming-grants-agreements-ui",
     "full_name": "uk-gov-mirror/defra.farming-grants-agreements-ui.replaced.2026-11-14",
@@ -17810,6 +18210,16 @@
     "name": "farming-grants-agreements-ui.replaced.2026-11-14",
     "org": "defra",
     "original_url": "https://github.com/defra/farming-grants-agreements-ui.replaced.2026-11-14"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service farming-grants-ui",
+    "full_name": "uk-gov-mirror/defra.farming-grants-ui",
+    "mirror_name": "defra.farming-grants-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.farming-grants-ui",
+    "name": "farming-grants-ui",
+    "org": "defra",
+    "original_url": "https://github.com/defra/farming-grants-ui"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17882,6 +18292,36 @@
     "original_url": "https://github.com/defra/fcp-data-access-layer-api"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.fcp-fd-comms",
+    "mirror_name": "defra.fcp-fd-comms",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-fd-comms",
+    "name": "fcp-fd-comms",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-fd-comms"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FIND AI Frontend",
+    "full_name": "uk-gov-mirror/defra.fcp-find-ai-frontend",
+    "mirror_name": "defra.fcp-find-ai-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-find-ai-frontend",
+    "name": "fcp-find-ai-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-find-ai-frontend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service fcp-hello-world",
+    "full_name": "uk-gov-mirror/defra.fcp-hello-world",
+    "mirror_name": "defra.fcp-hello-world",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.fcp-hello-world",
+    "name": "fcp-hello-world",
+    "org": "defra",
+    "original_url": "https://github.com/defra/fcp-hello-world"
+  },
+  {
     "deleted_on": "2026-11-14",
     "description": "Git repository for service fcp-mel-file-service",
     "full_name": "uk-gov-mirror/defra.fcp-mel-file-service.replaced.2026-11-14",
@@ -17890,6 +18330,136 @@
     "name": "fcp-mel-file-service.replaced.2026-11-14",
     "org": "defra",
     "original_url": "https://github.com/defra/fcp-mel-file-service.replaced.2026-11-14"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFC AHWR applications",
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-application",
+    "mirror_name": "defra.ffc-ahwr-application",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-application",
+    "name": "ffc-ahwr-application",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-application"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Backoffice for AHWR Vet Visits",
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-backoffice",
+    "mirror_name": "defra.ffc-ahwr-backoffice",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-backoffice",
+    "name": "ffc-ahwr-backoffice",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-backoffice"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-dashboard",
+    "mirror_name": "defra.ffc-ahwr-dashboard",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-dashboard",
+    "name": "ffc-ahwr-dashboard",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-dashboard"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFC AHWR Vet Visits eligibility",
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-eligibility",
+    "mirror_name": "defra.ffc-ahwr-eligibility",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-eligibility",
+    "name": "ffc-ahwr-eligibility",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-eligibility"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-farmer-apply",
+    "mirror_name": "defra.ffc-ahwr-farmer-apply",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-farmer-apply",
+    "name": "ffc-ahwr-farmer-apply",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-farmer-apply"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-farmer-claim",
+    "mirror_name": "defra.ffc-ahwr-farmer-claim",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-farmer-claim",
+    "name": "ffc-ahwr-farmer-claim",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-farmer-claim"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-message-generator",
+    "mirror_name": "defra.ffc-ahwr-message-generator",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-message-generator",
+    "name": "ffc-ahwr-message-generator",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-message-generator"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ahwr-payment",
+    "mirror_name": "defra.ffc-ahwr-payment",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ahwr-payment",
+    "name": "ffc-ahwr-payment",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ahwr-payment"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFC demo user service",
+    "full_name": "uk-gov-mirror/defra.ffc-demo-user-service",
+    "mirror_name": "defra.ffc-demo-user-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-demo-user-service",
+    "name": "ffc-demo-user-service",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-demo-user-service"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-elm-compliance",
+    "mirror_name": "defra.ffc-elm-compliance",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-elm-compliance",
+    "name": "ffc-elm-compliance",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-elm-compliance"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-ffd-graphql-poc",
+    "mirror_name": "defra.ffc-ffd-graphql-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-ffd-graphql-poc",
+    "name": "ffc-ffd-graphql-poc",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-ffd-graphql-poc"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-future-grants-apply",
+    "mirror_name": "defra.ffc-future-grants-apply",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-future-grants-apply",
+    "name": "ffc-future-grants-apply",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-future-grants-apply"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-future-grants-tech-evaluation",
+    "mirror_name": "defra.ffc-future-grants-tech-evaluation",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-future-grants-tech-evaluation",
+    "name": "ffc-future-grants-tech-evaluation",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-future-grants-tech-evaluation"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17952,6 +18522,206 @@
     "original_url": "https://github.com/defra/ffc-grants-scoring-perf-tests"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "Making Payment Data Public",
+    "full_name": "uk-gov-mirror/defra.ffc-mpdp-backend",
+    "mirror_name": "defra.ffc-mpdp-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-mpdp-backend",
+    "name": "ffc-mpdp-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-mpdp-backend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-mpdp-frontend",
+    "mirror_name": "defra.ffc-mpdp-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-mpdp-frontend",
+    "name": "ffc-mpdp-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-mpdp-frontend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-pay-payment-filter-migration-scripts",
+    "mirror_name": "defra.ffc-pay-payment-filter-migration-scripts",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-pay-payment-filter-migration-scripts",
+    "name": "ffc-pay-payment-filter-migration-scripts",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-pay-payment-filter-migration-scripts"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Publish payment statements",
+    "full_name": "uk-gov-mirror/defra.ffc-pay-statement-publisher",
+    "mirror_name": "defra.ffc-pay-statement-publisher",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-pay-statement-publisher",
+    "name": "ffc-pay-statement-publisher",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-pay-statement-publisher"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Allow internal users to view generated statements",
+    "full_name": "uk-gov-mirror/defra.ffc-pay-statement-web",
+    "mirror_name": "defra.ffc-pay-statement-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-pay-statement-web",
+    "name": "ffc-pay-statement-web",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-pay-statement-web"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-payment-integrations",
+    "mirror_name": "defra.ffc-payment-integrations",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-payment-integrations",
+    "name": "ffc-payment-integrations",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-payment-integrations"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Logic Apps to integrate payment services with Dynamics 365",
+    "full_name": "uk-gov-mirror/defra.ffc-payment-statement-integrations",
+    "mirror_name": "defra.ffc-payment-statement-integrations",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-payment-statement-integrations",
+    "name": "ffc-payment-statement-integrations",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-payment-statement-integrations"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Passes information from single front door into CRM",
+    "full_name": "uk-gov-mirror/defra.ffc-sfd-crm",
+    "mirror_name": "defra.ffc-sfd-crm",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfd-crm",
+    "name": "ffc-sfd-crm",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfd-crm"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Single Front Door customer receiver microservice for queries.",
+    "full_name": "uk-gov-mirror/defra.ffc-sfd-customer-receiver-queries",
+    "mirror_name": "defra.ffc-sfd-customer-receiver-queries",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfd-customer-receiver-queries",
+    "name": "ffc-sfd-customer-receiver-queries",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfd-customer-receiver-queries"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-sfd-experiment-ui",
+    "mirror_name": "defra.ffc-sfd-experiment-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfd-experiment-ui",
+    "name": "ffc-sfd-experiment-ui",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfd-experiment-ui"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFC SFI agreement calculator",
+    "full_name": "uk-gov-mirror/defra.ffc-sfi-agreement-calculator",
+    "mirror_name": "defra.ffc-sfi-agreement-calculator",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfi-agreement-calculator",
+    "name": "ffc-sfi-agreement-calculator",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfi-agreement-calculator"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Crown Hosting API Gateway",
+    "full_name": "uk-gov-mirror/defra.ffc-sfi-api-gateway",
+    "mirror_name": "defra.ffc-sfi-api-gateway",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfi-api-gateway",
+    "name": "ffc-sfi-api-gateway",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfi-api-gateway"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFC Apply for SFI web front end",
+    "full_name": "uk-gov-mirror/defra.ffc-sfi-apply-web",
+    "mirror_name": "defra.ffc-sfi-apply-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sfi-apply-web",
+    "name": "ffc-sfi-apply-web",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sfi-apply-web"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-sgs-admin",
+    "mirror_name": "defra.ffc-sgs-admin",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sgs-admin",
+    "name": "ffc-sgs-admin",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sgs-admin"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-sgs-crm-transform-func",
+    "mirror_name": "defra.ffc-sgs-crm-transform-func",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sgs-crm-transform-func",
+    "name": "ffc-sgs-crm-transform-func",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sgs-crm-transform-func"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-sgs-frontend",
+    "mirror_name": "defra.ffc-sgs-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-sgs-frontend",
+    "name": "ffc-sgs-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-sgs-frontend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-techspike-authentication",
+    "mirror_name": "defra.ffc-techspike-authentication",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-techspike-authentication",
+    "name": "ffc-techspike-authentication",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-techspike-authentication"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "A tech spike looking at an enhanced customer datastore",
+    "full_name": "uk-gov-mirror/defra.ffc-techspike-customer-registry",
+    "mirror_name": "defra.ffc-techspike-customer-registry",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-techspike-customer-registry",
+    "name": "ffc-techspike-customer-registry",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-techspike-customer-registry"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ffc-techspike-customer-registry-eligibility",
+    "mirror_name": "defra.ffc-techspike-customer-registry-eligibility",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffc-techspike-customer-registry-eligibility",
+    "name": "ffc-techspike-customer-registry-eligibility",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffc-techspike-customer-registry-eligibility"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "FFD country profiles",
+    "full_name": "uk-gov-mirror/defra.ffd-country-profiles",
+    "mirror_name": "defra.ffd-country-profiles",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ffd-country-profiles",
+    "name": "ffd-country-profiles",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ffd-country-profiles"
+  },
+  {
     "deleted_on": "2026-11-14",
     "description": "Git repository for service fg-cw-backend",
     "full_name": "uk-gov-mirror/defra.fg-cw-backend.replaced.2026-11-14",
@@ -17990,6 +18760,66 @@
     "name": "fg-grants-platform-admin.replaced.2026-11-14",
     "org": "defra",
     "original_url": "https://github.com/defra/fg-grants-platform-admin.replaced.2026-11-14"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.flood-xws-alert-web",
+    "mirror_name": "defra.flood-xws-alert-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.flood-xws-alert-web",
+    "name": "flood-xws-alert-web",
+    "org": "defra",
+    "original_url": "https://github.com/defra/flood-xws-alert-web"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.flood-xws-common",
+    "mirror_name": "defra.flood-xws-common",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.flood-xws-common",
+    "name": "flood-xws-common",
+    "org": "defra",
+    "original_url": "https://github.com/defra/flood-xws-common"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.flood-xws-notification-resources",
+    "mirror_name": "defra.flood-xws-notification-resources",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.flood-xws-notification-resources",
+    "name": "flood-xws-notification-resources",
+    "org": "defra",
+    "original_url": "https://github.com/defra/flood-xws-notification-resources"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "flood-xws-resources",
+    "full_name": "uk-gov-mirror/defra.flood-xws-resources",
+    "mirror_name": "defra.flood-xws-resources",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.flood-xws-resources",
+    "name": "flood-xws-resources",
+    "org": "defra",
+    "original_url": "https://github.com/defra/flood-xws-resources"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.flood-xws-subscription-api",
+    "mirror_name": "defra.flood-xws-subscription-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.flood-xws-subscription-api",
+    "name": "flood-xws-subscription-api",
+    "org": "defra",
+    "original_url": "https://github.com/defra/flood-xws-subscription-api"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service forms-grants-frontend",
+    "full_name": "uk-gov-mirror/defra.forms-grants-frontend",
+    "mirror_name": "defra.forms-grants-frontend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.forms-grants-frontend",
+    "name": "forms-grants-frontend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/forms-grants-frontend"
   },
   {
     "deleted_on": "2026-10-27",
@@ -18232,6 +19062,76 @@
     "original_url": "https://github.com/defra/grants-ui.replaced.2026-11-14"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.identity-demo",
+    "mirror_name": "defra.identity-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.identity-demo",
+    "name": "identity-demo",
+    "org": "defra",
+    "original_url": "https://github.com/defra/identity-demo"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.international-waste-shipments-frontend-training",
+    "mirror_name": "defra.international-waste-shipments-frontend-training",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.international-waste-shipments-frontend-training",
+    "name": "international-waste-shipments-frontend-training",
+    "org": "defra",
+    "original_url": "https://github.com/defra/international-waste-shipments-frontend-training"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.international-waste-shipments-training",
+    "mirror_name": "defra.international-waste-shipments-training",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.international-waste-shipments-training",
+    "name": "international-waste-shipments-training",
+    "org": "defra",
+    "original_url": "https://github.com/defra/international-waste-shipments-training"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ivory-acceptance-tests",
+    "mirror_name": "defra.ivory-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ivory-acceptance-tests",
+    "name": "ivory-acceptance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ivory-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.ivory-test",
+    "mirror_name": "defra.ivory-test",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ivory-test",
+    "name": "ivory-test",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ivory-test"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Front-end HTML prototype code for the Clean Air Zones Payments, Settlement and Reconciliation product",
+    "full_name": "uk-gov-mirror/defra.jaqu-caz-psr-alpha",
+    "mirror_name": "defra.jaqu-caz-psr-alpha",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.jaqu-caz-psr-alpha",
+    "name": "jaqu-caz-psr-alpha",
+    "org": "defra",
+    "original_url": "https://github.com/defra/jaqu-caz-psr-alpha"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service keeper-data-bridge-tests",
+    "full_name": "uk-gov-mirror/defra.keeper-data-bridge-tests",
+    "mirror_name": "defra.keeper-data-bridge-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.keeper-data-bridge-tests",
+    "name": "keeper-data-bridge-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/keeper-data-bridge-tests"
+  },
+  {
     "deleted_on": "2026-10-28",
     "description": "Git repository for service land-grants-api-tests",
     "full_name": "uk-gov-mirror/defra.land-grants-api-tests.replaced.2026-10-27",
@@ -18282,6 +19182,96 @@
     "original_url": "https://github.com/defra/lis-taxonomy-status"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service marine-licensing-backend-demo",
+    "full_name": "uk-gov-mirror/defra.marine-licensing-backend-demo",
+    "mirror_name": "defra.marine-licensing-backend-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.marine-licensing-backend-demo",
+    "name": "marine-licensing-backend-demo",
+    "org": "defra",
+    "original_url": "https://github.com/defra/marine-licensing-backend-demo"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service marine-licensing-frontend-demo",
+    "full_name": "uk-gov-mirror/defra.marine-licensing-frontend-demo",
+    "mirror_name": "defra.marine-licensing-frontend-demo",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.marine-licensing-frontend-demo",
+    "name": "marine-licensing-frontend-demo",
+    "org": "defra",
+    "original_url": "https://github.com/defra/marine-licensing-frontend-demo"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.mcu-hackathon-generator",
+    "mirror_name": "defra.mcu-hackathon-generator",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.mcu-hackathon-generator",
+    "name": "mcu-hackathon-generator",
+    "org": "defra",
+    "original_url": "https://github.com/defra/mcu-hackathon-generator"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Cucumber based acceptance tests for the Project Application and Funding service",
+    "full_name": "uk-gov-mirror/defra.pafs-acceptance-tests",
+    "mirror_name": "defra.pafs-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.pafs-acceptance-tests",
+    "name": "pafs-acceptance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/pafs-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.permit-automation_tests_cypress_poc",
+    "mirror_name": "defra.permit-automation_tests_cypress_poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.permit-automation_tests_cypress_poc",
+    "name": "permit-automation_tests_cypress_poc",
+    "org": "defra",
+    "original_url": "https://github.com/defra/permit-automation_tests_cypress_poc"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "A proof of concept for the permissions service with a decoupled architecture",
+    "full_name": "uk-gov-mirror/defra.permit-poc",
+    "mirror_name": "defra.permit-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.permit-poc",
+    "name": "permit-poc",
+    "org": "defra",
+    "original_url": "https://github.com/defra/permit-poc"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service ras-automation-backend",
+    "full_name": "uk-gov-mirror/defra.ras-automation-backend",
+    "mirror_name": "defra.ras-automation-backend",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.ras-automation-backend",
+    "name": "ras-automation-backend",
+    "org": "defra",
+    "original_url": "https://github.com/defra/ras-automation-backend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Spring Data Rest API for Rod Catch Returns",
+    "full_name": "uk-gov-mirror/defra.rod-catch-returns-api",
+    "mirror_name": "defra.rod-catch-returns-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.rod-catch-returns-api",
+    "name": "rod-catch-returns-api",
+    "org": "defra",
+    "original_url": "https://github.com/defra/rod-catch-returns-api"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Defra HAPI version of GOV Prototype Kit, used to test design of",
+    "full_name": "uk-gov-mirror/defra.rod-licence-prototype",
+    "mirror_name": "defra.rod-licence-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.rod-licence-prototype",
+    "name": "rod-licence-prototype",
+    "org": "defra",
+    "original_url": "https://github.com/defra/rod-licence-prototype"
+  },
+  {
     "approximate_date_source": "archive.org-gh-org",
     "deleted_on": "2021-07-16",
     "description": null,
@@ -18293,6 +19283,36 @@
     "original_url": "https://github.com/defra/rpa-future-farming-cross-compliance"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.rpa-mit-invoice-importer",
+    "mirror_name": "defra.rpa-mit-invoice-importer",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.rpa-mit-invoice-importer",
+    "name": "rpa-mit-invoice-importer",
+    "org": "defra",
+    "original_url": "https://github.com/defra/rpa-mit-invoice-importer"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.rpa-mit-payment",
+    "mirror_name": "defra.rpa-mit-payment",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.rpa-mit-payment",
+    "name": "rpa-mit-payment",
+    "org": "defra",
+    "original_url": "https://github.com/defra/rpa-mit-payment"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.rpa-mit-web",
+    "mirror_name": "defra.rpa-mit-web",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.rpa-mit-web",
+    "name": "rpa-mit-web",
+    "org": "defra",
+    "original_url": "https://github.com/defra/rpa-mit-web"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Git repository for service sfi-reform-service-e2e-tests",
     "full_name": "uk-gov-mirror/defra.sfi-reform-service-e2e-tests",
@@ -18301,6 +19321,16 @@
     "name": "sfi-reform-service-e2e-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/sfi-reform-service-e2e-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "OpenAPI spec for the Charging Module API service",
+    "full_name": "uk-gov-mirror/defra.sroc-charging-module-api-docs",
+    "mirror_name": "defra.sroc-charging-module-api-docs",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.sroc-charging-module-api-docs",
+    "name": "sroc-charging-module-api-docs",
+    "org": "defra",
+    "original_url": "https://github.com/defra/sroc-charging-module-api-docs"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -18347,6 +19377,36 @@
     "original_url": "https://github.com/defra/sroc-tcm-acceptance-tests"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.stw-reference-data-alpha",
+    "mirror_name": "defra.stw-reference-data-alpha",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.stw-reference-data-alpha",
+    "name": "stw-reference-data-alpha",
+    "org": "defra",
+    "original_url": "https://github.com/defra/stw-reference-data-alpha"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Git repository for service trade-imports-animals-tests",
+    "full_name": "uk-gov-mirror/defra.trade-imports-animals-tests",
+    "mirror_name": "defra.trade-imports-animals-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.trade-imports-animals-tests",
+    "name": "trade-imports-animals-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/trade-imports-animals-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.trade-imports-animals-workspace",
+    "mirror_name": "defra.trade-imports-animals-workspace",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.trade-imports-animals-workspace",
+    "name": "trade-imports-animals-workspace",
+    "org": "defra",
+    "original_url": "https://github.com/defra/trade-imports-animals-workspace"
+  },
+  {
     "deleted_on": "2026-09-03",
     "description": "Git repository for service waste-batteries-reg-backend",
     "full_name": "uk-gov-mirror/defra.waste-batteries-reg-backend.replaced.2026-09-02",
@@ -18355,6 +19415,16 @@
     "name": "waste-batteries-reg-backend.replaced.2026-09-02",
     "org": "defra",
     "original_url": "https://github.com/defra/waste-batteries-reg-backend.replaced.2026-09-02"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Waste Carrier Registrations REST Services",
+    "full_name": "uk-gov-mirror/defra.waste-carriers-service",
+    "mirror_name": "defra.waste-carriers-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-carriers-service",
+    "name": "waste-carriers-service",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-carriers-service"
   },
   {
     "deleted_on": "2026-09-03",
@@ -18395,6 +19465,36 @@
     "name": "waste-organisations-backend",
     "org": "defra",
     "original_url": "https://github.com/defra/waste-organisations-backend"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "GOV.UK front end service built using Node.js for the Waste Permits service",
+    "full_name": "uk-gov-mirror/defra.waste-permits",
+    "mirror_name": "defra.waste-permits",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-permits",
+    "name": "waste-permits",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-permits"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "Cucumber based acceptance tests for the Waste exemptions digital service",
+    "full_name": "uk-gov-mirror/defra.waste-permits-acceptance-tests",
+    "mirror_name": "defra.waste-permits-acceptance-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-permits-acceptance-tests",
+    "name": "waste-permits-acceptance-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-permits-acceptance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "A proof of concept project focused on looking at a Node.js app talking to a Microsoft Dynamics install",
+    "full_name": "uk-gov-mirror/defra.waste-permits-handshake-poc",
+    "mirror_name": "defra.waste-permits-handshake-poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.waste-permits-handshake-poc",
+    "name": "waste-permits-handshake-poc",
+    "org": "defra",
+    "original_url": "https://github.com/defra/waste-permits-handshake-poc"
   },
   {
     "approximate_date_source": "archive.org-gh-repo",
@@ -18471,6 +19571,26 @@
     "original_url": "https://github.com/defra/water-abstraction-reporting"
   },
   {
+    "deleted_on": "2026-11-24",
+    "description": "A repo for PowerApps snippets in relation to the wildlife licencing service (Part of SDDS)",
+    "full_name": "uk-gov-mirror/defra.wildlife-licencing-powerapps",
+    "mirror_name": "defra.wildlife-licencing-powerapps",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.wildlife-licencing-powerapps",
+    "name": "wildlife-licencing-powerapps",
+    "org": "defra",
+    "original_url": "https://github.com/defra/wildlife-licencing-powerapps"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": "A repository for storing end-to-end tests (For regression testing of the wildlife licensing service, part of SDDS)",
+    "full_name": "uk-gov-mirror/defra.wildlife-licencing-tests",
+    "mirror_name": "defra.wildlife-licencing-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.wildlife-licencing-tests",
+    "name": "wildlife-licencing-tests",
+    "org": "defra",
+    "original_url": "https://github.com/defra/wildlife-licencing-tests"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Git repository for service woodland-grant-journey-tests",
     "full_name": "uk-gov-mirror/defra.woodland-grant-journey-tests",
@@ -18489,6 +19609,26 @@
     "name": "woodland-grant-performance-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/woodland-grant-performance-tests"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.wts-front-office",
+    "mirror_name": "defra.wts-front-office",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.wts-front-office",
+    "name": "wts-front-office",
+    "org": "defra",
+    "original_url": "https://github.com/defra/wts-front-office"
+  },
+  {
+    "deleted_on": "2026-11-24",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.wts-identity-app",
+    "mirror_name": "defra.wts-identity-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.wts-identity-app",
+    "name": "wts-identity-app",
+    "org": "defra",
+    "original_url": "https://github.com/defra/wts-identity-app"
   },
   {
     "deleted_on": "2026-09-03",
