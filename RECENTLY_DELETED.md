@@ -6,6 +6,27 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [ONSdigital](https://github.com/ONSdigital) | [`dis-authentication-stub`](https://github.com/uk-gov-mirror/ONSdigital.dis-authentication-stub) | A new auth service stub to ensure we can test all actions associated with login/authentication | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dis-bundle-api`](https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-api) | The dis-bundle-api is a backend service for managing and publishing datasets and content as bundles, similar to Florence’s collections. | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dis-bundle-scheduler`](https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-scheduler) | This repository holds the code for the data-api bundle scheduler, which is used to automate the publication of datasets included within a bundle. | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-api-router`](https://github.com/uk-gov-mirror/ONSdigital.dp-api-router) | Routes API requests to set services, with additional header tags | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-download-service`](https://github.com/uk-gov-mirror/ONSdigital.dp-download-service) | A service for managing the retrieval of files from public and private s3 buckets | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-files-api`](https://github.com/uk-gov-mirror/ONSdigital.dp-files-api) | An API for handling file meta data | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-dataset-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-dataset-controller) | Controller for handling datasets on the ONS website | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-filter-dataset-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-filter-dataset-controller) |  | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-frontend-filter-flex-dataset`](https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-filter-flex-dataset) | Frontend service to host filter and flexing of datasets | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-import`](https://github.com/uk-gov-mirror/ONSdigital.dp-import) | A central repository for the digital publishing import process. | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-publishing-dataset-controller`](https://github.com/uk-gov-mirror/ONSdigital.dp-publishing-dataset-controller) |  | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-static-file-publisher`](https://github.com/uk-gov-mirror/ONSdigital.dp-static-file-publisher) | Static File Publisher | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-upload-service`](https://github.com/uk-gov-mirror/ONSdigital.dp-upload-service) | Digital publishing resumable file upload service that handles on the fly encryption and writing to S3. It updates images through the CMS | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`httpino`](https://github.com/uk-gov-mirror/ONSdigital.httpino) | Fork of davidcarboni/httpino | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`ons-interaction-design-kit`](https://github.com/uk-gov-mirror/ONSdigital.ons-interaction-design-kit) |  | 2026-11-25 |
+| [ONSdigital](https://github.com/ONSdigital) | [`ons-interaction-design-library`](https://github.com/uk-gov-mirror/ONSdigital.ons-interaction-design-library) |  | 2026-11-25 |
+| [companieshouse](https://github.com/companieshouse) | [`fission-postman-tests`](https://github.com/uk-gov-mirror/companieshouse.fission-postman-tests) | Team Fission's version-controlled Postman API collections, environments and automated API tests. | 2026-11-25 |
+| [defra](https://github.com/defra) | [`gwa-utils`](https://github.com/uk-gov-mirror/defra.gwa-utils) | Utilities related to GWA. | 2026-11-25 |
+| [defra](https://github.com/defra) | [`nipts-pts-sql`](https://github.com/uk-gov-mirror/defra.nipts-pts-sql) |  | 2026-11-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`mya-prototype`](https://github.com/uk-gov-mirror/nhsdigital.mya-prototype) |  | 2026-11-25 |
+| [nhsdigital](https://github.com/nhsdigital) | [`mya-provocotype`](https://github.com/uk-gov-mirror/nhsdigital.mya-provocotype) |  | 2026-11-25 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-E2E-Test-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation) |  | 2026-11-24 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`casework-app`](https://github.com/uk-gov-mirror/CPS-Innovation.casework-app) | Merging Housekeeping and Casework app | 2026-11-24 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`djb-infrastructure-terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform) | djb-infrastructure-terraform | 2026-11-24 |
@@ -985,24 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-notify`](https://github.com/uk-gov-mirror/ONSdigital.sdc-notify) |  | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-organisations`](https://github.com/uk-gov-mirror/ONSdigital.sdc-organisations) | Associations between respondent, reporting unit and survey. | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-prometheus-prototype`](https://github.com/uk-gov-mirror/ONSdigital.sdc-prometheus-prototype) | Demo app for booting up a demo app with metrics via Prometheus and Grafana under a Docker container | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-prototype-respondent-home`](https://github.com/uk-gov-mirror/ONSdigital.sdc-prototype-respondent-home) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-questionnaire-responses`](https://github.com/uk-gov-mirror/ONSdigital.sdc-questionnaire-responses) | Currently active questionnaire response requests. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-rabbit`](https://github.com/uk-gov-mirror/ONSdigital.sdc-rabbit) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-responses-dashboard-react`](https://github.com/uk-gov-mirror/ONSdigital.sdc-responses-dashboard-react) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-service-versions-dashboard`](https://github.com/uk-gov-mirror/ONSdigital.sdc-service-versions-dashboard) | Dashboard showing which versions of microservices are deployed to which environments. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-status-pages`](https://github.com/uk-gov-mirror/ONSdigital.sdc-status-pages) | A collection of status pages for use on SDC services. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-survey-registry`](https://github.com/uk-gov-mirror/ONSdigital.sdc-survey-registry) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-test-data`](https://github.com/uk-gov-mirror/ONSdigital.sdc-test-data) | Test data for Survey Data Collection microservices. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-waf-error-page`](https://github.com/uk-gov-mirror/ONSdigital.sdc-waf-error-page) | Content for the SDC WAF error page | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-SDMX-data-qualifier`](https://github.com/uk-gov-mirror/ONSdigital.sdg-SDMX-data-qualifier) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-csvw`](https://github.com/uk-gov-mirror/ONSdigital.sdg-csvw) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-sandbox-indicators`](https://github.com/uk-gov-mirror/ONSdigital.sdg-sandbox-indicators) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-sdmx`](https://github.com/uk-gov-mirror/ONSdigital.sdg-sdmx) | Converting sdg data to SDMX | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-sdmx-data`](https://github.com/uk-gov-mirror/ONSdigital.sdg-sdmx-data) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg-sdmx-site`](https://github.com/uk-gov-mirror/ONSdigital.sdg-sdmx-site) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdg_data_updates`](https://github.com/uk-gov-mirror/ONSdigital.sdg_data_updates) | Clean messy data for use on open-sdg site | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sds-test-repo`](https://github.com/uk-gov-mirror/ONSdigital.sds-test-repo) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-collect`](https://github.com/uk-gov-mirror/ONSdigital.sdx-collect) | Questionnaire data transformer | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-compose`](https://github.com/uk-gov-mirror/ONSdigital.sdx-compose) | Docker-Compose scripts to start SDX | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-console`](https://github.com/uk-gov-mirror/ONSdigital.sdx-console) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdx-decrypt`](https://github.com/uk-gov-mirror/ONSdigital.sdx-decrypt) | SDX message decryption service | 2026-10-27 |

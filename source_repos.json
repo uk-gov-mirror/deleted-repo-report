@@ -5017,6 +5017,16 @@
     "original_url": "https://github.com/ONSdigital/design-system-react"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "A new auth service stub to ensure we can test all actions associated with login/authentication",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-authentication-stub",
+    "mirror_name": "ONSdigital.dis-authentication-stub",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-authentication-stub",
+    "name": "dis-authentication-stub",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-authentication-stub"
+  },
+  {
     "deleted_on": "2026-11-19",
     "description": "JS library for client side token renewal",
     "full_name": "uk-gov-mirror/ONSdigital.dis-authorisation-client-js",
@@ -5025,6 +5035,26 @@
     "name": "dis-authorisation-client-js",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dis-authorisation-client-js"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "The dis-bundle-api is a backend service for managing and publishing datasets and content as bundles, similar to Florence\u2019s collections.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-bundle-api",
+    "mirror_name": "ONSdigital.dis-bundle-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-api",
+    "name": "dis-bundle-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-bundle-api"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "This repository holds the code for the data-api bundle scheduler, which is used to automate the publication of datasets included within a bundle.",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-bundle-scheduler",
+    "mirror_name": "ONSdigital.dis-bundle-scheduler",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-scheduler",
+    "name": "dis-bundle-scheduler",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-bundle-scheduler"
   },
   {
     "deleted_on": "2026-10-27",
@@ -5235,6 +5265,16 @@
     "name": "dp-api-audit-spike",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-api-audit-spike"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "Routes API requests to set services, with additional header tags",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-api-router",
+    "mirror_name": "ONSdigital.dp-api-router",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-api-router",
+    "name": "dp-api-router",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-api-router"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6091,6 +6131,16 @@
     "original_url": "https://github.com/ONSdigital/dp-document-db-spike"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "A service for managing the retrieval of files from public and private s3 buckets",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-download-service",
+    "mirror_name": "ONSdigital.dp-download-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-download-service",
+    "name": "dp-download-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-download-service"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Implementation of the DrQA question and answer model for digital publishing.",
     "full_name": "uk-gov-mirror/ONSdigital.dp-drqa",
@@ -6159,6 +6209,16 @@
     "name": "dp-file-downloader",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-file-downloader"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "An API for handling file meta data",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-files-api",
+    "mirror_name": "ONSdigital.dp-files-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-files-api",
+    "name": "dp-files-api",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-files-api"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6283,6 +6343,16 @@
     "original_url": "https://github.com/ONSdigital/dp-frontend-cookie-controller"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "Controller for handling datasets on the ONS website",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-dataset-controller",
+    "mirror_name": "ONSdigital.dp-frontend-dataset-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-dataset-controller",
+    "name": "dp-frontend-dataset-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-dataset-controller"
+  },
+  {
     "deleted_on": "2026-11-18",
     "description": "To allow user feedback on the ONS website",
     "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-feedback-controller",
@@ -6291,6 +6361,26 @@
     "name": "dp-frontend-feedback-controller",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-frontend-feedback-controller"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-filter-dataset-controller",
+    "mirror_name": "ONSdigital.dp-frontend-filter-dataset-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-filter-dataset-controller",
+    "name": "dp-frontend-filter-dataset-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-filter-dataset-controller"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "Frontend service to host filter and flexing of datasets",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-frontend-filter-flex-dataset",
+    "mirror_name": "ONSdigital.dp-frontend-filter-flex-dataset",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-frontend-filter-flex-dataset",
+    "name": "dp-frontend-filter-flex-dataset",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-frontend-filter-flex-dataset"
   },
   {
     "deleted_on": "2026-10-27",
@@ -6521,6 +6611,16 @@
     "name": "dp-image-importer",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-image-importer"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "A central repository for the digital publishing import process.",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-import",
+    "mirror_name": "ONSdigital.dp-import",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-import",
+    "name": "dp-import",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-import"
   },
   {
     "deleted_on": "2026-11-11",
@@ -6906,6 +7006,16 @@
     "original_url": "https://github.com/ONSdigital/dp-published-collection-api"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-publishing-dataset-controller",
+    "mirror_name": "ONSdigital.dp-publishing-dataset-controller",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-publishing-dataset-controller",
+    "name": "dp-publishing-dataset-controller",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-publishing-dataset-controller"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2021-01-18",
     "description": "Routes Florence requests to the appropriate apps",
@@ -7118,6 +7228,16 @@
     "original_url": "https://github.com/ONSdigital/dp-standards"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "Static File Publisher",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-static-file-publisher",
+    "mirror_name": "ONSdigital.dp-static-file-publisher",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-static-file-publisher",
+    "name": "dp-static-file-publisher",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-static-file-publisher"
+  },
+  {
     "deleted_on": "2026-11-19",
     "description": "react component ui for table builder",
     "full_name": "uk-gov-mirror/ONSdigital.dp-table-builder-ui",
@@ -7188,6 +7308,16 @@
     "name": "dp-train-tests",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-train-tests"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": "Digital publishing resumable file upload service that handles on the fly encryption and writing to S3. It updates images through the CMS",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-upload-service",
+    "mirror_name": "ONSdigital.dp-upload-service",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-upload-service",
+    "name": "dp-upload-service",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-upload-service"
   },
   {
     "deleted_on": "2026-10-27",
@@ -9000,6 +9130,16 @@
     "original_url": "https://github.com/ONSdigital/homebrew-retired"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "Fork of davidcarboni/httpino",
+    "full_name": "uk-gov-mirror/ONSdigital.httpino",
+    "mirror_name": "ONSdigital.httpino",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.httpino",
+    "name": "httpino",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/httpino"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": "Sharing the ICD-11 English dictionary developed by ONS",
     "full_name": "uk-gov-mirror/ONSdigital.icd11-ons-english-dictionary",
@@ -9420,6 +9560,26 @@
     "name": "ons-fwmt-outcome-service",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/ons-fwmt-outcome-service"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ons-interaction-design-kit",
+    "mirror_name": "ONSdigital.ons-interaction-design-kit",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ons-interaction-design-kit",
+    "name": "ons-interaction-design-kit",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ons-interaction-design-kit"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.ons-interaction-design-library",
+    "mirror_name": "ONSdigital.ons-interaction-design-library",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.ons-interaction-design-library",
+    "name": "ons-interaction-design-library",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/ons-interaction-design-library"
   },
   {
     "deleted_on": "2026-10-27",
@@ -17147,6 +17307,16 @@
     "original_url": "https://github.com/companieshouse/ewf-terraform"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "Team Fission's version-controlled Postman API collections, environments and automated API tests.",
+    "full_name": "uk-gov-mirror/companieshouse.fission-postman-tests",
+    "mirror_name": "companieshouse.fission-postman-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/companieshouse.fission-postman-tests",
+    "name": "fission-postman-tests",
+    "org": "companieshouse",
+    "original_url": "https://github.com/companieshouse/fission-postman-tests"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": "Provides a Docker image to run packer builds",
     "full_name": "uk-gov-mirror/companieshouse.infrastructure-packer-runner",
@@ -19062,6 +19232,16 @@
     "original_url": "https://github.com/defra/grants-ui.replaced.2026-11-14"
   },
   {
+    "deleted_on": "2026-11-25",
+    "description": "Utilities related to GWA.",
+    "full_name": "uk-gov-mirror/defra.gwa-utils",
+    "mirror_name": "defra.gwa-utils",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.gwa-utils",
+    "name": "gwa-utils",
+    "org": "defra",
+    "original_url": "https://github.com/defra/gwa-utils"
+  },
+  {
     "deleted_on": "2026-11-24",
     "description": null,
     "full_name": "uk-gov-mirror/defra.identity-demo",
@@ -19210,6 +19390,16 @@
     "name": "mcu-hackathon-generator",
     "org": "defra",
     "original_url": "https://github.com/defra/mcu-hackathon-generator"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.nipts-pts-sql",
+    "mirror_name": "defra.nipts-pts-sql",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.nipts-pts-sql",
+    "name": "nipts-pts-sql",
+    "org": "defra",
+    "original_url": "https://github.com/defra/nipts-pts-sql"
   },
   {
     "deleted_on": "2026-11-24",
@@ -34492,6 +34682,26 @@
     "name": "multicast-notification-service",
     "org": "nhsdigital",
     "original_url": "https://github.com/nhsdigital/multicast-notification-service"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.mya-prototype",
+    "mirror_name": "nhsdigital.mya-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mya-prototype",
+    "name": "mya-prototype",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mya-prototype"
+  },
+  {
+    "deleted_on": "2026-11-25",
+    "description": null,
+    "full_name": "uk-gov-mirror/nhsdigital.mya-provocotype",
+    "mirror_name": "nhsdigital.mya-provocotype",
+    "mirror_url": "https://github.com/uk-gov-mirror/nhsdigital.mya-provocotype",
+    "name": "mya-provocotype",
+    "org": "nhsdigital",
+    "original_url": "https://github.com/nhsdigital/mya-provocotype"
   },
   {
     "deleted_on": "2026-09-11",
