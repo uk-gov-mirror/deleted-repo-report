@@ -6,6 +6,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`global-components`](https://github.com/uk-gov-mirror/CPS-Innovation.global-components) |  | 2026-11-26 |
+| [NHSDigital-ITDev](https://github.com/NHSDigital-ITDev) | [`blockchain.poc`](https://github.com/uk-gov-mirror/NHSDigital-ITDev.blockchain.poc) |  | 2026-11-26 |
+| [NHSDigital-ITDev](https://github.com/NHSDigital-ITDev) | [`cp-kafka-docker-images`](https://github.com/uk-gov-mirror/NHSDigital-ITDev.cp-kafka-docker-images) | Docker images for launching the confluent platform | 2026-11-26 |
+| [NHSDigital-ITDev](https://github.com/NHSDigital-ITDev) | [`tutorial-network`](https://github.com/uk-gov-mirror/NHSDigital-ITDev.tutorial-network) | Example project from Hyperledger Fabric | 2026-11-26 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dis-data-admin-ui`](https://github.com/uk-gov-mirror/ONSdigital.dis-data-admin-ui) | Data Admin UI | 2026-11-26 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-dataset-api-java-client`](https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-api-java-client) | A Java client for the dp-dataset-api service | 2026-11-26 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-kafka`](https://github.com/uk-gov-mirror/ONSdigital.dp-kafka) | Go module implementing a kafka client wrapper, abstracting messages to go channels | 2026-11-26 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-otel-go`](https://github.com/uk-gov-mirror/ONSdigital.dp-otel-go) | OpenTelemetry startup code for Go services | 2026-11-26 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-upload-service-client-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-upload-service-client-java) | A Java Client Library for dp-upload-service (https://github.com/ONSdigital/dp-upload-service) | 2026-11-26 |
+| [hmrc](https://github.com/hmrc) | [`mdtp-team-scheduler`](https://github.com/uk-gov-mirror/hmrc.mdtp-team-scheduler) |  | 2026-11-26 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`hdc-cvl-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hdc-cvl-prototype) | Prototype for integration of Home Detention Curfew into CVL | 2026-11-26 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laughing-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.laughing-fishstick) |  | 2026-11-26 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-authentication-stub`](https://github.com/uk-gov-mirror/ONSdigital.dis-authentication-stub) | A new auth service stub to ensure we can test all actions associated with login/authentication | 2026-11-25 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-bundle-api`](https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-api) | The dis-bundle-api is a backend service for managing and publishing datasets and content as bundles, similar to Florence’s collections. | 2026-11-25 |
 | [ONSdigital](https://github.com/ONSdigital) | [`dis-bundle-scheduler`](https://github.com/uk-gov-mirror/ONSdigital.dis-bundle-scheduler) | This repository holds the code for the data-api bundle scheduler, which is used to automate the publication of datasets included within a bundle. | 2026-11-25 |
@@ -994,15 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cc-ui`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cc-ui) | FrontEnd component for SDC Contact Centre Service | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cucumber-common`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cucumber-common) |  | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-event-generator`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-event-generator) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-mock-ai-service`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-mock-ai-service) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-mock-case-service`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-mock-case-service) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-mock-envoy-limiter`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-mock-envoy-limiter) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-mock-service`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-mock-service) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-rh-cucumber`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-rh-cucumber) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-rh-service`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-rh-service) | Backend service that support SDC Integrations Respondent Home UI | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-rh-ui`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-rh-ui) | User Interface for respondents to access ONS Survey Data Collection questionnaires and services | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-login-ons`](https://github.com/uk-gov-mirror/ONSdigital.sdc-login-ons) | Internal user login API prototype. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-mock-gov-notify`](https://github.com/uk-gov-mirror/ONSdigital.sdc-mock-gov-notify) | A mock service which emulates the behaviour of the GOV.UK Notify API | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-notify`](https://github.com/uk-gov-mirror/ONSdigital.sdc-notify) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-organisations`](https://github.com/uk-gov-mirror/ONSdigital.sdc-organisations) | Associations between respondent, reporting unit and survey. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-prometheus-prototype`](https://github.com/uk-gov-mirror/ONSdigital.sdc-prometheus-prototype) | Demo app for booting up a demo app with metrics via Prometheus and Grafana under a Docker container | 2026-10-27 |

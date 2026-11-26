@@ -405,6 +405,16 @@
     "original_url": "https://github.com/CPS-Innovation/github-101-practice-prototype"
   },
   {
+    "deleted_on": "2026-11-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.global-components",
+    "mirror_name": "CPS-Innovation.global-components",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.global-components",
+    "name": "global-components",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/global-components"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "For prototype versions of the global navigation",
     "full_name": "uk-gov-mirror/CPS-Innovation.global-navigation-prototype",
@@ -1354,6 +1364,36 @@
     "name": "qs-live-automations-CTeS",
     "org": "NHS-Wales-CTeS",
     "original_url": "https://github.com/NHS-Wales-CTeS/qs-live-automations-CTeS"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/NHSDigital-ITDev.blockchain.poc",
+    "mirror_name": "NHSDigital-ITDev.blockchain.poc",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSDigital-ITDev.blockchain.poc",
+    "name": "blockchain.poc",
+    "org": "NHSDigital-ITDev",
+    "original_url": "https://github.com/NHSDigital-ITDev/blockchain.poc"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": "Docker images for launching the confluent platform",
+    "full_name": "uk-gov-mirror/NHSDigital-ITDev.cp-kafka-docker-images",
+    "mirror_name": "NHSDigital-ITDev.cp-kafka-docker-images",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSDigital-ITDev.cp-kafka-docker-images",
+    "name": "cp-kafka-docker-images",
+    "org": "NHSDigital-ITDev",
+    "original_url": "https://github.com/NHSDigital-ITDev/cp-kafka-docker-images"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": "Example project from Hyperledger Fabric",
+    "full_name": "uk-gov-mirror/NHSDigital-ITDev.tutorial-network",
+    "mirror_name": "NHSDigital-ITDev.tutorial-network",
+    "mirror_url": "https://github.com/uk-gov-mirror/NHSDigital-ITDev.tutorial-network",
+    "name": "tutorial-network",
+    "org": "NHSDigital-ITDev",
+    "original_url": "https://github.com/NHSDigital-ITDev/tutorial-network"
   },
   {
     "deleted_on": "2026-10-03",
@@ -5057,6 +5097,16 @@
     "original_url": "https://github.com/ONSdigital/dis-bundle-scheduler"
   },
   {
+    "deleted_on": "2026-11-26",
+    "description": "Data Admin UI",
+    "full_name": "uk-gov-mirror/ONSdigital.dis-data-admin-ui",
+    "mirror_name": "ONSdigital.dis-data-admin-ui",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dis-data-admin-ui",
+    "name": "dis-data-admin-ui",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dis-data-admin-ui"
+  },
+  {
     "deleted_on": "2026-10-27",
     "description": null,
     "full_name": "uk-gov-mirror/ONSdigital.dis-django-behave-spike",
@@ -5748,6 +5798,16 @@
     "name": "dp-data-pipelines",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-data-pipelines"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": "A Java client for the dp-dataset-api service",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-dataset-api-java-client",
+    "mirror_name": "ONSdigital.dp-dataset-api-java-client",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-api-java-client",
+    "name": "dp-dataset-api-java-client",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-dataset-api-java-client"
   },
   {
     "deleted_on": "2026-11-10",
@@ -6713,6 +6773,16 @@
     "original_url": "https://github.com/ONSdigital/dp-java-duration-parse"
   },
   {
+    "deleted_on": "2026-11-26",
+    "description": "Go module implementing a kafka client wrapper, abstracting messages to go channels",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-kafka",
+    "mirror_name": "ONSdigital.dp-kafka",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-kafka",
+    "name": "dp-kafka",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-kafka"
+  },
+  {
     "deleted_on": "2026-11-17",
     "description": "REST API for managing cache control information for pages within the legacy CMS",
     "full_name": "uk-gov-mirror/ONSdigital.dp-legacy-cache-api",
@@ -6901,6 +6971,16 @@
     "name": "dp-observation-importer",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-observation-importer"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": "OpenTelemetry startup code for Go services",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-otel-go",
+    "mirror_name": "ONSdigital.dp-otel-go",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-otel-go",
+    "name": "dp-otel-go",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-otel-go"
   },
   {
     "deleted_on": "2026-10-27",
@@ -7318,6 +7398,16 @@
     "name": "dp-upload-service",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-upload-service"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": "A Java Client Library for dp-upload-service (https://github.com/ONSdigital/dp-upload-service)",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-upload-service-client-java",
+    "mirror_name": "ONSdigital.dp-upload-service-client-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-upload-service-client-java",
+    "name": "dp-upload-service-client-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-upload-service-client-java"
   },
   {
     "deleted_on": "2026-10-27",
@@ -22519,6 +22609,16 @@
     "original_url": "https://github.com/hmrc/language-preference"
   },
   {
+    "deleted_on": "2026-11-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/hmrc.mdtp-team-scheduler",
+    "mirror_name": "hmrc.mdtp-team-scheduler",
+    "mirror_url": "https://github.com/uk-gov-mirror/hmrc.mdtp-team-scheduler",
+    "name": "mdtp-team-scheduler",
+    "org": "hmrc",
+    "original_url": "https://github.com/hmrc/mdtp-team-scheduler"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2021-04-19",
     "description": null,
@@ -26541,6 +26641,16 @@
     "original_url": "https://github.com/ministryofjustice/hackathon-FARD"
   },
   {
+    "deleted_on": "2026-11-26",
+    "description": "Prototype for integration of Home Detention Curfew into CVL",
+    "full_name": "uk-gov-mirror/ministryofjustice.hdc-cvl-prototype",
+    "mirror_name": "ministryofjustice.hdc-cvl-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.hdc-cvl-prototype",
+    "name": "hdc-cvl-prototype",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/hdc-cvl-prototype"
+  },
+  {
     "approximate_date_source": "archive.org-gh-repo",
     "deleted_on": "2020-11-17",
     "description": "Hillsborough Inquests",
@@ -29172,6 +29282,16 @@
     "name": "laa-test-a-provider-data-ui",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-test-a-provider-data-ui"
+  },
+  {
+    "deleted_on": "2026-11-26",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laughing-fishstick",
+    "mirror_name": "ministryofjustice.laughing-fishstick",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laughing-fishstick",
+    "name": "laughing-fishstick",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laughing-fishstick"
   },
   {
     "deleted_on": "2026-10-16",
