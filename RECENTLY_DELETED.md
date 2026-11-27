@@ -6,6 +6,39 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-TF-Module-Common-Tags`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-TF-Module-Common-Tags) |  | 2026-11-27 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-VCA-TSM-Infra`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-VCA-TSM-Infra) | This repository contains the code for deploying platform components required for deploying the Tracker Spreadsheet Migration solution pertaining to the Victims Case Application. | 2026-11-27 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`ai-dispro-app`](https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-app) | AI powered CPS case document analysis | 2026-11-27 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`ai-dispro-infra`](https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-infra) | This repository will contain Terraform IaC for AI Dispro Azure Landing Zone Infrastructure. | 2026-11-27 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`djb-transfer-tool`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-transfer-tool) |  | 2026-11-27 |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [`eas-shared-nuget`](https://github.com/uk-gov-mirror/CPS-Innovation.eas-shared-nuget) |  | 2026-11-27 |
+| [DFE-Digital](https://github.com/DFE-Digital) | [`test-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.test-prototype.replaced.2026-09-03) | A prototype for testing Cloud Platform's OIDC implementation | 2026-11-27 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-image-api-client-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-image-api-client-java) | A Java client library for the dp-image-api | 2026-11-27 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-jwt-verifier-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-jwt-verifier-java) | A Java JSON Web Token (JWT) verification library | 2026-11-27 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-logging`](https://github.com/uk-gov-mirror/ONSdigital.dp-logging) |  | 2026-11-27 |
+| [ONSdigital](https://github.com/ONSdigital) | [`dp-slack-client-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-slack-client-java) | A java client library for sending slack messages | 2026-11-27 |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [`AI_emissions`](https://github.com/uk-gov-mirror/ScotGovAnalysis.AI_emissions) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-acceptance`](https://github.com/uk-gov-mirror/defra.aphw-ddi-acceptance) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-api`](https://github.com/uk-gov-mirror/defra.aphw-ddi-api) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-compensation-scheme`](https://github.com/uk-gov-mirror/defra.aphw-ddi-compensation-scheme) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-document-reader`](https://github.com/uk-gov-mirror/defra.aphw-ddi-document-reader) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-documents`](https://github.com/uk-gov-mirror/defra.aphw-ddi-documents) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-enforcement`](https://github.com/uk-gov-mirror/defra.aphw-ddi-enforcement) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-events`](https://github.com/uk-gov-mirror/defra.aphw-ddi-events) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-notifications`](https://github.com/uk-gov-mirror/defra.aphw-ddi-notifications) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-police-force`](https://github.com/uk-gov-mirror/defra.aphw-ddi-police-force) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-portal`](https://github.com/uk-gov-mirror/defra.aphw-ddi-portal) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-register`](https://github.com/uk-gov-mirror/defra.aphw-ddi-register) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-register-importer`](https://github.com/uk-gov-mirror/defra.aphw-ddi-register-importer) |  | 2026-11-27 |
+| [defra](https://github.com/defra) | [`aphw-ddi-simulator`](https://github.com/uk-gov-mirror/defra.aphw-ddi-simulator) |  | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`cloud-platform-repository-checker`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-repository-checker) | Checks all Cloud Platform repositories for compliance | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`cloud-platform-terraform-codepipeline-spike`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-codepipeline-spike) |  | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`cloud-platform-terraform-upgrade`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-upgrade) | Go tool to run a command across multiple repositories | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`fb-transformers`](https://github.com/uk-gov-mirror/ministryofjustice.fb-transformers) | Component transformation functions with a CLI for Form Builder | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-cla-e2e-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cla-e2e-tests) |  | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-decision-automation-rules`](https://github.com/uk-gov-mirror/ministryofjustice.laa-decision-automation-rules) | This will hold rules for both crime and civil | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`learn_terraform`](https://github.com/uk-gov-mirror/ministryofjustice.learn_terraform) | This is a learning GitHub respository to learn terraform in a safe environment | 2026-11-27 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`terraform-aws-ha_cloudwatch_fw_instance_profile`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-ha_cloudwatch_fw_instance_profile) | Terraform module to create an instance profile for Palo Alto Networks vm-series firewalls | 2026-11-27 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`global-components`](https://github.com/uk-gov-mirror/CPS-Innovation.global-components) |  | 2026-11-26 |
 | [NHSDigital-ITDev](https://github.com/NHSDigital-ITDev) | [`blockchain.poc`](https://github.com/uk-gov-mirror/NHSDigital-ITDev.blockchain.poc) |  | 2026-11-26 |
 | [NHSDigital-ITDev](https://github.com/NHSDigital-ITDev) | [`cp-kafka-docker-images`](https://github.com/uk-gov-mirror/NHSDigital-ITDev.cp-kafka-docker-images) | Docker images for launching the confluent platform | 2026-11-26 |
@@ -973,36 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-collectionexercisesvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-collectionexercisesvc-api) | Java client classes for the Collection Exercise microservice. | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-collectioninstrumentsvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-collectioninstrumentsvc-api) | Java client classes for the Collection Instrument microservice. | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-common-config`](https://github.com/uk-gov-mirror/ONSdigital.rm-common-config) | Common configuration for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-common-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-common-service) | Common framework code for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-common-test-framework`](https://github.com/uk-gov-mirror/ONSdigital.rm-common-test-framework) | Common test framework code for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-comms-template-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-comms-template-service) | This microservice contains the templates for all communications from the RAS/RM system | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-docker-dev`](https://github.com/uk-gov-mirror/ONSdigital.rm-docker-dev) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-integration-tests`](https://github.com/uk-gov-mirror/ONSdigital.rm-integration-tests) | Integration tests for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-lambda-functions`](https://github.com/uk-gov-mirror/ONSdigital.rm-lambda-functions) | AWS Lambda functions for Response Management and Respondent Home | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-notify-gateway`](https://github.com/uk-gov-mirror/ONSdigital.rm-notify-gateway) | GOV.UK Notify gateway for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-notifygatewaysvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-notifygatewaysvc-api) | Java client classes for the Notify Gateway microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-release-dummy`](https://github.com/uk-gov-mirror/ONSdigital.rm-release-dummy) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-reportmodule`](https://github.com/uk-gov-mirror/ONSdigital.rm-reportmodule) | Common code to support reporting. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-response-flusher`](https://github.com/uk-gov-mirror/ONSdigital.rm-response-flusher) | Script to flush partially completed questionnaire responses through eQ. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-samplesvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-samplesvc-api) | Java client classes for the Sample microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-sdx-gateway`](https://github.com/uk-gov-mirror/ONSdigital.rm-sdx-gateway) | Survey Data Exchange gateway for Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-surveysvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-surveysvc-api) | Java client classes for the Survey microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-test-data-loader`](https://github.com/uk-gov-mirror/ONSdigital.rm-test-data-loader) | Test data and cURL requests for loading it into Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-tools`](https://github.com/uk-gov-mirror/ONSdigital.rm-tools) | Tools for working with Response Management. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-tools-unlinked-reconcile`](https://github.com/uk-gov-mirror/ONSdigital.rm-tools-unlinked-reconcile) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rrm2-poc-jhipster`](https://github.com/uk-gov-mirror/ONSdigital.rrm2-poc-jhipster) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbt-code-quality`](https://github.com/uk-gov-mirror/ONSdigital.sbt-code-quality) | ONS SBT plugin for Code Quality settings | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sbt-play-defaults`](https://github.com/uk-gov-mirror/ONSdigital.sbt-play-defaults) | ONS SBT plugin for default Play framework settings | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`school-demand-to-capacity`](https://github.com/uk-gov-mirror/ONSdigital.school-demand-to-capacity) | App to model how primary school demand compares to capacities for the Greater Manchester region | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc`](https://github.com/uk-gov-mirror/ONSdigital.sdc) | Getting started for Survey Data Collection | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-backstage-ui`](https://github.com/uk-gov-mirror/ONSdigital.sdc-backstage-ui) | Back-stage (response management) user interface for Business Surveys. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-ci-upload-compose`](https://github.com/uk-gov-mirror/ONSdigital.sdc-ci-upload-compose) | Docker compose for services that allow uploading a SEFT CI to response ops ui | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-compose`](https://github.com/uk-gov-mirror/ONSdigital.sdc-compose) | Developer resources for running the components of survey data collection. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-dashboards`](https://github.com/uk-gov-mirror/ONSdigital.sdc-dashboards) | Internal dashboard for displaying metrics to the SDC team. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-frontstage-ui`](https://github.com/uk-gov-mirror/ONSdigital.sdc-frontstage-ui) | Front-stage (respondent) user interface for Business Surveys. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-ia-scripts`](https://github.com/uk-gov-mirror/ONSdigital.sdc-ia-scripts) | A collection of scripts to generate useful reports for IA | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cc-cucumber`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cc-cucumber) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cc-service`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cc-service) | SDC Integrations Contact Centre Service | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cc-ui`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cc-ui) | FrontEnd component for SDC Contact Centre Service | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-cucumber-common`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-cucumber-common) |  | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`sdc-int-event-generator`](https://github.com/uk-gov-mirror/ONSdigital.sdc-int-event-generator) |  | 2026-10-27 |

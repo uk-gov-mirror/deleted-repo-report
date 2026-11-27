@@ -1,6 +1,6 @@
 # Deleted UK Government code repositories
 
-Total deleted repositories: **3595**
+Total deleted repositories: **3628**
 Organisations affected: **97**
 
 See [RECENTLY_DELETED.md](RECENTLY_DELETED.md) for the most recently deleted repositories.
@@ -10,31 +10,31 @@ xychart-beta
     title "Repositories deleted per month"
     x-axis ["2020", "​​", "​​​", "​​​​", "​​​​​", "​​​​​​", "​​​​​​​", "​​​​​​​​", "​​​​​​​​​", "​​​​​​​​​​", "​​​​​​​​​​​", "​​​​​​​​​​​​", "2021", "​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​", "2022", "​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2023", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2024", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2025", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "2026", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​", "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"]
     y-axis "Deleted repos"
-    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1258, 389]
+    bar [1, 4, 1, 4, 2, 0, 9, 5, 133, 99, 132, 98, 79, 32, 49, 76, 13, 20, 12, 6, 7, 1, 15, 4, 6, 5, 3, 9, 17, 9, 2, 4, 3, 0, 0, 1, 29, 5, 3, 2, 5, 2, 0, 1, 1, 2, 4, 13, 22, 3, 3, 4, 6, 6, 8, 6, 4, 4, 5, 6, 2, 13, 9, 10, 5, 11, 12, 14, 10, 16, 23, 2, 2, 12, 5, 40, 206, 0, 2, 229, 272, 1258, 422]
 ```
 
 Deleted dates with a \* are approximate, inferred from the last commit or archive.org snapshot. This is the last date we know it was available.
 
 | Organisation | Deleted Repos | % Deleted |
 | --- | ---: | ---: |
-| [ONSdigital](https://github.com/ONSdigital) | [**1066**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 87.5% |
-| [ministryofjustice](https://github.com/ministryofjustice) | [**516**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 23.5% |
+| [ONSdigital](https://github.com/ONSdigital) | [**1070**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONSdigital.%22) | 87.8% |
+| [ministryofjustice](https://github.com/ministryofjustice) | [**524**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ministryofjustice.%22) | 25.9% |
 | [nhsdigital](https://github.com/nhsdigital) | [**274**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsdigital.%22) | 62.1% |
 | [hmrc](https://github.com/hmrc) | [**225**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmrc.%22) | 10.9% |
-| [defra](https://github.com/defra) | [**193**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 9.2% |
+| [defra](https://github.com/defra) | [**206**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22defra.%22) | 9.7% |
 | [SkillsFundingAgency](https://github.com/SkillsFundingAgency) | [**155**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22SkillsFundingAgency.%22) | 22.5% |
 | [informatics-lab](https://github.com/informatics-lab) | [**154**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22informatics-lab.%22) | 100.0% |
 | [UKHomeOffice](https://github.com/UKHomeOffice) | [**117**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKHomeOffice.%22) | 8.7% |
 | [moj-analytical-services](https://github.com/moj-analytical-services) | [**65**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22moj-analytical-services.%22) | 78.3% |
-| [DFE-Digital](https://github.com/DFE-Digital) | [**55**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 5.9% |
+| [DFE-Digital](https://github.com/DFE-Digital) | [**56**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22DFE-Digital.%22) | 6.0% |
 | [ukwa](https://github.com/ukwa) | [**47**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukwa.%22) | 46.1% |
 | [companieshouse](https://github.com/companieshouse) | [**46**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22companieshouse.%22) | 6.5% |
 | [nhsconnect](https://github.com/nhsconnect) | [**46**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsconnect.%22) | 26.9% |
+| [CPS-Innovation](https://github.com/CPS-Innovation) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 95.7% |
 | [dwp](https://github.com/dwp) | [**45**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dwp.%22) | 6.3% |
 | [ONS-Innovation](https://github.com/ONS-Innovation) | [**44**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-Innovation.%22) | 38.3% |
 | [UKGovernmentBEIS](https://github.com/UKGovernmentBEIS) | [**43**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UKGovernmentBEIS.%22) | 27.0% |
 | [Planning-Inspectorate](https://github.com/Planning-Inspectorate) | [**40**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22Planning-Inspectorate.%22) | 43.0% |
-| [CPS-Innovation](https://github.com/CPS-Innovation) | [**39**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22CPS-Innovation.%22) | 81.2% |
 | [dvla](https://github.com/dvla) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22dvla.%22) | 42.3% |
 | [hmcts](https://github.com/hmcts) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22hmcts.%22) | 1.5% |
 | [nhsd-a2si](https://github.com/nhsd-a2si) | [**30**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22nhsd-a2si.%22) | 93.8% |
@@ -51,11 +51,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [UK-Export-Finance](https://github.com/UK-Export-Finance) | [**9**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22UK-Export-Finance.%22) | 64.3% |
 | [NHSX](https://github.com/NHSX) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22NHSX.%22) | 6.4% |
 | [ONS-OpenData](https://github.com/ONS-OpenData) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ONS-OpenData.%22) | 14.6% |
+| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 5.4% |
 | [digital-land](https://github.com/digital-land) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22digital-land.%22) | 2.4% |
 | [jncc](https://github.com/jncc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22jncc.%22) | 8.0% |
 | [ukncsc](https://github.com/ukncsc) | [**7**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukncsc.%22) | 25.9% |
 | [OfqualGovUK](https://github.com/OfqualGovUK) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22OfqualGovUK.%22) | 40.0% |
-| [ScotGovAnalysis](https://github.com/ScotGovAnalysis) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ScotGovAnalysis.%22) | 4.6% |
 | [WMRGL](https://github.com/WMRGL) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22WMRGL.%22) | 60.0% |
 | [communitiesuk](https://github.com/communitiesuk) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22communitiesuk.%22) | 2.9% |
 | [homesengland](https://github.com/homesengland) | [**6**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22homesengland.%22) | 100.0% |
@@ -115,10 +115,14 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ukparliament](https://github.com/ukparliament) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22ukparliament.%22) | 0.6% |
 | [wgdsu](https://github.com/wgdsu) | [**1**](https://github.com/orgs/uk-gov-mirror/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+%22wgdsu.%22) | 12.5% |
 
-## [ONSdigital](https://github.com/ONSdigital) (1066)
+## [ONSdigital](https://github.com/ONSdigital) (1070)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`dp-image-api-client-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-image-api-client-java) | A Java client library for the dp-image-api | 2026-11-27 |
+| [`dp-jwt-verifier-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-jwt-verifier-java) | A Java JSON Web Token (JWT) verification library | 2026-11-27 |
+| [`dp-logging`](https://github.com/uk-gov-mirror/ONSdigital.dp-logging) |  | 2026-11-27 |
+| [`dp-slack-client-java`](https://github.com/uk-gov-mirror/ONSdigital.dp-slack-client-java) | A java client library for sending slack messages | 2026-11-27 |
 | [`dis-data-admin-ui`](https://github.com/uk-gov-mirror/ONSdigital.dis-data-admin-ui) | Data Admin UI | 2026-11-26 |
 | [`dp-dataset-api-java-client`](https://github.com/uk-gov-mirror/ONSdigital.dp-dataset-api-java-client) | A Java client for the dp-dataset-api service | 2026-11-26 |
 | [`dp-kafka`](https://github.com/uk-gov-mirror/ONSdigital.dp-kafka) | Go module implementing a kafka client wrapper, abstracting messages to go channels | 2026-11-26 |
@@ -1186,10 +1190,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`blaise-pubsub-functions`](https://github.com/uk-gov-mirror/ONSdigital.blaise-pubsub-functions) |  | 2020-08-28* |
 | [`takeon-ServerlessUI-multiplescreens`](https://github.com/uk-gov-mirror/ONSdigital.takeon-ServerlessUI-multiplescreens) |  |  |
 
-## [ministryofjustice](https://github.com/ministryofjustice) (516)
+## [ministryofjustice](https://github.com/ministryofjustice) (524)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`cloud-platform-repository-checker`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-repository-checker) | Checks all Cloud Platform repositories for compliance | 2026-11-27 |
+| [`cloud-platform-terraform-codepipeline-spike`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-codepipeline-spike) |  | 2026-11-27 |
+| [`cloud-platform-terraform-upgrade`](https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-upgrade) | Go tool to run a command across multiple repositories | 2026-11-27 |
+| [`fb-transformers`](https://github.com/uk-gov-mirror/ministryofjustice.fb-transformers) | Component transformation functions with a CLI for Form Builder | 2026-11-27 |
+| [`laa-cla-e2e-tests`](https://github.com/uk-gov-mirror/ministryofjustice.laa-cla-e2e-tests) |  | 2026-11-27 |
+| [`laa-decision-automation-rules`](https://github.com/uk-gov-mirror/ministryofjustice.laa-decision-automation-rules) | This will hold rules for both crime and civil | 2026-11-27 |
+| [`learn_terraform`](https://github.com/uk-gov-mirror/ministryofjustice.learn_terraform) | This is a learning GitHub respository to learn terraform in a safe environment | 2026-11-27 |
+| [`terraform-aws-ha_cloudwatch_fw_instance_profile`](https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-ha_cloudwatch_fw_instance_profile) | Terraform module to create an instance profile for Palo Alto Networks vm-series firewalls | 2026-11-27 |
 | [`hdc-cvl-prototype`](https://github.com/uk-gov-mirror/ministryofjustice.hdc-cvl-prototype) | Prototype for integration of Home Detention Curfew into CVL | 2026-11-26 |
 | [`laughing-fishstick`](https://github.com/uk-gov-mirror/ministryofjustice.laughing-fishstick) |  | 2026-11-26 |
 | [`hmpps-sandhyag-test`](https://github.com/uk-gov-mirror/ministryofjustice.hmpps-sandhyag-test) | Test repo to test various different things (bootstrapped 2026-08-24) | 2026-11-21 |
@@ -2216,10 +2228,23 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`s3-stub`](https://github.com/uk-gov-mirror/hmrc.s3-stub) |  |  |
 | [`ssttp-performance-test`](https://github.com/uk-gov-mirror/hmrc.ssttp-performance-test) |  |  |
 
-## [defra](https://github.com/defra) (193)
+## [defra](https://github.com/defra) (206)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`aphw-ddi-acceptance`](https://github.com/uk-gov-mirror/defra.aphw-ddi-acceptance) |  | 2026-11-27 |
+| [`aphw-ddi-api`](https://github.com/uk-gov-mirror/defra.aphw-ddi-api) |  | 2026-11-27 |
+| [`aphw-ddi-compensation-scheme`](https://github.com/uk-gov-mirror/defra.aphw-ddi-compensation-scheme) |  | 2026-11-27 |
+| [`aphw-ddi-document-reader`](https://github.com/uk-gov-mirror/defra.aphw-ddi-document-reader) |  | 2026-11-27 |
+| [`aphw-ddi-documents`](https://github.com/uk-gov-mirror/defra.aphw-ddi-documents) |  | 2026-11-27 |
+| [`aphw-ddi-enforcement`](https://github.com/uk-gov-mirror/defra.aphw-ddi-enforcement) |  | 2026-11-27 |
+| [`aphw-ddi-events`](https://github.com/uk-gov-mirror/defra.aphw-ddi-events) |  | 2026-11-27 |
+| [`aphw-ddi-notifications`](https://github.com/uk-gov-mirror/defra.aphw-ddi-notifications) |  | 2026-11-27 |
+| [`aphw-ddi-police-force`](https://github.com/uk-gov-mirror/defra.aphw-ddi-police-force) |  | 2026-11-27 |
+| [`aphw-ddi-portal`](https://github.com/uk-gov-mirror/defra.aphw-ddi-portal) |  | 2026-11-27 |
+| [`aphw-ddi-register`](https://github.com/uk-gov-mirror/defra.aphw-ddi-register) |  | 2026-11-27 |
+| [`aphw-ddi-register-importer`](https://github.com/uk-gov-mirror/defra.aphw-ddi-register-importer) |  | 2026-11-27 |
+| [`aphw-ddi-simulator`](https://github.com/uk-gov-mirror/defra.aphw-ddi-simulator) |  | 2026-11-27 |
 | [`gwa-utils`](https://github.com/uk-gov-mirror/defra.gwa-utils) | Utilities related to GWA. | 2026-11-25 |
 | [`nipts-pts-sql`](https://github.com/uk-gov-mirror/defra.nipts-pts-sql) |  | 2026-11-25 |
 | [`Defra-SOP5`](https://github.com/uk-gov-mirror/defra.Defra-SOP5) |  | 2026-11-24 |
@@ -2925,10 +2950,11 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`occupeye_shiny_app`](https://github.com/uk-gov-mirror/moj-analytical-services.occupeye_shiny_app) |  | 2020-10-19* |
 | [`sr_prioritisation_chart`](https://github.com/uk-gov-mirror/moj-analytical-services.sr_prioritisation_chart) |  | 2020-09-12* |
 
-## [DFE-Digital](https://github.com/DFE-Digital) (55)
+## [DFE-Digital](https://github.com/DFE-Digital) (56)
 
 | Repository | Description | Deleted On |
 | --- | --- | --- |
+| [`test-prototype.replaced.2026-09-03`](https://github.com/uk-gov-mirror/DFE-Digital.test-prototype.replaced.2026-09-03) | A prototype for testing Cloud Platform's OIDC implementation | 2026-11-27 |
 | [`funding-service-fcs.replaced.2026-11-13`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-fcs.replaced.2026-11-13) | The Funding Calculation Service (FCS) supports the management, calculation, allocation, and administration of funding and contracts across the Funding & Contracts platform. | 2026-11-14 |
 | [`funding-service-cfs-backend`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-cfs-backend) | Backend services for the Calculate Funding platform, responsible for funding calculations, orchestration, and related APIs. | 2026-10-28 |
 | [`funding-service-df-bdd-playwright-tests`](https://github.com/uk-gov-mirror/DFE-Digital.funding-service-df-bdd-playwright-tests) |  | 2026-10-27 |
@@ -3139,6 +3165,56 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`prm-gp2gp-dashboard-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-dashboard-infra) |  | 2021-02-18* |
 | [`prm-gp2gp-support-infra`](https://github.com/uk-gov-mirror/nhsconnect.prm-gp2gp-support-infra) |  | 2020-12-11* |
 
+## [CPS-Innovation](https://github.com/CPS-Innovation) (45)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`CPS-TF-Module-Common-Tags`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-TF-Module-Common-Tags) |  | 2026-11-27 |
+| [`CPS-VCA-TSM-Infra`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-VCA-TSM-Infra) | This repository contains the code for deploying platform components required for deploying the Tracker Spreadsheet Migration solution pertaining to the Victims Case Application. | 2026-11-27 |
+| [`ai-dispro-app`](https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-app) | AI powered CPS case document analysis | 2026-11-27 |
+| [`ai-dispro-infra`](https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-infra) | This repository will contain Terraform IaC for AI Dispro Azure Landing Zone Infrastructure. | 2026-11-27 |
+| [`djb-transfer-tool`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-transfer-tool) |  | 2026-11-27 |
+| [`eas-shared-nuget`](https://github.com/uk-gov-mirror/CPS-Innovation.eas-shared-nuget) |  | 2026-11-27 |
+| [`global-components`](https://github.com/uk-gov-mirror/CPS-Innovation.global-components) |  | 2026-11-26 |
+| [`CPS-E2E-Test-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation) |  | 2026-11-24 |
+| [`casework-app`](https://github.com/uk-gov-mirror/CPS-Innovation.casework-app) | Merging Housekeeping and Casework app | 2026-11-24 |
+| [`djb-infrastructure-terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform) | djb-infrastructure-terraform | 2026-11-24 |
+| [`cps-api-collection`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-api-collection) | CPS API collection for API testing | 2026-11-23 |
+| [`CPS-Centralised-Reusable-Workflows`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows) |  | 2026-11-21 |
+| [`Case-Management`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management) | To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle. | 2026-11-21 |
+| [`Central-QA-CaseCreation`](https://github.com/uk-gov-mirror/CPS-Innovation.Central-QA-CaseCreation) | Central QA team - Collection to create cases for DCF and TWIF using Bruno | 2026-11-21 |
+| [`Cloud-Infrastructure-Scripts`](https://github.com/uk-gov-mirror/CPS-Innovation.Cloud-Infrastructure-Scripts) |  | 2026-11-21 |
+| [`DNS-Self-Service`](https://github.com/uk-gov-mirror/CPS-Innovation.DNS-Self-Service) | Repository to allow developers to create their own DNS zones and records under int.cps.gov.uk | 2026-11-21 |
+| [`Large-and-Complex-Cases`](https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases) |  | 2026-11-21 |
+| [`Rumpole-QA-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole-QA-Automation) | Rumpole QA Automation framework holds the end to end test for the rumpole service. Included are API and UI tests written in Javascript with Cypress. This is a node project. | 2026-11-21 |
+| [`lcc-reporting-service`](https://github.com/uk-gov-mirror/CPS-Innovation.lcc-reporting-service) | The LCC Reporting Service will deliver data on the Large and Complex Cases (LCC) application, supporting BI reporting on tool success rates and offering insights into benefits realisation. | 2026-11-21 |
+| [`pipeline-vpnclient-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.pipeline-vpnclient-poc) | Demo of azure vnet and VPN client that can be used by humans and also DevOps pipelines | 2026-11-21 |
+| [`polaris-reverseproxy-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.polaris-reverseproxy-poc) | Reverse proxy proof of concept config for polaris | 2026-11-21 |
+| [`victim-contact-application--alpha`](https://github.com/uk-gov-mirror/CPS-Innovation.victim-contact-application--alpha) |  | 2026-11-21 |
+| [`CPS-MPCorrespondence-Prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype) | Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians | 2026-11-20 |
+| [`hk-cwa-web-component-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc) | Proof of concept component library converting React components into Web Components | 2026-11-20 |
+| [`nginx-rate-limiting`](https://github.com/uk-gov-mirror/CPS-Innovation.nginx-rate-limiting) | Docker image to play around with nginx-rate-limit. | 2026-11-20 |
+| [`wc-os-spike-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.wc-os-spike-poc) | Proof of concept spike: Converting an existing React component into a web component and using it in Outsystems | 2026-11-20 |
+| [`Case-Management-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform) | Terraform IaC for the Case Management solution | 2026-11-19 |
+| [`Case-Management-Manage-Materials-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform) | Terraform IaC for the Manage Materials solution | 2026-11-19 |
+| [`Large-and-Complex-Cases-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases-Infrastructure-Terraform) | Large and Complex Cases Infrastructure Terraform | 2026-11-19 |
+| [`NetApp-POC`](https://github.com/uk-gov-mirror/CPS-Innovation.NetApp-POC) |  | 2026-11-19 |
+| [`github-101-practice-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.github-101-practice-prototype) | Practice GOV.UK Prototype Kit prototype for the GitHub 101 for designers workshop | 2026-11-19 |
+| [`Template-Repo-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Template-Repo-Infrastructure-Terraform) | Template Repo for provisioning and managing infrastructure in Azure using Terraform | 2026-11-18 |
+| [`EndToEnd`](https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd) |  | 2026-10-17 |
+| [`housekeeping-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype) |  | 2026-10-17 |
+| [`AI-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype) | Prototypes for AI tests | 2026-10-16 |
+| [`case-locking-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype) | prototype of the case locking tools | 2026-10-16 |
+| [`court-scheduling-and-rotas-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype) | court scheduling and rotas | 2026-10-16 |
+| [`cps-design-resources`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-design-resources) |  | 2026-10-16 |
+| [`global-navigation-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.global-navigation-prototype) | For prototype versions of the global navigation | 2026-10-16 |
+| [`new-design-history`](https://github.com/uk-gov-mirror/CPS-Innovation.new-design-history) | A place to document and share our design decisions | 2026-10-16 |
+| [`prepare-for-hearing-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype) |  | 2026-10-16 |
+| [`hk-cwa-web-component-poc-example-app`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc-example-app) |  | 2025-07-29* |
+| [`large-and-complex-cases-pipeline-templates`](https://github.com/uk-gov-mirror/CPS-Innovation.large-and-complex-cases-pipeline-templates) |  | 2025-04-25* |
+| [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
+| [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
+
 ## [dwp](https://github.com/dwp) (45)
 
 | Repository | Description | Deleted On |
@@ -3330,50 +3406,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`knowledge-service-link-extractor`](https://github.com/uk-gov-mirror/Planning-Inspectorate.knowledge-service-link-extractor) | Proof of concept for converting word documents to html, then extracting hyperlinks from word docs and linked pdf docs | 2026-08-27 |
 | [`local-plans-reps-analysis-poc`](https://github.com/uk-gov-mirror/Planning-Inspectorate.local-plans-reps-analysis-poc) | PoC for Local Plans representations analysis | 2026-08-27 |
 | [`mapathon-2025`](https://github.com/uk-gov-mirror/Planning-Inspectorate.mapathon-2025) |  | 2026-08-27 |
-
-## [CPS-Innovation](https://github.com/CPS-Innovation) (39)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`global-components`](https://github.com/uk-gov-mirror/CPS-Innovation.global-components) |  | 2026-11-26 |
-| [`CPS-E2E-Test-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-E2E-Test-Automation) |  | 2026-11-24 |
-| [`casework-app`](https://github.com/uk-gov-mirror/CPS-Innovation.casework-app) | Merging Housekeeping and Casework app | 2026-11-24 |
-| [`djb-infrastructure-terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.djb-infrastructure-terraform) | djb-infrastructure-terraform | 2026-11-24 |
-| [`cps-api-collection`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-api-collection) | CPS API collection for API testing | 2026-11-23 |
-| [`CPS-Centralised-Reusable-Workflows`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-Centralised-Reusable-Workflows) |  | 2026-11-21 |
-| [`Case-Management`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management) | To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle. | 2026-11-21 |
-| [`Central-QA-CaseCreation`](https://github.com/uk-gov-mirror/CPS-Innovation.Central-QA-CaseCreation) | Central QA team - Collection to create cases for DCF and TWIF using Bruno | 2026-11-21 |
-| [`Cloud-Infrastructure-Scripts`](https://github.com/uk-gov-mirror/CPS-Innovation.Cloud-Infrastructure-Scripts) |  | 2026-11-21 |
-| [`DNS-Self-Service`](https://github.com/uk-gov-mirror/CPS-Innovation.DNS-Self-Service) | Repository to allow developers to create their own DNS zones and records under int.cps.gov.uk | 2026-11-21 |
-| [`Large-and-Complex-Cases`](https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases) |  | 2026-11-21 |
-| [`Rumpole-QA-Automation`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole-QA-Automation) | Rumpole QA Automation framework holds the end to end test for the rumpole service. Included are API and UI tests written in Javascript with Cypress. This is a node project. | 2026-11-21 |
-| [`lcc-reporting-service`](https://github.com/uk-gov-mirror/CPS-Innovation.lcc-reporting-service) | The LCC Reporting Service will deliver data on the Large and Complex Cases (LCC) application, supporting BI reporting on tool success rates and offering insights into benefits realisation. | 2026-11-21 |
-| [`pipeline-vpnclient-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.pipeline-vpnclient-poc) | Demo of azure vnet and VPN client that can be used by humans and also DevOps pipelines | 2026-11-21 |
-| [`polaris-reverseproxy-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.polaris-reverseproxy-poc) | Reverse proxy proof of concept config for polaris | 2026-11-21 |
-| [`victim-contact-application--alpha`](https://github.com/uk-gov-mirror/CPS-Innovation.victim-contact-application--alpha) |  | 2026-11-21 |
-| [`CPS-MPCorrespondence-Prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-MPCorrespondence-Prototype) | Prototype for the MP correspondence app for the management of correspondence sent to the CPS by MPs, Lords and devolved parliamentarians | 2026-11-20 |
-| [`hk-cwa-web-component-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc) | Proof of concept component library converting React components into Web Components | 2026-11-20 |
-| [`nginx-rate-limiting`](https://github.com/uk-gov-mirror/CPS-Innovation.nginx-rate-limiting) | Docker image to play around with nginx-rate-limit. | 2026-11-20 |
-| [`wc-os-spike-poc`](https://github.com/uk-gov-mirror/CPS-Innovation.wc-os-spike-poc) | Proof of concept spike: Converting an existing React component into a web component and using it in Outsystems | 2026-11-20 |
-| [`Case-Management-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Infrastructure-Terraform) | Terraform IaC for the Case Management solution | 2026-11-19 |
-| [`Case-Management-Manage-Materials-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Case-Management-Manage-Materials-Infrastructure-Terraform) | Terraform IaC for the Manage Materials solution | 2026-11-19 |
-| [`Large-and-Complex-Cases-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Large-and-Complex-Cases-Infrastructure-Terraform) | Large and Complex Cases Infrastructure Terraform | 2026-11-19 |
-| [`NetApp-POC`](https://github.com/uk-gov-mirror/CPS-Innovation.NetApp-POC) |  | 2026-11-19 |
-| [`github-101-practice-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.github-101-practice-prototype) | Practice GOV.UK Prototype Kit prototype for the GitHub 101 for designers workshop | 2026-11-19 |
-| [`Template-Repo-Infrastructure-Terraform`](https://github.com/uk-gov-mirror/CPS-Innovation.Template-Repo-Infrastructure-Terraform) | Template Repo for provisioning and managing infrastructure in Azure using Terraform | 2026-11-18 |
-| [`EndToEnd`](https://github.com/uk-gov-mirror/CPS-Innovation.EndToEnd) |  | 2026-10-17 |
-| [`housekeeping-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.housekeeping-prototype) |  | 2026-10-17 |
-| [`AI-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.AI-prototype) | Prototypes for AI tests | 2026-10-16 |
-| [`case-locking-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.case-locking-prototype) | prototype of the case locking tools | 2026-10-16 |
-| [`court-scheduling-and-rotas-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.court-scheduling-and-rotas-prototype) | court scheduling and rotas | 2026-10-16 |
-| [`cps-design-resources`](https://github.com/uk-gov-mirror/CPS-Innovation.cps-design-resources) |  | 2026-10-16 |
-| [`global-navigation-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.global-navigation-prototype) | For prototype versions of the global navigation | 2026-10-16 |
-| [`new-design-history`](https://github.com/uk-gov-mirror/CPS-Innovation.new-design-history) | A place to document and share our design decisions | 2026-10-16 |
-| [`prepare-for-hearing-prototype`](https://github.com/uk-gov-mirror/CPS-Innovation.prepare-for-hearing-prototype) |  | 2026-10-16 |
-| [`hk-cwa-web-component-poc-example-app`](https://github.com/uk-gov-mirror/CPS-Innovation.hk-cwa-web-component-poc-example-app) |  | 2025-07-29* |
-| [`large-and-complex-cases-pipeline-templates`](https://github.com/uk-gov-mirror/CPS-Innovation.large-and-complex-cases-pipeline-templates) |  | 2025-04-25* |
-| [`Rumpole`](https://github.com/uk-gov-mirror/CPS-Innovation.Rumpole) |  | 2023-01-27* |
-| [`RumpolePipeline`](https://github.com/uk-gov-mirror/CPS-Innovation.RumpolePipeline) |  | 2023-01-27* |
 
 ## [dvla](https://github.com/dvla) (30)
 
@@ -3736,6 +3768,18 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`data-dictionary`](https://github.com/uk-gov-mirror/ONS-OpenData.data-dictionary) |  | 2026-10-23 |
 | [`dp-opendata-upload`](https://github.com/uk-gov-mirror/ONS-OpenData.dp-opendata-upload) | Holding repo for code (principally lambda functions) relating to the automated transform and upload of datasets to the CMD platform. | 2026-10-23 |
 
+## [ScotGovAnalysis](https://github.com/ScotGovAnalysis) (7)
+
+| Repository | Description | Deleted On |
+| --- | --- | --- |
+| [`AI_emissions`](https://github.com/uk-gov-mirror/ScotGovAnalysis.AI_emissions) |  | 2026-11-27 |
+| [`WSIA-UC-AE-three-nations-comparison`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison) |  | 2026-09-25 |
+| [`WSIA-UC-monthly-AE-MI`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI) | Monthly management information processing | 2026-09-25 |
+| [`WSIA-UC-monthly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [`WSIA-UC-sg-acute-beds-collection`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection) |  | 2026-09-25 |
+| [`WSIA-UC-weekly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
+| [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
+
 ## [digital-land](https://github.com/digital-land) (7)
 
 | Repository | Description | Deleted On |
@@ -3782,17 +3826,6 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [`specialists-v2`](https://github.com/uk-gov-mirror/OfqualGovUK.specialists-v2) | A new version of the prototype kit for SMS service. Specifically created to test specific flows more simply | 2025-07-25* |
 | [`experts-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.experts-prototype) |  | 2025-06-17* |
 | [`ofqual-register-prototype`](https://github.com/uk-gov-mirror/OfqualGovUK.ofqual-register-prototype) | Repository for the Ofqual Register prototype (GDS prototype kit) | 2025-06-17* |
-
-## [ScotGovAnalysis](https://github.com/ScotGovAnalysis) (6)
-
-| Repository | Description | Deleted On |
-| --- | --- | --- |
-| [`WSIA-UC-AE-three-nations-comparison`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison) |  | 2026-09-25 |
-| [`WSIA-UC-monthly-AE-MI`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-MI) | Monthly management information processing | 2026-09-25 |
-| [`WSIA-UC-monthly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-monthly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
-| [`WSIA-UC-sg-acute-beds-collection`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-sg-acute-beds-collection) |  | 2026-09-25 |
-| [`WSIA-UC-weekly-AE-PRA-HSCA-briefing`](https://github.com/uk-gov-mirror/ScotGovAnalysis.WSIA-UC-weekly-AE-PRA-HSCA-briefing) |  | 2026-09-25 |
-| [`scjs`](https://github.com/uk-gov-mirror/ScotGovAnalysis.scjs) | An R package to import, harmonise and analyse data from The Scottish Crime and Justice Survey (SCJS). | 2026-09-18 |
 
 ## [WMRGL](https://github.com/WMRGL) (6)
 

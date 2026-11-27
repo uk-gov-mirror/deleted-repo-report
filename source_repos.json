@@ -193,6 +193,26 @@
     "original_url": "https://github.com/CPS-Innovation/CPS-MPCorrespondence-Prototype"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.CPS-TF-Module-Common-Tags",
+    "mirror_name": "CPS-Innovation.CPS-TF-Module-Common-Tags",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.CPS-TF-Module-Common-Tags",
+    "name": "CPS-TF-Module-Common-Tags",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/CPS-TF-Module-Common-Tags"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "This repository contains the code for deploying platform components required for deploying the Tracker Spreadsheet Migration solution pertaining to the Victims Case Application.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.CPS-VCA-TSM-Infra",
+    "mirror_name": "CPS-Innovation.CPS-VCA-TSM-Infra",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.CPS-VCA-TSM-Infra",
+    "name": "CPS-VCA-TSM-Infra",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/CPS-VCA-TSM-Infra"
+  },
+  {
     "deleted_on": "2026-11-21",
     "description": "To deliver a Case Management solution that streamlines how cases are registered, created, and updated, enabling efficient tracking, improved data accuracy, and greater visibility across the case lifecycle.",
     "full_name": "uk-gov-mirror/CPS-Innovation.Case-Management",
@@ -335,6 +355,26 @@
     "original_url": "https://github.com/CPS-Innovation/Template-Repo-Infrastructure-Terraform"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": "AI powered CPS case document analysis",
+    "full_name": "uk-gov-mirror/CPS-Innovation.ai-dispro-app",
+    "mirror_name": "CPS-Innovation.ai-dispro-app",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-app",
+    "name": "ai-dispro-app",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/ai-dispro-app"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "This repository will contain Terraform IaC for AI Dispro Azure Landing Zone Infrastructure.",
+    "full_name": "uk-gov-mirror/CPS-Innovation.ai-dispro-infra",
+    "mirror_name": "CPS-Innovation.ai-dispro-infra",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-infra",
+    "name": "ai-dispro-infra",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/ai-dispro-infra"
+  },
+  {
     "deleted_on": "2026-10-16",
     "description": "prototype of the case locking tools",
     "full_name": "uk-gov-mirror/CPS-Innovation.case-locking-prototype",
@@ -393,6 +433,26 @@
     "name": "djb-infrastructure-terraform",
     "org": "CPS-Innovation",
     "original_url": "https://github.com/CPS-Innovation/djb-infrastructure-terraform"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.djb-transfer-tool",
+    "mirror_name": "CPS-Innovation.djb-transfer-tool",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.djb-transfer-tool",
+    "name": "djb-transfer-tool",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/djb-transfer-tool"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/CPS-Innovation.eas-shared-nuget",
+    "mirror_name": "CPS-Innovation.eas-shared-nuget",
+    "mirror_url": "https://github.com/uk-gov-mirror/CPS-Innovation.eas-shared-nuget",
+    "name": "eas-shared-nuget",
+    "org": "CPS-Innovation",
+    "original_url": "https://github.com/CPS-Innovation/eas-shared-nuget"
   },
   {
     "deleted_on": "2026-11-19",
@@ -1152,6 +1212,16 @@
     "name": "search-and-compare-language-prototype",
     "org": "DFE-Digital",
     "original_url": "https://github.com/DFE-Digital/search-and-compare-language-prototype"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "A prototype for testing Cloud Platform's OIDC implementation",
+    "full_name": "uk-gov-mirror/DFE-Digital.test-prototype.replaced.2026-09-03",
+    "mirror_name": "DFE-Digital.test-prototype.replaced.2026-09-03",
+    "mirror_url": "https://github.com/uk-gov-mirror/DFE-Digital.test-prototype.replaced.2026-09-03",
+    "name": "test-prototype.replaced.2026-09-03",
+    "org": "DFE-Digital",
+    "original_url": "https://github.com/DFE-Digital/test-prototype.replaced.2026-09-03"
   },
   {
     "approximate_date_source": "last-git-activity",
@@ -6663,6 +6733,16 @@
     "original_url": "https://github.com/ONSdigital/dp-image-api"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": "A Java client library for the dp-image-api",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-image-api-client-java",
+    "mirror_name": "ONSdigital.dp-image-api-client-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-image-api-client-java",
+    "name": "dp-image-api-client-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-image-api-client-java"
+  },
+  {
     "deleted_on": "2026-11-17",
     "description": "Image importer",
     "full_name": "uk-gov-mirror/ONSdigital.dp-image-importer",
@@ -6773,6 +6853,16 @@
     "original_url": "https://github.com/ONSdigital/dp-java-duration-parse"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": "A Java JSON Web Token (JWT) verification library",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-jwt-verifier-java",
+    "mirror_name": "ONSdigital.dp-jwt-verifier-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-jwt-verifier-java",
+    "name": "dp-jwt-verifier-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-jwt-verifier-java"
+  },
+  {
     "deleted_on": "2026-11-26",
     "description": "Go module implementing a kafka client wrapper, abstracting messages to go channels",
     "full_name": "uk-gov-mirror/ONSdigital.dp-kafka",
@@ -6861,6 +6951,16 @@
     "name": "dp-local-web",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-local-web"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/ONSdigital.dp-logging",
+    "mirror_name": "ONSdigital.dp-logging",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-logging",
+    "name": "dp-logging",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-logging"
   },
   {
     "deleted_on": "2026-10-27",
@@ -7296,6 +7396,16 @@
     "name": "dp-sessions-api",
     "org": "ONSdigital",
     "original_url": "https://github.com/ONSdigital/dp-sessions-api"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "A java client library for sending slack messages",
+    "full_name": "uk-gov-mirror/ONSdigital.dp-slack-client-java",
+    "mirror_name": "ONSdigital.dp-slack-client-java",
+    "mirror_url": "https://github.com/uk-gov-mirror/ONSdigital.dp-slack-client-java",
+    "name": "dp-slack-client-java",
+    "org": "ONSdigital",
+    "original_url": "https://github.com/ONSdigital/dp-slack-client-java"
   },
   {
     "deleted_on": "2026-11-11",
@@ -13319,6 +13429,16 @@
     "original_url": "https://github.com/Planning-Inspectorate/template-service.replaced.2026-09-03"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/ScotGovAnalysis.AI_emissions",
+    "mirror_name": "ScotGovAnalysis.AI_emissions",
+    "mirror_url": "https://github.com/uk-gov-mirror/ScotGovAnalysis.AI_emissions",
+    "name": "AI_emissions",
+    "org": "ScotGovAnalysis",
+    "original_url": "https://github.com/ScotGovAnalysis/AI_emissions"
+  },
+  {
     "deleted_on": "2026-09-25",
     "description": null,
     "full_name": "uk-gov-mirror/ScotGovAnalysis.WSIA-UC-AE-three-nations-comparison",
@@ -18138,6 +18258,136 @@
     "name": "apha-integration-apoc-jny-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/apha-integration-apoc-jny-tests"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-acceptance",
+    "mirror_name": "defra.aphw-ddi-acceptance",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-acceptance",
+    "name": "aphw-ddi-acceptance",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-acceptance"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-api",
+    "mirror_name": "defra.aphw-ddi-api",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-api",
+    "name": "aphw-ddi-api",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-api"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-compensation-scheme",
+    "mirror_name": "defra.aphw-ddi-compensation-scheme",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-compensation-scheme",
+    "name": "aphw-ddi-compensation-scheme",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-compensation-scheme"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-document-reader",
+    "mirror_name": "defra.aphw-ddi-document-reader",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-document-reader",
+    "name": "aphw-ddi-document-reader",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-document-reader"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-documents",
+    "mirror_name": "defra.aphw-ddi-documents",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-documents",
+    "name": "aphw-ddi-documents",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-documents"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-enforcement",
+    "mirror_name": "defra.aphw-ddi-enforcement",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-enforcement",
+    "name": "aphw-ddi-enforcement",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-enforcement"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-events",
+    "mirror_name": "defra.aphw-ddi-events",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-events",
+    "name": "aphw-ddi-events",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-events"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-notifications",
+    "mirror_name": "defra.aphw-ddi-notifications",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-notifications",
+    "name": "aphw-ddi-notifications",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-notifications"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-police-force",
+    "mirror_name": "defra.aphw-ddi-police-force",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-police-force",
+    "name": "aphw-ddi-police-force",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-police-force"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-portal",
+    "mirror_name": "defra.aphw-ddi-portal",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-portal",
+    "name": "aphw-ddi-portal",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-portal"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-register",
+    "mirror_name": "defra.aphw-ddi-register",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-register",
+    "name": "aphw-ddi-register",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-register"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-register-importer",
+    "mirror_name": "defra.aphw-ddi-register-importer",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-register-importer",
+    "name": "aphw-ddi-register-importer",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-register-importer"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/defra.aphw-ddi-simulator",
+    "mirror_name": "defra.aphw-ddi-simulator",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.aphw-ddi-simulator",
+    "name": "aphw-ddi-simulator",
+    "org": "defra",
+    "original_url": "https://github.com/defra/aphw-ddi-simulator"
   },
   {
     "deleted_on": "2026-11-24",
@@ -26329,6 +26579,26 @@
     "original_url": "https://github.com/ministryofjustice/cloud-platform-gitops-test"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": "Checks all Cloud Platform repositories for compliance",
+    "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-repository-checker",
+    "mirror_name": "ministryofjustice.cloud-platform-repository-checker",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-repository-checker",
+    "name": "cloud-platform-repository-checker",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cloud-platform-repository-checker"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-terraform-codepipeline-spike",
+    "mirror_name": "ministryofjustice.cloud-platform-terraform-codepipeline-spike",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-codepipeline-spike",
+    "name": "cloud-platform-terraform-codepipeline-spike",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cloud-platform-terraform-codepipeline-spike"
+  },
+  {
     "deleted_on": "2026-11-19",
     "description": "This is the fallback ingress controller",
     "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-terraform-k8s-ingress-controller",
@@ -26337,6 +26607,16 @@
     "name": "cloud-platform-terraform-k8s-ingress-controller",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/cloud-platform-terraform-k8s-ingress-controller"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "Go tool to run a command across multiple repositories",
+    "full_name": "uk-gov-mirror/ministryofjustice.cloud-platform-terraform-upgrade",
+    "mirror_name": "ministryofjustice.cloud-platform-terraform-upgrade",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.cloud-platform-terraform-upgrade",
+    "name": "cloud-platform-terraform-upgrade",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/cloud-platform-terraform-upgrade"
   },
   {
     "deleted_on": "2026-08-22",
@@ -26589,6 +26869,16 @@
     "name": "fb-smoke-test-form",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/fb-smoke-test-form"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "Component transformation functions with a CLI for Form Builder",
+    "full_name": "uk-gov-mirror/ministryofjustice.fb-transformers",
+    "mirror_name": "ministryofjustice.fb-transformers",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.fb-transformers",
+    "name": "fb-transformers",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/fb-transformers"
   },
   {
     "deleted_on": "2026-11-19",
@@ -28977,6 +29267,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-civil-manage-api"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": null,
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-cla-e2e-tests",
+    "mirror_name": "ministryofjustice.laa-cla-e2e-tests",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-cla-e2e-tests",
+    "name": "laa-cla-e2e-tests",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-cla-e2e-tests"
+  },
+  {
     "deleted_on": "2026-10-01",
     "description": "AWS Jupyter notebooks including AI Spike code",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-claim-and-assess-notebooks",
@@ -29172,6 +29472,16 @@
     "original_url": "https://github.com/ministryofjustice/laa-data-stewardship-civil-claims-api"
   },
   {
+    "deleted_on": "2026-11-27",
+    "description": "This will hold rules for both crime and civil",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-decision-automation-rules",
+    "mirror_name": "ministryofjustice.laa-decision-automation-rules",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-decision-automation-rules",
+    "name": "laa-decision-automation-rules",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-decision-automation-rules"
+  },
+  {
     "deleted_on": "2026-11-21",
     "description": "A  portal to expose useful information about LAA applications to developers.",
     "full_name": "uk-gov-mirror/ministryofjustice.laa-developer-portal",
@@ -29302,6 +29612,16 @@
     "name": "lawcom",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/lawcom"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "This is a learning GitHub respository to learn terraform in a safe environment",
+    "full_name": "uk-gov-mirror/ministryofjustice.learn_terraform",
+    "mirror_name": "ministryofjustice.learn_terraform",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.learn_terraform",
+    "name": "learn_terraform",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/learn_terraform"
   },
   {
     "deleted_on": "2026-10-30",
@@ -30615,6 +30935,16 @@
     "name": "technology-diversity-statistics.replaced.2026-09-03",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/technology-diversity-statistics.replaced.2026-09-03"
+  },
+  {
+    "deleted_on": "2026-11-27",
+    "description": "Terraform module to create an instance profile for Palo Alto Networks vm-series firewalls",
+    "full_name": "uk-gov-mirror/ministryofjustice.terraform-aws-ha_cloudwatch_fw_instance_profile",
+    "mirror_name": "ministryofjustice.terraform-aws-ha_cloudwatch_fw_instance_profile",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.terraform-aws-ha_cloudwatch_fw_instance_profile",
+    "name": "terraform-aws-ha_cloudwatch_fw_instance_profile",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/terraform-aws-ha_cloudwatch_fw_instance_profile"
   },
   {
     "approximate_date_source": "last-git-activity",
