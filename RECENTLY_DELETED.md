@@ -6,6 +6,10 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 
 | Organisation | Repository | Description | Deleted On |
 | --- | --- | --- | --- |
+| [cabinetoffice](https://github.com/cabinetoffice) | [`ova-finder-prototype`](https://github.com/uk-gov-mirror/cabinetoffice.ova-finder-prototype) |  | 2026-11-28 |
+| [cabinetoffice](https://github.com/cabinetoffice) | [`ova-veteransportal-prototype`](https://github.com/uk-gov-mirror/cabinetoffice.ova-veteransportal-prototype) | ova- office of veterans Affairs portal prototype | 2026-11-28 |
+| [defra](https://github.com/defra) | [`lap-blueprint`](https://github.com/uk-gov-mirror/defra.lap-blueprint) | LAP AI Enablement documentation site | 2026-11-28 |
+| [ministryofjustice](https://github.com/ministryofjustice) | [`laa-court-data-adaptor`](https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-adaptor) | Acts as a single datasource for LAA systems to consume HMCTS Common Platform data. | 2026-11-28 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-TF-Module-Common-Tags`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-TF-Module-Common-Tags) |  | 2026-11-27 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`CPS-VCA-TSM-Infra`](https://github.com/uk-gov-mirror/CPS-Innovation.CPS-VCA-TSM-Infra) | This repository contains the code for deploying platform components required for deploying the Tracker Spreadsheet Migration solution pertaining to the Victims Case Application. | 2026-11-27 |
 | [CPS-Innovation](https://github.com/CPS-Innovation) | [`ai-dispro-app`](https://github.com/uk-gov-mirror/CPS-Innovation.ai-dispro-app) | AI powered CPS case document analysis | 2026-11-27 |
@@ -1002,7 +1006,3 @@ Deleted dates with a \* are approximate, inferred from the last commit or archiv
 | [ONSdigital](https://github.com/ONSdigital) | [`rh-maintenance-page`](https://github.com/uk-gov-mirror/ONSdigital.rh-maintenance-page) |  RH maintenance page static files | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-action-service`](https://github.com/uk-gov-mirror/ONSdigital.rm-action-service) | This microservice manages survey actions. | 2026-10-27 |
 | [ONSdigital](https://github.com/ONSdigital) | [`rm-actionsvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-actionsvc-api) | Java client classes for the Action microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-casesvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-casesvc-api) | Java client classes for the Case microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-collectionexercisesvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-collectionexercisesvc-api) | Java client classes for the Collection Exercise microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-collectioninstrumentsvc-api`](https://github.com/uk-gov-mirror/ONSdigital.rm-collectioninstrumentsvc-api) | Java client classes for the Collection Instrument microservice. | 2026-10-27 |
-| [ONSdigital](https://github.com/ONSdigital) | [`rm-common-config`](https://github.com/uk-gov-mirror/ONSdigital.rm-common-config) | Common configuration for Response Management. | 2026-10-27 |

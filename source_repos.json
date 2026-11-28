@@ -17203,6 +17203,26 @@
     "original_url": "https://github.com/cabinetoffice/cabinetoffice.github.io"
   },
   {
+    "deleted_on": "2026-11-28",
+    "description": null,
+    "full_name": "uk-gov-mirror/cabinetoffice.ova-finder-prototype",
+    "mirror_name": "cabinetoffice.ova-finder-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/cabinetoffice.ova-finder-prototype",
+    "name": "ova-finder-prototype",
+    "org": "cabinetoffice",
+    "original_url": "https://github.com/cabinetoffice/ova-finder-prototype"
+  },
+  {
+    "deleted_on": "2026-11-28",
+    "description": "ova- office of veterans Affairs portal prototype",
+    "full_name": "uk-gov-mirror/cabinetoffice.ova-veteransportal-prototype",
+    "mirror_name": "cabinetoffice.ova-veteransportal-prototype",
+    "mirror_url": "https://github.com/uk-gov-mirror/cabinetoffice.ova-veteransportal-prototype",
+    "name": "ova-veteransportal-prototype",
+    "org": "cabinetoffice",
+    "original_url": "https://github.com/cabinetoffice/ova-veteransportal-prototype"
+  },
+  {
     "approximate_date_source": "last-git-activity",
     "deleted_on": "2025-07-07",
     "description": null,
@@ -19680,6 +19700,16 @@
     "name": "land-grants-journey-tests",
     "org": "defra",
     "original_url": "https://github.com/defra/land-grants-journey-tests"
+  },
+  {
+    "deleted_on": "2026-11-28",
+    "description": "LAP AI Enablement documentation site",
+    "full_name": "uk-gov-mirror/defra.lap-blueprint",
+    "mirror_name": "defra.lap-blueprint",
+    "mirror_url": "https://github.com/uk-gov-mirror/defra.lap-blueprint",
+    "name": "lap-blueprint",
+    "org": "defra",
+    "original_url": "https://github.com/defra/lap-blueprint"
   },
   {
     "deleted_on": "2026-11-07",
@@ -29316,6 +29346,16 @@
     "name": "laa-claim-for-payment-stubs",
     "org": "ministryofjustice",
     "original_url": "https://github.com/ministryofjustice/laa-claim-for-payment-stubs"
+  },
+  {
+    "deleted_on": "2026-11-28",
+    "description": "Acts as a single datasource for LAA systems to consume HMCTS Common Platform data.",
+    "full_name": "uk-gov-mirror/ministryofjustice.laa-court-data-adaptor",
+    "mirror_name": "ministryofjustice.laa-court-data-adaptor",
+    "mirror_url": "https://github.com/uk-gov-mirror/ministryofjustice.laa-court-data-adaptor",
+    "name": "laa-court-data-adaptor",
+    "org": "ministryofjustice",
+    "original_url": "https://github.com/ministryofjustice/laa-court-data-adaptor"
   },
   {
     "approximate_date_source": "last-git-activity",
